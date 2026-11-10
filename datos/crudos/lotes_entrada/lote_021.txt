@@ -1,0 +1,1530 @@
+===== NOTA 1 de 15 =====
+medio: La Nación
+titulo: Gustavo Grobocopatel: “En los últimos años hemos estado más focalizados en resistir que en innovar”
+fecha: 2023-07-15 09:00:00.513000
+autor: Cristian Mira
+seccion: Campo
+volanta_bajada: En una entrevista con LA NACION, el productor y fundador de Los Grobo habló de cómo será el campo del futuro,  de la necesidad de incorporar el problema de la pobreza a la agenda del sector y del impacto negativo de las retenciones
+link: https://www.lanacion.com.ar/economia/campo/gustavo-grobocopatel-en-los-ultimos-anos-hemos-estado-mas-focalizados-en-resistir-que-en-innovar-nid15072023/
+marcas a codificar: M0940, M0941
+----- TEXTO -----
+Si hay alguien difícil de encasillar ese es Gustavo Grobocopatel. ¿Cantante o productor agropecuario? En rigor, habría que decir que las dos cosas. Se entusiasma tanto cuando habla de una reciente
+gira por Europa en la que cantó música de cámara argentina y de su reciente disco “Entre dos mundos” con Verónica Cangemi como cuando habla del futuro del campo, de las nuevas profesiones o los
+problemas que enfrenta la actividad. Ambos universos son compatibles para quien continúa participando en las estrategias de Los Grobo, la empresa agroindustrial que su familia fundó en Carlos Casares
+hace más de 35 años y cuyo paquete mayoritario fue vendido hace siete años al fondo de inversión Victoria Capital Partners. En una entrevista con LA NACION, Grobocopatel habló también sobre el rol de
+los empresarios, la pobreza y las retenciones, entre otros temas.
+
+-La Argentina tiene casi el 40% de su población en el nivel de pobreza con muchos problemas de alimentación. Aunque el sector productivo no es responsable de esa situación, ¿aún así, se puede hacer
+algo?
+
+-Creo que los empresarios en la etapa que viene vamos a tener que mirar con un ojo a nuestra empresa y a nuestro sector y con otro ojo el resto de la sociedad, especialmente esos sectores que están
+hoy nucleados en lo que llamamos ⟦M0940⟧economía popular⟦/M0940⟧. Los empresarios somos parte de la solución y creo que tendríamos que empezar a integrarnos con esos sectores para buscar soluciones a
+esos problemas. La ⟦M0941⟧economía popular⟦/M0941⟧ no vino para quedarse, es un puente, una situación de emergencia y que seguramente, si hacemos las cosas bien, vamos a lograr que esa gente tenga
+empleo sustentable en el tiempo.
+
+Me parece que eso falta en la agenda del sector. Y uno de los temas más importantes es el de la tierra de esos pequeños productores. Viven en tierras que no son propias, pagando arrendamientos. Si no
+se les cede la propiedad no vamos a tener sustentabilidad en esas producciones. No van tener techo y van a tener problemas de trabajo. El hecho de que parte de sus utilidades las paguen como alquiler
+le quitan una cantidad de recursos que deberían ser utilizados para reinvertir en la producción. El problema de la tierra, el techo y el trabajo es también un problema del sector productor.
+
+-¿Es posible solucionarlo con diálogo o inevitablemente tiene que haber una confrontación?
+
+-No, de ninguna manera. Yo estoy involucrado en este tema desde hace algunos años y he hecho distintos testeos de conversaciones y, en general, el acuerdo se logra fácil. Por ahí no se hace público
+quizás por el temor al “qué dirán” o por prejuicios. Resolver el problema es bastante sencillo en el marco de la ley. El dinero es muy bajo. Me llama la atención cómo los gobiernos en los últimos diez
+o quince años no lo han resuelto. Me parece que está todo para resolverlo.
+
+-Paralelamente a que pasan estas cosas hay una gran transformación tecnológica en todos los sectores de la economía. Específicamente en el agro, ¿cómo creés que va a impactar ese cambio?
+
+-Creo que va a ser otro agro. Uno se imagina robots no solo que reemplacen a personas sino a máquinas y tractores. Es decir, va a haber un proceso de “destractorización” de la agricultura. Vamos a ver
+semillas mucho más sofisticadas, envueltas con productos que le mejoren la germinación, la instalación en el suelo. El reemplazo paulatino de los productos químicos por productos físicos para hacer
+control de plagas y enfermedades. También, aumentos de productividades notables al empezar a usar el nitrógeno del aire y abaratar enormemente el costo del nitrógeno y por lo tanto las relaciones
+insumo/producto. La inteligencia artificial va a estar ayudándonos a tomar decisiones, a vincularnos con las cadenas de valor mucho más fluidamente. Y también con el uso de combustibles renovables. Es
+un campo que va a estar mucho más habitado por gente vinculada con el software, el diseño gráfico o la ingeniería de diseño. El perfil del técnico del campo va a ser mucho más diverso, no solamente
+habitado por los ingenieros agrónomos y los veterinarios.
+
+-¿Qué se necesita para que esta transformación tecnológica sea más rápida?
+
+-Son varias cosas. La primera es que el sistema emprendedor o el ecosistema emprendedor y donde nacen las nuevas compañías proveedoras de bienes y servicios requieren de un mercado de capitales y
+fundamentalmente capital de riesgo que puedan ayudarlas a sostenerse en el tiempo y se requiere de un contexto macroeconómico más o menos estable. En la Argentina hay muchas empresas, muchos
+emprendedores, pero les cuesta pasar lo que se llama el “valle de la muerte”, que es ese momento en que tardás en salir al mercado y hacer estable a la compañía. Entonces, muchas mueren en el camino.
+Tenemos los emprendedores, tenemos las ideas, nos falta ese contexto que las ayude a vivir y a desarrollar esas compañías.
+
+Después está el tema de la adopción de esa tecnología por parte de los productores. Los productores en los últimos años hemos estado mucho más focalizados en resistir que en innovar para aumentar las
+productividades. Los grandes saltos de aumento de productividad están vinculados con la biotecnología y con la siembra directa, o sea, cosas de hace 20 años, pero ahora estamos preocupados por vender
+o no vender, no quedar descalzados del dólar si nos endeudamos o cómo pagamos la deuda.
+
+En fin, estamos preocupados por otras cuestiones y entonces eso hace que le saquemos el foco a la innovación y a la productividad. Yo fundé con la gente del Invap, una compañía que se llamaba Frontec,
+de agricultura de precisión. Hizo un producto de agricultura de precisión que todavía hoy es mejor que todos los que están, era como una especie de Mercedes Benz. Y yo pensé que los productores
+rápidamente iban a adoptar esa tecnología, pero no fue así, porque se requiere mucho esfuerzo, porque las retenciones le sacan valor a nuestro producto y entonces tenés que invertir más plata para
+lograr un producto que no vale tanto. Ese tema de las retenciones, además de otros efectos nefastos, tiene uno, que es que deteriora la relación insumo producto y entonces el incentivo a usar más
+tecnología disminuye. Las retenciones son anti tecnología, por decirlo de alguna manera. Entonces eso hay que corregirlo también.
+
+-¿Un próximo gobierno las puede corregir?
+
+-Eso es lo que digo desde hace 30 años. Ahora cumplo 40 años de ingeniero agrónomo. Nací con el alfonsinismo, cuando había retenciones y doble tipo de cambio una doble Nelson. Por lo menos en el
+discurso, ahora hay más conciencia del daño y yo creo que todos, más o menos, están de acuerdo que las retenciones tienen que ser sacadas, disminuidas, eliminadas o ponerlas a cuenta de otra cosa. Hay
+que hacer algo con el tema de las retenciones. Me da la impresión de que viene un tiempo donde este tema hay una oportunidad de cambiarlo. No es una discusión teórica o académica. La Argentina con
+retenciones está estancada hace diez años. Brasil, sin retenciones, otras cosas, creció el ciento por ciento.
+
+Las consecuencias fueron increíbles. No se vieron las consecuencias en el principio del kirchnerismo, porque los precios internacionales subían y de alguna manera compensaban u ocultaban el daño que
+las retenciones estaban haciendo. Cuando los precios estabilizaron o bajaron o hubieron sequías allí aparece la manifestación nefasta con todo su energía.
+
+-Tu empresa fue una de las líderes en su momento y luego vendieron una parte. ¿Qué les falta a empresas parecidas a las de ustedes, que todavía hay en el interior, para que se consoliden o crezcan?
+
+-Nuestra familia siempre tuvo una vocación de profesionalizar a la compañía y profesionalizarla también significaba de alguna manera desacoplar el destino de la familia del destino de la empresa. Y
+eso estuvo siempre en la razón de ser de nuestra familia. Es lo hemos ido logrando, la desacoplamos y esperamos que la empresa dure, no sé 700 años 500 lo que sea, evolucionando. Yo siempre le decía a
+la gente que trabajaba conmigo, “la empresa de ustedes no es mía”. Ellos me miraban con desconfianza, no me la creían y ahora hace poco, me dijeron “si, tenés razón nosotros hacemos lo que queremos,
+la empresa es nuestra. Recibimos una retribución por lo que hacemos y la consideramos nuestra”. Bueno, ese es un caso el del de nuestra familia, que no son casos muy comunes, la mayoría de las
+empresas son familiares en el sector agrícola y permanecen familiares toda la vida hasta que la sucesión, la venta la compra hace su camino. Esto es así en la Argentina, pero también en general en
+casi todo el mundo. Nosotros siempre apostamos algo distinto, a una empresa que pueda tener acceso al crédito, no solamente de los bancos, sino de inversores. Para que los inversores confíen en la
+empresa, tiene que ser profesional con procesos estandarizados, políticas sistemas de control, quizás en general no existen en las empresas familiares, pero fue una apuesta. No está ni bien ni mal
+cada uno hace la suya.
+
+-¿Qué estrategia tienen, pueden seguir creciendo en el país, piensan crecer en hectáreas, almacenamiento o agricultura digital?
+
+-Tenemos una oportunidad de crecimiento enorme porque nuestro market share es pequeño. Tenemos una posibilidad de crecer enorme, haciendo más de lo mismo, pero mejor. También están las oportunidades
+que aparecen en otros lados. Cada vez está más discutida la idea de estrategia. Cambian tanto las cosas tan rápido, que algo que hiciste a tres años dentro de seis meses quedó viejo. En Harvard hay
+académicos que hablan de “estrategiar” que es estar permanentemente revisando la estrategia, que no es una foto de algo que queremos llegar, sino es un hecho permanente de repensar lo que hay que
+hacer y cómo hay que hacerlo. Me parece que eso se adapta mucho más a estos tiempos. La empresa es más competitiva, si puede transformar y cambiar su estrategia más rápido que otra, no si tiene una
+mejor estrategia.
+
+-Los alimentos se han vuelto en los últimos años, por la pandemia y la guerra en Ucrania, una cuestión estratégica, al menos para muchos gobiernos. ¿Es así?
+
+-Sí totalmente es así. El tema de la seguridad alimentaria es clave. El campo hoy afecta a la seguridad alimentaria y a la pobreza porque en la mayoría del mundo la pobrez está en las zonas rurales. Y
+también afecta el tema de medio ambiente, con las emisiones y demás. Hay tres temas claves en la agenda de la humanidad en las que el campo está involucrado con lo cual todos los gobiernos tienen ese
+tema con la agenda. Lo que sucede es que los gobiernos no saben muy bien qué hacer, porque desconocen algunos secretos que tiene la actividad agropecuaria. Al final, como no saben qué hacer, prefieren
+subsidiar o parches que no tienen efecto transformador. Eso ocurre en casi todo el mundo salvo algunos países desarrollados, que ya tienen resuelto el tema.
+
+Estuve mucho en África y en algunos países de Europa de lo que se llama Eurasia. Obviamente a Latinoamérica la conozco bastante bien, estuve en Colombia, en México y en Venezuela, entre otros. Ahora
+la pregunta es ¿por qué los gobiernos no conocen sobre agricultura?. Minimizan el hecho cultural. El campo y la actividad agrícola tienen mucho de la cultura, del saber hacer local, del conocimiento
+específico. En general es gente no conoce el campo. Todas las recomendaciones no llegan adonde tienen que llegar. No saben hablar con agricultores y conocer sus dramas.
+
+-¿En la Argentina eso pasa también?
+
+-En la Argentina tenemos como un campo más sofisticado. Lamentablemente por hechos históricos y culturales, un campo que está como desconectado de la política y de las de las fuerzas de la sociedad
+civil.
+
+Hago la salvedad que después de la 125 creo que lo único bueno que hubo fue que empezamos a estar más conectados, pero no totalmente. Hhay una sociedad que todavía no entiende muy bien el campo. Estoy
+viendo que en los últimos años sí hay políticos que sí lo entienden, en todos los sectores, pero les cuesta todavía pasar del entendimiento a las acciones concretas. No quieren pegar esos saltos, es
+como que desconfían que el impacto que vaya a generar el campo sea lo suficientemente positivo como para ir arreglando los temas que tiene la Argentina. Tienen una mirada muy pequeña del campo, creen
+que el campo es un productor o a lo sumo una fábrica y no entienden todo este ecosistema que describí al principio y lo que significa el campo para los pueblos del interior y para el desarrollo de
+toda la Argentina, las economías regionales y demás.
+
+-¿Y por parte del campo ves a colegas o gente joven que tienen que dar un salto para involucrarse un poco más?
+
+-Hay mucha gente que ya lo está empezando a dar, pero hay que animarse a dar saltos más largos más profundos. Eso es parte de la agenda agropecuaria de los próximos años.
+
+-¿Te cambió tu forma de pensar desde que te dedicás más tiempo a la música?
+
+-Una salvedad: hace 30 años que estudio música, siempre estuvo presente en mi vida. Ahora lo puedo desarrollar con más libertad. El pensamiento artístico ayuda mucho al desarrollo de las competencias
+del siglo XXI. Te hace comunicar mejor. Hay una comunicación empática del arte que sirve para la empresa. Un líder en una empresa necesita la comunicación empática. La creatividad y la capacidad de
+innovación está vinculada con la posibilidad de mirar las cosas desde otro punto de vista. El pensamiento artístico estuvo siempre en mi vida, pero tener la posibilidad de ir cambiando de una cosa a
+la otra es muy bueno en determinadas edades en donde se pueda elegir. Como las personas vivimos más años tenemos que empezar a cultivar cosas en paralelo que nos permitan decidir con libertad qué
+queremos hacer y cómo hacerlo.
+
+===== NOTA 2 de 15 =====
+medio: La Nación
+titulo: La CGT recibió a Juan Grabois un día antes del encuentro pactado con Sergio Massa
+fecha: 2023-07-18 20:47:46.224000
+autor: 
+seccion: Política
+volanta_bajada: El precandidato de Unión por la Patria se reunió con varios miembros de la central obrera en la sede de la Uocra; los sindicalistas se mostrarán mañana junto al ministro de Economía en la sede de Azopardo
+link: https://www.lanacion.com.ar/politica/la-cgt-recibio-a-juan-grabois-un-dia-antes-del-encuentro-pactado-con-sergio-massa-nid18072023/
+marcas a codificar: M0942
+----- TEXTO -----
+En medio de su disputa interna con Sergio Massa de cara a las PASO de Unión por la Patria, el precandidato presidencial Juan Grabois mantuvo esta tarde una reunión con varios de los principales
+dirigentes de la CGT en la sede porteña de la Uocra. Según pudo saber LA NACION, el encuentro entre el líder del Frente Patria Grande y sindicalistas, entre los que se encontraron el anfitrión Gerardo
+Martínez (Construcción) y el titular de Sanidad, Héctor Daer, duró más de dos horas y giró en torno a distintos temas que trascienden la coyuntura electoral.
+
+“Es fundamental poner la fuerza de todo el movimiento nacional para frenar los planteos inhumanos y garantizar un programa donde la recomposición de los salarios, la eliminación de la inflación, la
+redistribución de la riqueza, la vivienda, la salud y la educación sean la prioridad”, planteó Grabois a través de un comunicado una vez finalizado el cónclave, del que también formó parte su
+compañera de fórmula, Paula Abal Medina.
+
+En ese sentido, el referente del Movimiento de Trabajadores Excluidos (MTE), ahora devenido en político, destacó las “coincidencias” con los popes gremiales y agradeció a los representantes de la CGT
+por “el respeto” con el que lo recibieron. Entre los otros tópicos que se tocaron, de acuerdo a lo que pudo saber este diario, también estuvieron la situación del movimiento obrero y relación entre la
+denominada “⟦M0942⟧economía popular⟦/M0942⟧” (trabajadores informales) y el sector de los trabajadores registrados.
+
+Además de Martínez y Daer, también se hicieron presentes en la sede porteña de la Uocra el titular de Obras Sanitarias, José Luis Lingeri; el líder de UPCN, Andrés Rodríguez; su par del sindicato
+Dragado y Balizamiento, Juan Carlos Schmidt; de Alimentación, Rodolfo Daer; entre otros.
+
+Lo cierto es que Grabois se adelantó un día al encuentro que, desde hace una semana, tiene pactado la CGT con el otro precandidato de Unión por la Patria, Sergio Massa. Este miércoles, el también
+ministro de Economía será recibido por la conducción nacional de la principal central obrera del país en la sede de la calle Azopardo, donde se hará presente junto a su compañero de fórmula, Agustín
+Rossi,. “Mañana por la tarde vamos a brindar nuestro respaldo a la fórmula presidencial de Unión por la Patria”, le dijeron a Télam sus voceros de prensa.
+
+De esta forma, desde la CGT también confirmaron que será el primero de dos actos de respaldo a la fórmula presidencial encabezada por Massa. El segundo, según indicaron a la agencia de noticias
+oficial, será el próximo 8 de agosto, en la localidad bonaerense de Malvinas Argentinas. Ambos encuentros fueron confirmados la semana pasada por el cotitular de la CGT, Héctor Daer, tras un encuentro
+de mesa chica de la central obrera.
+
+Daer, quien comparte la conducción de la CGT con sus pares Carlos Acuña (Estaciones de servicio) y Pablo Moyano (Camioneros), aseguró que la segunda de esas demostraciones de apoyo a una de las
+fórmulas oficialistas, cinco días antes de las PASO, tendrá lugar en el estadio DirecTV Arena de la localidad bonaerense de Tortuguitas, donde el mes pasado tuvo lugar el plenario del Frente Renovador
+en encabezado por Massa.
+
+===== NOTA 3 de 15 =====
+medio: La Nación
+titulo: Ante la CGT, Sergio Massa prometió “no esconderse” frente a los problemas y defendió a los subsidios como “salario indirecto”
+fecha: 2023-07-19 18:43:27.925000
+autor: Cecilia Devanna
+seccion: Política
+volanta_bajada: Fue recibido junto a Agustín Rossi en la sede Azopardo de la central obrera, que organiza un acto de apoyo para el 8 de agosto; ayer fue el turno de Juan Grabois, en la sede de la Uocra
+link: https://www.lanacion.com.ar/politica/sergio-massa-y-agustin-rossi-reciben-el-apoyo-de-la-cgt-nid19072023/
+marcas a codificar: M0943
+----- TEXTO -----
+Con promesas, sin anuncios y algún reconocimiento a la dura situación que atraviesa el país, Sergio Massa se presentó este miércoles en la CGT. Fue en la primera aparición como candidato en la
+histórica sede de Azopardo, junto a Agustín Rossi, su compañero de fórmula. Ambos ingresaron al salón Felipe Vallese tras haber estado con la cúpula en pleno, en la sala Saúl Ubaldini, en el cuarto
+piso, donde juran que solo hubo un saludo entre el binomio y los popes del sindicalismo. En su paso por el icónico edificio de la central obrera, Massa dejó un mensaje ambiguo al sobrevolar un tema
+sensible para el sector sindical, las obras sociales, al hablar de “articulación” en lugar de integración.
+
+También reconoció la caída del salario real, aunque defendió a los subsidios que paga el Estado como un aporte indirecto al bolsillo de los trabajadores y prometió “no esconderse de los problemas”,
+una frase que muchos interpretaron dirigida al presidente Alberto Fernández.
+
+Massa y Rossi fueron recibidos por los representantes del Consejo Directivo y de todos los gremios confederados, luego de atravesar un amplio despliegue callejero de militantes y banderas. Ese fue el
+primer contraste con la recepción -mucho más austera y en la sede de la Uocra- que tuvo ayer su rival en las PASO presidenciales de Unión por la Patria, Juan Grabois, que llegó junto a su compañera de
+fórmula, Paula Abal Medina.
+
+El despliegue, prometen, ser maximizado el próximo 8 de agosto, cuando Massa participe de un acto junto a la CGT al filo de la veda electoral. Ese encuentro sí movilizaría una mayor cantidad de
+afiliados y se daría en el Direct TV Arena de Malvinas Argentinas. Eso será, aseguran, la demostración pública del trabajo que llaman a hacer en las bases para inclinar el voto en favor de la fórmula
+Massa-Rossi, pese a que no logran explicar cómo creen que el hoy ministro de Economía mejorará los índices de inflación que sacuden al país y que no lograron ser revertidos en el año de gestión que
+lleva al frente del Palacio de Hacienda.
+
+“Con un 100 % de inflación es muy difícil una campaña”, admitió un experimentado hombre del sindicalismo al final del encuentro, aunque al mismo tiempo se esperanzaba con que en los próximos días se
+llegue a un acuerdo con el FMI. Ese eventual acuerdo fue señalado como un posible punto de inflexión para que Massa pueda profundizar sus promesas de campaña. “Sin acordar eso es imposible que prometa
+nada”, se sinceró otro hombre de la central obrera. Admitió que los sindicalistas ven la candidatura de Massa como “competitiva”, pero que la dura derrota del oficialismo en Santa Fe hizo temer por el
+resultado de las PASO del 13 de agosto.
+
+El acto empezó 45 minutos después de lo previsto, cuando comenzaron a entrar figuras de peso al auditorio Felipe Vallese. José Luis Lingieri (Obras Sanitarias), Carlos Acuña (peones de estaciones de
+servicio), Gerardo Martínez (Uocra), Andrés Rodríguez (UPCN), Armando Cavalieri (Comercio) y Héctor Daer (Sanidad) hicieron punta. Poco después ingresó por uno de los laterales el ministro del
+Interior y jefe de campaña de Unión por la Patria, Eduardo “Wado” de Pedro. A su lado, sentado en la primera fila, se ubicó Hugo Moyano. En el escenario ya estaba su hijo mayor, Pablo Moyano. Fue la
+antesala para la llegada de Massa y Rossi.
+
+Las banderas de “Sindicato del Seguro”, “Sutep” y la propia CGT colgaban de los costados del salón, que se mostraba colmado, sin desbordar. Daer fue el primero en tomar la palabra y dio paso a Rossi.
+“Vienen por los derechos de los trabajadores”, advirtió el jefe de Gabinete, en referencia a la oposición, a la que le apuntó desde el primer minuto. “La derecha te quita derechos”, añadió, en
+referencia a Patricia Bullrich y Horacio Rodríguez Larreta.
+
+Tras el breve discurso de Rossi fue el turno de Massa, que mantuvo las críticas a la oposición, a la que identificó con “mirar hacia atrás”, hacia un pasado donde incluyó la suba del impuesto a las
+ganancias o la intervención de organizaciones sindicales, como ocurrió durante el gobierno de Cambiemos, pero también “el recorte a los jubilados”, pese a que los ingresos reales de jubilados y
+pensionados cayeron desde 2019.
+
+”Para atrás está el intento de quitar derechos, de subir el impuesto a las ganancias, como pasó entre 2015 y 2019, para atrás está el recorte a los jubilados, para atrás está el intento de
+intervención de organizaciones sindicales, para atrás está también la política de ir recortando indemnizaciones y los beneficios de las vacaciones”, alertó Massa.
+
+“Porque atrás hay un concepto: que el trabajo es un costo laboral. Para nosotros, que entendemos el trabajo como instrumento de movilidad social de la Argentina, el trabajo es el motor más importante
+de crecimiento de nuestra sociedad”, arengó el candidato.
+
+Luego pareció intentar un mea culpa por el gobierno del Frente de Todos y habló a los “compañeros molestos y decepcionados” por la “falta de determinación” del Gobierno en “algunos temas”. Pareció una
+crítica a Alberto Fernández, aunque Massa enumeró las mismas explicaciones que suele emplear el Presidente: la pandemia, la guerra y la sequía.
+
+“Sabemos que hay compañeros nuestros desilusionados o a lo mejor decepcionados, porque en estos años, o por la pandemia o por la guerra o la sequía o porque nos faltó determinación en algunos temas,
+algunos compañeros pueden sentir la desilusión de que si bien creció 33 meses consecutivos el ingreso al trabajo, los salarios no se recuperaron como se tenían que haber recuperado”, dijo Massa.
+
+La propuesta de Massa ante esa caída de los salarios reales no se salió del manual kirchnerista: “Tomarnos de la mano, defender en la puja distributiva el rol del salario en la distribución del
+ingreso, poner al Estado como equilibrador de las relaciones sociales y empujar para recuperar ingreso en la Argentina, peleando contra la inflación pero también mejorando el salario”, señaló.
+
+“El salario no es ganancia, es remuneración”, continuó Massa, tomando una bandera de los sindicatos y la izquierda, para prometer que continuará reduciendo la cantidad de trabajadores que pagan el
+impuesto si llega a la Presidencia.
+
+Pero más sorpresiva fue otra bandera que el tigrense incorporó a su repertorio: la defensa del subsidio como un “salario indirecto” y no como un costo para el Estado.
+
+“Para nosotros, en la discusión del rol del Estado, está claro qué representa la inversión pública, por ejemplo, en subsidios. Para algunos representa gasto, para nosotros representa salario
+indirecto. No es lo mismo que un trabajador pague $70 el boleto de colectivo a que lo pague $600. No es lo mismo que pague $3000 o $4000 la boleta de luz, a que la tenga que pagar $12.000″, afirmó.
+
+“Obviamente, de esos sistemas tenemos que despejar las injusticias. Pero también tenemos que defender la idea de que el Estado pone salario indirecto para mejorar el salario indirecto para mejorar el
+ingreso de nuestros trabajadores”, agregó. “Nuestra responsabilidad es la de defender esos mecanismos de salario indirecto, equilibrando las cuentas públicas, pero garantizando que no sea sobre la
+espalda de los trabajadores y jubilados que recaiga el peso, como pasó hace cuatro años”, completó.
+
+Luego de señalar los desafíos que plantean las nuevas tecnologías en el mundo del trabajo, Massa pidió el apoyo de la CGT. “Venimos a convocarlos. Somos conscientes del presente de dificultades y
+asumimos las responsabilidades y desafíos sin miedo: nunca me van a ver cuando haya un problema que resolver, metido abajo de la mesa. Siempre me van a ver poniendo la cara, tendiendo la mesa de
+diálogo y buscando la solución”, arengó el tigrense, para pedirle a los gremios que se transformen en “militantes de la boleta” de Unión por la Patria en las fábricas, oficinas y comercios.
+
+Luego de presentarse como “el presidente de los trabajadores”, Massa cerró con la idea inicial: “Para atrás está el dolor y para adelante, la prosperidad y el progreso”.
+
+Massa también del tema de las obras sociales, en el que habló de “articulación” y no “integración”, lo que llamó la atención de algunos de los presentes, que recordaron la reforma prometida por el
+ministro de Salud bonaerense, Nicolás Kreplak, y la propia Cristina Kirchner.
+
+El de hoy fue el primero de dos actos de respaldo a la fórmula presidencial encabezada por Massa. El segundo, según indicaron voceros gremiales, será el próximo 8 de agosto, en la localidad bonaerense
+de Malvinas Argentinas. Ambos encuentros fueron confirmados la semana pasada por Daer, tras un encuentro de mesa chica de la central obrera.
+
+Daer, quien comparte la conducción de la CGT con Acuña y Pablo Moyano (Camioneros), aseguró que la segunda de esas demostraciones de apoyo a una de las fórmulas oficialistas, cinco días antes de las
+PASO, tendrá lugar en el estadio DirecTV Arena de la localidad bonaerense de Tortuguitas, donde el mes pasado tuvo lugar el plenario del Frente Renovador en encabezado por Massa.
+
+La decisión de recibir y apoyar a Massa fue formalizada el martes pasado, cuando en la sede de UPCN se reunieron más de 50 gremios.
+
+Ayer, Grabois mantuvo una reunión con varios de los principales dirigentes de la CGT en la sede porteña de la Uocra. Según pudo saber LA NACION, el encuentro entre el líder del Frente Patria Grande y
+sindicalistas, entre los que se encontraron el anfitrión Gerardo Martínez (Construcción) y Daer, duró más de dos horas y giró en torno a distintos temas que trascienden la coyuntura electoral.
+
+“Es fundamental poner la fuerza de todo el movimiento nacional para frenar los planteos inhumanos y garantizar un programa donde la recomposición de los salarios, la eliminación de la inflación, la
+redistribución de la riqueza, la vivienda, la salud y la educación sean la prioridad”, planteó Grabois a través de un comunicado una vez finalizado el cónclave, del que también formó parte su
+compañera de fórmula, Paula Abal Medina.
+
+En ese sentido, el referente del Movimiento de Trabajadores Excluidos (MTE), ahora devenido en político, destacó las “coincidencias” con los popes gremiales y agradeció a los representantes de la CGT
+por “el respeto” con el que lo recibieron. Entre los otros tópicos que se tocaron, de acuerdo a lo que pudo saber este diario, también estuvieron la situación del movimiento obrero y relación entre la
+denominada “⟦M0943⟧economía popular⟦/M0943⟧” (trabajadores informales) y el sector de los trabajadores registrados.
+
+Además de Martínez y Daer, también se hicieron presentes en la sede porteña de la Uocra el titular de Obras Sanitarias, José Luis Lingeri; el líder de UPCN, Andrés Rodríguez; su par del sindicato
+Dragado y Balizamiento, Juan Carlos Schmidt; de Alimentación, Rodolfo Daer; entre otros.
+
+===== NOTA 4 de 15 =====
+medio: La Nación
+titulo: Moreno: la ocupación territorial como una herramienta política
+fecha: 2023-07-23 04:22:58.916000
+autor: Federico González del Solar
+seccion: Política
+volanta_bajada: La oposición acusa al oficialismo de fomentar la toma de tierras, uno de los problemas en el distrito; desde la intendencia lo niegan y destacan los logros de gestión
+link: https://www.lanacion.com.ar/politica/moreno-la-ocupacion-territorial-como-una-herramienta-politica-nid23072023/
+marcas a codificar: M0944
+----- TEXTO -----
+Mariela Zelaya Bustamante llegó cuando no había nada. Dejó atrás Presidente Derqui- donde alquilaba un cuarto con su madre- y puso su casilla junto con otros 20 vecinos que hicieron lo propio. “Había
+solo un kiosco, pasando el eucalipto”, recuerda. Hoy, 12 años después, el barrio 23 de diciembre en la localidad de Cuartel V, partido de Moreno, tiene más de 50 manzanas con 1400 terrenos y es un
+eslabón más en una cadena de consolidados asentamientos que llevan por nombre su fecha de fundación: 5 de enero, 3 de febrero, 1 de marzo, 18 de julio, 2 de agosto. Hoy, aquello que supo ser “todo
+campo” es “todo ciudad”.
+
+Mariela y el relato de muchos otros vecinos que llegaron al barrio hace una década no se agotan en lo testimonial: son el movimiento que anima a los grandes números del municipio. El censo del último
+año arrojó que Moreno, gobernado por el peronismo desde 1995, fue el partido del conurbano con mayor crecimiento demográfico (26%) desde el 2010. “Nos dijeron que se estaba abriendo un barrio y
+vinimos”, explica Zelaya Bustamante, que al día de hoy recuerda la cifra: $2500 por el lote. Otros vecinos, con menos suerte, pagaron más del doble, pero recuperaron parte de lo invertido al dividir
+sus terrenos y vender lo abdicado. “Hoy estamos en el mapa”, relata otra vecina, agitando el celular.
+
+“Fue un crecimiento desbordado, sin ningún tipo de planificación estatal”, sostiene Soledad Pantano, referente local de Juntos por el Cambio. El distrito se encuentra gobernado por Mariel Fernández,
+una dirigente social oriunda de Cuartel V e integrante del Movimiento Evita. En 2019, luego de que Máximo Kirchner le soltara la mano al exintendente camporista Walter Festa, se impuso en una interna
+con otros seis precandidatos. Es, según remarcó en una entrevista, “la primera intendenta de los movimientos sociales”.
+
+Las distintas partes del arco político de Moreno coinciden en algo: la toma de tierras fue un problema que marcó la dinámica del territorio y su fisonomía. Según el “mapa de la pobreza crónica”,
+elaborado por CIPPEC, el 32% de las viviendas en el territorio son ranchos o casillas con piso de tierra, y más del 80% no tiene acceso a la red cloacal.
+
+En el frente opositor -donde también habitan peronistas- relatan que desde mediados de la década del 90, bajo la intendencia de Mariano West –con tres mandatos en el territorio- se inició un largo y
+continuo proceso de expansión demográfica; para muchos no exento de controversia.
+
+Algunos opositores se limitan a deslizar cuestionamientos que sugieren responsabilidad política en la proliferación de asentamientos. “El modus operandi de las tomas está protocolizado”, refiere un
+dirigente. Otros, como Aníbal Asseff, exconcejal y precandidato a intendente por Juntos por el Cambio, precisan las acusaciones y apuntan directamente contra la intendenta.
+
+“Siempre alentó la toma de terrenos. Públicos o privados. Ella fue partícipe y promotora de la proliferación de asentamientos en Moreno en los últimos 15 años”, dispara, mientras enumera los cargos
+que ocupó Fernández en las anteriores gestiones. “Ahora, que está a cargo del ejecutivo, cambió de postura”, enfatiza.
+
+Desde el entorno de la intendenta desmienten categóricamente las acusaciones, aunque reconocen que antes de que asumiera Fernández, las tomas de tierras “eran un tema sin resolver y ‘puede’ que hayan
+sido fomentadas por algunos sectores políticos de Moreno”. Desde que Fernández se hizo cargo del distrito, aseguran, los “índices de ocupación de tierras comenzaron a bajar”.
+
+“Es una estrategia para agrandar su base electoral”, arremete Asseff, alineado con Horacio Rodríguez Larreta en la contienda nacional. El precandidato a la intendencia subraya que en los últimos 10
+años el padrón electoral de Moreno -hoy con más de medio millón de habitantes- sumó casi 130 mil electores. Según los números de la junta electoral de la provincia de Buenos Aires, el crecimiento del
+padrón electoral del distrito, entre 2009 y 2021, toca casi el 50%, un número que no tiene comparación con otros municipios. En el mismo período, por caso, el padrón de Malvinas Argentinas creció un
+38%, el de La Matanza lo hizo en un 37% y el de Merlo, al sudeste de Moreno, fue del 34%.
+
+Cerca de Fernández niegan que la intendenta haya tenido una postura a favor de las tomas en el pasado, argumentan que quienes las realizan no cuentan con documentación para votar en el distrito, y
+explican que el incremento poblacional responde a varios factores: un alto índice de natalidad, la llegada de muchos “migrantes” al municipio y un error técnico del censo de 2010. “Estuvo mal medido”,
+esgrimen.
+
+“Mariel siempre ha trabajado para que los sectores populares de Moreno vivan en condiciones dignas, pero eso no significa que haya fomentado tomas en el pasado. Tienen que encontrar mejores argumentos
+electorales”, completan y explican que la toma “heredada” en el barrio La Bibiana, sobre la ruta 23 en un terreno privado, fue relocalizada con éxito en terrenos fiscales.
+
+A los ojos de la oposición, ese proceder municipal le confiere legitimidad a las ocupaciones. “No les estás diciendo que la toma es ilegal”, apunta Gisele Agostinelli, precandidata a intendente de
+Juntos por el Cambio en el municipio.
+
+Por debajo del esgrima acusatorio, emergen reclamos ineludibles. El crecimiento poblacional avanzó con tranco bonaerense; la infraestructura estatal, con pasos de comarca.
+
+En 23 de diciembre hay un médico “multiuso” y los turnos escasean. “Es psiquiatra, ginecólogo y pediatra. Es multiuso”, cuenta una vecina, que se ve obligada a decir que “pierde un día” cuando se
+traslada a Capital Federal para que atiendan a su hijo.
+
+“Hay un solo generador para todas las manzanas, se nos corta la luz 3 o 4 veces por semana y las heladeras se terminan quemando”, relata Mariela, que formó parte del grupo de vecinos que se encargó de
+comprar postes y cables para dejar de comprar velas.
+
+Durante muchos años, en su casilla de 23 diciembre, Mariela solo pasaba el fin de semana. Los lunes se levantaba a las tres y media de la mañana para emprender camino hacia el distrito de Tigre, donde
+tenía una estancia semanal en un barrio de Nordelta.
+
+Allí trabajaba de lunes a viernes. Con la llegada de su primer hijo no pudo más que quedarse en el barrio, pero hoy busca una “changa” porque con el plan potenciar trabajo y los ingresos de su marido,
+el mes -asegura- se hace muy largo.
+
+“Moreno es un municipio dormi”, describe Pantano, alineada con Agostinelli, la precandidata de Patricia Bullrich en el distrito. “No hay trabajo municipal. No podés atenderte en la sala. No podés
+estudiar”, agrega. “Desde los 90, el abandono y la desidia es total” acota Lucas Agüero, precandidato a intendente por la Coalición Cívica.
+
+El delito golpea con brutal equidad en Cuartel V, que aún conserva rastros bucólicos: algunos robos, según cuentan los vecinos, todavía son a caballo.
+
+En junio de este año, el caso de Dante Godoy, un chico de 21 años que fue asesinado a tiros tras resistirse a un robo de celular, sacudió a la localidad. Fue sobre la calle Portugal, cuando volvía de
+un curso de electricidad.
+
+“La policía pasa y se va”, sostiene Agustina, vecina de 23 de diciembre. “Es un flagelo que no discrimina”, agrega Agostinelli. Aquilino Lezcano, delegado de una manzana en 23 de diciembre, cuenta que
+con los vecinos de la cuadra se organizaron para montar un sistema de alarma, con cámaras que monitorean desde el celular. Hace poco, relata, el sistema le permitió evitar un hurto. Salió agitando una
+camisa y logró ahuyentar al delincuente. “Moreno se mantiene con la organización vecinal”, explica Pantano.
+
+El slogan de campaña de Mariel Fernández, omnipresente en las calles de Moreno, reza “Nunca se hizo tanto”. No pocos opositores indican que el mensaje es parcialmente cierto, pero solo después de
+remarcar el contraste con la gestión de Festa, de la cual cuesta mucho encontrar defensores.
+
+Pese a que dudan de su calidad, muchos sostienen que hubo un importante tendido de asfalto en distintas zonas del distritos. En 23 de diciembre también destacan mejoras. Una fundamental: hace 3 años
+que el colectivo 365, cuyo recorrido une a Vicente López con Luján, ingresa al barrio. “Estamos un poco mejor. Pero todo se hace a medias”, se lamenta una vecina.
+
+Los opositores más críticos reparan en que hay un “flujo inagotable de fondos desde el Estado” e identifican las terminales nacionales con las que cuenta el municipio: Fernández, la intendenta, está
+casada con Esteban “el Gringo” Castro, secretario general de la Unión de los Trabajadores de la ⟦M0944⟧Economía Popular⟦/M0944⟧ (UTEP), de estrecho vínculo con Emilio Pérsico, líder del Movimiento
+Evita y secretario de Economía Social, que depende del Ministerio de Desarrollo Social. Bajo esta luz, y con provincia y nación alineadas políticamente, sugieren que lo que hecho en el distrito es
+poco.
+
+“3500 obras no es poco. La gente valora mucho el trabajo de Mariel (Fernández)”, se defienden, encuestas en mano, en la intendencia. Según las mediciones que manejan, Fernández no tendrá problemas en
+la interna. Es que, a diferencia del plano nacional, el peronismo exhibe fisuras en el distrito. Damián Contreras, presidente de Ferrocarriles Argentinos Sociedad del Estado (FASE), es el precandidato
+del massismo en el territorio. Contreras también levanta el dedo: “Han llegado al colmo de intrusar y tomarle tierras a la Universidad Nacional de Moreno”, señala a LA NACION en referencia a un
+conflicto que actualmente se dirime en la Justicia.
+
+Mariela Zelaya Bustamante, que llegó a Cuartel V hace 12 años, cuando “todo era campo”, busca una “changa” y pide de nuevo por otro transformador para el barrio. Entre sus estrategias de resistencia,
+planea dividir su lote y hacer un “dúplex” para alquilar.
+
+===== NOTA 5 de 15 =====
+medio: La Nación
+titulo: Elecciones 2023: Amado Boudou apuntó contra Juan Grabois
+fecha: 2023-07-29 23:47:56.463000
+autor: 
+seccion: Política
+volanta_bajada: El ex vicepresidente se quejó por las críticas que hace el líder social a la estrategia electoral de Unión por la Patria
+link: https://www.lanacion.com.ar/politica/elecciones-2023-amado-boudou-apunto-contra-juan-grabois-nid29072023/
+marcas a codificar: M0945, M0946, M0947
+----- TEXTO -----
+El exvicepresidente, Amado Boudou, apuntó esta mañana contra el precandidato de Unión por la Patria (UP), Juan Grabois, a quien acusó de promover ideas contrarias al peronismo y al kirchnerismo.
+Durante una emisión en la radio AM530, el condenado exministro de Economía, dijo: “No quería hablar de él porque creo que hay que mantener la campaña en los niveles que [Juan] Grabois no quiere.
+Porque, además de las cuestiones conceptuales, están las cuestiones operativas”.
+
+“Cuando Grabois sale a hacerse el picante y decir que está en contra de la conducción táctica que trajo estos candidatos... bueno, también lo trajo a él esta conducción táctica”, se quejó Boudou y
+agregó: “A mí me gustaría que le ponga nombres”.
+
+Tras ello el también exministro de Economía reiteró: “Cuando él dice que hay que terminar con la conducción táctica que decide los nombres como si fuera una cuestión de palacios... Me parece que sería
+bueno dar nombres. Uno quiere conocer el pensamiento del precandidato respecto de quién está hablando para entender qué pretende representar”.
+
+“Acá nos dio una pista importante... Está claro que en el mundo del trabajo Grabois se pone del lado de los empresarios porque la famosa mochila o seguro contra despidos lo que está haciendo es
+proteger a quien despide”, analizó Boudou y sumó: “Es un derivado de esta idea de la famosa ⟦M0945⟧economía popular⟦/M0945⟧. Estar a favor de que haya dos economías es estar en contra de la movilidad
+social ascendente”.
+
+Para el final dejó la mayor crítica a una de las bases de las propuestas del líder social: “Me parece que la ⟦M0946⟧economía popular⟦/M0946⟧ es muy contraria a las ideas del peronismo. Muy contraria a
+las ideas del kirchnerismo. Está bueno que se empiecen a conocer las propuestas para que las podamos desglosar y podamos hablar de ellas”.
+
+“Nosotros, durante los 12 años y medio, tanto Néstor como Cristina, lo que intentaron fue que hubiera cada vez más puestos de trabajo formal, donde trabajadores y trabajadoras pudieran resolver su
+vida material”, hizo el contrapunto el exvicepresidente y recordó: “Arrancamos con 3 millones de planes y Néstor los bajó a 300 mil. No porque estemos en contra de los planes. Estamos a favor de
+sostener a aquellas personas que no encuentran, transitoriamente, su lugar”.
+
+Por último cerró: “Pero está claro que no queremos una sociedad partida en dos. Que es esa propuesta de la ⟦M0947⟧economía popular⟦/M0947⟧”.
+
+Grabois llamó hoy a votar la lista que encabeza para “condicionar al sistema político”, al exponer junto a la legisladora porteña Ofelia Fernández en un encuentro con estudiantes en la Facultad de
+Ciencias Sociales.
+
+“¿Quién dijo que no vamos a ganar? Si ganamos hackeamos la matrix. Ahora, si nosotros hacemos una buena elección, aunque perdamos, vamos a tener una gran capacidad de condicionar al sistema político,
+a las políticas públicas, incluso las negociaciones viles que se hacen a nivel internacional y es lo que realmente les molesta”, aseguró según un comunicado de prensa.
+
+Grabois, quien habló ante estudiantes secundarios, terciarios y universitarios, aseguró que hay que tener “una muy buena elección, para ponerles un límite” e impulsar el “programa de tierra, techo y
+trabajo” y “garantizar” que a la vicepresidenta Cristina Kirchner “no la tocan”.
+
+“Se firmó un acuerdo malo (con el FMI). El lunes vamos a pagar con yuanes, con lo que podamos rascar de cualquier lado. Vamos a pagar con lo que no tenemos porque el Fondo dice que no puede
+desembolsar antes porque los muchachos del staff se tienen que tomar vacaciones. ¡Literal!”, criticó.
+
+Asimismo señaló que se firmó “reducción de la masa salarial”, lo que consideró como “peor que un ajuste”, porque implica que se “paguen menos sueldos”. “Se plantea el ajuste fiscal con metas que
+implican ajuste en educación, en salud y en jubilaciones. Esto es así, no hay que mentirle a la gente. Se podría decir ‘no se pudo’ pero no te lo dicen. Eso es no defender a los laburantes”, completó.
+
+===== NOTA 6 de 15 =====
+medio: La Nación
+titulo: Elecciones 2023, en vivo: todo sobre las PASO, candidatos, fechas y noticias minuto a minuto
+fecha: 2023-08-01 04:22:28.810000
+autor: 
+seccion: Política
+volanta_bajada: Seguí los detalles de la campaña electoral en la Argentina para las primarias abiertas del domingo 13 de agosto; fechas, declaraciones y todo lo que hay que saber 
+link: https://www.lanacion.com.ar/politica/elecciones-2023-en-vivo-todo-sobre-las-paso-candidatos-fechas-y-noticias-minuto-a-minuto-nid01082023/
+marcas a codificar: M0948
+----- TEXTO -----
+El precandidato presidencial del partido Principios y Valores, Guillermo Moreno, propuso que la deuda del país con el Fondo Monetario Internacional (FMI) “la paguen los socios de la Sociedad Rural
+Argentina” y aseguró que, si llega a la Casa Rosada, reducirá las retenciones . Además, consideró que en este siglo “fracasaron todos menos los peronistas”.
+
+“Los únicos que no fracasamos fuimos los peronistas. Fracasaron los liberales, los neoliberales y radicales en el gobierno de la Alianza y posteriormente en el Gobierno de (Mauricio) Macri. En este
+gobierno fracasaron los progresistas. Los peronistas hicimos la década ganada con un presidente peronista”, sostuvo el dirigente en declaraciones a C5N.
+
+En esa línea, aseguró que “lo que necesita la Argentina es un presidente peronista” porque “lo único que resuelve los problemas de hispanoamérica son las doctrinas nacidas de un seno de un pueblo
+extraordinario, como el pueblo argentino”. “No son las doctrinas europeas sino las de América, como la peronista”, insistió
+
+El precandidato a presidente de Hacemos por Nuestro País, Juan Schiaretti, consideró este jueves que su partido “representa el peronismo capaz de unirse a otras fuerzas” y convocó  a construir un
+“gobierno de unidad nacional”, durante su primer acto de campaña en el conurbano bonaerense. En el encuentro, realizado en el club social y deportivo Unión de Ezpeleta, en el partido de Quilmes,
+estuvo acompañado por la precandidata a diputada nacional Hilda ‘Chiche’ Duhalde.
+
+”Argentina tiene todo para ir hacia adelante, precisamos un gobierno de unidad nacional, trabajar junto a otros que quieren el progreso como nosotros”, sostuvo el gobernador de Córdoba.
+
+En tono optimista, el mandatario provincial señaló que su espacio político “puede sacar a la Argentina de la decadencia” y remarcó que es el “peronismo capaz de unirse a otra fuerza para solucionar la
+crisis que atraviesa” el país.
+
+En tanto, aseguró que la fuerza política que integra “no tiene nada que ver con el kirchnerismo”. Expresamos la cultura del trabajo y no la del subsidio permanente que tiene el objetivo de tener a la
+gente agarrada para ganar una elección”, enfatizó.
+
+El gobernador Axel Kicillof, que buscará la reelección en la provincia de Buenos Aires, encabezó un acto en el Teatro de la Comedia provincial, en La Plata, donde recibió el respaldo de trabajadores
+del área de la cultura,  además de numerosos artistas de la televisión, entre quienes se contaron a Juan Palomino, Teresa Parodi, Carolina Papaleo, Gerardo Romano y Ana Celentano, entre varias figuras
+más.
+
+En sus redes sociales, el mandatario aseguró que en su administración buscaron “dar visibilidad y recuperar el protagonismo de la cultura”. “Lo que está pasando hoy es una verdadera marea cultural en
+todo el territorio bonaerense. Eso es lo que venimos a fomentar y lo que vamos a seguir haciendo durante los próximos cuatro años”, escribió.
+
+La gobernadora de Santa Cruz, Alicia Kirchner, recibió en su despacho de Santa Cruz al precandidato presidencial Juan Grabois, que competirá con Sergio Massa en la interna de Unión por la Patria (UP)
+
+A 12 días de las elecciones Primarias Abiertas Simultáneas y Obligatorias (PASO), el dirigente social se encontró con la mandataria “por primera vez” en la provincia que gobierna y, a través de sus
+redes sociales, destacó que “algunas políticas que impulsó Alicia como el Argentina Trabaja, el monotributo social, la ley de pueblos originarios y los CICs fueron hitos fundamentales en largo camino
+de reconocer la ⟦M0948⟧economía popular⟦/M0948⟧”.
+
+Del encuentro participó también el presidente de YPF y precandidato a diputado nacional, Pablo González.
+
+Un grupo integrado por artistas, intelectuales, investigadores y científicos expresó hoy, por medio de una carta pública, su apoyo a la fórmula presidencial de la lista Justa y Soberana de Unión por
+la Patria (UxP), que conforman Juan Grabois y Paula Abal Medina.
+
+Los músicos Bruno Arias, Peteco Carabajal y Juan Falú; las actrices Valentina Bassi y Charo López; el actor Carlos Belloso; el escritor Fabián Casas; y la socióloga María Pía López fueron algunas y
+algunos de los referentes de la cultura, el arte y la ciencia que firmaron el texto en respaldo a la precandidatura de Grabois y Abal Medina con miras a las primarias abiertas, simultáneas y
+obligatorias (PASO) que se celebrarán el próximo 13 de agosto.
+
+En la carta, opinaron que el país se encuentra “ante la elección presidencial más desafiante desde la recuperación de la democracia” porque “están en juego los pilares mismos de nuestra convivencia
+como comunidad”.
+
+En ese sentido, consideraron que “la crisis económica se profundiza” y, frente a ella, el “pueblo sufre una creciente desigualdad”.
+
+El ministro de Economía y precandidato presidencial de Unión por la Patria (UxP), Sergio Massa, reforzó hoy la campaña federal para las PASO del 13 de agosto con recorridas por las provincias de
+Mendoza y San Luis, donde convocó a la sociedad a votar en las primarias, y prepara su visita a Córdoba para el jueves próximo.
+
+Mientras tanto, Massa prepara la visita que lo llevará el jueves próximo a Córdoba, una provincia importante no sólo por su caudal electoral (es el segundo distrito del padrón nacional) sino por lo
+simbólico: está administrada por un peronismo no alineado al kirchnerismo representado por el gobernador saliente y precandidato a presidente, Juan Schiaretti, y por el mandatario electo Martín
+Llaryora.
+
+Schiaretti es la cabeza de una plataforma denominada ‘Hacemos por Nuestro País’ y que cuenta con referentes del peronismo disidente como Hilda “Chiche” Duhalde, Florencio Randazzo y Diego Bossio,
+entre otros.
+
+Músicos, actores, cineastas, bailarines, artistas visuales y estudiantes del arte apoyaron la fórmula presidencial de Gabriel Solano y Vilma Ripoll, referentes del Partido Obrero (PO) y el Movimiento
+Socialista de los Trabajadores (MST), que competirá en la interna del Frente de Izquierda Unidad.
+
+El encuentro se realizó el lunes por la noche en el “Bunker Cultural” de Las Manos de Filippi, con más de 60 trabajadores y estudiantes de la cultura y el mundo del arte, junto a Vanina Biasi,
+precandidata a jefa de gobierno porteño, y Néstor Pitrola, precandidato a diputado nacional por la Provincia de Buenos Aires, informaron fuentes partidarias.
+
+“Los artistas que están acá reunidos son todos ellos protagonistas de importantes peleas por sus derechos en un medio donde es muy potente la precarización laboral y salarial. Pero no solo se
+organizan por cuestiones gremiales, enfrentando a las burocracias de sus sindicatos, sino que se han comprometido con distintas luchas populares, como fue la ola verde o como es hoy la solidaridad y
+el apoyo al pueblo de Jujuy que enfrenta la reforma reaccionaria de (Gerardo) Morales”, sostuvo Biasi.
+
+Y añadió: “Nuestra lista representa la lucha por construir una alternativa política para este país que defienda en primer lugar el salario, el trabajo genuino, los recursos naturales y los derechos
+populares”.
+
+“Esto no pasó nunca. Bajo todos los días a distintos lugares en la Provincia y hay una cosa que es impresionante. Hay una emotividad entre Patricia [Bullrich] y la gente. No lo vi en 30 años de
+política. Tiene que ver con la situación que afronta la gente. Le piden a Patricia que los cuide”, analizó Néstor Grindetti, precandidato a gobernador bonaerense por el espacio de Bullrich tras los
+incidentes en San Luis.
+
+Para el actual intendente de Lanús, lo que pasó en la provincia cuyana: “está preparado por el poder que está manejando la provincia. Lo que no se da cuenta este poder es que cosas como estas los va a
+complicar. Patricia va con la palabra, habla con la gente y ellos contestan con violencia, aun cuando no asumimos todavía”.
+
+“Es una exageración decir que va a haber sangre si asume Patricia. Es el relato kirchnerista. Nosotros vamos a tener un gran apoyo popular para hacer las transformaciones que queremos hacer. Es mucha
+la gente que nos quiere a nosotros”, cerró en diálogo con LN+.
+
+El jefe de Gabinete y precandidato a vicepresidente por Unión por la Patria (UxP), Agustín Rossi, sostuvo hoy que el entendimiento alcanzado con el Fondo Monetario Internacional (FMI) “le da serenidad
+a la economía de acá a final del año” y afirmó que, de esa manera, el organismo multilateral “no incidirá” en las elecciones de este año.
+
+“Como dice nuestro ministro de Economía, (Sergio Massa), sacamos al Fondo de las elecciones”, apuntó el funcionario nacional luego de participar, junto al canciller Santiago Cafiero, de la apertura
+del encuentro “Tendencias y desafíos de la cooperación internacional en protección de datos personales e inteligencia artificial”, organizado por la Agencia de Acceso a la Información Pública en el
+Palacio San Martín.
+
+Rossi afirmó que “había otro camino para arreglar” con el FMI y era el de “decirle todo que sí”, pero que los negociadores argentinos “recordaron esa máxima jauretcheana que no hay que ir al almacén
+con el manual del almacenero”.
+
+El precandidato a presidente por la Libertad Avanza (LLA), Javier Milei, pidió hoy al electorado asistir a las PASO para “demostrarles (a los políticos) que este sistema corrupto del que solo ellos se
+benefician no va más” y enfatizó que “es la única chance” para ser “un país próspero”.
+
+El diputado nacional, en un comunicado difundido en su cuenta oficial de Twitter, y con la consigna “Esta vez, no te quedes en casa”, insistió al electorado asistir a las PASO del 13 de agosto.
+
+“Los políticos te encerraron y te dijeron que te quedes en casa. El domingo 13/8 salí de tu casa, andá a votar y demostrales que este sistema corrupto del que solo ellos se benefician no va más”,
+sostuvo el dirigente libertario y afirmó que “es la única chance que tenemos de ser un país próspero”.
+
+El economista criticó al sistema político y lo responsabilizó de defender “un modelo empobrecedor”.
+
+“La Argentina hace 100 años era el país más rico del mundo. Hoy somos uno de los países más pobres de América. La causa es una sola: una clase política que defiende un modelo empobrecedor del que solo
+se benefician ellos”, indicó.
+
+El precandidato acusó a los precandidatos de Juntos por el Cambio, Horacio Rodríguez Larreta y Patricia Bullrich, y al de Unión por la Patria, Sergio Massa, de ser “protagonistas del fracaso argentino
+de las últimas décadas”.
+
+“Tanto Massa, como Larreta y Bullrich son protagonistas del fracaso argentino de las últimas décadas. Son la generación del 2001. Son los que pedimos a gritos que se vayan y se quedaron todos”,
+abundó.
+
+El gobernador de Córdoba y precandidato a presidente de Hacemos por Nuestro País, Juan Schiaretti, encabezará hoy su primer acto de campaña en el conurbano bonaerense, junto a su compañero de fórmula
+Florencio Randazzo y la precandidata a diputada nacional por Buenos Aires, Hilda “Chiche” González de Duhalde.
+
+En la recta final de la campaña electoral de cara a las elecciones primarias abiertas, simultáneas y obligatorias (PASO) del próximo domingo 13 de agosto, Schiaretti encabezará un acto político en la
+localidad bonaerense de Ezpeleta, partido de Quilmes.
+
+La cita será a las 18 en el club social y deportivo Unión de Ezpeleta, ubicado en Esquel 453, de esa localidad.
+
+En el primer acto en el conurbano, Schiaretti estará acompañado por Chiche Duhalde y Florencio Randazzo, según confirmaron desde el centro de campaña del mandatario cordobés.
+
+El pasado sábado en la ciudad cordobesa de Río Tercero, durante un encuentro con cientos de dirigentes y empresarios, Schiaretti destacó a su compañero de fórmula, a quien le reconoció haber resuelto
+los problemas para sacar los pasaportes y DNI.
+
+El gobernador de la provincia de Buenos Aires y candidato a la reelección, Axel Kicillof, dijo hoy que “la derecha tiene varios candidatos y un solo modelo”, que propone “ajustar, ir para atrás,
+restringir y quitar derechos”, en declaraciones de cara a las elecciones primarias abiertas, simultáneas y obligatorias (PASO) del 13 de agosto próximo.
+
+“Tenemos una tarea muy importante desde la dirigencia política, desde los militantes, que es contar estos dos modelos, porque la derecha tiene varios candidatos y solo modelo”, expresó el mandatario
+esta mañana en declaraciones a FM Rock and Pop.
+
+Asimismo, Kicillof dijo que “la derecha sólo dice ajustar, ir para atrás, restringir y quitar derechos” y remarcó que cuando los candidatos opositores hablan de “reducir el Estado significa no más
+universidades, ni más escuelas, ni más viviendas”.
+
+El gobernador destacó que en su gestión en la provincia de Buenos Aires “se crearon 120 mil puestos de trabajo registrado”, aunque admitió que “hay que mejorar los salarios, hay sectores que están
+complicados para llegar a fin de mes”.
+
+Malena Galmarini, titular de la empresa estatal AySA y precandidata a intendenta de Tigre por Unión por la Patria (UxP), consideró hoy que su esposo, el ministro de Economía Sergio Massa, es el
+“candidato con más posibilidades de gobernar al país” y aseguró que si triunfa en las elecciones “puede ser uno de los mejores presidentes de los últimos años”.
+
+“La elección es larga y creo que Sergio le puede ganar a cualquiera. Es el más formado, el que más conoce el Estado, a las áreas del Estado y el único que pudo resolver a corto plazo y que sigue
+negociando la deuda que nos dejaron los que quieren volver. Puede ser uno de los mejores presidentes de los últimos años”, opinó Galmarini.
+
+En declaraciones a Radio 10, la presidenta de AySA afirmó que el país necesita un triunfo de UxP en las próximas elecciones y, por ese motivo, llamó a votar por Massa, tras decir que elegir a Juan
+Grabois, el otro precandidato a presidente del espacio político, “es tirar el voto”.
+
+“Necesitamos que gane Unión por la Patria. Para eso, necesitamos que gane el candidato que más posibilidades tiene. Hoy votar a Juan (Grabois) es tirar el voto”, expresó Galmarini, tras aclarar que su
+referencia era “en términos técnicos del uso estratégico del voto”.
+
+El precandidato presidencial de La Libertad Avanza (LLA), Javier Milei, calificó hoy de “bestialidad” la propuesta de la aspirante a la Presidencia por Juntos por el Cambio (JxC) Patricia Bullrich,
+quien planteó “entrar con una cámara de televisión al Banco Central” para mostrar que “no hay más reservas”, mientras que el postulante a jefe de Gobierno porteño Martín Lousteau dijo que esa
+iniciativa busca ser “un golpe de efecto” que se intenta dar en el marco de la campaña electoral.
+
+“Lo único que es físico, salvo algunos dólares que se necesitan en físico para llevar a los bancos, es el oro. Después son asientos contables. No es que están en una bóveda en el Banco Central”, dijo
+hoy Lousteau en declaraciones al canal C5N.
+
+De esta manera, el precandidato radical desestimó la propuesta de la líder de los ‘halcones’ del PRO y la calificó como un intento de “golpe de efecto” en los televidentes, en el marco de la campaña
+para las PASO.
+
+Quien también cuestionó la iniciativa de Bullrich fue el diputado y precandidato presidencial de LLA, Milei.
+
+“Imagino que los ‘liberales’ de copetín saldrán a criticar tamaña bestialidad”, publicó el diputado en su cuenta de Twitter junto a un video con el recorte de las declaraciones que hizo anoche la
+exministra de Seguridad en los estudios de La Nación+.
+
+Milei, quien anteriormente había calificado como “liberales de copetín” a dirigentes liberales que forman parte de JxC, un espacio que consideró “socialdemócrata”, aprovechó el mensaje para cuestionar
+a “la mayoría” de los economistas, a quienes considera “analfabetos monetarios”.
+
+“Igual, la mayoría de los economistas son analfabetos monetarios por lo que puede que no hayan notado el punto”, agregó.
+
+De recorrida por la provincia de San Luis, la precandidata a presidenta de Juntos por el Cambio, Patricia Bullrich, aseguró que el “el actual gobernador está generando una crisis de ingobernabilidad
+queriendo armar un estado paralelo y fue el pueblo puntano el que salió ayer a defender la gobernabilidad y las instituciones”. Esto, luego de recibir insultos y escupitajos de parte de un grupo de
+kirchneristas.
+
+Bullrich, palabra seguida, se refirió al altercado: “Llegamos a San Luis y estábamos dando la conferencia y vino un grupo a atacarnos violentamente, a escupirnos. El gobierno provincial se fue, dejó
+zona liberada”, relató. Luego, agregó que “estos escraches y estas muestras de fascismo lo están encerrando total y absolutamente a Poggi para no dejarlo gobernar”.
+
+Bullrich, que se comunicó con el gobernador electo Claudio Poggi por videollamada, le brindó todo su respaldo ante la grave situación que atraviesa la provincia: “Como ganamos en San Luis y como vamos
+a ganar a nivel nacional, con el voto popular, vamos a defender con toda nuestra fuerza y nuestra legitimidad lo conseguido. A Claudio lo vamos a acompañar desde el 10 de diciembre. Y vamos a realizar
+las reformas que consideramos que hay que llevar adelante en el país”.
+
+La exministra de Seguridad, también trazó un paralelismo con lo que podría suceder ante un eventual gobierno de ella: “Esto es lo que están instalando si gana Juntos por el Cambio, que van a salir a
+tirar piedras y a hacer paros. Con cada piedra vamos a construir un puente, y a cada obstáculo le vamos a poner mas ganas al cambio”.
+
+Por último, concluyó que “con la violencia que llevaron hoy a la conferencia prensa ya están mostrando los dientes. No saben convivir en democracia. ¿Con ellos vamos a dialogar?”, se preguntó.
+
+La precandidata a presidente de Juntos por el Cambio, Patricia Bullrich, vivió un momento de tensión durante su visita a la provincia de San Luis cuando un reducido grupo de personas comenzó a
+insultarla e impedir que diera una conferencia de prensa en la capital provincial.
+
+En el video, que se compartió en redes sociales, se escuchan los gritos e insultos contra la Bullrich.
+
+Uno de los primeros en cuestionarlo fue el precandidato a Diputado, Cristian Ritondo, que escribió: “Condenamos los hechos de violencia sufridos hace instantes durante la visita de Patricia Bullrich a
+San Luis. El gobierno de Rodríguez Saá no solo busca montar un estado paralelo ilegal sino que actúa con violencia contra quienes se oponen a ese atropello a la voluntad popular”.
+
+El precandidato a la gobernación bonaerense por el Frente de Izquierda Unidad (FIT-U), Alejandro Bodart, le pidió a la ciudadanía que “no vote en blanco” en las primarias abiertas simultáneas y
+obligatorias (PASO) que se desarrollarán el próximo domingo 13 de agosto, al considerar que con esa actitud “no se castiga a quienes trajeron a la Argentina a esta situación”, durante una recorrida de
+campaña que realizó en La Plata.
+
+“Estamos en una campaña en la cual hay mucha bronca. Muchos están pensando en no ir a votar o en hacerlo en blanco. Le queremos decir a la gente que no pierda su voto. Si no se ejerce este derecho no
+se castiga a quienes llevaran a Argentina a esta situación”, señaló Bodart en declaraciones a la agencia Télam.
+
+Desde Mataderos, adonde presentó sus propuestas de educación, el postulante radical a jefe de Gobierno, Martín Lousteau, se comprometió a mejorar la oferta de vacantes en todos los barrios, una de las
+problemáticas centrales para madres y padres que tienen hijos en edad escolar. Dijo también que habrá prioridad para los porteños.
+
+Firme en su decisión de regular los piquetes en caso de ser jefe de Gobierno porteño, el precandidato de Pro para la Capital, Jorge Macri, anticipó cómo actuará en esas movilizaciones. “Si una
+organización viene con niños: demanda penal y sanción económica. Porque ahí hay un derecho superior. Me los traen [a los chicos] para usarlos de escudo y que no pueda ordenar. Vos no podes usar un
+pibe. Ahí los corro por izquierda a todos. Yo quiero escuchar a alguien que esté a favor... ¿Me van a decir no tienen adónde dejarlos? Entonces, que no vengan. Porque vos sos un adulto responsable y
+tu responsabilidad principal es cuidar a tu hijo. Si no tenés con quién dejarlo, no vengas al marcha”, sentenció en Radio Rivadavia.
+
+Desde Tandil, adonde presentó sus propuestas para hacer una Argentina más federal, el precandidato a presidente de Pro Horacio Rodríguez Larreta anunció un nuevo respaldo que cosechó en esta campaña:
+el del diputado nacional radical, Facundo Manes.
+
+“Voy a apoyar a este espacio político que lleva a Horacio como candidato a presidente porque puede convocar a una mayoría social para un cambio de mentalidad y para encarar el desarrollo de una vez
+por todas”, señaló durante el anuncio el dirigente de la Unión Cívica Radical (UCR), que pretendía competir a la Casa Rosada pero bajó su postulación antes del cierre de listas.
+
+Más tarde, Rodríguez Larreta dio la bienvenida a Manes a su espacio. “Facundo Manes es la persona indicada para ser uno de los líderes del cambio de nuestras vidas, teniendo claro siempre que, como
+dice él, ‘de los laberintos se sale por arriba’. Necesitamos líderes así, que lideren desde la esperanza y no desde el miedo”, lo destacó el actual jefe de Gobierno porteño.
+
+Convencido de que la Argentina necesita “orden fiscal” en sus cuentas y lograr acumular reservas, el ministro de Economía y también precandidato a presidente, Sergio Massa, se quejó esta mañana desde
+Mendoza de que, al momento de analizar la escalada de los precios en el país, no se toma en cuenta la deuda con el Fondo Monetario Internacional (FMI).
+
+“La Argentina tiene un enorme problema que nadie pone sobre la mesa a la hora de analizar la inflación: que heredó del gobierno de [Mauricio] Macri un ancla de 45 mil millones de dólares que tiene que
+estar renegociando cada 3 meses, la deuda con el FMI, que se usó para financiar fuga de capitales. No quedó en empresas, hospitales, rutas; se usó para la salida de plata de los fondos de inversión.
+Eso nos pone en tensión permanentemente a la hora de mirar el volumen macroeconómico de capacidad de la Argentina”, señaló en conferencia de prensa.
+
+Dijo también que el país se vio impactado por la sequía que afectó sobre todo a la agricultura y a la ganadería. “En diciembre [de 2022] habíamos cerrado muy bien en número de inflación, en
+acumulación de reservas, en términos de cuentas fiscales. Y vino la sequía que costó 21 mil millones de dólares. Es como que, de cada 100 pesos que le íbamos a exportar al mundo, perdimos 21″,
+detalló.
+
+“Eso en términos de cuentas nos obliga a estar permanentemente cuidando; y que aquellos que pretenden hacer ataques especulativos a la Argentina, o que desde la misma Argentina hacen ataques
+especulativos buscando ganar un manguito, no terminen impactando sobre los dólares financieros porque de alguna manera nos pega en precios”, acotó al respecto.
+
+El gobernador electo de San Luis, Claudio Poggi, le dio la bienvenida a esa provincia a la precandidata a la Casa Rosada de Pro Patricia Bullrich. “Estoy convencido de que Juntos por el Cambio
+triunfará en nuestra provincia en las próximas elecciones presidenciales y, de esa manera, San Luis realizará su aporte para el triunfo nacional”, sostuvo el mandatario que en junio se impuso en los
+comicios locales frente a Jorge “Gato” Fernández.
+
+“Gracias, te apoyaremos a vos y al pueblo de San Luis, que está movilizado y defendiendo en la calle el intento de Alberto Rodríguez Saá de armar un gobierno paralelo para burlar la voluntad popular”,
+indicó Bullrich, contra el actual mandatario.
+
+La precandidata a intendenta de Tigre, Malena Galmarini, admitió que durante su gestión en AYSA -empresa de la que aún es titular- tuvo al municipio donde reside y que quiere gobernar como prioridad.
+“Uno siempre tiene su corazoncito en el lugar en el que vive. Y además nosotros, tanto [Ricardo] Ubieto, como Sergio, como la actual administración, debíamos el agua y las cloacas. Y siempre uno
+pone... un poco más. Puse más el ojo, más el corazón y un poco más de recursos”, sostuvo.
+
+“Pero también es cierto que Tigre había quedado con la infraestructura primaria, necesaria, para poder hacer las redes secundarias. Nosotros habíamos avanzado mucho hasta 2013; después por cuestiones
+de la vida, de la política, no pudimos seguir avanzando. Y cuando yo llegué estaba todo dado para dejar el municipio como va a quedar, con el 100% de agua y cloacas. Eso es un montón”, detalló en
+Radio 10.
+
+La propuesta que hizo anoche la presidenciable de Pro Patricia Bullrich, de ir al Banco Central con cámaras de televisión para mostrar el bajo nivel de reservas, cuando en realidad los activos no
+están en la entidad físicamente, le valieron una catarata de críticas de sus detractores. Esta mañana, en tanto, su asesor y mano derecha Damián Arabia intentó explicar lo que quiso decir la
+exministra de Seguridad. Alegó que todo tiene que ver con plasmar la verdad y exponer la realidad de cómo recibirán el país en caso de ser elegidos.
+
+“Es una escenificación, es una explicación. Es para ser claros”, sostuvo. “Es lo mismo si yo tengo las reservas digitalizadas, en una pantalla, y entro con una cámara y muestro la pantalla. Es
+exactamente lo mismo. La idea es mucho más profunda, no está en un análisis tan superficial. Es una forma de decir que nosotros lo que vamos a tener que hacer es decirles a los argentinos cuántas
+reservas nos quedan y se las vamos a tener que mostrar: no importa si es un papelito que tenga impreso, una pantalla o si tengo lingotes ahí. Lo importante es que va a haber que decir la verdad”,
+marcó en Nacional Rock el también precandidato a diputado nacional.
+
+Con la inseguridad en el centro de la campaña en la provincia de Buenos Aires, el precandidato a gobernador bonaerense Néstor Grindetti, respaldado por la presidenciable de Pro Patricia Bullrich, dijo
+que los menores deberían ser punibles. “Nosotros en el espacio de Patricia entendemos que hay que bajar la edad de imputabilidad de los chicos. Si hay un chico de 15 que mata, debería estar detenido.
+Ahora, para eso hay que tener una cárcel para chicos de 15 años porque no podemos mezclar un chico de 15 años con un narcotraficante de 50″, consideró en Radio Continental.
+
+Tras ser visitado por el precandidato oficialista Sergio Massa el fin de semana pasado, el gobernador riojano, Ricardo Quintela, volvió a apuntar sus dardos contra la ciudad de Buenos Aires y dijo que
+es fácil gobernarla, ya que es rica.
+
+Convencido de que hay medios que tratan de “descalificar permanentemente” la tarea de los gobernadores del interior, manifestó primero que no lo avergüenza que lo comparen con el formoseño Gildo
+Insfrán, a quien sus detractores acusan de no ser republicano por estar en el poder -elegido por el voto popular, pero sin alternancia- desde 1995.
+
+”Es fácil gobernar una ciudad rica como la Capital Federal, lo difícil es gobernar ciudades como las nuestras”, afirmó Quintela, quien dijo además que hay una mirada “sesgada” de parte de los
+dirigentes capitalinos sobre las provincias.
+
+En tanto, se diferenció de la frase que utilizó el gobernador electo de Córdoba, Martín Llaryora, quien tildó a los referentes de Pro de la Ciudad como “pituquitos de Recoleta”. ”Yo no los calificaría
+de ‘pituquitos de Recoleta’, pero hay una matriz histórica en la que hemos perdido los federales y ganaron los unitarios”, sostuvo sin embargo en Radio 10.
+
+Irónico, el precandidato a gobernador de Entre Ríos Rogelio Frigerio criticó el entendimiento que logró el ministro de Economía y postulante oficialista, Sergio Massa, con el Fondo Monetario
+Internacional (FMI). “Es un gran acuerdo para el Fondo, se garantiza que le pague la Argentina sin poner un peso, rascando la olla, un gran negocio”, afirmó en Radio Mitre el exministro del Interior
+macrista.
+
+Asimismo consideró que la oposición tiene la posibilidad de mostrar que aprendió de los errores que cometió cuando fue gobierno, entre 2015 y 2019. “Patricia [Bullrich] y [Horario Rodríguez] Larreta
+tienen claro qué cosas hay que cambiar”, sostuvo.
+
+En una nueva semana marcada por los paros de subte, el precandidato libertario a jefe de Gobierno porteño, Ramiro Marra, aseguró que si es elegido va a declarar ese transporte como servicio esencial.
+“Para que esos sindicalistas dejen de joderle la vida a la gente”, afirmó el ladero de Javier Milei, directo contra los Metrodelegados, que anunciaron un corte total de actividades en todas las líneas
+y el Premetro desde hoy a las 20; y el jueves de 6 a 9. “Basta de aprietes y manipulaciones”, aseveró Marra.
+
+El canciller y precandidato a diputado nacional de Unión por la Patria, Santiago Cafiero, afirmó hoy que la política exterior del gobierno anterior se basó en “ir a pedirle la escupidera” al
+expresidente estadounidense Donald Trump y al Fondo Monetario Internacional (FMI), al salir al cruce del presidenciable de Pro Horacio Rodríguez Larreta, quien dijo que la Argentina debe “recuperar la
+confianza internacional”.
+
+”Chamuyo de campaña: Larreta olvida que gobernaron hasta 2019 y su política exterior fue ir a pedirle la escupidera a Trump y al FMI”, escribió el titular del Palacio San Martín en su cuenta de
+Twitter. Añadió que con ese préstamo “insostenible” que el gobierno macrista le solicitó al organismo de crédito “no fueron pragmáticos ni defendieron el interés nacional” y que las consecuencias se
+van a “padecer” por generaciones.
+
+En el marco de la campaña electoral, el actual jefe de Gobierno porteño había escrito en sus redes: “Abrirnos al mundo es aumentar nuestras exportaciones potenciando las economías regionales y
+mantener un diálogo franco, coherente y pragmático con todos los países del mundo, guiado siempre por el interés nacional. Tenemos que recuperar la confianza internacional”.
+
+Activadas sus recorridas por todo el país en el último tramo de la campaña, el ministro de Economía y presidenciable oficialista, Sergio Massa, visitará hoy Mendoza y San Luis. En esas dos provincias
+se va a reunir con pequeños productores y con representantes de la industria del vino. Según informaron fuentes allegadas al candidato, en esas charlas hará énfasis en que desde el primero de
+septiembre no habrá más retenciones para las economías regionales.
+
+A Mendoza el titular del Palacio de Hacienda llegó anoche y fue recibido por Omar Parisi, el candidato a gobernador del oficialismo en esa provincia donde en las PASO se impuso el radical Alfredo
+Cornejo.
+
+Siempre crítica del gobierno nacional, los dichos de anoche de la presidenciable de Pro Patricia Bullrich en LN+ causaron polémica entre sus detractores por su idea de llevar a la televisión hasta el
+Banco Central para evidenciar la falta de reservas, dado que no todos los activos se encuentran allí físicamente.
+
+Primero, la referente del ala dura de la coalición opositora insistió con sacar el cepo al dólar “lo antes posible” y no tener miedo de hacerlo. “Nuestro equipo económico va a presentar un modelo
+después de que veamos cómo está el acuerdo con el Fondo, qué hizo Massa, qué te deja Massa. Lo primero que vamos a hacer es entrar con una cámara de televisión al Banco Central. Claro, a corazón
+abierto queremos decirle a la gente cómo está el país. Es verdad [que lo vamos a hacer]. Para mostrar a la gente qué Banco Central tenemos”, sostuvo entonces la exministra de Seguridad, que acotó: “No
+están, no hay más, hay reservas negativas. Es importante que el pueblo argentino sepa”.
+
+Uno de los primeros en reaccionar fue el precandidato libertario a la Casa Rosada, Javier Milei, quien antes solía elogiar a Bullrich pero ahora la denosta. “Imagino que los ‘liberales’ de copetín
+saldrán a criticar tamaña bestialidad. No, pará, que con los curros de la venta de patente de corso no se jode”, ironizó al respecto. Pero eso no fue todo. “Igual, la mayoría de los economistas son
+analfabetos monetarios, por lo que puede que no hayan notado el punto”, destacó.
+
+Luego de la polémica desatada por el plan “blindaje” al que hizo referencia la precandidata a presidenta de Pro Patricia Bullrich, este lunes la exministra del gobierno de Mauricio Macri explicó su
+postura y aclaró qué quiso decir al hablar de “blindar las reservas” pidiendo dinero al Fondo.
+
+En diálogo con LN+, dijo que se trata de una medida destinada a quitar las restricciones sobre el dólar para no seguir perdiendo reservas del Banco Central. “El cepo se come las reservas. Ricardo
+López Murphy me dio un número: US$18.000 millones de dólares nos costó el cepo este año. Si nosotros mantenemos el cepo no van a venir inversiones y nos comemos los dólares, somos el plan Massa 2 y de
+ninguna manera vamos a eso”, indicó.
+
+Este año se llevan a cabo las elecciones presidenciales, en las cuales los ciudadanos argentinos deben elegir quién ocupará el sillón de Rivadavia los próximos cuatro años. Además de los cargos
+ejecutivos nacionales, en la votación también se decide sobre la composición del Poder Legislat
+
+===== NOTA 7 de 15 =====
+medio: La Nación
+titulo: Echaron a Amado Boudou de Soberanxs por apoyar a Sergio Massa y avalar el acuerdo con el FMI
+fecha: 2023-08-01 14:38:56.049000
+autor: 
+seccion: Política
+volanta_bajada: Alicia Castro y Gabriel Mariotto desplazaron al exvicepresidente del partido que reúne a kirchneristas duros; lo acusan de “incoherente” y se suman a la campaña de Grabois
+link: https://www.lanacion.com.ar/politica/echaron-a-amado-boudou-de-soberanxs-por-apoyar-a-sergio-massa-y-avalar-el-acuerdo-con-el-fmi-nid01082023/
+marcas a codificar: M0949, M0950, M0951
+----- TEXTO -----
+Soberanxs, un frente político que reúne a dirigentes del kirchnerismo duro y que nació tras la derrota electoral del Frente de Todos en 2021, se fue de la coalición oficialista cuando se resolvió que
+Sergio Massa sea el principal candidato a presidente. Un mes después, Alicia Castro, la referente del partido, expulsó a su número dos, Amado Boudou, por apoyar al ministro-candidato y defender el
+reciente acuerdo que pactó con el Fondo Monetario Internacional (FMI).
+
+“Amado Boudou tendría que explicar como pasó de ser el politico+crítico de @SergioMassa y de su legalización del Acuerdo con el FMI-al que llamó “contrato de Adhesion”- a ser su vocero de campaña.
+Adelantó q el Acuerdo sería inflacionario y pulverizará el salario de lxs trabajadores y jubilados. Opinó q el ajuste de Massa “es peor q el de Guzman”. Todo está grabado en los encuentros de
+@soberanxs, donde no pertenece más. La incoherencia daña a la política”, escribió Alicia Castro en su cuenta de twitter. La exembajadora argentina en Venezuela desplazó así al exministro de Economía y
+queda ahora en la cúpula de Soberanxs con Gabriel Mariotto.
+
+El malestar de Castro con Boudou es una pequeña foto de la interna peronista. Operadores de La Cámpora y de Juan Grabois se encargaron de amplificar el mensaje y dejar en evidencia cómo el
+exvicepresidente condenado por corrupción salió en defensa de Massa. La reacción de Grabois, precandidato a presidente de Unión por la Patria, se entiende a partir de la crítica que le dedicó Boudou
+recientemente.
+
+“Cuando Grabois sale a hacerse el picante y a decir ‘estoy en contra de la conducción táctica que nos trajo a estos candidatos’, bueno también lo trajo a él la conducción táctica”, dijo el
+exvicepresidente en AM 530. Y caminó con pies de plomo sobre la ⟦M0949⟧economía popular⟦/M0949⟧, la raíz del poder del dirigente social kirchnerista. “Está claro que en el mundo del trabajo se pone
+del lado de los empresarios, porque la famosa mochila, el seguro contra despidos, lo que está haciendo es proteger a quien despide. Es un derivado de la famosa ⟦M0950⟧economía popular⟦/M0950⟧, estar a
+favor de que haya dos economías es estar en contra de la movilidad social ascendente, esto de la ⟦M0951⟧economía popular⟦/M0951⟧ es muy contrario a la idea del peronismo, del kirchnerismo”, señaló.
+
+Uno de los primeros aliados de Cristina Kirchner que reveló que Boudou se había acercado a Massa para coordinar el acuerdo con el FMI fue Leopoldo Moreau. “Unión por la Patria tiene que mostrar qué va
+a hacer con la deuda con el FMI: nuestra fuerza política ha dicho que va a haber que reformular el acuerdo con el Fondo. En ese sentido, Massa se ha plegado a eso y Boudou está trabajando con el
+ministro de Economía”, dijo Moreau en declaraciones a la AM750 hace un mes. La sentencia de Moreau, inicialmente desmentida a LA NACION por fuentes cercanas a Massa, parece ahora confirmarse al darse
+el alejamiento del exvicepresidente del frente que encabeza Alicia Castro. De hecho, Boudou fue visto en el imponente búnker que Unión por la Patria alquila en el microcentro porteño, donde confluyen
+massistas y camporistas.
+
+A partir del alineamiento de Boudou con Massa, Soberanxs agilizó el ritmo de sus publicaciones en las redes sociales con mensajes de apoyo a la candidatura de Grabois.
+
+Además de Castro y Mariotto, también forman parte de Soberanxs el sociólogo Jorge Elbaum; el escritor Mempo Giardinelli; el referente de la Unión de Trabajadores de la Tierra (UTT) Nahuel Levaggi; el
+extitular de la Unidad de Información Financiera (UIF) José “Pepe” Sbatella; la actriz Cristina Banegas; la economista Felisa Miceli; la historiadora Araceli Bellotta y el economista Hernán Arbizu,
+entre otros.
+
+===== NOTA 8 de 15 =====
+medio: La Nación
+titulo: Las razones detrás del voto a los principales candidatos, según una encuesta
+fecha: 2023-08-01 18:51:32.474000
+autor: 
+seccion: Política
+volanta_bajada: Quienes eligen a a Patricia Bullrich es por su rol pelea contra la inseguridad, mientras que a Larreta por la gestión; a Massa, por su rol como ministro de Economía; sorpresas
+link: https://www.lanacion.com.ar/politica/las-razones-detras-del-voto-a-los-principales-candidatos-segun-una-encuesta-nid01082023/
+marcas a codificar: M0952
+----- TEXTO -----
+Renovación. Ese es el principal motivo por el cual el votante le confiaría su voto al candidato de su preferencia en las PASO del 13 de agosto. Surge así de un estudio elaborado por la encuestadora
+Opinaia. La medición, realizada en la segunda semana de julio, busca indagar en las razones que hay detrás de la elección de los votantes; es decir, por qué se vota a quien vota.
+
+De esta manera, el trabajo indica que aquello que moviliza al votante en su elección, es la idea de que la opción elegida encarna una renovación en términos políticos. Esto es particularmente fuerte
+entre los votantes del candidato de Libertad Avanza, Javier Milei, y los de Juan Grabois, 29% en el caso del libertario y 27% en el precandidato de Unión por la Patria. Pero también está presente en
+el universo de votantes de Juntos por el Cambio: el 18% de los votantes de Patricia Bullrich entiende que la precandidata significa un cambio. En el mismo modo y medida, su rival, Horacio Rodríguez
+Larreta, con un 18%, también encarna la sensación de un cambio.
+
+Por detrás de la renovación, el electorado valora especialmente en el candidato que eligiría para las PASO del 13 de agosto su “manejo de la economía”, especialmente su capacidad para contener o
+retrotraer la inflación. En tercer lugar, asoma una razón que puede leerse en juego con el descontento y la abstención: el descarte.
+
+La medición, realizada sobre la base de 2000 casos nacionales, desglosa los motivos dentro del segmento de cada candidato, arrojando algunos datos esperables, pero también algunas sorpresas.
+
+Por caso, el 30% de los votantes de Milei elige al único candidato de La Libertad Avanza porque lo cree capaz de manejar la economía y la inflación. Pero quien lo sigue en este rubro es nada menos que
+el ministro de Economía, Sergio Massa: el 24% de los suyos lo elige porque en su figura ven a alguien en condiciones de domar la inercia inflacionaria a pesar que desde que asumió en Hacienda los
+precios subieron y creció la inflación interanual.
+
+En el caso del jefe de Gobierno porteño, Horacio Rodríguez Larreta se observa cierta uniformidad en los tres principales motivos detrás de su elección: renovación (18%); capacidad de gestión (17%) y
+descarte (18%). Es probable que en su comando de campaña celebren la paridad entre la renovación y el descarte: en una elección que exhibe una fuerte tendencia a la abstención, el votante “tardío”
+podría inclinarse por alguien que se percibe como el “menos malo” del menú electoral.
+
+La sorpresa en el jefe porteño, que desde hace tiempo busca esculpir una imagen dialoguista que lo proyecte como el candidato del consenso, es que solo el 10% de sus votantes lo elige por estos
+motivos. Del otro lado, solo el 2% de los suyos encuentra en su “liderazgo y carisma”, un motivo para confiarle su voto.
+
+Patricia Bullrich es la candidata que ofrece a sus votantes una razón más clara que el resto de los votantes: su capacidad para combatir la inseguridad es el principal motivo (28%) que mueve a su
+electorado. Detrás, a 10 puntos de distancia, aparece la idea de renovación. Solo el 1% de sus votantes valoran sus “dotes” para el diálogo.
+
+El ministro de Economía, Sergio Massa, reparte las razones entre aquellos que lo acompañaran con su voto en “dos niveles” de mediciones. El 24% lo elige porque es el “menos malo”, otro 24%, como se
+dijo, porque lo cree capaz de manejar la inflación. Por debajo, con un 11%, aparecen sus ideas, su experiencia de gestión, y su capacidad de diálogo. Cerquita, con un 10%, en sexto lugar, se ubica la
+idea de que Massa, siempre para sus propios votantes, implica una renovación en la política.
+
+Su rival en la interna, Juan Grabois, parece ser quien ofrece un cuerpo de ideas más nítido. La principal razón que encuentran su votantes para votar por él, con un 31%, son sus “ideas” sobrepasando
+así a Bullrich en su capacidad de combatir la inseguridad (28%); todo siempre desde la luz del votante propio.
+
+Por detrás, aparece la idea de que el referente de la Unión de los Trabajadores de la ⟦M0952⟧Economía Popular⟦/M0952⟧ (UTEP) encarna también una renovación. En un juego de espejos, se aproxima a su
+rival en la interna de Unión por la Patria en el rótulo “descarte”; el 22% cree que es el “menos malo”, contra el 24% de Massa. En las antípodas, solo el 0,1% de sus votantes lo elige porque lo cree
+capaz de manejar la inflación y el 0,4% por su experiencia de gestión.
+
+Por el lado de Milei, los motivos que se imponen son la capacidad para el manejo de la economía (30%) y la renovación (29%). En tercer lugar, secundando a Grabois en este rubro, aparecen las “ideas”:
+el 19% lo elige por sus propuestas.
+
+===== NOTA 9 de 15 =====
+medio: La Nación
+titulo: Elecciones 2023: el dardo de Martín Yeza a Horacio Rodríguez Larreta
+fecha: 2023-08-02 06:01:43.997000
+autor: 
+seccion: Política
+volanta_bajada: Seguí los detalles de la campaña electoral en la Argentina para las primarias abiertas del domingo 13 de agosto; fechas, declaraciones y todo lo que hay que saber
+link: https://www.lanacion.com.ar/politica/elecciones-2023-en-vivo-todo-sobre-las-paso-candidatos-fechas-y-noticias-minuto-a-minuto-nid02082023/
+marcas a codificar: M0953
+----- TEXTO -----
+El precandidato a legislador porteño por Unión por la Patria (UxP), Matías Lammens, consideró que Sergio Massa “propone crecimiento e industrialización con un Estado presente, generando oportunidades
+de crédito e inversión”
+
+El funcionario remarcó que la oposición “propone el shock de ajuste” mientras que el ministro de Economía y precandidato presidencial postula un “plan de estabilización con crecimiento,
+industrialización y con un Estado presente que genere oportunidades de crédito e inversión”.
+
+En tanto, se refirió al escenario porteño y consideró que “empieza a haber un fin de ciclo”. “Los niveles de aprobación que tenían ellos ya no son los mismos y la verdad que nuestras propuestas para
+la Ciudad son para potenciar y hacer crecer la Ciudad”, señaló en declaraciones a la TV Pública.
+
+El Tribunal Superior de Justicia de la ciudad de Buenos Aires rechazó un recurso extraordinario de los dirigentes de izquierda que cuestionaron la candidatura de Jorge Macri a la jefatura de Gobierno
+porque -señalan- no cumple con el requisito de estar domiciliado en la ciudad. Con esto, ahora solo queda la posibilidad de que recurran a la Corte Suprema de Justicia antes de las elecciones del 13
+de agosto.
+
+La decisión fue alcanzada por tres votos contra dos. Los jueces Inés Weinberg, Marcela De Langhe y Santiago Otamendi dijeron que no había “una cuestión federal que habilite la jurisdicción
+extraordinaria de la Corte Suprema de Justicia de la Nación”. En cambio, los jueces Luis Francisco Lozano y Alicia Ruiz indicaron que las cuestiones planteadas tienen implicancia constitucional”.
+
+El ministro de Seguridad de la provincia de Buenos Aires, Sergio Berni, aseguró que Sergio Massa es quien “mejor conoce el funcionamiento del Estado y tiene un amplio conocimiento y un amplio
+liderazgo” y destacó la “generosidad” que tuvo al “involucrarse en el momento que era necesario por el bien del país”.
+
+El funcionario señaló que en Unión por la Patria hay una “mirada con bases muy férreas en la soberanía, y no sólo territoriales, sino de la que tiene que tener un país para tomar sus propias
+decisiones. “Con que este Fondo Monetario Internacional (FMI) que condiciona todos los días, Massa, como ministro de Economía, toma decisiones firmes para seguir avanzando mucho más fuerte”, dijo en
+una charla con A24.
+
+La diputada María Eugenia Vidal contó que decidió anunciar que elegirá a Horacio Rodríguez Larreta en la interna presidencial de Juntos por el Cambio(JxC) porque quiere “votar en libertad”.
+
+“Quiero votar en libertad. Valoro la experiencia de Horacio, es importante haber gobernado a millones. Respeto mucho a Patricia, se ha ganado el espacio en Juntos por el Cambio, que elija a Horacio no
+va en detrimento de Patricia, sino de tener la libertad de decir por quién voto”, sostuvo en una entrevista que le concedió a LN+.
+
+En ese sentido, señaló que nunca se creyó “dueña de las decisiones de nadie”. “Elegí en libertad y cumplí con la palabra que les había dado. Lo dije muchas veces: para mí es bastante obvio es que mi
+voto es para Horacio, quien vio nuestra trayectoria en estos 27 años desde que nos conocemos no puede sorprenderse”, remarcó.
+
+A diez días de las PASO, el compañero de fórmula de Horacio Rodríguez Larreta, Gerardo Morales, dijo que el mensaje hacia la dirigencia es que “no se enganchen con las peleas” porque “la gente tiene
+muchas expectativas en Juntos por el Cambio .
+
+“Nos estamos preparando para gobernar, vamos a tener que seguir con el camino de las propuestas. Yo me creo un burro de trabajo, Horacio es un tipo obsesivo del trabajo”, dijo en declaraciones a LN+.
+
+El precandidato a gobernador bonaerense que acompaña a Patricia Bullrich, Néstor Grindetti, se sumó a le polémica generada luego de que María Eugenia Vidal anunciara que votará a Horacio Rodríguez
+Larreta en la interna presidencial de Juntos por el Cambio (JxC) y consideró que “no importan los acuerdos entre dirigentes” sino “la cercanía con la gente”.
+
+" Con la militancia y defendiendo los intereses de los laburantes vamos a sacar la provincia adelante! Firmeza, coraje y compromiso! Eso es lo que necesitamos”, escribió en su cuenta de Twitter.
+
+El precandidato a gobernador por el espacio Principios y Valores, Luis D’Elía, expresó críticas hacia el oficialismo en general y cuestionó a la vicepresidenta Cristina Fernández de Kirchner en
+particular, a quien le atribuyó “un giro a la social-democracia con Alberto Fernández y, ahora, al liberalismo conservador con Sergio Massa”.
+
+“Todo lo que ella hizo en este año, fue para solucionar sus problemas penales”, aseguró durante un acto de campaña en Esteban Echeverría, al sur del conurbano bonaerense.
+
+El Tribunal Superior de Justicia de la ciudad de Buenos Aires (TSJ) confirmó el rechazo de la acción de amparo colectivo iniciada por una fundación contra el Gobierno porteño por la implementación del
+voto electrónico para las próximas elecciones.
+
+La demanda fue promovida por la Fundación para la Difusión del Conocimiento y el Desarrollo Sustentable Vía Libre, que reclamaba “suspender en los próximos comicios la implementación del uso del
+sistema informático contratado por no contar con garantías suficientes, y reponer las elecciones en papel”.
+
+La presidenta de la fundación, María Busaniche, solicitó que “se garantice el correcto cumplimiento del derecho al voto en el contexto de las elecciones de autoridades de este año en la Ciudad de
+Buenos Aires” y sostuvo que “el uso del sistema informático contratado vulnera el derecho al sufragio”. En este sentido, el Tribunal Electoral porteño desestimó la demanda sin analizar el planteo de
+fondo, “porque entre los objetos de la fundación, según su estatuto, no figuraban la representación de intereses colectivos y menos aquellos relacionados con los comicios para la elección de
+autoridades”.
+
+A diez días de las PASO, el organismo dejó fuera de competencia a Carlos Geneiro, de Esperanza Del Pueblo; Eduardo Vázquez, de Encuentro Republicano Federal y Leonardo Mollard, de Liber.Ar.
+Casualmente, los mismos tres espacios políticos fueron excluidos de los comicios legislativos. En ambos casos, se constató que no contaban con los requisitos mínimos para participar de los comicios.
+Estos nombres se suman a los cientos de otros que la Justicia Electoral desafectó.
+
+La senadora nacional bonaerense del Frente de Todos acusó a referentes opositores de “odiar al país” y los responsabilizó de “entregar un país dinamitado”.
+
+Di Tullio, quien busca la reelección por Unión por la Patria, criticó la postura de la precandidata presidencial de Juntos por el Cambio Patricia Bullrich en relación con su propuesta de reforma
+laboral y afirmó que “corren con una ventaja” debido a que “el 40% del padrón no vivió el 2001″. “Ellos corren con una ventaja, el 40% del padrón no vivió lo que pasó en el 2001. Que ese sector vuelva
+a proponer la reforma laboral no me extraña”, señaló la legisladora.
+
+Luego, apuntó contra Juntos por el Cambio, sobre quienes dijo siempre están “del lado de los poderosos”. “No sé cómo hacen aquellos adherentes a la oposición. Como hacen para votar a alguien que odia
+el país. Si ellos detestan a la mitad de la gente”, sostuvo. Y agregó: “Ellos te dicen que no tienes derecho a tener derecho laboral porque tiene que cobrar el Fondo Monetario Internacional (FMI).
+Ellos siempre son fuertes con los débiles y débiles con los fuertes. Ellos están siempre con los poderosos”.
+
+Sobre el final de la charla radial, opinó: “La gente no quiere que vuelva la oposición. Hace menos de 4 años entregaron un país dinamitado. Ellos mintieron en la campaña de 2015. La gente quiere
+mejores salarios, estudiar y mejores oportunidades. No quiere que los repriman”.
+
+El precandidato a presidente de Libertad Avanza, Javier Milei, encabeza un acto junto a los principales referentes de su espacio en el que presenta su “plan de gobierno”.
+
+En la mesa con el economista están: Victoria Villarruel, precandidata a vicepresidente; Carlos Rodríguez, jefe de asesores economicos; Carolina Píparo; Bertie Benegas Lynch; Marcela Pagano; Sandra
+Pettovello; Martín Krause, referente de educación; Ricardo Inti Alpert, de vivienda y Alejandro Cosentino, referente de Innovación.
+
+En la plataforma, Milei asegura que, de ser electo, despedirá del Estado a todos los nombramientos y cargos políticos de 2023. Además, promete que se privatizará o cerrarán sus puertas la agencia
+oficial de noticias Telam, el Inadi, la TV Pública y el INCAA.
+
+Unicef y Amnistía Internacional lanzaron una campaña con el objetivo de “incentivar la participación activa” de las y los jóvenes en las próximas elecciones.
+
+“Argentina es un país pionero en América Latina en reconocer y ampliar los derechos políticos a las juventudes. Que se involucre a las y los jóvenes en los procesos de toma de decisiones es vital para
+garantizar que se tengan en cuenta sus intereses y perspectivas”, señaló la especialista en Comunicación de Unicef Argentina, Natalia Calisti, al referirse a la campaña “Nuestro voto cuenta”.
+
+En ese marco, a través de un comunicado, añadió: “Las y los jóvenes tienen derecho a ser escuchados y tener voz en las cuestiones que las y los afectan”,
+
+Desde que la ley 26.774 de 2013 reconoció y amplió los derechos políticos de las juventudes, la participación de jóvenes en las elecciones aumentó progresivamente, indicaron desde las organizaciones.
+
+Sin embargo, según una encuesta elaborada por Unicef de 2022, más del 52 % de las y los jóvenes no sienten que sus ideas estén representadas por algún partido político o candidato.
+
+El expresidente, Mauricio Macri, aclaró esta tarde sus dichos contra María Eugenia Vidal luego de que la exgobernadora boanerense apoyara públicamente la precandidatura de Horacio Rodríguez Larreta.
+
+“Quiero dejar en claro que en ningún momento cuestioné a María Eugenia por su decisión de apoyar públicamente a Horacio. Mi posición históricamente siempre fue la misma, cada uno es dueño de sus
+decisiones y estas no deben ser cuestionadas”, arranca el posteo del fundador del PRO.
+
+Macri agregó: “De esa libertad surge también la responsabilidad individual. ¿Qué mérito o culpa tendría alguien si no puede hacer lo que quiere o decir lo que piensa?”
+
+“Yo creo en eso, para bien o para mal todos debemos ser autores de nuestro destino. Por otro lado, también entiendo el desencanto de Cristian Ritondo, que sintió que no se había cumplido con la
+palabra empeñada porque también, como dije otras veces, creo que hay que cuidar la palabra”, cierra el posteo en el que buscó bajar el tono a la polémica.
+
+Horas antes, el expresidente Mauricio Macri criticó con dureza el apoyo de la exgobernadora bonaerense al jefe de gobierno porteño.
+
+Durante una recorrida por Pergamino y San Nicolás, Macri dijo que está “muy enfocado” en que el espacio permanezca unido después de las PASO del 13 de agosto en las que se enfrentarán Patricia
+Bullrich y Larreta, y reiteró que cree en la competencia.
+
+Consultado sobre la inclinación de Vidal a favor de Larreta, el fundador remarcó que no lo consideró una sorpresa por el vínculo personal que tienen el jefe porteño y la exgobernadora. No obstante,
+lamentó que Vidal “haya tomado varias decisiones sucesivas que han desdibujado su perfil”.
+
+El Gobierno porteño contrató como espacio destinado al centro de cómputos y escrutinio de votos de las próximas elecciones a dos de los pabellones del complejo Costa Salguero, el lugar elegido
+históricamente por el PRO y Juntos por el Cambio (JxC) para reunirse en las jornadas electorales y que podría repetir como búnker el próximo domingo 13 de agosto.
+
+De acuerdo con una resolución del Instituto de Gestión Electoral (IGE) de la Ciudad de Buenos Aires, la firma “Centro Costa Salguero SA”, recibirá el pago de $128.384.000 por la “Provisión de un
+Espacio para emplazar el Centro de Cómputo y Monitoreo de las elecciones de la Ciudad Autónoma donde se llevará a cabo el Escrutinio Definitivo del Distrito”.
+
+El acto administrativo fue por contratación directa por exclusividad, comenzó el 28 de julio y cuatro días después logró la aprobación por parte del IGE para el alquiler de los pabellones 5 y 6 y la
+playa de estacionamiento E del complejo situado en la costanera norte porteña.
+
+El servicio contempla un período de 36 días que abarca todas las instancias electorales- las primarias, las generales y el eventual balotaje- para el alquiler de 4852 metros cuadrados conformados por
+los sectores de acceso, confitería del pabellón 6; unos 4.343 metros cuadrados del pabellón 5 y unos 6.400 metros cuadrados del estacionamiento.
+
+El complejo elegido por la administración de Horacio Rodríguez Larreta para el conteo de los votos porteño coincide con el que, tradicionalmente, la dirigencia del PRO espera los resultados
+electorales, lo cual despertó voces de preocupación en sectores de la oposición.
+
+“Para mí es un gran orgullo seguir trabajando con María Eugenia Vidal. Yo me siento muy identificado con ella y somos amigos hace muchos años. Es sumar. El desafío que tenemos por delante es enorme”,
+dijo Horacio Rodríguez Larreta en diálogo con LN+.
+
+Sobre los dichos de Mauricio Macri contra María Eugenia Vidal: “Yo nunca opino de las alusiones personas que se dan en Juntos por el Cambio. No lo hice antes, ni lo voy a hacer ahora. Con María
+Eugenia somos equipo. Juego de memoria con ella”.
+
+“El 13 [de agosto] vamos a estar juntos a la noche. En 2015 tuvimos unas PASO muy visibles con Gabriela Michetti y al día siguiente estábamos trabajando. Yo voy a un búnker unificado, al lugar que
+quieran. Siempre dije que era bueno que esperemos juntos los resultados a donde sea. No voy a estar discutiendo por el lugar físico”, dijo ante la pregunta si esperarán los resultados en el mismo
+lugar él y su rival de la interna, Patricia Bullrich.
+
+El precandidato a diputado nacional por la ciudad de Buenos Aires de Hacemos por Nuestro País, Diego Bossio, acompañó esta mañana a Juan Schiaretti en su visita a la Asociación Cooperativas Argentinas
+(ACA) y aseguró que trabajará para convertir a la ciudad de Buenos Aires “en el principal centro tecnológico del país”.
+
+“Una de nuestras prioridades principales será agregar valor a toda la cadena productiva para generar puestos genuinos de trabajo. Por eso, vamos a convertir a la ciudad de Buenos Aires en el principal
+centro tecnológico del país”, afirmó.
+
+En ese sentido, señaló: “La ciudad de Buenos Aires es una gran generadora de turismo, conocimiento, cultura y actividad industrial, pero no es suficiente. Es necesario desarrollar un plan serio de
+construcción de infraestructura para impulsar la capacidad tecnológica del país”.
+
+Schiaretti y Bossio se reunieron con el presidente de la ACA, Rubén Borgogno y miembros de su junta directiva en la sede de la institución en Buenos Aires para manifestar su apoyo a los más de 50.000
+productores que tienen en 11 provincias en todo el país.
+
+El Ministerio del Interior dio a conocer los montos que percibirán los ciudadanos argentinos que se desempeñen como autoridades de mesa en los próximos comicios, lo que incluye las elecciones
+internas, las generales y un posible ballottage.
+
+A través de la resolución 88/2023, publicada en el Boletín Oficial, la cartera que comanda el ministro Eduardo “Wado” de Pedro, detalló que se abonarán $7000 en concepto de viáticos a las personas que
+estén afectadas por el operativo electoral.
+
+En medio de la polémica desatada tras la decisión de María Eugenia Vidal de inclinarse a favor de Horacio Rodríguez Larreta, el expresidente Mauricio Macri criticó con dureza el apoyo de la
+exgobernadora bonaerense al jefe de gobierno porteño.
+
+Durante una recorrida por Pergamino y San Nicolás, Macri dijo que está “muy enfocado” en que el espacio permanezca unido después de las PASO del 13 de agosto en las que se enfrentarán Patricia
+Bullrich y Larreta, y reiteró que cree en la competencia.
+
+Consultado sobre la inclinación de Vidal a favor de Larreta, el fundador remarcó que no lo consideró una sorpresa por el vínculo personal que tienen el jefe porteño y la exgobernadora. No obstante,
+lamentó que Vidal “haya tomado varias decisiones sucesivas que han desdibujado su perfil”.
+
+A través de un posteo en Twitter, la diputada nacional por la Coalición Cívica ARI criticó a aquellos referentes de JxC quienes “tensaron” la interna opositora al emitir comentario sobre el
+pronunciamiento de la exgobernadora bonaerense: “Mientras los dirigentes se hacen los decepcionados en Twitter hablándole a la interna política, Cristina consolida su impunidad, los alimentos
+aumentan, se siente el tarifazo en los hogares, los jubilados no dan más y la inseguridad mata. No es serio. Déjense de jorobar”.
+
+El actual intendente de Pinamar y precandidato a diputado bajo la lista de Patricia Bullrich renovó su apoyo a la exministra de Seguridad y disparó contra el jefe de Gobierno porteño. “Ella es la que
+mejor entendió en qué nos equivocamos y qué teníamos que mejorar post 2019. La que nos lideró cuando nos psicopateaban por cadena nacional. Su coraje y lucha nos dio la esperanza que necesitábamos
+para no rendirnos”, sostuvo a través de un posteo en la red social Twitter.
+
+Luego, apuntó contra Rodríguez Larreta por si intensión de ampliar el espacio con referentes de partidos antagonistas: “Necesitamos de todos para cambiar, pero ese cambio tiene que ser coherente, no
+creo que sea serio hacer una cosa y lo contrario a la vez o juntar políticos que unos piensan una cosa y otros lo opuesto en temas centrales”.
+
+El precandidato a la presidencia de Unión por la Patria se reunió finalmente con Marc Stanley. Lo recibió junto con Paula Abala Medina, su compañera de fórmula, en su lugar de trabajo, decorado con
+cuadros de Néstor Kirchner, Evo Morales, Hugo Chávez y Lula, y una foto encuadrada de Maradona con Fidel Castro.
+
+El embajador fue el primero en hacer pública la reunión con un mensajes por redes sociales. Luego, fue Grabois el que dio su versión. “Es un pequeño botón de muestra de cómo se defiende la dignidad
+nacional y salimos del complejo de ´patio trasero´”, dijo el dirigente social, referente de los trabajadores de la ⟦M0953⟧economía popular⟦/M0953⟧.
+
+Mientras que en el búnker de la exministra de Seguridad intentaron bajarle el tono a la decisión de María Eugenia Vidal de manifestar su apoyo a la precandidatura del jefe porteño, Horacio Rodríguez
+Larreta, y decir que esto no afectar al caudal de votos, quienes escucharon al expresidente Mauricio Macri en las últimas horas lo notaron “triste” por las decisiones sucesivas de la diputada
+nacional, que él considera desacertadas.
+
+El presidente del bloque de la Coalición Cívica en la Cámara de Diputados, Maximiliano Ferraro, utilizó hoy las redes para aludir al apoyo de Vidal a Larreta.
+
+“Que María Eugenia anuncie que votará a Horacio y eso sea noticia, habla de la libertad dentro del espacio político que conformamos. Donde no hay mandatos, donde no hay obligaciones, donde cada voto,
+también puertas adentro, se conquista con propuestas y con la idea de país que cada uno propone. ¡Gracias, María Eugenia Vidal! Juntos y en equipo vamos a cambiar la Argentina”, escribió en Twitter.
+
+Federico Fagioli, diputado Nacional de Frente de Todos y referente por Frente Patria Grande -el espacio que lidera Juan Grabois- cuestionó hoy a la titular de AySA, Malena Galmarini. “La compañera
+ayer dijo muchas burradas, le faltó estudiar varios puntos”, acusó el parlamentario.
+
+En diálogo con Radio 10, Fagiolo siguió: “Las PASO están para dar la discusión por dentro y si se pierde acompañar. Me parece que Malena Galmarini tiene que estudiar un poco más y entender cómo
+funciona”.
+
+“El voto a Juan Grabois no es tirarlo a la basura, sirve para traccionar a sectores que no están de acuerdo con decisiones de Sergio Massa”, argumentó, y apuntó: “Deben estar bastante preocupados por
+lo que propone Juan Grabois”
+
+El parlamentario hizo alusión a una serie de comentarios no solo sobre Grabois, sino sobre sus votantes. “Lo que dijo Malena Galmarini sobre los trabajadores populares como cartoneros es totalmente
+ofensivo, nosotros no romantizamos la pobreza, al contrario nos ponemos del lado de los trabajadores y que cada vez tengan más derechos”, evaluó, y señaló: “Lo que dicen ellos es tapar la realidad
+debajo de la alfombra, no hay que negar lo que está pasando en la actualidad. Malena Galmarini se vé que no vive la realidad de millones de argentinos”.
+
+Tras el respaldo de María Eugenia Vidal a Horacio Rodríguez Larreta en su carrera presidencial, Milagros Maylin dedicó palabras de aliento a ambos dirigentes en un extenso posteo en su perfil de
+Instagram. “Hay personas que te hacen quedarte en la política, permanecer a pesar de lo difícil que a veces se hace el camino. En mi vida, esa persona fue y es Maria Eugenia Vidal”, sostuvo.
+
+“Con una convicción inquebrantable, una firmeza y determinación únicas, María Eugenia Vidal tiene un corazón generoso, siempre priorizando el bienestar de los argentinos”, siguió Maylin, pareja de
+Rodríguez Larreta y exsecretaria de Bienestar Integral y Tercera Edad de la Ciudad, quien también integró el equipo de Vidal cuando era gobernadora de la provincia de Buenos Aires.
+
+“Tengo muchas anécdotas de nuestro trabajo en provincia de Buenos Aires, pero la que más recuerdo es la del 9 de diciembre de 2019″, agregó, y precisó: “A diferencia de otros, en su último día de
+gestión, ella seguía trabajando y corriendo de un lado a otro para dejar la documentación ordenada”.
+
+Según Maylin, “Vidal es la que siempre está del lado bueno de la política”. “La valiente, la que se preocupa por todos”, definió, y reforzó: “Por eso me alegra y enorgullece tanto que Maria Eugenia
+apoye el proyecto de Horacio Rodríguez Larreta. El único equipo con propuestas concretas para cambiarle la vida a los argentinos. El único proyecto que puede sacar el convenio del cajón, ganarle a los
+tiempos administrativos”.
+
+“Mariu y Horacio, sé que juntos van a cambiar la Argentina”, concluyó.
+
+El presidente de Brasil, Luiz Inácio Lula da Silva, aseguró hoy frente al proceso electoral argentino que “pide a Dios” que gane un candidato que defienda la inclusión social y el desarrollo y que “la
+democracia prevalezca”.
+
+”Pido a Dios que la democracia prevalezca y venza la democracia. Que sea electo un candidato con más perspectiva de inclusión social y desarrollo y no uno que crea que toda política pública es gasto o
+que resolver el problema de Argentina es privatizar”, respondió Lula ante una pregunta de Télam en un desayuno realizado con corresponsales extranjeros en el Palacio del Planalto.
+
+El armador político y mano derecha de Patricia Bullrich, Juan Pablo Arenaza, opinó sobre la decisión de la diputada nacional María Eugenia Vidal de respaldar a la otra terminal de la coalición,
+liderada por Horacio Rodríguez Larreta. “Es un problema de Vidal con la gente, ella dijo que iba a ser neutral. Ahora tendrá que explicar eso”, sostuvo ante LA NACION.
+
+Tras ello, publicó un mensaje en Twitter en el que remarcó que la exgobernadora bonaerense quedó como “la empleada del mes” del jefe de Gobierno porteño. ”La mas bonaerense, la mas porteña, la mas
+neutral y al final de nuevo la empleada del mes. Sin comentarios”, escribió Arenaza en su cuenta oficial de Twitter, sin mencionarla.
+
+Siempre crítica de los libertarios, la precandidata izquierdista a presidenta Myriam Bregman apuntó directamente contra el postulante Javier Milei. “Es un títere total del poder económico”, aseguró
+sobre el líder de La Libertad Avanza.
+
+“Milei tiene una función. Partamos de lo que ocurre en la sociedad, donde hay un descontento muy grande con la dirigencia que se expresa en el voto en blanco, en el voto a la izquierda. A Milei lo
+construyeron para que la bronca quede en la dirigencia política. Hace que toda tu bronca la dirijas a la dirigencia política y que no se te ocurra ni un minuto cuestionar el poder económico que hay
+detrás”, consideró en Radio 10.
+
+En un intento de mostrar contrastes con su competidor interno de Pro Jorge Macri, el precandidato a jefe de Gobierno radical, Martín Lousteau, aseveró esta mañana: “Los piquetes no se resuelven
+diciendo: ‘Conmigo no van a pasar’”. Se resuelven si sabemos hacer y decir cómo los vamos a impedir”. De esta forma prometió que, si accede al Ejecutivo capitalino, impulsará un código de convivencia
+para sancionar a los que transformen una protesta en un corte de calle.
+
+La decisión que tomó la diputada nacional María Eugenia Vidal de respaldar a Horacio Rodríguez Larreta en su carrera presidencial despertó mensajes de distintos dirigentes del ala de Pro que responde
+al jefe de Gobierno porteño, en esta interna contra Patricia Bullrich. Entre ellos se expresaron el secretario de Asuntos Públicos de la Capital, Waldo Wolff, quien la destacó a Vidal como una de las
+“grandes arquitectas” de Pro y también el vicepresidente primero de la Legislatura, Emmanuel Ferrario, que ponderó su “experiencia, coraje y valentía”.
+
+La promesa de la precandidata a presidenta de Pro Patricia Bullrich de entrar al Banco Central con cámaras de televisión para mostrar la falta de reservas, cuando en realidad los activos argentinos no
+están físicamente ahí, generó polémica. Pero la exministra de Seguridad intentó explicar lo que quiso decir y fue irónica.
+
+“Critican cualquier cosa. Es una imagen simbólica muy fuerte decir que uno va a entrar con una cámara al Banco Central para mostrar [las reservas] en el sistema que hoy tiene el Banco Central, que es
+un sistema distinto. Pero el oro tiene que estar ahí, ¿estará el oro o no estará el oro? ¿Qué es lo que pasa?”, chicaneó a sus detractores.
+
+“Lo importante es lo simbólico. Lo simbólico es que una de las cosas que más le criticaron al gobierno de Mauricio Macri fue no haber descripto la realidad a corazón abierto. Yo voy a describir la
+realidad a corazón abierto. Así que hay que entender un poquito más la complejidad del lenguaje y la complejidad de lo simbólico”, señaló.
+
+Apenas unos minutos después de que María Eugenia Vidal anunciara que lo apoyará en la interna contra Patricia Bullrich, el precandidato a presidente Horacio Rodríguez Larreta reaccionó con otra carta
+dirigida a la diputada nacional. “Muchas gracias Mariu, te quiero mucho”, le dijo primero el jefe de Gobierno porteño. Cuando compartió la publicación en la que plasmó su respaldo, la exgobernadora
+había destacado los 27 años de trabajo conjunto y la amistad que los une.
+
+“Nos preparamos toda la vida para este momento”, destacó el dirigente de la Capital, que subió una foto de ambos en los inicios de Pro. “Tenemos la experiencia, los equipos, el empuje y la convicción
+de que el cambio es posible. Y hoy me pone muy contento saber que lo vamos a hacer juntos”, le dijo Rodríguez Larreta.
+
+Esta mañana la diputada nacional María Eugenia Vidal anunció que apoyará a Horacio Rodríguez Larreta en la interna contra Patricia Bullrich por la Presidencia. En una extensa publicación que compartió
+en sus redes sociales, la exgobernadora bonaerense hizo énfasis sobre todo en los años de trabajo conjunto con el actual jefe de Gobierno porteño, como así también en la amistad que tienen. LA NACION
+averiguó que este mediodía compartirán un acto en Santa Cruz.
+
+“Voto a Horacio porque estoy convencida de que hoy es lo mejor para la Argentina”, aseveró Vidal.
+
+En otra parte de su carta envió un dardo hacia adentro de la coalición. “Al igual que muchos argentinos, nunca creí que tengamos que elegir entre la firmeza o el diálogo, entre el respeto o la defensa
+de las convicciones, entre el orden o los consensos. Argentina necesita de todo eso. Y quien sea elegido para liderarla deberá tener la capacidad, el equipo y la experiencia para decidir qué priorizar
+en cada desafío”, indicó, para marcarle la cancha a sus socios.
+
+“Faltando pocos días para las PASO y con la convicción de que el 14 de agosto vamos a estar todos juntos, unidos, quiero contarles que en las próximas elecciones voy a votar por Horacio”, remarcó
+asimismo.
+
+Cabeza de lista de Juan Schiaretti para Diputados por la provincia de Buenos Aires, la exsenadora Hilda “Chiche” Duhalde dijo esta mañana que, pese a ser “una mujer grande”, tiene a su favor una “gran
+experiencia de gestión legislativa”. Consideró también que en el Congreso falta sentido común. “Me siento activa, muy bien, tengo ganas de aportar un granito de arena”, acotó la histórica dirigente y
+exprimera dama en Radio La Red.
+
+Asimismo, y como en otras oportunidades, diferenció al peronismo del kirchnerismo e indicó: “Siento que Schiaretti representa lo que es el peronismo, entonces me entusiasmó. Después, en la cancha se
+ven los pingos”.
+
+Tal como había prometido, el legislador porteño Roberto García Moritán devolvió los 4.029.387 pesos que había recibido para su campaña a jefe de Gobierno porteño, después de declinar su postulación
+para apoyar a Jorge Macri. El referente de Republicanos Unidos publicó un comprobante de transferencia donde mostró como giró de nuevo esos fondos hacia las arcas del gobierno de la Ciudad. “En un
+contexto donde hay cada vez menos confianza en la política es importante estar a la altura. Cambiemos las cosas, pero cambiemos en serio”, sostuvo.
+
+La frase de la precandidata de Pro Patricia Bullrich sobre entrar al Banco Central con cámaras de televisión para mostrar la falta de reservas, cuando en realidad los activos argentinos no están ahí
+físicamente, todavía deja esquirlas.
+
+“Lo que dijo Bullrich sobre el Banco Central es un disparate. La inflación es un tema serio y hay que ver cómo generamos reservas y un plan de estabilización, pero ahí hay que llegar con racionalidad
+porque la gente la pasa mal, no hay que asustarla”, afirmó esta mañana en Radio Splendid el extitular de la Anses Diego Bossio, que ahora compite para la Cámara de Diputados por el espacio que conduce
+el peronista cordobés Juan Schiaretti.
+
+Pese a que la gestión en su mayor parte quedó centralizada en el ministro de Economía, Sergio Massa, también precandidato del oficialismo a la Casa Rosada, este mediodía el presidente Alberto
+Fernández viajará a Misiones para recorrer obras. Las actividades del mandatario comenzarán a las 12. Llegará a esa provincia acompañado por el ministro de Obras Públicas, Gabriel Katopodis, y será
+recibido por el gobernador Oscar Herrera Ahuad, según informaron oficialmente.
+
+En el mismo día en que Malena Galmarini dijo que optar por él en las urnas era “tirar el voto”, el precandidato a presidente Juan Grabois -que compite contra Sergio Massa en la interna oficialista-
+visitó a la gobernadora de Santa Cruz, Alicia Kirchner, junto al titular de YPF, Pablo González.
+
+“Al peronismo de todos los espacios nos unen más ideas de las que nos separan, una mirada humanista y de desarrollo en lo social, y una fuerte convicción de defensa de los recursos soberanos y el
+federalismo”, dijo la cuñada de la vicepresidenta Cristina Kirchner, que posteó un video junto al postulante del Frente Patria Grande.
+
+Por su parte, Grabois contó que esa era la primera vez que iba a Santa Cruz.
+
+Javier Milei propone, entre otras cosas, eliminar las indemnizaciones en caso de despidos sin causas, habilitar que la ciudadanía se arme, reformar la educación pública para cambiarla por un sistema
+de “vouchers” y poner fin a la salud gratuita.
+
+El documento fue presentado a la jueza María Servini en mayo. El expediente en el que está la plataforma es de acceso público, en el Sistema de Consulta Web del Poder Judicial.
+
+La Libertad Avanza apunta a fusionar los ministerios de Desarrollo Social, Salud y Educación. En cuanto a salud, pretende descentralizar las derivaciones hospitalarias, arancelar todas las
+prestaciones y autogestionar el servicio de la salud en trabajos compartidos con la salud privada, entre otras modificaciones, como cambiar la ley de salud mental, el sistema de guardias y las
+residencias médicas.
+
+Además, se les exigirá a los extranjeros que ingresen al país contar con un seguro de salud con cobertura de hasta US$30.000.
+
+Tras el ataque que denunció en San Luis, la precandidata a presidenta de Juntos por el Cambio (JxC), Patricia Bullrich, se trasladó a Mendoza y expresó que si bien “habrá personas y organizaciones que
+intenten detener los cambios, los legitimará el pueblo”.
+
+“Para que haya un gobierno que tenga coraje tiene que haber un pueblo con coraje, por eso contamos con ustedes, los esperamos el 13 para un cambio profundo, para un cambio de verdad. No nos vamos a
+dejar correr”, sostuvo durante la recorrida en la que estuvo acompañada por su compañero de fórmula, Luis Petri.
+
+“Toda la valentía, toda la fuerza para que la Argentina cambie y aquellos que nos amenazan les decimos, hoy les decimos que va a haber un gobierno que tenga coraje”, agregó.
+
+El ministro de Economía y
+
+===== NOTA 10 de 15 =====
+medio: La Nación
+titulo: Juan Grabois se reunió con el embajador de Estados Unidos 
+fecha: 2023-08-02 15:44:54.277000
+autor: 
+seccion: Política
+volanta_bajada: Luego de rechazar una invitación para ir a la embajada, el precandidato de Unión por la Patria recibió al diplomático en sus oficinas; la deuda con el FMI y la ley de envases, ejes de la conversación
+link: https://www.lanacion.com.ar/politica/juan-grabois-cambio-de-postura-y-se-reunio-con-el-embajador-de-estados-unidos-nid02082023/
+marcas a codificar: M0954
+----- TEXTO -----
+Juan Grabois pasó del “ritual de sumisión”, la irónica fórmula a la que apeló para rechazar un encuentro con el embajador de los Estados Unidos en la sede diplomática, a ser un anfitrión cordial en
+sus oficinas.
+
+El precandidato a la presidencia de Unión por la Patria se reunió finalmente con Marc Stanley. Lo recibió junto con Paula Abala Medina, su compañera de fórmula, en su lugar de trabajo, decorado con
+cuadros de Néstor Kirchner, Evo Morales, Hugo Chávez y Lula, y una foto en sepia de Maradona con Fidel Castro.
+
+El embajador fue el primero en hacer pública la reunión con un mensaje por redes sociales. Luego, fue Grabois el que dio su versión. “Es un pequeño botón de muestra de cómo se defiende la dignidad
+nacional y salimos del complejo de ´patio trasero´”, dijo el dirigente social, referente de los trabajadores de la ⟦M0954⟧economía popular⟦/M0954⟧. Y agregó: “Para establecer vínculos de igual a igual
+hay que hacerse respetar, desterrar cualquier vocación de colonia en la dirigencia y salir del complejo de inferioridad como argentinos”.
+
+Stanley asistió con su consejero político, Rob Allison; la agregada política de la Embajada, Victoria Cedeño, y su intérprete. Según informó Grabois, los temas de la charla fueron los siguientes: “La
+estafa del FMI con complicidad de funcionarios norteamericanos, la soberanía argentina sobre los recursos estratégicos cuestionada por ciertas declaraciones de Richardson y el lobby ilegítimo de la
+AMCHAM sobre los legisladores argentinos en temas como la ley de envases”.
+
+Según el comunicado del equipo de prensa del dirigente social, Grabois y Abal Medina reafirmaron que “la pobreza y la deuda externa son dos caras de la misma moneda y que existe una coresponsabilidad
+de EE.UU. en el proceso de endeudamiento”. Además, Grabois detalló que en las próximas horas subirá un reporte de la conversación a su página web www.juangrabois.com.ar y contó que Stanley les “dejó
+como obsequio unos termos”.
+
+El embajador había invitado a Grabois el 6 de julio pasado a un encuentro, pero el precandidato kirchnerista lo rechazó. “Considero que esos rituales de sumisión en la embajada norteamericana son
+parte de la triste historia de subordinación neocolonial que mantiene a Latinoamérica en un estado de miseria, dependencia y maldesarrollo”, sostuvo Grabois en una carta que envió al propio Stanley,
+en respuesta a la invitación que este le hiciera. “Lamentablemente, no puedo aceptar un encuentro bajo estas condiciones iniciales”, decía el texto.
+
+A lo largo del escrito, Grabois destacó que en la historia de Latinoamérica “quienes se niegan a actuar como perritos falderos de los EEUU” son “abiertamente” hostilizados y consideró que “están
+condenadas” sus carreras políticas.
+
+Sin embargo, en el misto texto, el precandidato había dejado abierta la posibilidad de un encuentro con el diplomático estadounidense. “No vemos inconveniente en recibirlo junto a Paula Abal Medina en
+nuestras oficinas, un espacio tal vez humilde para élites pero que siendo parte de nuestro territorio nos resulta adecuado para brindarle una audiencia”, indicaba la misiva.
+
+Desde la embajada de Estados Unidos dijeron a LA NACION que por el momento no harían otros comentarios del encuentro más allá del mensaje en twitter de Stanley.
+
+===== NOTA 11 de 15 =====
+medio: La Nación
+titulo: La Matanza: el Movimiento Evita denunció un “escrache violento” y recrudece la interna con Fernando Espinoza
+fecha: 2023-08-02 21:15:59.012000
+autor: Manuel Casado
+seccion: Política
+volanta_bajada: La agrupación sostuvo que su candidata, Patricia Cubría, fue agredida por simpatizantes del intendente del PJ en González Catán; ya se había suspendido una caravana con Massa
+link: https://www.lanacion.com.ar/politica/la-matanza-el-movimiento-evita-denuncio-un-escrache-violento-y-recrudece-la-interna-con-fernando-nid02082023/
+marcas a codificar: M0955
+----- TEXTO -----
+La interna oficialista se recalienta en La Matanza a medida que se acercan las PASO del 13 de agosto. Este miércoles, el Movimiento Evita salió a denunciar que su candidata local, Patricia “Colo”
+Cubría, sufrió un “escrache violento” por parte de simpatizantes del intendente Fernando Espinoza, durante una actividad proselitista en el barrio Armonía de González Catán.
+
+“Hubo un grupo de gente que bajó de una camioneta, que no era gente del barrio, que fue a hacer un intento de escrache violento, fuera de lugar, que incluso fue repudiado por los propios vecinos”,
+ratificó Cubría en diálogo con LA NACION.
+
+Según la dirigente, se trató del accionar de “una patota orquestada desde el municipio”, cuyos integrantes “gritaban Espinoza conducción”. La mujer del líder del Movimiento Evita, Emilio Pérsico,
+agregó: “Esto ya pasó antes, son barrabravas que articulan con el intendente este tipo de maniobras”.
+
+La agresión a Cubría, que incluyó pedradas, reflejó la extrema tensión con la que la coalición gobernante Unidos por la Patria (UP) se encamina hacia las elecciones primarias en el distrito más
+importante de la provincia de Buenos Aires, en términos electorales. Por eso mismo, el último sábado, debió suspenderse una caravana que iban a encabezar Sergio Massa, Axel Kicillof y el propio
+Espinoza.
+
+En La Matanza e encuentra el padrón electoral más grande de la Provincia de Buenos Aires, con 1.148.935 personas en condiciones de votar, de acuerdo al padrón registrado en 2021. Allí, el peronismo
+gobierna desde hace más de 40 años, en el retorno a la democracia. Espinoza, con un intervalo de la vicegobernadora Verónica Magario, se encuentra en el máximo sillón del distrito desde 2007.
+
+La lista del Movimiento Evita no solo llega con el aval local de los movimientos sociales, sino también de universitarios (desde la Universidad de La Matanza) y eclesiásticos. Incluso, tuvo el guiño
+de Máximo Kirchner, quien acercó posiciones con Cubría y Pérsico meses atrás. Se trata de un duelo de estilos: por un lado, el histórico baronismo del Conurbano, mientras que del otro está la
+representación de la ⟦M0955⟧economía popular⟦/M0955⟧.
+
+Cubría se definió como “recontra peronista” y aseguró que “Sergio Massa va a ser el próximo presidente de la Argentina”. Este mismo miércoles se reunió con el ministro-candidato en el Palacio de
+Hacienda. “Estuvimos un buen rato planificando lo que va a hacer nuestra articulación una vez que seamos gestión. Hablamos de algunas obras concretas y de los proyectos que se vienen, como la
+electrificación de del (tren) Belgrano Sur, que si Dios quiere va a llegar a Constitución”, dijo Cubría.
+
+Consultada si ante el ministro de Economía abordó los incidentes que vivió durante la recorrida por González Catán, Cubría dijo que “no se trataron en detalle todas esas maldades que suceden” y
+remarcó que “son hechos que son producto de la frustración del municipio”. Por otro lado, de llegar al poder prometió “sanear todos los hechos de corrupción que pudiesen existir” y “trabajar muy
+fuerte” sobre sobre la problemática de la seguridad: “Es la más grande que tenemos los matanceros, ya sea para los que vivimos en Virrey del Pino o en Ramos Mejía”, aseguró.
+
+“Mi candidatura se viene trabajando hace años y es producto de la construcción de un frente vecinal matancero. Lo que hubo es una unidad muy importante de distintos sectores que somos muy prestigiosos
+y representativos en La Matanza como la Universidad, el Obispado de San Justo y la Federación los Clubes de Barrio”, enumeró la mujer de Pérsico.
+
+Uno de los bunkers donde se cocinó su precandidatura fue el club Laferrere, uno de los más populares del Ascenso. Su presidente Gabriel Aranda tiene una extensa trayectoria barrial. Es el coordinador
+nacional de la Federación de los Clubes de Barrio y referente de la Corriente Clasista y Combativa (CCC), que junto al Evita y una facción de Barrios de Pie forman el grupo de “Los Cayetanos”.
+
+===== NOTA 12 de 15 =====
+medio: La Nación
+titulo: El “factor Grabois”: la interna presidencial se recalienta en Unión por la Patria y el kirchnerismo juega con incomodidad
+fecha: 2023-08-03 20:14:48.785000
+autor: Maia Jastreblansky, Cecilia Devanna
+seccion: Política
+volanta_bajada: Los K necesitan sumar los votos que el líder del Movimiento de Trabajadores Excluidos (MTE) pueda aportar sin irritar a Massa; miran con atención cómo capitaliza el voto duro; las chicanas subieron de tono esta semana
+link: https://www.lanacion.com.ar/politica/el-factor-grabois-la-interna-presidencial-se-recalienta-en-union-por-la-patria-y-el-kirchnerismo-nid03082023/
+marcas a codificar: M0956
+----- TEXTO -----
+La presencia de una boleta encabezada por Juan Grabois en el cuarto oscuro de las PASO está obligando al kirchnerismo a tener mucha muñeca política en estos días. Máximo Kirchner y Eduardo “Wado” De
+Pedro, que son los máximos responsables operativos de ese sector en la campaña, necesitan sumar los votos que el líder del Movimiento de Trabajadores Excluidos (MTE) pueda aportar sin irritar al
+“candidato de unidad”, que es Sergio Massa. Además, los K miran con atención cómo performa el dirigente social por lo que, consideran, es sólo una capitalización de su voto duro.
+
+La candidatura presidencial de Grabois apareció como una “vía de escape moral” para el votante kirchnerista que todavía no puede digerir la entronización de Massa. De acuerdo a las encuestas que miran
+en el peronismo, el referente social le aportará a Unión por la Patria una porción no despreciable de votos que puede apuntalar a la alicaída marca oficialista.
+
+El ministro de Economía -que transmitió puertas adentro que quisiera que UP saque un piso de 30 puntos en las PASO para mostrarse vital para el resto del proceso electoral- sabe bien que los votos de
+Grabois suman a la causa. Sus asesores le aseguran, además, que todos los que se inclinen por el líder del MTE en agosto lo harán por él en octubre. Pero Massa hubiera querido ser el candidato único
+desde el día uno, para aglutinar todo el voto peronista y lucir más robusto la noche del 13 de agosto. La decisión de habilitar el juego a Grabois y darle la lista completa fue, en su momento, de
+Cristina Kirchner.
+
+“La pregunta es si Grabois va a sacar tres o cuatro puntos o va a sorprender con siete u ocho”, dijo un intendente de la primera sección electoral, que asegura que el dirigente social viene creciendo
+en las encuestas que encargó en su municipio. “No es lo mismo que la interna quede 29 a 3, a que quede 24 a 8″.
+
+La postura del Frente Renovador quedó a la luz esta semana cuando la titular de Aysa, Malena Galmarini, candidata a intendenta de Tigre y esposa de Massa, dijo: “Hoy votar a Juan (Grabois) es tirar el
+voto”. La funcionaria no lo manifestó como un golpe bajo contra el líder del MTE, sino “en términos técnicos del uso estratégico del voto”, como aclararía después.
+
+Un colaborador del massismo lo tradujo así: “Obviamente que Grabois en este escenario va a aportar el pucho que le puede faltar a Massa para que UP quede más competitivo en las PASO. Pero mejor
+hubiera sido que Grabois estuviera adentro para fortalecer a Sergio desde el día uno”.
+
+En el conurbano, varios intendentes transmiten que, si bien no están haciendo campaña para Grabois, sí le fiscalizarán sus votos. “Los intendentes vamos a cuidar la boleta de Grabois en el cuarto
+oscuro. No se reparte, pero se la cuida”, dijo un jefe comunal a LA NACION.
+
+Hay sentimientos encontrados en La Cámpora con la situación del líder del MTE. Si bien le dan luz verde para jugar, en ese sector algunos subrayan que “los votos de Grabois son en realidad votos del
+kirchnerismo”. “Crece un enano que después nos va a decir ‘ojo que valgo 7 puntos’”, comentó un colaborador camportista.
+
+El líder del MTE coleccionó en campaña un nutrido álbum de fotos con el ecosistema K. Estuvo en Quilmes junto a la intendenta Mayra Mendoza y la ministra de Ambiente bonaerense Daniela Vilar (fue un
+acto de gestión para inaugurar un nodo local de reciclado); en Mendoza con Anabel Fernández Sagasti; en Mercedes con el intendente Juan Ustarroz (hermano de Eduardo “Wado” De Pedro); en Avellaneda con
+el intendente Jorge Ferraresi; en Tres de Febrero con el candidato local camporista Juan Debandi y en Santa Cruz con la gobernadora Alicia Kirchner. Con Axel Kicillof, Grabois se mostró en Berisso en
+una fábrica textil recuperada.
+
+Un colaborador de un candidato de La Cámpora en el conurbano advirtió: “A Grabois se lo cuida en el cuarto oscuro porque tiene la boleta completa y esos votos hay que capitalizarlos igual. Pero acá
+todos los carteles son con Sergio, solo se lo nombra a Sergio y toda la inversión de la campaña es con Sergio. El aparato peronista va a jugar con Massa”.
+
+Uno de los acuerdos de palabra durante el cierre de listas fue que Grabois no lanzara constantemente flechas contra Massa. La campaña avanzaba en términos razonables hasta esta semana, cuando las
+chicanas subieron varios decibeles. En las últimas horas el líder del MTE dijo que la candidatura del ministro de Economía surgió de “un golpe de Palacio”.
+
+Por lo bajo, parte del kirchnerismo comenzó a irritarse con Grabois luego de que él criticara a la “conducción táctica” del espacio. “Hace eso y salva a Cristina, pero quién es el responsable de la
+conducción táctica: es Máximo (Kirchner)”, replicaron con vehemencia fuentes de ese espacio.
+
+“No se entiende cuál es su juego”, aseguró otro funcionario kirchnerista. Y agregó: “Lo señala a Sergio porque viajó a Davos con (el expresidente, Mauricio) Macri pero defiende su vínculo con Pepín
+(por Fabián Rodríguez Simón, exfuncionario macrista y hombre fuerte de la mesa judicial de esa gestión) y con (la exministra de Desarrollo Social, Carolina) Stanley, con los cuales se llevó muy bien.
+Dice que Massa es el candidato de los Estados Unidos, pero él recibe al embajador (Marc) Stanley, aunque aclara que lo hizo ir a su oficina ¿Desde dónde hace planteos morales?”, agregó.
+
+Quien verbalizó este malestar en los últimos días fue el exvicepresidente Amado Boudou, devenido en vocero político y económico de Massa para defender su candidatura en los medios. “Cuando Grabois
+sale a hacerse el picante y a decir ‘estoy en contra de la conducción táctica que nos trajo a estos candidatos’, bueno, a él también lo trajo la conducción táctica”, dijo Boudou. Y lanzó: “Estar a
+favor de que haya dos economías es estar en contra de la movilidad social ascendente… esto de la ⟦M0956⟧economía popular⟦/M0956⟧ es muy contrario a la idea del peronismo, del kirchnerismo”.
+
+===== NOTA 13 de 15 =====
+medio: La Nación
+titulo: El desafío cotidiano de ayudar a los “cicatrizantes sociales” que tiene la Argentina
+fecha: 2023-08-06 03:04:00.300000
+autor: Matías Kelly
+seccion: Economía
+volanta_bajada: Todos podemos preguntarnos cómo transformar la actividad económica para que no dañe ni el ambiente ni el tejido social; cuáles son las estrategias de algunas ONG y empresas 
+link: https://www.lanacion.com.ar/economia/el-desafio-cotidiano-de-ayudar-a-los-cicatrizantes-sociales-que-tiene-la-argentina-nid06082023/
+marcas a codificar: M0957
+----- TEXTO -----
+La humanidad, así como está, no funciona. No innovamos de manera adecuada para resolver muchos de los problemas que tenemos.
+
+El sistema económico, tal como lo conocemos, no es sustentable: se sostiene en un consumo desmedido y con un crecimiento ilimitado completamente imposible. Es hora de aceptar que la actividad humana
+ya atravesó demasiados límites.
+
+Cada día profundizamos el daño en los tejidos sociales y ambientales. Crecen la desigualdad, la pobreza, la inseguridad alimentaria y la concentración de riqueza; suben la temperatura, las emisiones
+de carbono, el ritmo de extinción de especies y disminuye la biodiversidad… es una crisis social y ecosistémica. Y todas esas tendencias se interrelacionan y potencian entre sí.
+
+No hablamos de números ambiguos. Hablamos de un 1% con más riqueza que el 99% restante de la población y la desigualdad, aunque lo parezca, no es inevitable, sino que es una decisión política. La
+desigualdad hiere el tejido social.
+
+Frente a esto, nos protegemos con la indiferencia. La negación del otro es una marca de ciudadanía incompleta, enferma. Hacemos como si nada de esto pasara, salvo cuando nos pega demasiado cerca.
+
+¿Cómo transformar la economía para que deje de dañar? ¿Cómo revertir la tendencia destructiva? ¿Cómo enfriar el Planeta a tiempo? ¿Cómo ayudamos a la naturaleza a regenerar los ecosistemas y a la
+aldea global a cicatrizar sus heridas?
+
+“Necesitamos cambios colectivos profundos para, entre otras cosas, impedir estilos de vida individuales tan dañinos para la sociedad, el clima y el planeta”, dice el experto en temas climáticos Andreu
+Escrivá.
+
+En las ONG y en las empresas de triple impacto somos muchos quienes formamos parte de un movimiento que busca catalizar la transición hacia una nueva economía, basada en la energía renovable, en la
+cual el residuo es recurso, y que es distributiva e inclusiva: una economía es la que integra el impacto social y/o ambiental al negocio.
+
+Trabajamos para cambiar la lógica de la competencia individualista (que por solo responder al lucro de los accionistas se permite externalizar los costos en la población y la naturaleza) por otra
+colaborativa, fraterna y regenerativa. Hay quienes nos dedicamos a poner a los negocios (y las finanzas) al servicio del bien común. Como explica (y aplica) el fotógrafo de naturaleza y
+conservacionista Matías Romano, regenerar un territorio o ecosistema es un proceso arduo y constante que requiere de plantaciones masivas de especies nativas. Recuperar los parches de zonas degradadas
+supone una enorme labor de reforestación. Se deben aplicar distintas metodologías que ayuden a la recuperación, evaluando los métodos más efectivos y adecuados.
+
+En la naturaleza, los microorganismos cumplen funciones primordiales en regenerar los suelos. Si contemplamos el invierno en la vida vegetal, vemos que suelta el follaje, decrece y logra así llevar la
+vitalidad a las raíces para fortalecer lo que lo sostendrá durante los tiempos hostiles. Necesitamos fortalecer las raíces de lo humano para reverdecer. No hay otro modo.
+
+Una estrategia que nos proponemos es apoyar dando financiamiento a estos “cicatrizantes sociales”, emprendimientos que construyen riqueza cada día trabajando con motivación, empatía y resiliencia. Sin
+idealizarla, la ⟦M0957⟧economía popular⟦/M0957⟧ es portadora de los empleos del futuro: cuidado de personas mayores y niños, reciclado, logística, producción de alimentos.
+
+Un grupo de cartoneros que hace muchos años se preguntaron por qué eran pobres y cómo podían solucionarlo, crearon una organización que recibe, identifica y separa residuos industriales y
+domiciliarios, muele el plástico y produce útiles escolares. Dan trabajo genuino, y colaboran con el ambiente.
+
+Una cooperativa en el monte santiagueño acompaña a familias en la transformación de su actividad, permitiendo que se formen en apicultura, instalen colmenas y produzcan miel orgánica monofloral (de la
+bella Atamiski) del monte. Logran pasar de cocinar el monte para hacer carbón a cuidarlo para hacer miel orgánica.
+
+Cada peso que ponemos en ampliar el acceso al crédito, la tecnología y la capacitación de estos agentes de cambio es un paso que nos acerca a una sociedad más justa, equitativa y sustentable.
+
+Escalar esta solución contribuye a la reparación del daño de tejidos sociales y ecosistemas. Invertir en proyectos regenerativos es poner dinero al servicio de las personas y de la naturaleza. Es
+necesario poner los recursos al servicio de la vida.
+
+La bióloga Janine Benyus, especialista en gestión de recursos naturales, expresó esta regla de oro para las culturas regenerativas de manera sucinta y clara: “La vida crea condiciones propicias para
+la vida”, y regenerar el tejido social requiere de cicatrizantes sociales.
+
+===== NOTA 14 de 15 =====
+medio: La Nación
+titulo: Dos aviones de EE. UU.: los detalles del operativo que arranca el viernes para blindar al dólar
+fecha: 2023-08-06 10:00:01.845000
+autor: Pablo Fernández Blanco
+seccion: Economía
+volanta_bajada: Llegará un vuelo con billetes dos días antes de las primarias; el Gobierno salió a la recuperación del oro empeñado para evitar una nueva polémica y China se mete en la vida cotidiana de los argentinos con el billete de $1000 de San Martín; el comentario al pasar que desnudó una situación incómoda para Sergio Massa
+link: https://www.lanacion.com.ar/economia/dos-aviones-de-ee-uu-los-detalles-del-operativo-que-arranca-el-viernes-para-blindar-al-dolar-nid06082023/
+marcas a codificar: M0958
+----- TEXTO -----
+El Banco Central se convirtió en una trinchera dispuesta a resistir corridas. Lo ha hecho en el pasado, y está preparado para repetirlo en los próximos días. El plan de guerra tiene la primera batalla
+definida: será el lunes 14 de agosto, un día después de las elecciones primarias. Ya se puso en marcha el dispositivo para blindar el suministro de dólares ante un posible golpe sobre el sistema
+bancario que pueda tener el resultado electoral.
+
+Hoy hay 472 millones de dólares en billetes físicos en la bóveda del Banco Central. El tesoro ubicado en la calle Reconquista recibirá un refuerzo en efectivo de US$301 millones que llegará al país
+por avión a fines de esta semana. Se incorporarán a la contabilidad el viernes 11, dos días antes de las primarias. A cambio, la autoridad monetaria transferirá el dinero.
+
+La intención del Gobierno es que estén listos el lunes después de las PASO, cuando vuelvan a abrir los bancos, por si resultan necesarios, en una posible reedición del plan de Hernán Lacunza y Guido
+Sandleris en 2019. El entonces ministro de Mauricio Macri y el presidente del BCRA llenaron la city de camiones de caudales y extendieron el horario de los bancos días después de las elecciones en las
+que Alberto Fernández venció al expresidente.
+
+El dinero fresco provendrá de Estados Unidos, probablemente de la sede que la Reserva Federal norteamericana (Fed, el banco central de ese país) tiene en Dallas. Llegará en un avión de American
+Airlines a Ezeiza por una gestión de la empresa de transporte de caudales Brinks.
+
+La elección de la línea aérea tiene en el reverso una curiosidad. Brinks, la única firma habilitada para entrar en los depósitos de la Fed, elige American porque tiene su propio servicio de rampa en
+la terminal aérea por una ventaja que aprovechó en 1994. Eso le permite esquivar eventuales paros de los trabajadores de Intercargo, la empresa pública que presta ese servicio, que pudieran demorar el
+desembarco de los billetes.
+
+Esta semana se espera que la cantidad de dólares disponibles se mantenga estable. Pero el viernes se notará la llegada de la plata por avión: las existencias en el tesoro de Reconquista pasarán de
+US$472 millones a US$773 millones del 10 al 11 de agosto, según la planificación del Banco Central.
+
+Una semana después, el 18 de agosto próximo, se repetirá la escena. Llegarán otros US$301 millones desde Estados Unidos para ensanchar la disponibilidad real de billetes. Ese día, la cantidad de
+divisas en billetes llegará a US$1073 millones.
+
+La información reservada que vio LA NACION muestra, entonces, que el Gobierno acelerará la importación de dólares para estar preparado en caso de que los bancos aumenten los pedidos. Es un antídoto
+para frenar corridas bancarias. El último avión con dólares que había llegado al país data del 13 de julio pasado.
+
+El dispositivo para enfrentar dificultades fue convalidado por Sergio Massa, habilitado por Miguel Pesce (presidente del BCRA) y pedido por Fabián Sgarbi, subgerente general de Operaciones del Banco
+Central. Este último, que responde directamente a Pesce -lo trajo de su paso por el Banco de Tierra del Fuego- se ha mostrado en el último tiempo mucho más colaborativo con Lisandro Cleri, uno de los
+hombres más destacados del equipo de Massa y su gestor en el Banco Central.
+
+La plata del BCRA no es la única que cuenta. Los bancos tienen alrededor de US$3000 millones en sus bóvedas, uno de los principales seguros frente a turbulencias provenientes de la política, que se
+profundizarán en los próximos días de forma incierta.
+
+El Gobierno seguirá administrando los dólares de a uno, como si se tratara de un partido de tenis que se disputa punto por punto. Una muestra de eso es lo que ocurrió con la polémica del oro.
+
+Apremiado por la necesidad de pagarle al Fondo Monetario Internacional (FMI), el Gobierno usó parte de sus reservas en metal para hacerse de dólares el jueves 27 de julio. Es oro certificado en el
+BIS, un banco de pagos internacionales con sede en Basilea, Suiza.
+
+La Argentina recibió dólares a cambio del oro, pero prometió que pagaría en tres meses y, de esa manera, lo recuperaría.
+
+A esa altura, el Gobierno no estaba seguro de que recibiría dos apoyos fundamentales, de China y de Qatar. La certificación del oro era el plan B para pagarle al FMI.
+
+La autorización para usar yuanes llegó al principio de la última semana en medio de una complicación imprevista. A fines de julio, Pan Gongsheng reemplazó a Yi Gang en la conducción del Banco Popular
+de China. Ese cambio de guardia demoró las definiciones y el Ministerio de Economía no sabía con certeza si los yuanes estarían disponibles para cancelar las deudas con Washington ese mismo lunes.
+
+Hacia el final de la semana, en tanto, se concretó el apoyo que vino de Medio Oriente. Ambos se suman al crédito de la CAF (el Banco de Desarrollo regional).
+
+Las tres fuentes de financiamiento le permitieron al Gobierno anular la jugada que tantos dolores de cabeza le dio. Entre el lunes y el martes recuperó el oro que había certificado. En ningún caso
+hubo una comunicación oficial. Pesce solo atinó a explicar parte de la operación el jueves, cuando los datos oficiales mostraron diferencias en las existencias del metal.
+
+La operación se notará en el reporte estadístico que el Banco Central difundirá la semana próxima. Será el fin de esta polémica, pero es posible que se abra otra. Los bancos centrales suelen
+certificar oro para obtener ganancias, cuando ven una oportunidad. En este caso, ocurrió lo contrario: el Banco Central perdió algo de dinero en la breve transacción.
+
+Es un problema menor derivado de la estresante gestión diaria. La administración del dólar se dará en una situación moldeada por la tensión política y por los efectos no deseados de la falta de
+reservas.
+
+Mediodía de sorpresas en Palermo. Sergio Massa rompió el maleficio de la dirigencia peronista, almorzó con la conducción de la Sociedad Rural y se retiró sin recibir agravios del público, algo que al
+principio de ese 24 de julio nadie podría haber garantizado.
+
+Eloisa Frederking, secretaria de la organización empresaria y compañera de tenedores en esa comida, le recordó al ministro algo casi inocente: lo había conocido en los 90 en una charla que Massa dio
+en el CARI, un influyente think tank de temas internacionales ubicado en la calle Uruguay. En aquel momento, el ahora candidato peronista era un joven militante de la Ucedé. La dirigente del campo
+había ido a escucharlo.
+
+Las viejas amistades del conservadurismo político y el liberalismo económico no solo le traen recuerdos al ministro. También siguen asistiendo de recursos humanos al candidato. El caso más resonante
+es el de Amado Boudou, otro exjoven de la Ucedé que hizo el giro hacia la izquierda para luego ser expulsado de su última referencia política, Soberanxs, debido a que recompuso su relación con Massa,
+después del paso de ambos por la Anses.
+
+Además de exvicepresidente y condenado por corrupción, Boudou es economista y asesor del ministro. Usó una parte de sus conocimientos para cuestionarle a Juan Grabois, rival de Massa en las primarias,
+que su modelo de ⟦M0958⟧economía popular⟦/M0958⟧ no es peronista. La de Boudou es una idea que también comparte la CGT. Para el sindicalismo es inconveniente el crecimiento de la militancia piquetera.
+
+Las dos escenas anteriores podrían ser sólo anécdotas si no formaran parte del material de trabajo con el que una parte de los funcionarios cercanos a Massa hacen campaña entre el empresariado.
+
+Ante las consultas por la kirchnerización del discurso del candidato, responden que no está entre sus preferencias mantener el cepo cambiario, convivir con la falta de reservas o castigar
+innecesariamente al establishment con sus palabras.
+
+En el sector privado, en tanto, conviven con la ambivalencia que desnudó Frederking en el almuerzo de la Rural. Massa es un trago que les cae mejor que el resto del kirchnerismo, pero hay un dejo de
+desconfianza al final de cada sorbo.
+
+El traje de ministro aprieta cada vez más el contorno del Massa candidato. Es un caso de doble rol asumido por elección que lo conduce a tomar decisiones antipáticas para con su otra mitad.
+
+Los desacuerdos con el FMI llevaron al Gobierno a aplicar una devaluación parcial para las importaciones y para la exportación de maíz. Como ese sector recibe ahora un dólar más alto, de $340, le
+comunicaron por teléfono a las petroleras que no les venderían más bioetanol, que proviene del grano, porque preferían venderlo afuera bajo la forma de aceite o harina.
+
+La falta de bioetanol provocó que algunas estaciones de servicio se quedaran sin nafta. La secretaria de Energía, Flavia Royón, recompuso rápidamente la situación: les dio un precio más caro a los
+acopiadores de maíz mediante la suba del etanol, algo que a la larga pagarán los automovilistas y representará más inflación en general. Justo lo que no quiere Massa.
+
+El problema golpea especialmente a YPF. Mientras la nafta de YPF aumentó 429,6% desde junio de 2019 hasta esta semana, el Gobierno aumentó el precio del bioetanol 813%. Y tuvo que subir otra vez para
+evitar el desabastecimiento del mercado.
+
+Discusiones inconducentes ocurrieron en los últimos días entre el secretario de Finanzas, Eduardo Setti, Eduardo Endeiza (Servicios Financieros) y Víctor Fuentes Castillo (Mercado de Capitales y
+Seguros), por un lado, con un grupo encolumnado detrás de Irene Capusselli, presidenta de Avira, una de las asociaciones que representa al sector, junto a otras cuatro cámaras. El principio del
+problema fue similar: la norma de Economía que aplicó una devaluación parcial.
+
+Capusselli les explicó que su sector va a tener que pagar más caro ahora porque el Gobierno no les vendió en su momento dólares para cancelar afuera deudas por reaseguros. La ejecutiva intentó
+negociar, además, que no les cobren un impuesto adicional del 25%. Aunque el canal está abierto, todavía no logró ablandar a los funcionarios ni con la amenaza de que las aseguradoras argentinas
+podrían volverse insolventes.
+
+La crisis del dólar es un mecanismo que fabrica paradojas. A las petroleras que se quedan sin combustible (de origen vegetal) y las aseguradoras sin reaseguro se les suma una fábrica de hacer billetes
+que debe plata. Es uno de los varios secretos que rodean al nuevo papel de $1000, con la figura de San Martín, que de a poco está llegando a los bancos.
+
+Casa de Moneda es la imprenta que fabrica los billetes en la Argentina. Por la crisis del peso y la negativa a lanzar una denominación más grande, no da abasto e importa de Brasil y España. En los
+últimos días, se sumó China a la lista. En parte, porque la propia empresa del Estado tiene problemas para pagarles a sus proveedores privados, herencia de la gestión anterior, a cargo de Rodolfo
+Gabrielli.
+
+El nuevo papel de $1000, donde la figura de San Martín desplazó al hornero, conlleva un dato para los historiadores: se hace por primera vez íntegramente en el extranjero después de muchísimos años.
+
+No hay registro cercano de un billete que, desde el principio, haya venido de afuera. Los numismáticos creen que algo por el estilo no ocurría desde la década de 1880, cuando llegaban al país las
+expresiones del denominado peso fuerte y, luego, el peso moneda nacional, la primera moneda unificada de la Argentina.
+
+Son curiosas las referencias geopolíticas que tejen los billetes. Durante la conformación del Estado nación, los primeros papeles llegaban desde Inglaterra. La última denominación de $1000, en cambio,
+se hizo en China Banknote Printing and Minting. El nombre de la imprenta revela el origen.
+
+La comunión argentina con el nuevo socio tiene coincidencias poéticas. Ya no solo los yuanes vienen de Asia. También, los pesos.
+
+===== NOTA 15 de 15 =====
+medio: La Nación
+titulo: El obispo Oscar Ojea dijo que el país vive “una situación delicadísima” y pidió por la dignidad del trabajo
+fecha: 2023-08-06 15:49:44.303000
+autor: Mariano De Vedia
+seccion: Política
+volanta_bajada: Al hablar en las horas previas a la fiesta de San Cayetano, el presidente del Episcopado reclamó derechos para la economía popular; el arzobispo García Cuerva encabezará este lunes la celebración central en el santuario de Liniers
+link: https://www.lanacion.com.ar/politica/el-obispo-oscar-ojea-dijo-que-el-pais-vive-una-situacion-delicadisima-y-pidio-por-la-dignidad-del-nid06082023/
+marcas a codificar: M0959
+----- TEXTO -----
+En vísperas de la celebración del día de San Cayetano, en el que miles de fieles peregrinan al santuario de Liniers para pedir pan y trabajo, el obispo de San Isidro y presidente del Episcopado,
+monseñor Oscar Ojea, afirmó que el país vive “una situación delicadísima: hay muchísimos trabajadores y trabajadoras que no llegan a fin de mes y esto angustia muchísimo”. Y señaló: “Cuando pedimos
+trabajo, pedimos por la dignidad”.
+
+“Hay cientos de trabajadores que trabajan en la ⟦M0959⟧economía popular⟦/M0959⟧, cartoneros, feriantes, vendedores ambulantes; personas, mujeres que cuidan niños y realizan distintos servicios, que
+cuidan personas mayores, que cuidan enfermos, hermanos nuestros que viven de changas, changas de pintura, de albañilería; tantos trabajos en los que no rige la plenitud de los derechos”, advirtió el
+presidente del Episcopado.
+
+En referencia al crecimiento de la economía informal, dijo que los trabajadores “están subocupados y muchas veces se ven sometidos al maltrato de opiniones que vienen desde posturas de mente y de
+corazón de mucha insensibilidad y de mucha incomprensión”, frente a estas situaciones.
+
+Hace menos de un mes, al celebrarse el Día de la Independencia, la Iglesia también se pronunció sobre la crisis social. En una fuerte declaración, el Equipo de Curas de villas y barrios populares de
+la ciudad de Buenos Aires y el conurbano denunció que las dirigencias políticas están “envueltas en internismos, buscando ocupar espacios de poder”. Reclamó, además, que en este tiempo electoral “no
+se olviden de las y los pobres”.
+
+Como es tradicional, frente al santuario de Liniers, en Cuzco 250, se forman largas filas de gente desde los días previos. A la medianoche abrirán las puertas del templo y el arzobispo de Buenos
+Aires, monseñor Jorge Ignacio García Cuerva, presidirá la misa central este lunes, a las 11, y recorrerá las filas para saludar a los peregrinos.
+
+Monseñor Ojea explicó en su mensaje que “cuando le pedimos a San Cayetano pan y trabajo le estamos pidiendo paz. La paz se construye en lo concreto, en el amor a lo concreto”. Y llamó a luchar “de
+verdad para que todos puedan tener trabajo y para que sean respetados todos los trabajadores, aún aquellos que no pueden vivir la plenitud de todos sus derechos”.
+
+Afirmó, además, que “la paz se construye trabajando juntos para que podamos acceder a estos bienes, de los cuales es intercesor san Cayetano, el pan y el trabajo”
+
+“Cuando hablamos del pan, hablamos de justicia, porque no es posible morirse de hambre en esta tierra bendita del pan”, dijo monseñor Ojea, al citar en su habitual reflexión dominical una canción del
+padre Julián Zini que fue el himno del X Congreso Eucarístico Nacional.
+
+“Cuando pedimos trabajo –prosiguió Ojea-, pedimos por la dignidad, porque el trabajo hace a la dignidad de la persona. No es un objeto de compraventa, no es un objeto de consumo, sino que el que no
+trabaja siente que está de sobra, que no vale; se siente herido en su dignidad, esa dignidad que solamente le da el ser hijo de Dios. Todos nosotros somos hijos de Dios y tenemos este derecho a
+trabajar”.
+

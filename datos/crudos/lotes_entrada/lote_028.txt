@@ -1,0 +1,1506 @@
+===== NOTA 1 de 27 =====
+medio: Página/12
+titulo: Reparar desigualdades históricas
+fecha: 2020-07-27 03:01:00
+autor: Cecilia González Bonorino, Carolina Brandariz y Martín Navarro
+seccion: Economía
+volanta_bajada: Temas de debate: ¿Cómo avanzar hacia el Ingreso Universal? 
+link: https://www.pagina12.com.ar/281020-reparar-desigualdades-historicas
+marcas a codificar: M1170, M1171, M1172, M1173
+----- TEXTO -----
+Por Cecilia González Bonorino*
+
+La necesidad de implementar un ingreso universal (IU) es tema de debate en todo el mundo. La pandemia ha acelerado y puesto de manifiesto el proceso de exclusión y desigualdad social que es propio del
+sistema económico en que vivimos. Tal evidencia se nos presenta como una oportunidad para reparar desigualdades históricas, construyendo un nuevo pacto social, un nuevo Estado de Bienestar, que avance
+en la expansión de derechos y ofrezca respuestas a una situación extremadamente crítica en términos económicos y sociales.
+
+El IU propone asegurar un mínimo de ingresos a la población, que garantice la satisfacción de las necesidades básicas para su subsistencia. Se sostiene en el hecho de que las personas no pueden ser
+libres si su existencia material no está garantizada. A diferencia de otras políticas sociales, se supone incondicional e individual y se otorga a todas las personas independientemente de su situación
+familiar y condición laboral.
+
+El IU encuentra fundamento en el reconocimiento de que la riqueza es algo que se produce y genera socialmente, ya que cada uno y cada una aporta, pero el mercado tiende a concentrarla. Incluye al
+trabajo doméstico y del cuidado necesario para la sostenibilidad de la vida y la reproducción de la sociedad, realizado mayoritariamente por mujeres. El cálculo para la Argentina es que el aporte
+económico que éste proporciona ronda en torno al 20 por ciento del PBI y sin embargo no es reconocido. A pesar de la pandemia, que dejó en evidencia la interdependencia entre el mundo económico y del
+cuidado, la discusión del IU continúa desarrollándose en el terreno de la economía tradicional que, cercada por el mercado, legitima una situación de desigualdad y desvalorización de las actividades
+esenciales para la vida.
+
+Las discusiones sobre el IU se desarrollan en el mundo mucho antes de la pandemia, como respuesta a los cambios en los modos de producción generados con el avance de la tecnología. La automatización,
+la inteligencia artificial y la hiper conectividad ponen en riesgo miles de empleos, en su mayoría no calificados, comprimiendo cada vez más el mercado laboral. No se trata solo de máquinas que
+ensamblan electrodomésticos, sino que también son algoritmos que remplazan analistas, sistemas de homebanking o plataformas de e-commerce que amenazan miles de empleos en bancos y comercios. Mientras
+las oportunidades laborales se reducen, la riqueza tiende a concentrarse en pocas manos. Actualmente, el 1 por ciento más rico de la población concentra la mitad de la riqueza global y la mayoría de
+estas personas son dueñas de empresas de tecnología. Incluso el Banco Mundial, alineado a la visión liberal, reconoce que la revolución digital concentra la riqueza en dos sentidos: la creación de
+monopolios y la brecha digital que amplía las dimensiones de la exclusión social.
+
+En la Argentina, la situación es más preocupante, teniendo en cuenta rasgos estructurales como la precariedad laboral, que afecta al 40 por ciento de las y los asalariados, y la emergencia del
+fenómeno del trabajador/a pobre, que pone en duda la efectividad del empleo como herramienta de ascenso y bienestar social. En este marco, aumentan los fundamentos para definir una protección social
+por fuera del mercado, como la que propone el IU, ya que al no condicionar las transferencias de ingresos sortea la “trampa de la informalidad”.
+
+Sin dudas la implementación de un IU ayudará al combate de la pobreza y proveerá el impulso necesario para una reactivación económica inclusiva. No obstante, el debate nos brinda la oportunidad de
+superar el discurso hegemónico y avanzar por el camino que nos dirija hacia una mayor justicia distributiva. Ciertamente esto no se logra solo con política social, es indispensable pensar su
+articulación con la política tributaria. Llevar adelante una reforma tributaria progresiva, en línea con el impuesto a las grandes fortunas, no puede escapar del debate de la reconstrucción social
+post pandemia.
+
+*Economista UBA e integrante del Observatorio de Políticas Públicas de la Universidad Nacional de Avellaneda (Undav)
+
+---------
+
+Por Carolina Brandariz** y Martín Navarro ***
+
+Durante la pandemia, nació el Ingreso Familiar de Emergencia (IFE), que actualmente es recibido por 8,9 millones de personas. Se trata de un instrumento muy valioso que permitió que el Estado llegue a
+muchísima gente que necesita sostener su ingreso. En estos momentos se debate si esa ayuda debe continuar y bajo qué forma debería hacerlo.
+
+Está claro que el eje rector debe ser el trabajo. Sin embargo, hay una mirada discutible sobre la posibilidad de lograr que el buen funcionamiento de la economía consiga la empleabilidad de estos
+trabajadores. Esta mirada no solo es poco probable, ya que cada año crece la precarización laboral en todo el mundo, sino que además, se desconoce el saber y el valor de los oficios de estas personas.
+
+Consideramos que la ⟦M1170⟧economía popular⟦/M1170⟧ ya genera trabajo, por eso no es necesario inventar nuevas contraprestaciones. Tal vez la evolución de los instrumentos actuales, como el IFE, sea
+avanzar hacia el salario universal de la ⟦M1171⟧economía popular⟦/M1171⟧ y poner toda la fuerza del Estado para lograr registrar a todos los trabajadores de este sector.
+
+La Secretaría de Economía Social del Ministerio de Desarrollo Social tiene por objetivo instrumentar de manera adecuada el Registro Nacional de Trabajadores de la ⟦M1172⟧Economía Popular⟦/M1172⟧
+(RENATEP) y al mismo tiempo implementar el Salario Social Complementario (SSC). Se busca que el SSC esté relacionado al salario mínimo vital y móvil, para que estos trabajadores accedan al consejo del
+salario y a la primera paritaria salarial del sector.
+
+Creemos que el RENATEP debe ser el reemplazante natural de gran parte del IFE. Porque es un deber hallar y reconocer los saberes de punta a punta de la Argentina. No es necesario pedir o inventar una
+nueva contraprestación, porque la mayoría de estas personas ya desarrollan sus oficios.
+
+Es el deber del Estado otorgar los derechos laborales y valorar estos oficios impulsando capacitaciones con el reconocimiento del mundo educativo. Se deben pensar políticas que generen una
+infraestructura acorde, acercar a estos trabajadores y trabajadoras a la innovación e incluirlos a las cadenas de valor del desarrollo local. Este camino además busca romper la lógica del ingreso o la
+renta. Necesitamos ver a estos trabajadores como parte de la solución. Incluir estas experiencias al rompecabezas productivo y de servicios. La innovación no pasa tanto por reconvertirlos al
+ofrecerles una ocupación de forma externa, sino por reconocerlos, valorizarlos y protegerlos. Nuevamente, estas personas ya trabajan.
+
+En este punto, vale hacer un poco de historia reciente. El 7 de agosto de 2016, nace el grupo de Los Cayetanos (CTEP, CCC, Barrios de Pie), con el fin de impulsar la Ley de Emergencia Social. En el
+tiempo transcurrido hasta el final del gobierno de Mauricio Macri, los Cayetanos entendieron que el camino era seguir construyendo una alianza, y hacía fines de 2019 nació la UTEP (Unión de
+Trabajadores y Trabajadoras de la Economía Social). En su lanzamiento, este gremio, que representa a los trabajadores de la ⟦M1173⟧economía popular⟦/M1173⟧, le propuso al presidente de la Nación,
+Alberto Fernández, poder transformar los planes sociales en pos de fortalecer el trabajo.
+
+Por otro lado, cabe recordar que el trabajo no es únicamente aquella relación asalariada de dependencia, generalmente vinculada al empleo. El cuidado es también trabajo. Dar valor a las riquezas que
+produce el conjunto de los trabajadores es fundamental para visibilizar y registrar institucionalmente a todos aquellos trabajos que desempeñan millones de argentinos y argentinas.
+
+En la región, el arribo a la agenda del cuidado
+es desde el reconocimiento de esta actividad como el nudo de la desigualdad
+para millones de mujeres. Sin embargo, muchos países están discutiendo si los
+Estados de bienestar actualmente tienen que garantizar un nuevo derecho. Junto
+con la educación, la salud y la seguridad social, aparece el cuidado.
+Planificar esquemas de trabajo que garanticen distintos servicios del cuidado
+es una propuesta por la cual se valorizaría económicamente el cuidado, a la vez
+que se garantizaría un nuevo derecho.
+
+** UPNP, Aguas Fuertes, Agenda Argentina, Directora en Desarrollo Social
+
+*** UPNP, Espacio Atahualpa, Agenda Argentina
+
+Producción: Javier Lewkowicz
+
+===== NOTA 2 de 27 =====
+medio: Página/12
+titulo: Si no se ve en pandemia ¿cuándo?
+fecha: 2020-07-28 02:56:07
+autor: Pablo Antonini
+seccion: La Ventana
+volanta_bajada: La fortaleza de los medios comunitarios
+link: https://www.pagina12.com.ar/281199-si-no-se-ve-en-pandemia-cuando
+marcas a codificar: M1174
+----- TEXTO -----
+Se ha dicho mucho y bien que, además de traer sus problemas y desafíos propios, la pandemia sobre todo amplifica con crudeza desigualdades y problemáticas preexistentes. Lo mismo vale para las
+fortalezas.
+
+La demostración reiterada, exacerbada y dolorosa de que la agenda del debate público en Argentina sigue mayoritariamente en manos de los grupos económicos y sus voceros/as es una buena prueba de lo
+primero. Máxime cuando ello ocurre más de una década después de la sanción de una ley que venía a terminar con ese problema.  Menos dicho y más necesario de visibilizar es cómo el trabajo de los
+medios comunitarios y populares en la pandemia viene dando también contundente evidencia de lo segundo, sus fortalezas.
+
+En todo el país y en todos los formatos existen, subsisten y crecen experiencias de comunicación contra hegemónica que son diversas y sólidas. Existen nuevas y otras que  llevan años y décadas
+funcionando.  En muchos casos afrontan con dignidad el contexto, manteniendo programaciones mínimas, espacios necesarios para la expresión directa de voces del pueblo, a veces más o menos elaborados,
+combinando roles en el medio con otras tareas urgentes que la realidad impone a la organización, comunidad o institución que lo gestiona.
+
+En muchos otros, siempre con recursos irrisorios en comparación, también se producen contenidos que nada tienen que envidiarle en su factura técnica a las costosas tribunas de operaciones con que los
+medios concentrados inundan pantallas, aires y redes. En esas producciones comunitarias no sólo aparecen problemáticas del barrio narradas en primera persona por sus protagonistas, sino además otras
+excelentes propuestas de actualidad nacional e internacional, política, economía, culturales, artísticas, educativas, deportivas, entretenimiento, ficción.
+
+Es necesario subrayar esto porque existe una “tentación solidaria” de reducir la mirada sobre los medios comunitarios en la pandemia a una lista de sus padecimientos, que sin duda los hay. Muchos de
+estos problemas son acumulados y compartidos con el conjunto del pueblo durante los últimos años (tarifazos, recesión y ahogo económico del entramado social que sostiene al medio). Otros son directa
+consecuencia de haber enfrentado en el mismo período al cerco informativo macrista (desde marginación de la distribución de pauta hasta clausuras e ilegalizaciones arbitrarias). A todo lo dicho  se
+sigue sumando la falta de una política pública de comunicación que entienda a los medios comunitarios como sujeto estratégico a fortalecer y no sólo a asistir eventualmente.
+
+Las medidas posibles y necesarias que deberían constituir esa política también están dichas y escritas, inclusive en las páginas de este diario y de esta sección: desde consolidar parámetros para la
+distribución democrática y federal de la pauta publicitaria en todos sus niveles, hasta el desarrollo de líneas específicas desde organismos vinculados por temática (niñez, juventud, trabajo, cultura,
+salud,  género, agricultura familiar entre muchas otras) y/o carácter organizativo o identidad (cooperativismo, ⟦M1174⟧economía popular⟦/M1174⟧, pueblos originarios), pasando por la legalización del
+amplio espectro todavía pendiente, aplicación total del fomento establecido por ley, iniciativa de fomento a la diversidad, garantía de acceso a infraestructura y conectividad.
+
+Si las políticas necesarias están dichas y escritas desde antes, una mirada informada sobre el trabajo de nuestros medios comunitarios en la pandemia tiene que poder ahora concretar la urgente
+implementación de una política que no se limite sólo a la asistencia, sino que reconozca sobre todo -y aún en el peor de los contextos- la existencia de la capacidad instalada para proponer otra
+comunicación en todo el país. Se trata de fortalecer la base existente para mejorar en serio las posibilidades de que el sector crezca, dispute y construya otra agenda pública, o seguir preso de los
+procedimientos de quienes hoy siguen haciendo operaciones mediáticas.  Hacerlo o no es una decisión política de Estado.
+
+Los medios comunitarios no necesitan lástima o limosnas. La democracia necesita medios comunitarios fuertes. Y lo demandan sobre todo los proyectos democratizadores, tanto en términos de comunicación
+como de garantía de derechos básicos universales, redistribución de la riqueza, igualdad de posibilidades, o sea, de democracia completa.
+
+* Presidente del Foro Argentino de Radios Comunitarias (FARCO).
+
+===== NOTA 3 de 27 =====
+medio: Página/12
+titulo: Cinco claves sobre el flamante Registro de Trabajadores de la Economía Popular
+fecha: 2020-07-29 03:01:00
+autor: Laura Vales
+seccion: El País
+volanta_bajada: Tuvo 100 mil inscriptos en la primera semana
+link: https://www.pagina12.com.ar/281419-cinco-claves-sobre-el-flamante-registro-de-trabajadores-de-l
+marcas a codificar: M1175, M1176, M1177, M1178, M1179, M1180, M1181, M1182, M1183, M1184, M1185, M1186
+----- TEXTO -----
+El Registro Nacional de Trabajadores de la ⟦M1175⟧Economía Popular⟦/M1175⟧ (Renatep)  tuvo 100 mil inscriptos en su primera semana de funcionamiento. Creado en el ámbito del Ministerio de Desarrollo
+Social, concreta un viejo reclamo de las organizaciones sociales: tener una herramienta  para conocer cuántos son, dónde trabajan y con qué actividades generan sus ingresos quienes están fuera del
+mercado del empleo. El registro servirá para armar un mapa que permita entender cómo producen millones de argentinos que no tienen empleo pero sí trabajo. Vendedores ambulantes, feriantes, artesanos,
+cartoneros, recicladores, quinteros, cocineros de los comedores populares, agentes de salud barriales, integrantes de las cuadrillas de limpieza… la lista es larga.  El sociólogo Alex Roig
+-investigador, secretario académico de la Universidad de San Martín, asesor de la secretaría de Economía Social y militante del Movimiento Evita- fue uno de los encargados de diseñar el registro. En
+esta nota, explica su sentido y objetivos.
+
+1-  ¿Por qué un registro?
+
+“Lo que define la ⟦M1176⟧economía popular⟦/M1176⟧ son trabajadores que generan su propio trabajo y, sus propios ingresos. El problema es que todos esos trabajadores no son reconocidos por el Estado,
+aunque estimamos que suman alrededor de 6 millones. Hoy en día hay 550 mil planes sociales. O sea, contrariamente a los imaginarios sociales, sólo el 10 por ciento de la ⟦M1177⟧economía
+popular⟦/M1177⟧ recibe algún tipo  transferencia por parte del estado vinculado a su trabajo. Esto significa --y el Ingreso Familiar de Emergencia lo mostró--que la mayoría de los trabajadores de la
+⟦M1178⟧economía popular⟦/M1178⟧ viven de su trabajo, no de la ayuda del Estado. Son 6 millones de trabajadores  -el 25 por ciento de la Población Económicamente Activa- que no tienen ningún marco
+institucional para desarrollar su actividad, y esta es una situación duradera; aún más después de la pandemia”.
+
+2- ¿Para qué hacer políticas destinadas la ⟦M1179⟧economía popular⟦/M1179⟧?
+
+“Planteamos que hay que darle institucionalidad al sector porque entendemos que  hay explicaciones, procesos sociales que generaron la desvalorización de su trabajo. Que un cartonero gane menos que un
+recolector de basura en el sector formal, o que un agricultor esté menos valorizado en la agricultura familiar que en la agroindustria tiene que ver con procesos sociales. Y es función del Estado, de
+la misma forma en que en algún momento intervino en la relación entre patrones y trabajadores en el sector formal, intervenir ahora reconociendo trabajo y derechos vinculados a estas formas de
+trabajo”.
+
+3- ¿Cómo podría el estado revalorizar estos trabajos?
+
+“Esos procesos de desvalorización pueden mirarse a través de de cinco grandes relaciones con el capital: relaciones fiscales, financieras, laborales, comerciales y de saber”.
+
+“En lo financiero, los sectores populares son los que pagan las tasas de intereses más altas. Hasta tres o  cuatro veces tasas más altas que los sectores medios, porque están fuera del sistema
+bancario”. “Hoy los beneficiarios de planes sociales están banelquizados, pero no bancarizados, porque las cuentas no son propias, sino del Ministerio. Estamos desarrollando mecanismos para que cada
+trabajador del Renatep tenga su propia cuenta y a través de eso pueda acceder a créditos a intereses normales”.
+
+“En lo comercial es importante trabajar los circuitos de ferias, compre social y compre estatal, armar una trama comercial que permita un comercio más justo”.
+
+“En lo fiscal estamos trabajando para que los trabajadores de la ⟦M1180⟧economía popular⟦/M1180⟧ puedan facturar y paguen impuestos progresivos, no regresivos como los pagan hoy en día. Porque no es
+cierto que no los paguen: pagan impuestos al consumo. Y los que tiene monotributo social, pagan proporcionalmente mucho más que las categorías más altas del monotributo”.
+
+“En cuanto a los saberes,  en los trabajos de cuidado, por ejemplo, hay un montón de saberes que existen pero que no son reconocidos. Tener certificaciones de esos saberes valorizaría el trabajo”.
+
+“En lo laboral hoy tenemos la herramienta del salario social complementario, a través del Potenciar Trabajo, que ya no tiene un lógica de plan social sino que es una remuneración que complementa el
+trabajo ya  existente, o sea que es un proceso de valorización del trabajo. El tema es que en la Argentina los derechos están vinculados al empleo y no al trabajo, pero lo que la ⟦M1181⟧economía
+popular⟦/M1181⟧ mostró es que hay trabajo aunque no haya  empleo”.
+
+4- ¿En qué prestaciones se podrían concretar derechos laborales?
+
+“En una ART de la ⟦M1182⟧economía popular⟦/M1182⟧, por ejemplo (hoy es muy caro para las cooperativas sacar un seguro de trabajo). En el reconocimiento de la jubilación, porque hoy a una personas no
+tuvo ningún tipo de aporte formal el estado le reconoce la mínima (un caso gráfico es el de los trabajadores de empresas recuperadas), pero sabemos que si viene un gobierno de derecha podría
+perfectamente no reconocerlo, es muy frágil esa situación. Por eso queremos que haya acreditación de los aportes de la ⟦M1183⟧economía popular⟦/M1183⟧”.
+
+5- ¿Cómo pensar el salario de los trabajadores de la ⟦M1184⟧economía popular⟦/M1184⟧?
+
+“Nosotros queremos ir, y eso es difícil de explicar, hacia la definición de salario de convenio por rama de actividad. La idea es definir cuál es el mínimo que debe cobrar un cartonero, alguien que
+trabaja en el cuidado, en un comedor o merendero. ¿Cuál debe ser su ingreso? Eso implica organizar discusiones salariales dentro de la sociedad. Es una nueva discusión porque no es ni la discusión
+paritaria privada a través de un convenio colectivo de trabajo ni son funcionarios públicos. Es decir que hay que generar nuevos mecanismos de referencia de valor para la ⟦M1185⟧economía
+popular⟦/M1185⟧”.
+
+“El Registro de Trabajadores de la ⟦M1186⟧Economía Popular⟦/M1186⟧ va a ser una herramienta para acceder a derechos. Es es el primer paso hacia la laboralización de la política social, una herramienta
+para poder asociar a una actividad un conjunto de derechos y remuneraciones vinculadas al trabajo”.
+
+===== NOTA 4 de 27 =====
+medio: Página/12
+titulo: La red de contención para los más vulnerables
+fecha: 2020-08-02 03:01:00
+autor: 
+seccion: El País
+volanta_bajada: Informe del Ministerio de Desarrollo sobre la ayuda en la pandemia
+link: https://www.pagina12.com.ar/282355-la-red-de-contencion-para-los-mas-vulnerables
+marcas a codificar: M1187
+----- TEXTO -----
+En los primeros seis meses de 2020, el Ministerio de Desarrollo Social destinó cuatro veces más plata para alimentos que el gobierno de Cambiemos en todo 2019: se pasó de invertir 15 mil millones de
+pesos en todo 2019, a más de 60 mil millones en el primer semestre de este año. Estos son algunos de los datos que arroja un informe realizado por la cartera de Desarrollo, al que accedió Página/12.
+En diálogo con este diario, el ministro Daniel Arroyo indicó que “en los próximos seis meses vamos a seguir del mismo modo", y adelantó que "si bien hoy el Ministerio destina, en proporción, un 90 por
+ciento de los recursos a la asistencia alimentaria y un 10 por ciento al trabajo, queremos que a fin de año sea 50 y 50, y que el año que viene el eje central y más importante sea el trabajo”.
+
+El informe detalla la inversión que realizó el Ministerio durante los últimos seis meses en alimentos, en función de las distintas políticas públicas. La Tarjeta Alimentaria fue la que más proporción
+de este presupuesto implicó, con unos 44.567 millones de pesos repartidos en 1,5 millones de tarjetas distribuídas en todo el país. Según el informe, "los fondos acreditados a los titulares a junio
+2020 son ocho veces superiores a los destinados en todo 2019 a la totalidad de las tarjetas y módulos financiados desde Nación". En segundo lugar, están los comedores escolares en los que, según
+explicaron, "los
+fondos transferidos a la fecha representan más del doble que los pagos realizados durante todo el ejercicio anterior. Se pasó de 2.700
+millones a 6 mil millones de pesos".
+
+“Estas cifras reflejan un cambio de prioridades en el gobierno", puntualizó en diálogo con Página/12 la secretaria de Inclusión Social del Ministerio, Laura Alonso. Su área fue la encargada de
+elaborar el informe. "Argentina contra el hambre fue un eje que se planteó desde el primer día que asumió el gobierno de Alberto Fernández. Esa convocatoria se tradujo en políticas públicas concretas
+que, como demuestra el informe, tuvieron un correlato en el financiamiento destinado a ello”, explicó.
+
+Alonso destacó que el escenario de la pandemia profundizó una realidad que ya era delicada. "Nosotros asumimos el gobierno con una emergencia alimentaria votada por el Congreso de la Nación y la
+pandemia empeoró esa situación existente”, remarcó. En la misma línea, Arroyo indicó que “antes de la pandemia estábamos teniendo una inversión de cinco mil millones de pesos para alimentos por mes, y
+por la emergencia sanitaria pasamos a 14 mil millones. A eso hay que agregarle muchas de las nuevas políticas que hicimos de transferencia de fondos a provincias y municipios. La asistencia en
+alimentos antes de la pandemia llegaba a ocho millones de personas y ahora llega a once”.
+
+El informe precisa que, en tercer lugar dentro de la distribución de recursos, se ubica la entrega directa de alimentos a organizaciones sociales. En esta categoría, afirmaron desde el Ministerio que
+"se alcanzó a cubrir las
+cantidades fijadas como meta para el período, unos 3.500 millones de pesos en
+el primer semestre de 2020". En cuarto lugar están los comedores, donde "las transferencias para el funcionamiento del programa a junio de 2020 resultan superiores en un 20 por ciento a las realizadas
+durante todo 2019". Según Alonso, “hay una multiplicidad de acciones que se han desarrollado y que han permitido tener una cobertura federal para poder garantizar el derecho al acceso a la
+alimentación para los sectores que venían, previo a la pandemia, siendo vulnerados con la falta de ese derecho tan básico".
+
+Además de la asistencia, desde el Ministerio se trabajó en la realización de registros que serán fundamentales para el futuro. En ese marco se encuadra la creación del Registro Nacional de
+Trabajadores y Trabajadoras de la ⟦M1187⟧Economía Popular⟦/M1187⟧ (Renatep) y del Registro Nacional de Comedores y Merenderos (Renacom). Según explicó Arroyo, “creamos el Renacom hace quince días para
+que se vayan registrando los comedores con la intención de hacer una evaluación y descentralizar, porque creemos que ese es el mejor modelo ya que fomenta la economía local y mejora la calidad
+nutricional. Por otro lado creamos el plan Potenciar Trabajo, con el que apostamos a crear 300 mil empleos en los próximos meses”.
+
+Alonso destacó que “todas estas políticas y líneas de asistencia van a tener continuidad", dado que "en este momento lo prioritario es poder acercar el plato de comida a los que lo necesitan".
+"También sabemos que una vez superada esta crisis profunda, junto con los espacios que están en el territorio, seguiremos trabajando para la reconversión de actividades y para fomentar el eje central
+de generación de inclusión social que es el trabajo”, añadió. Arroyo sostuvo que, para el semestre que está empezando, “calculamos que va a bajar un poco la cantidad de gente en los comedores en la
+medida que haya más changas y más actividad económica, pero no vamos a volver a los ocho millones, es decir a la situación anterior. Hay gente que quedó sin ingreso y muy complicada, por eso vamos a
+continuar con la asistencia alimentaria". A su vez, subrayó que "de a poco estamos pasando a otra etapa, en la que el eje central será el trabajo”.
+
+Para el ministro la postpandemia implicará una salida vinculada a tres ejes. Además del plan Potenciar Trabajo, los otros dos puntos son: "un ingreso de base para gente que no tiene ingreso y la
+urbanización de los cuatro mil barrios populares del país, donde viven cuatro millones de argentinos". "Los tres combinan derechos y movimiento económico. La urbanización y el derecho a la vivienda
+son un gran plan de empleo; lo mismo es el derecho al ingreso en relación al consumo. Es tiempo de combinar derechos y reactivación económica”, concluyó.
+
+Informe: Melisa Molina.
+
+===== NOTA 5 de 27 =====
+medio: Página/12
+titulo: Agricultura Familiar presentó a sus referentes en la provincia
+fecha: 2020-08-05 06:37:57
+autor: Nicolás Hirtz
+seccion: Salta|12
+volanta_bajada: Con una mirada en el territorio
+link: https://www.pagina12.com.ar/283062-agricultura-familiar-presento-a-sus-referentes-en-la-provinc
+marcas a codificar: M1188
+----- TEXTO -----
+La delegación salteña de la Secretaría de Agricultura Familiar Campesina e Indígena, que depende del Ministerio de Agricultura, Ganadería y Pesca de Nación,  presentó ayer a sus cuatro referentes
+provinciales hasta 2024.
+
+Con una impronta basada en el reconocimiento de lo territorial, lo campesino, lo indígena y el género, eligieron el 4 de agosto no por casualidad, sino por los 30 años del Movimiento campesino de
+Santiago del Estero (MOCASE).
+
+Miguel Plaza, un médico de Cachi e integrante de la Unión de los Pueblos de la Nación Diaguita (UPND), será el responsable de toda la Zona Oeste, que incluye los Valles Calchaquíes, la Puna salteña,
+Santa Victoria Oeste, Iruya y Los Toldos.
+
+Ignacio Garzarón, del Movimiento Nacional Campesino Indígena (MNCI) Vía Campesina, estará al frente de la Zona Norte, con los tres departamentos declarados en emergencia socio sanitaria, Rivadavia,
+San Martín y Orán.
+
+Patricia Caudullo, una técnica de terreno de la SAF con años de experiencia, será la referente de la Zona Sur, que comprende a los departamentos Anta, Metán y Rosario de la Frontera. Además, aportará
+la mirada de género y diversidad sexual. Mientras que un integrante del Movimiento Evita, Oscar Vila Díaz, estará a cargo de toda la Zona Central.
+
+El encuentro se realizó en el edificio del Centro Experimental del Instituto Nacional de Tecnología Agropecuaria (INTA) ubicado en Cerrillos, donde también funciona desde hace algunos años la
+desmantelada por el gobierno de Cambiemos Secretaría de Agricultura Familiar, que hoy incluyó los términos Campesina e Indígena.
+
+Allí presentaron el Plan estratégico 2020-2024 que incluye cuatro ejes, promover la inclusión y formalización del sector, punto primordial en el proyecto de Alberto Fernández y su gabinete si se
+piensa en el Registro Nacional de Trabajadores de la ⟦M1188⟧Economía Popular⟦/M1188⟧ o la idea de formalizar un salario universal; fortalecer el desarrollo productivo; el acceso a la tierra y el
+arraigo rural y promover la formación, innovación y tecnificación productiva.
+
+“Toda esta planificación de políticas públicas tendrá siempre presente la perspectiva de género, la inclusión de las juventudes rurales y buscarán siempre cuidar el medioambiente y la promoción de la
+agroecología”, aclararon los cuatro.
+
+“Que se hayan agregado las palabras campesino e Indígena es un reconocimiento del Estado a la diversidad cultural y el autoreconocimiento de este sector”, subrayó Plaza.
+
+Para la mesa, será clave fortalecer el Consejo Nacional de la Agricultura Familiar Campesina Indígena, “que ya tuvo algunos encuentros aunque sea virtuales”, integrada por todas las organizaciones “y
+su diversidad”. Porque permitirá establecer participación directa entre las organizaciones y el Estado y que estas sientan mayor representatividad.
+
+A su vez, afirmaron que será fundamental impulsar la reglamentación de la ley 27.118 de Reparación histórica de la agricultura familiar, para la construcción de una nueva ruralidad en la Argentina,
+promulgada en enero de 2015.
+
+Patricia Caudullo informó que se  reactivó el Registro Nacional de Agricultura Familiar (RENAF), que venía inscribiendo en el monotributo social a miles de trabajadores, “pero que luego Macri dio de
+baja, lo que provocó que muchos comiencen a tener deudas con la AFIP o que se les imposibilite comerciar, por ejemplo”.
+
+El registro les permitía facturar y comerciar sin intermediario, además de acceder a la cobertura social y jubilación, entre otros beneficios. “Porque, si no, siempre les exigimos personerías
+jurídicas, o formas asociativas que no siempre son posibles”, acotó Garzarón.
+
+Miguel Plaza acotó que mientras todos estén registrados, “será siempre más fácil asistirlos”, y añadió que ya está vigente el Programa de asistencia crítica para la agricultura familiar
+, que tiene como objetivo mejorar la calidad de vida del sector agropecuario de los pequeños productores en aquellas regiones que lo necesiten y donde no se haya declarado la Emergencia.
+
+El Programa prevé aportes no reintegrables, entrega directa de insumos, estructuras o herramientas, así como asistencia técnica, “pero para ello necesitan estar inscriptos en el RENAF o pertenecer a
+una organización o cooperativa”.
+
+En cuatro años de macrismo las entidades que contenían a la agricultura familiar fueron desarticuladas y desguazadas. A nivel nacional, la entidad pasó de tener 2000 trabajadores, a contar con 700.
+
+“Ya estamos muy de a poco recuperando a los compañeros despedidos, pero no va a ser fácil, es un año muy duro, con una crisis enorme, una pandemia que no permite trabajar al 100%, sin presupuesto, y
+recién anoche (por el lunes) se pudo acordar la renegociación de la deuda, esperemos que comience a acelerarse todo un poco”, explicó Garzarón en cuanto a la demora en  recuperar el plantel perdido y
+volver a contener todo el territorio provincial.
+
+“Nosotros venimos de cuatro años de saqueo de la Secretaría, comenzamos con menos 100”, añadió Vila Díaz, “no dejaron ni cuadros técnicos ni equipos para movilizarnos”. Por eso resaltó la necesidad de
+que reincorporen a todos los despedidos “y sumar más gente, porque necesitamos llevar el Estado al territorio”.
+
+“Estos últimos años todo lo que se hizo fue pura y exclusivamente por la voluntad de quienes quedamos, pero en este contexto es muy difícil dar respuestas”, sostuvo quien viene trabajando allí desde
+hace casi dos décadas, Patricia Caudullo.
+
+Ante la pregunta que se abre en cuanto a pasar de integrar organizaciones sociales, que siempre tensionaron las políticas públicas con sus demandas, a ser quienes deben dar respuestas a la sociedad
+ahora como Estado, Garzarón reconoció que es un desafío.
+
+“Esperamos que las organizaciones sigan ahora tensándonos a nosotros, porque es el debate que siempre nos dimos, plantear escenarios a largo plazo, profundos y con objetivos claros, no nos tenemos que
+mover de ahí para avanzar en el reconocimiento de estos sectores históricamente postergados de la ruralidad”, planteó.
+
+“Venimos de la lucha, de cortar calles y ser denunciados, así que el tiempo dirá cuál será el proceso, pero vamos a seguir acompañando a las organizaciones”, lo interrumpió Vila Díaz.
+
+Dentro del Proyecto de inclusión socioeconómica en áreas rurales (PISEAR), se encuentra el Plan de acceso al agua para la agricultura familiar, campesina e indígena. Los integrantes de la mesa
+coordinadora salteña recordaron que hay tiempo hasta el 14 de agosto para inscribirse.
+
+El Plan facilita la construcción de obras para que familias del NOA, NEA y Cuyo accedan al recurso y puedan garantizar la producción de alimentos. Busca dar respuesta a las demandas críticas que
+existen en los sectores más vulnerables del país, dentro del contexto de emergencia social y sanitaria desencadenado por la pandemia de la Covid - 19.
+
+Para una primera etapa se priorizaron las provincias de las regiones NOA: Jujuy, Catamarca, Salta, Santiago del Estero y Tucumán; NEA: Chaco, Formosa, Corrientes y Misiones, y Cuyo: Mendoza, San Juan,
+La Rioja y San Luis.
+
+El Plan promueve la incorporación de tres modelos tecnológicos que actúen con rapidez ante el grado de emergencia actual: la captación de agua de lluvia para uso familiar mediante cisternas de placa,
+la captación de agua subterránea a poca profundidad o someras, y los sistemas de riego parcelario presurizados.
+
+Podrán presentarse a la convocatoria grupos de productores de la agricultura familiar, campesina e indígena con una problemática común de acceso al agua, o bien por medio de las organizaciones
+formales de las que formen parte. En todos los casos, las familias destinatarias deberán residir en el ámbito rural.
+
+El Plan cuenta con asistencia técnica y capacitación por parte de los técnicos especialistas del Instituto Nacional de Tecnología Agropecuaria (INTA) en toda la cobertura territorial.
+
+Para consultar las bases y condiciones de la convocatoria más información, en la web PISEAR
+ o a través de la casilla de correo planagua@magyp.gob.ar
+
+===== NOTA 6 de 27 =====
+medio: Página/12
+titulo: Hablemos de tranformaciones, un debate sobre lo que se viene
+fecha: 2020-08-05 14:05:04
+autor: 
+seccion: El País
+volanta_bajada: Este sábado a las 9 am
+link: https://www.pagina12.com.ar/283098-hablemos-de-tranformaciones-un-debate-sobre-lo-que-se-viene
+marcas a codificar: M1189
+----- TEXTO -----
+"El futuro no es la incertidumbre que plantea el neoliberalismo, por el contrario es una construcción colectiva", aseguró Nahuel Sosa, sociólogo y abogado referente de Agenda Argentina, un espacio que
+organiza el evento Hablemos de Transformaciones, que se realizará este sábado a las 9 am y podrá seguirse por las plataformas zoom y youtube.
+
+Participarán el jefe
+de Gabinete Santiago Cafiero, la ministra de Seguridad, Sabina Fréderic,
+las gobernadoras Alicia Kirchner de Santa Cruz y Arabela Carreras de Río
+Negro. También estarán los ministros de Defensa, Agustín
+Rossi, y el ministro de Desarrollo de la Comunidad de la provincia de Buenos Aires, Andrés Larroque, entre otros dirigentes y personalidades de la ciencia y la cultura.
+
+"Es un foro federal diverso y plural que busca la participación de todos los sectores que quieren una argentina de pie, queremos llenar de contenido el acuerdo social", explicó Cecilia Gómez Mirada,
+licenciada en Comunicación y referente de Agenda Argentina. El espacio de debate se presenta como "una iniciativa conjunta de una nueva generación de colectivos de pensamiento crítico de los ámbitos
+académico, profesional, político y cultural". En su carta de presentación, apuntaron que buscaban "contribuir con la elaboración de programas y propuestas que expresen respuestas para los nuevos
+interrogantes teóricos y políticos y para la comprensión de fenómenos sociales novedosos".
+
+"Lo hacemos porque para nosotros el futuro no es la incertidumbre que plantea el neoliberalismo, por el contrario es una construcción colectiva. Queremos discutir cuáles deben ser las próximas
+transformaciones que debe encarar nuestro país  para que la salida no sea con discursos de odios sino con más igualdad y más democracia", aseguró Nahuel Sosa.
+
+El evento, que será transmitido por las plataformas de Zoom y de Youtube, tiene como objetivo "contribuir al debate del campo popular en torno a las nuevas transformaciones que debe encarar el
+proyecto político que lidera el Frente de Todos. Será un ámbito para poder discutir las próximas políticas públicas y pensar colectivamente cuáles deberían ser las mejores iniciativas para continuar
+poniendo a la Argentina de pie".
+
+"Cuando hablamos de transformar, es porque creemos que ya no podemos seguir conviviendo con la pobreza, la precarización del trabajo. Agenda  Argentina a partir de su diversidad técnica y política ha
+logrado incorporar muchos temas, incluso aquellos que vienen emergiendo de la sociedad como: la ⟦M1189⟧economía popular⟦/M1189⟧, el feminismo, medio ambiente", destacó Martín Navarro, integrante de
+Agenda Argentina, apuntando algunos de los enfoques sobre los que se debatirá e el encuentro.
+
+===== NOTA 7 de 27 =====
+medio: Página/12
+titulo: Este año, la peregrinación a San Cayetano será "virtual"
+fecha: 2020-08-07 03:01:00
+autor: Washington Uranga
+seccion: El País
+volanta_bajada: La religiosidad popular en tiempos del coronavirus y el aislamiento
+link: https://www.pagina12.com.ar/283472-este-ano-la-peregrinacion-a-san-cayetano-sera-virtual
+marcas a codificar: M1190, M1191, M1192
+----- TEXTO -----
+La covid-19 también impacta en la religiosidad popular y las autoridades religiosas decidieron evitar las aglomeraciones en el santuario de Liniers, celebrarán misa sin fieles, a puertas cerradas, e
+invitan a seguir la ceremonia por canales digitales. Los movimientos populares adhirieren mediante una jornada nacional que también tendrá características virtuales.
+
+La tradicional fiesta de San Cayetano, que cada siete de agosto reúne multitudes que se acercan al santuario del barrio porteño de Liniers para rogar al santo por pan y trabajo, tendrán este año una
+forma singular y poco común debido a la pandemia: se harán sin peregrinos y con transmisiones a través de medios digitales. El templo permanecerá cerrado pero en su interior el cardenal Mario Poli,
+arzobispo de Buenos Aires, celebrará a las 11 de la mañana una misa que se podrá seguir por www.sancayetano.org, en la página de Facebook y en el canal de Youtube del santuario y por radio
+www.radiopanytrabajo.com.ar.
+
+La peregrinación tiene todos los años un lema que esta vez será "Junto a San Cayetano confiamos en Dios y nos ponemos en sus manos".
+
+"No vamos a poder ir a los templos, van a estar cerrados", dijo Poli en un video mensaje dirigido a los fieles argumentando que  "no podemos tener mucha aglomeración de gente". Sin embargo invitó a
+los católicos a que "recen desde sus casas, que prendan una vela a San Cayetano, que tienen en sus altarcitos", porque "Dios sabe escuchar la oración de los devotos donde se encuentren".
+
+Por su parte los movimientos populares que suelen adherir a la celebración y que tienen en San Cayetano una referencia, decidieron realizar una jornada nacional que también tendrá características
+virtuales y que se extenderá durante todo el día siete de agosto, bajo la consigna "Paz, pan, tierra, techo y trabajo" que recoge además el sentido de la prédica del papa Francisco. Para estas
+organizaciones, la mayoría de las cuales integran la UTEP (Unión de Trabajadores de la ⟦M1190⟧Economía Popular⟦/M1190⟧), es también la ocasión para recordar la marcha celebrada ese mismo día del año
+2016 ocasión en la que se movilizaron desde el Santuario de San Cayetano en Liniers hasta la Plaza de Mayo, demandando la ley de emergencia social.
+
+"La paz del pueblo es con justicia social, el pan no debe ser más un reclamo sino una realidad en cada mesa, la tierra es para los/as que la trabajan, el techo es con la integración de los barrios
+populares y el trabajo es con ⟦M1191⟧economía popular⟦/M1191⟧ e industria nacional"  se lee en el comunicado de la UTEP que  convoca a la jornada de San Cayetano.
+
+Dada las condiciones que impone la pandemia y los recaudos sanitarios que se deben adoptar, la organización programó una transmisión virtual a partir de las 15 horas que se podrá ver por el canal de
+Youtube de UTEP Prensa y que contará con la participación, vía teleconferencia, de delegaciones de todo el país y la representación de las diferentes ramas de la ⟦M1192⟧economía popular⟦/M1192⟧.
+
+"Que esta peregrinación no sea con los pies sino con el corazón”, dijo el arzobispo de Buenos Aires, asegurando que "nosotros celebraremos las misas dentro del santuario, que podrán ver por televisión
+y por las redes, y vamos a poner las intenciones de todos ustedes". En su mensaje el cardenal Poli reconoció que "estamos en un tiempo muy difícil, muy apretados también, con mucha angustia" y que por
+lo tanto  "el tema del trabajo es una preocupación de todos los padres de familia". Sin embargo, agregó, "a los que buscan a Dios a través de sus santos, Dios nunca los suelta de su mano, y ha
+mostrado muchas gracias a través de San Cayetano y de tantos santos amigos del Cielo que siempre están dispuestos a concedernos las gracias materiales y espirituales que necesitamos para seguir
+caminando".
+
+En el video mensaje, a través del cual también brindó su bendición a los fieles, el arzobispo porteño pidió que Dios "transforme esta angustia en esperanza" y "que el Señor nos conceda todo esto, y
+especialmente que no falte lo necesario para la comida, el trabajo, la salud en cada hogar".
+
+wuranga@pagina12.com.ar
+
+===== NOTA 8 de 27 =====
+medio: Página/12
+titulo: Plan Potenciar: el Gobierno lanzó dos líneas del programa con movimientos sociales
+fecha: 2020-08-07 03:01:00
+autor: Laura Vales
+seccion: El País
+volanta_bajada: Están vinculados al mejoramiento de barrios y a la recuperación de consumos problemáticos
+link: https://www.pagina12.com.ar/283345-plan-potenciar-el-gobierno-lanzo-dos-lineas-del-programa-con
+marcas a codificar: M1193, M1194, M1195
+----- TEXTO -----
+Acompañado por referentes de los movimientos sociales, el gobierno puso en marcha dos líneas del Potenciar Trabajo, que busca ir dotando de mayores derechos  a los planes sociales. Se trata del
+programa del ministerio de Desarrollo Social que toma parte de los planes de asistencia para asociarlos a trabajo garantizado por el estado, con el pago de un plus de 8.500 pesos que se suma a los
+8500 del salario social. De esta manera, los beneficiarios llegan al salario mínimo, haciendo obras de mejoramiento urbano o determinadas tareas de cuidado. Este giro responde a una decisión de
+laboralizar los planes sociales, como parte de las medidas de reactivación para la postpandemia.
+
+Las presentaciones se hicieron en vísperas del 7 de agosto, día de San Cayetano, una fecha simbólica para los movimientos que son parte de la gestión del Frente de Todos y que están participando del
+diseño del programa. El 7 de agosto de 2016,  la CTEP, Barrios de Pie y la CCC hicieron su primer marcha desde Liniers a la Plaza de Mayo, iniciando un reagrupamiento que en los cuatro años que
+siguieron ha ido logrando meter en la agenda política a la ⟦M1193⟧economía popular⟦/M1193⟧.
+
+El Obras más Trabajo
+ va a reconvertir 40 mil planes sociales. Su antecedente inmediato son las cuadrillas que este verano pintaron escuelas, en las que trabajaron 30 mil personas. Ahora, debido a la pandemia y para
+evitar la circulación de las personas, realizarán obras de refacción más locales,  en los espacios comunitarios que están siendo lugares clave para distribuir alimentos y hacer de base a los
+Operativos Detectar: comedores populares, clubes de barrio, centros de integración comunitaria. Empleará a más trabajadores que en febrero y durante mas tiempo, ya que incluirá obras que pueden llevar
+varios meses.
+
+Los proyectos van a ser coordinados por intendentes y movimientos sociales. El criterio es que los municipios o las organizaciones presenten propuestas de acuerdo a las necesidades barriales.
+“Pensamos en que tener entre cinco y diez beneficiarios por obra, con una o dos cuadrillas y en una duración de los trabajos de entre cuatro y seis meses”, explicó a PaginaI12 Daniel Menéndez,
+subsecretario de Políticas de Integración y Formación del ministerio, y  también referente de Somos-Barrios de Pie.
+
+Con el Obras más Trabajo podrán realizarse veredas, plantear la erradicación de basurales para convertirlos en espacios verdes o plazas, construir salones comunitarios  y mejorar las instalaciones de
+los polos productivos textiles. En todos los casos, la idea es que sean obras que demanden mano de obra intensiva. Para su financiamiento está prevista la ejecución de dos mil millones de pesos de
+aquí a fines de año.
+
+“Creemos en la articulación entre el estado nacional, las gobernaciones, las intendencias y los movimientos para generar posibilidades de trabajo. Una de las vertientes que plantea Daniel Arroyo es la
+obra pública de pico y pala, que tiene enormes posibilidades porque ocupa mucha mano de obra. Esta línea de trabajo va en esa dirección”, agregó Menéndez.
+
+El Potenciar Acompañamiento va a reconocer los trabajos de cuidado que se realizan en las casas del SEDRONAR para jóvenes con consumos problemáticos. Muchas de ellas están a cargo de movimientos
+sociales, ya que fueron creadas como respuesta a una demanda de las organizaciones, expresada en el proyecto de ley de Emergencia en Adicciones. La secretaría arrancó con las casas durante el gobierno
+de Cristina Kirchner, y hoy tiene 215 CAACs (Casas de Atención y Acompañamiento Comunitario).
+
+En las casas,  militantes de las organizaciones vienen haciendo un trabajo poco visible.  Las CAACs son dispositivos convivenciales, con rutinas domésticas: cocinar, limpiar, bañarse, almorzar juntos.
+Dan acompañamiento legal si los jóvenes tienen causas judiciales abiertas, los ayuda para mantener un seguimiento de salud si han adquirido una enfermedad crónica, a tramitar un subsidio habitacional
+si están en situación de calle. Los jóvenes acceden allí a un circuito de contención y cuidados.
+
+Las organizaciones sociales que gestionan  CAACs han puesto nombre a sus redes, como Vientos de Libertad, Movimiento Ni un pibe menos por la droga, Red Puente
+, Casas Pueblo. En las redes trabajan psicólogos, psiquiatras, trabajadores sociales.
+
+El Potenciar Trabajo va a reconocer el trabajo de "acompañantes pares", que tendrán la función de acompañar a 10 jóvenes en una estrategia de cuidado cuerpo a cuerpo. Para acceder a esta función el
+Sedronar fijará requisitos; también organizará su tarea y la certificará.
+
+Por otra parte tendrá una pata sociolaboral para los jóvenes con consumos problemáticos, que buscará completar los procesos de cambio  con emprendimientos laborales . "El Potenciar viene a reconocer
+que hay pibes y pibas que atraviesan procesos que necesitan apoyo y acompañamiento del Estado. No hay recuperación sin procesos comunitarios y una salida integral", señaló Sebastián Sánchez, referente
+de Vientos de Libertad, la organización donde se hizo el acto de lanzamiento.
+
+El ministro Arroyo y la titular de la Sedronar, Gabriela Torres, estuvieron acompañados en la actividad por el Secretario de ⟦M1194⟧Economía Popular⟦/M1194⟧, Emilio Pérsico, el referente del MTE Juan
+Grabois y el padre Pepe di Paola.
+
+El Potenciar Acompañamiento prevé llegar a 6 mil trabajadores de la ⟦M1195⟧economía popular⟦/M1195⟧ en una primera etapa. Con el Obras más Trabajo, la idea es sumar a 40 mil personas.
+
+En conjunto, su programa matriz, el Potenciar Trabajo está pensado para impulsar  cinco sectores productivos  de mano de obra intensiva en las franjas más empobrecidas. Ellos son la construcción, la
+producción de alimentos, el textil, la economía del cuidado y el reciclado, con el objetivo de llegar a generar 300 mil empleos en el corto o  mediano plazo.
+
+===== NOTA 9 de 27 =====
+medio: Página/12
+titulo: Alberto Fernández: “Necesitamos una sociedad que incluya a todas y a todos”  
+fecha: 2020-08-07 22:17:41
+autor: 
+seccion: El País
+volanta_bajada: El Presidente acompañó a los movimientos sociales frente a San Cayetano
+link: https://www.pagina12.com.ar/283682-alberto-fernandez-necesitamos-una-sociedad-que-incluya-a-tod
+marcas a codificar: M1196, M1197
+----- TEXTO -----
+El presidente Alberto Fernández reiteró hoy su compromiso con los sectores más necesitados al acompañar a movimientos sociales, desde la Quinta de Olivos y por videoconferencia, en la celebración de
+San Cayetano, patrono del pan y del trabajo.
+
+Durante su participación del acto transmitido por las redes sociales, el mandatario afirmó también que "Argentina tiene que dejar de ser el país de unos pocos y pasar a ser el país de todos y todas,
+donde encontrar un lugar de desarrollo". Además, Fernández señaló que “venimos de una Argentina que ha desatendido a los más necesitados y los ha condenado a vivir casi a las márgenes de la sociedad".
+
+“No quise estar ausente porque para nosotros el trabajo es una prioridad y que en la Argentina de hoy todavía tengamos gente con problemas para acceder al trabajo es algo que nos duele, algo que nos
+preocupa y que nos obliga a ocuparnos del problema”, destacó en otro fragmento de su discurso.
+
+A las decenas de dirigentes y representantes de organizaciones sociales participantes les aseguró: “Sé mejor que muchos que estamos viviendo un tiempo donde hay una economía que se ha desarrollado a
+la par de la economía formal y que esa economía necesita poder desarrollarse y crecer porque es un formidable mecanismo para incluir gente en la sociedad argentina”.
+
+En ese contexto, el mandatario destacó la puesta en marcha de diversas medidas como el plan Argentina contra el Hambre y la distribución de la Tarjeta Alimentar, las mejoras en la Asignación Universal
+por Hijo y la implementación del Ingreso Familiar de Emergencia (IFE).
+
+“El plan fue una sorpresa y una satisfacción, porque lo pensamos para menos gente, creíamos que la Argentina tenía 3 millones de personas que habían quedado fuera del sistema, y el número fue
+creciendo hasta llegar a los 9 millones”, detalló. Y consideró que eso “dejó en evidencia cómo el Estado argentino se desentendió de un número tan grande de argentinos, el Estado nacional no
+registraba a más de un 20 por ciento de los argentinos, que estaban sobreviviendo no sabemos exactamente en qué condiciones".
+
+Por otro lado, el mandatario reconoció el trabajo de las organizaciones sociales “que tanto han hecho en los últimos años para que la Argentina no padezca más postergación y más necesidades en
+sectores que ya las vienen padeciendo hace muchos años”. Y manifestó su compromiso de "hacer las cosas de otro modo para que la justicia social exista de una vez y para siempre en nuestro querido
+país”.
+
+El acto, que se realizó desde una carpa montada frente a la Iglesia San Cayetano en el barrio de Liniers, contó con la participación de referentes de la Unión de Trabajadores de la ⟦M1196⟧Economía
+Popular⟦/M1196⟧ (UTEP), del Movimiento Evita, de la Corriente Clasista y Combativa (CCC) y del Movimiento Somos Barrios de Pie, entre otros.
+
+Del encuentro virtual también formaron parte dirigentes del Movimiento de Trabajadores Excluidos (MTE), del Frente Darío Santillán, del Movimiento La dignidad, del Movimiento Nacional Octubres, del
+Movimiento Justicia y Dignidad, del Movimiento Nacional Campesino Indígena (MNCI), de la CTD Aníbal Verón, de la Corriente Nacional Martín Fierro y del Movimiento Barrios Peronistas, entre otras
+organizaciones sociales y sindicales.
+
+"Nuestro Presidente nos tiene en cuenta desde el primer momento, nos escuchó durante la campaña y nos sigue escuchando, y nos da aliciente para sobrevivir y para prepararnos para la pospandemia",
+remarcó Esteban "El gringo" Castro, secretario general de la UTEP.
+
+Por su parte, el titular del Movimiento Somos Barrios de Pie, Daniel Menéndez, reivindicó "la creación de trabajo y la ⟦M1197⟧economía popular⟦/M1197⟧" para que los excluidos tengan "voz" y puedan
+"contribuir a una Argentina más justa".
+
+A su turno, el diputado nacional y titular de la Corriente Clasista y Combativa (CCC), Juan Carlos Alderete, destacó que "en plena pandemia se están sosteniendo miles de comedores y merenderos en todo
+el país".
+
+===== NOTA 10 de 27 =====
+medio: Página/12
+titulo: San Cayetano: Una celebración virtual para pedir pan y trabajo
+fecha: 2020-08-08 03:01:00
+autor: Patricia Chaina
+seccion: El País
+volanta_bajada: Sin la tradicional vigilia, algunos fieles se acercaron a Liniers
+link: https://www.pagina12.com.ar/283695-san-cayetano-una-celebracion-virtual-para-pedir-pan-y-trabaj
+marcas a codificar: M1198, M1199
+----- TEXTO -----
+Este año, en el santuario de Liniers, San Cayetano se celebró sin la tradicional vigilia de feligreses, y con lluvia. Sin embargo, la fe y la emoción religiosa se hicieron presentes en la jornada
+dominada por la distancia social por la pandemia. La sensibilidad social afloró tanto en los testimonios de los pocos peregrinos que a pesar de todo llegaron al lugar, como en la misa que, en
+modalidad virtual, ofició el arzobispo de la ciudad, cardenal Mario Poli, destinada al santo de la providencia, el que concede “pan y trabajo”. También ese espíritu animó el mensaje que, a través de
+una videoconferencia con los movimientos sociales, transmitió desde Olivos el presidente Alberto Fernández.
+
+“Hoy vamos a pedir para que no les falten el pan y lo necesario para una vida digna a todos los argentinos –comenzó el arzobispo Poli al iniciar la misa-, pero especialmente por los más de 7 millones
+de chicas y chicos que están en la pobreza, con niveles de indigencia que nos avergüenzan y nos humillan” sentenció en el oficio transmitido por canales digitales. Pocas horas después, en sintonía con
+el mensaje religioso, Alberto Fernández apuntaba: “Venimos de una Argentina que ha desatendido a los más necesitados y los ha condenado a vivir casi en los márgenes de la sociedad, pero necesitamos
+una sociedad que abrace e incluya a todos y a todas”, dijo el Presidente. “La Argentina debe dejar de ser el país de unos pocos, el que soñaron los que me precedieron en el gobierno, para pasar a ser
+el país de todos y de todas”, expresó en diálogo con representantes de unidades productivas de distintos lugares del país, mientras la tarde avanzaba en la ciudad.
+
+Desde la mañana, en las afueras del santuario, cerrado al público, la jornada transcurría sin incidentes. Desde temprano algunos peregrinos llegaban para agradecer o para pedir, pero solo estaban
+breves minutos frente a la iglesia. “Vengo a agradecer --dice Enrique, bajo un paraguas, y cubierto con barbijo de Racing--, tengo familia y estamos bien, pero uno de mis hijos tiene un problema de
+salud, vengo a pedir por él, y también por todos, porque venimos de cuatro años malos, pero ahora tenemos la oportunidad de levantarnos”. Enrique vive a veinte cuadras. Vino caminando. Antes de irse,
+mira a la cámara del canal de TV que se acercó a tomar su testimonio y dice: “No hay que ser rebeldes ahora, tenemos que cuidarnos, no dejarnos llevar por los medios, el Gobierno nos está cuidando y
+hay que ser responsables”.
+
+La fe y la movilización popular se conjugan en el ritual que festeja a San Cayetano. Pocos minutos antes, un grupo de militantes de Barrios de Pie recorría la vereda de la calle Cuzco. Algunos venían
+de Moreno, otros de Villa Soldati. Portaban la escultura de una gran “Olla popular”. La acompañaban dos imágenes: la virgen María y San Cayetano. Eran pocas personas y todas con tapaboca. Hubo más
+policía que fieles en las veredas del santuario. “Algunos peregrinos hicieron noche, pero muy pocos”, cuenta un agente ante la consulta de PáginaI12.
+
+A la misa de las 11 solo pueden ingresar los asistentes para la transmisión, y la prensa. Y lo hacen por la puerta trasera del edificio. Sobre esa calle, una carpa cobija dos pantallas gigantes
+destinadas a una videoconferencia con la que los movimientos sociales celebran una jornada por “Paz, Pan, Tierra, Techo y Trabajo”, haciendo suyas las palabras de predica el Papa Francisco.
+
+En la carpa está el padre Sergio, de Luján. Tiene en sus manos un libro: La historia del Negro Manuel, un devoto de la Virgen de Lujan, en proceso de beatificación, y cuenta que trajo también una
+estatua de Manuel “que era esclavo”, por si se confirmen los rumores que dicen “que vendría Alberto Fernández”. “Para entregársela, en devolución por la que él le entregó al Papa”, detalla el padre
+Sergio, quien sostiene que “la devoción nacional por San Cayetano tiene que ver con la esperanza”. Porque “hay que llegar a todos, pero empezar por los últimos, como dice el Presidente”, subraya.
+
+Adentro del santuario, monseñor Poli cuenta que, en 1671, el papa canonizó a San Cayetano, porque “siempre estuvo cerca de los pobres, de los trabajadores del puerto de Nápoles, donde vivía y por eso
+él sabe estar atento a las necesidades”, se explaya. Sus palabras resuenan en la nave sin fieles, que luce banderas de todo Latinoamérica, y escudos de las provincias argentinas, junto a imágenes del
+santoral católico.
+
+Los cantos religiosos envuelven el ambiente hasta que los pedidos de los fieles son leídos desde el púlpito: “Que me contraten de nuevo en la sala de terapia intensiva, que me paguen acorde al trabajo
+que realizo y que sea en horarios convenientes”, fue el primero. Otro dice: “Por la paz, por mi país, por una Bolivia sin conflictos”. Y el tercero abraza con su fe religiosa a la dolorida humanidad
+en pandemia: “Por los enfermos y por sus familias”, reza.
+
+“Necesitamos una sociedad que abrace e incluya a todas y todos”, sostuvo el presidente Alberto Fernández al participar por videoconferencia, de la celebración de San Cayetano, junto a representantes
+de los movimientos sociales nucleados en la UTEP (Unión de Trabajadores de la ⟦M1198⟧Economía Popular⟦/M1198⟧).
+
+“Para nosotros el trabajo es una prioridad y que en la Argentina de hoy todavía tengamos gente con problemas para acceder al trabajo, nos duele, nos preocupa y nos obliga a ocuparnos del problema”,
+destacó el Presidente en línea con representantes de organizaciones sociales de todo el país. “Hay una economía que se ha desarrollado a la par de la economía formal y esa economía necesita crecer
+porque es un formidable mecanismo para incluir gente en la sociedad argentina”, sostuvo Fernández.
+
+El secretario general de la UTEP, Esteban "el Gringo" Castro, sostuvo que “los protagonistas hoy son los compañeros y compañeras que la están peleando en todos lados para dar de comer a los sectores
+vulnerables. Estamos convencidos que de esta situación vamos a salir con trabajo. A los trabajadores y trabajadoras que no tienen derechos les decimos que vamos a pelear hasta el fin de nuestra vida
+para conquistarlos".
+
+La actividad convocada bajo la consigna: “Paz, Pan, Tierra, Techo y Trabajo”, estuvo destinada a valorizar el aporte de la ⟦M1199⟧economía popular⟦/M1199⟧ en la recomposición social, y a recordar la
+histórica jornada de 2016, cuando se marchó desde San Cayetano a Plaza de Mayo por la Ley de Emergencia Social. Ese evento selló la unidad de las organizaciones que hoy integran la UTEP.
+
+En el acto, Fernández reconoció el trabajo de las organizaciones sociales “que tanto han hecho en los últimos años para que la Argentina no padezca más postergación y más necesidades en sectores que
+ya las vienen padeciendo hace muchos años”. Y reiteró la necesidad de que nuestro país “no tenga una sociedad que descarta, sino una sociedad que integra, que abraza y en la que todos y todas tenemos
+algo para dar, para construir, donde todos y todas somos importantes”. Y prometió: “Vamos a hacer las cosas de otro modo para que la justicia social exista de una vez y para siempre en nuestro querido
+país”.
+
+La jornada contó con la participación de referentes de la UTEP, del Movimiento Evita, de la Corriente Clasista y Combativa (CCC) y del Movimiento Somos Barrios de Pie, entre otros.
+
+===== NOTA 11 de 27 =====
+medio: Página/12
+titulo: Organizando la providencia 
+fecha: 2020-08-08 05:12:32
+autor: Jocha Castro Videla*
+seccion: Salta|12
+volanta_bajada: La marcha de la unidad por San Cayetano
+link: https://www.pagina12.com.ar/283767-organizando-la-providencia
+marcas a codificar: M1200, M1201, M1202
+----- TEXTO -----
+Ayer 7 de agosto la Iglesia Católica hizo memoria de San Cayetano, y gran parte del pueblo argentino también acudió al santo, patrono del pan y del trabajo, para pedir justamente el sustento de cada
+día (el pan) y el dignificante de toda vida (el trabajo).
+
+Cayetano de Thiene fue un hombre del siglo XV, de familia acomodada, que transitó su vida en lo que hoy conocemos como Italia. Luego de doctorarse en derecho civil y canónico fue ordenado sacerdote y
+eligió como misión en su vida “servir a los más pobres”. Su lema fue “nada para sí, todo para el prójimo”. Fundó diversas instituciones para lograr ese fin, una de las más reconocidas es la
+organización Monte di Pietà (que posteriormente se convirtió en el Banco de Nápoles) cuyo objetivo era combatir la usura, uno de los grandes males económicos que sufren los/as de abajo.
+
+La devoción por San Cayetano en nuestro país parece que comienza en el siglo XIX de la mano de María Antonia de la Paz y Figueroa, una mujer que donó todos sus bienes y dedicó su vida al servicio de
+los más pobres. Consiguió un terreno en la zona de Liniers, Buenos Aires, y ahí se construyó el templo donde hoy cientos de miles de argentinos/as acuden a pedir trabajo. La popularidad del Santo se
+disparó, lógicamente, luego de la crisis de 1930, y desde ese momento no ha parado de crecer. Somos testigos año tras años de esa fe popular que moviliza a gran parte de nuestro pueblo para llegarse a
+San Cayetano. Sabemos que en tiempos de crisis esa multitud aumenta.
+
+El 7 de Agosto del 2016 cientos de miles de personas organizadas en los movimientos populares protagonizamos un hecho inédito. En lugar de caminar hacia el Santuario de San Cayetano, caminamos 13
+kilómetros desde el Santuario de San Cayetano hacia la Plaza de Mayo a exigirle al gobierno de Mauricio Macri paz, pan y trabajo. La marcha estuvo encabezada por la CTEP, la CCC y Barrios de Pie, y
+acompañada por sindicatos como la CTA, SUTEBA, UTE, etc. El Página/12 de ese día cuenta que “el acto en Plaza de Mayo fue cerrado por tres oradores, Esteban Castro, de la Confederación de Trabajadores
+de la ⟦M1200⟧Economía Popular⟦/M1200⟧; Amancay Aradura, de la Corriente Clasista y Daniel Menéndez, de Barrios de Pie. Los tres lanzaron fuertes críticas al gobierno. Los oradores reclamaron 'un
+salario universal complementario' y la declaración de la 'emergencia social'. A su vez, Castro resaltó la figura del papa Francisco, a quien definió como 'el Papa compañero, quien nos dijo que había
+que hacer la reforma agraria cuando estuvimos en el Vaticano'.”
+
+Ayer se cumplieron 4 años de esta marcha que marcó un antes y un después en la vida de los movimientos populares de Argentina y en la vida de los/as trabajadores/as de la ⟦M1201⟧Economía
+Popular⟦/M1201⟧. Un hecho fundamental que afianzó la construcción de unidad de los/as de abajo frente a un gobierno de saqueo, miseria y hambre encabezado por Mauricio Macri. De esos 13 kilómetros, y
+del sueño y esfuerzo de muchos/as nació la UTEP, la Unión de Trabajadores y Trabajadoras de la ⟦M1202⟧Economía Popular⟦/M1202⟧. Un hecho novedoso por ser el sindicato de todos aquellos hermanos y
+hermanas que se inventan su propio laburo, asociado, autogestivo, comunitario y sin patrón, trabajadores y trabajadoras que aún no tienen todos los derechos que le corresponden.
+
+De esa unidad salieron la Ley de Emergencia Social y el salario social complementario, la Ley de Emergencia Alimentaria y la Ley de Barrios Populares. Conquistas fundamentales para sostener la vida de
+cientos de miles compañeros y compañeras que son obligados a habitar las periferias económicas, sociales y geográficas.
+
+San Cayetano es conocido también como “el Padre de la Providencia”.  Justamente el término “providencia” tiene dos grandes definiciones que en nuestro pueblo argentino están íntimamente ligadas sin
+contradicción alguna. Por un lado es el cuidado que Dios tiene de la creación y de sus criaturas, y por el otro es una disposición anticipada o prevención que mira o conduce al logro de un fin. Como
+dice siempre nuestro Secretario General, el Gringo Castro, el pueblo no separa la fe de la lucha. Entre las características más sobresalientes de nuestro pueblo se encuentran la generosidad, la
+solidaridad y justamente la lucha. No es propio de nuestro pueblo quedarse sentado de brazos cuidados aguardando que Dios, San Cayetano o el Estado se ocupen del cuidado de la vida, de los vecinos y
+vecinas, de la comunidad.
+
+Esta pandemia puso al descubierto una vez más el esfuerzo de nuestro pueblo por cuidar de sí mismo, especialmente en los barrios populares, asentamientos y comunidades. Expuso una vez más la
+importancia de la organización popular, de la conciencia política y de la tozuda esperanza de que “todo terminará bien” a pesar de las críticas, los ataques y las fakenews de los profetas del odio.
+
+Hoy los movimientos populares celebramos el esfuerzo de 4 años de unidad, hacemos memoria de las conquistas obtenidas, de esas políticas reales que le cambian la vida a millones de compañeros/as de
+cada rincón del país. Lo hacemos en un contexto complejo y difícil, por los estragos que está causando el COVID-19 y los estragos que causó el gobierno de Macri. Lo hacemos en un contexto de grandes
+avances, voluntades y conquistas, como el ReNaTEP, el Potenciar Trabajo, los acuerdos con los acreedores de la deuda, el relanzamiento del ProCrear, etc.
+
+Hoy los movimientos populares miramos a nuestro costado y nos encontramos juntos/as, con nuestras diferencias, enriqueciéndonos, discutiendo y a veces enojándonos. Nos encontramos de pie, cocinando,
+construyendo, levantando, arrimando, sosteniendo, produciendo, sembrando, cosechando, fabricando, marchando, peregrinando y cantando. Unidos como pueblo atravesados por esa solidaridad de los/as de
+abajo. Organizando la providencia, construyendo el porvenir.
+
+*Movimiento Evita UTEP
+
+===== NOTA 12 de 27 =====
+medio: Página/12
+titulo: Cristina Kirchner también trabaja en la pospandemia
+fecha: 2020-08-09 03:01:00
+autor: Fernando Cibeira
+seccion: El País
+volanta_bajada: Las reuniones con empresarios y movimientos sociales
+link: https://www.pagina12.com.ar/283890-cristina-kirchner-tambien-trabaja-en-la-pospandemia
+marcas a codificar: M1203, M1204
+----- TEXTO -----
+Junto a sus preocupaciones por los asuntos institucionales, la vicepresidenta Cristina Kirchner no pierde de vista los planes para la recuperación económica en la pospandemia. Ya se reunió con
+dirigentes vinculados a la producción agropecuaria que trabajan en un interesante propuesta a diez años para generar más divisas y sumar valor agregado a la producción y también sigue de cerca las
+iniciativas que manejan los movimientos sociales para transformar los planes en trabajo para el sector de la ⟦M1203⟧economía popular⟦/M1203⟧. Cerca del ministro de Desarrollo Social, Daniel Arroyo,
+confirman que la vicepresidenta siempre tuvo una mirada similar a la que ellos manejan para la reactivación, de no perpetuar los planes asistenciales y convertirlos en proyectos productivos.
+
+El encuentro de Cristina Kirchner con la conducción del flamante Consejo Agroindustrial generó algo de ruido en las entidades del campo más tradicionales, a las que les gusta considerarse la vereda de
+enfrente de la vicepresidenta. "Fue una reunión muy cordial. Nos sorprendió el conocimiento que ella tenía de nuestro proyecto", comentó luego el presidente de la Bolsa de Cereales, José Carlos
+Martins, quien fue a la reunión junto a los titulares de las Cámaras de Empresas Avícolas y de la Industria Aceitera. El plan que Cristina había estudiado prevé que entre 2020 y 2030 se pueden generar
+210 mil empleos directos en el interior del país y 700 mil en el total de la economía, y lograr 100 mil millones de dólares anuales de exportación a través de la producción agroindustrial.
+
+La vicepresidenta los felicitó por la propuesta y le pareció bien que se aprobara a través de una ley nacional, como busca el Consejo Agroindustrial. Lo único que les pidió fue que también se tuviera
+en cuenta al mercado interno y que no provocara un aumento en el precio de los alimentos. Los empresarios agropecuarios le acercaron el proyecto esta semana también al presidente Alberto Fernández en
+Olivos.
+
+Cristina Kirchner mantuvo además encuentros con dirigentes de los movimientos sociales, preocupada por la continuidad de las políticas públicas mientras dura la pandemia pero también en el post,
+principalmente por la reconfiguración del sistema económico. "El capitalismo mostró ser el sistema más efectivo, por eso va a seguir. Ahora lo que queda por resolver es quién continuará dirigiendo ese
+sistema, si el Estado o el mercado", planteó en una de esas conversaciones que mantuvo en su despacho. Entre quienes recibió estuvieron los dirigentes de Barrios de Pie encabezados por Daniel
+Menéndez, quien ocupa la subsecretaría de la Economía Social en el Ministerio de Desarrollo.
+
+Esta semana, junto al ministro Daniel Arroyo, estuvieron lanzando algunos propuestas englobadas en el programa Potenciar Trabajo, por el que las personas pueden optar por finalizar sus estudios,
+realizar una capacitación sociolaboral o incluirse en alguna línea productiva a cambio de 8.500 pesos mensuales, la mitad de un salario mínimo. "Apuntamos a crear 300 mil puestos de trabajo en los
+próximos meses con una inversión de 20 mil millones de pesos", explicaban en Desarrollo. Menéndez le detalló a la vicepresidenta el plan de su subsecretaría Obras más Trabajo, que apunta a generar
+empleo en los barrios populares refaccionando centros comunitarios o el espacio público.
+
+La idea que manejan, que la vicepresidenta comparte, es que el IFE no podrá seguir mucho más tiempo. De esas 9 millones de personas que lo perciben muchas podrán reinsertarse en el mercado laboral,
+pero quedarán millones que no lo harán. La idea de una renta universal perdió terreno dentro del Ejecutivo. Ahora se habla de un ingreso de base, un piso a percibir pero que deberá estar asociado a
+alguna tarea, ya sea de trabajo o de capacitación. Cristina les dijo que debía considerarse algo así como un "trabajo mínimo garantizado" y que el trabajo debía tomar el rol de dinamizador de la
+economía de la pospandemia, en donde el Estado tiene que asumir un papel preponderante. Algo que llamó la atención a sus interlocutores es que vieron a la vicepresidenta mucho más empapada en los
+temas de gestión de lo que imaginaban y sin ninguna fisura respecto a la línea que marca Alberto Fernández.
+
+También conversó con tres dirigentas del Movimiento de Trabajadores Excluidos (MTE) que orienta Juan Grabois. El lunes, Grabois presentará su propuesta -que finalmente se denominará "Plan de
+Desarrollo Humano Integral"-, apodada como "Plan Marshall criollo", que propone la generación de cuatro millones de puestos de trabajo mediante un programa descentralizado de obras públicas realizados
+por organizaciones sociales, iglesia y ONG en coordinación con sindicatos y municipios. Habrá que esperar a mañana para conocer los detalles de la iniciativa, pero el plan que Grabois le llevó dos
+meses atrás al Presidente establecía el pago de un salario de 10 mil pesos por 60 horas de trabajo mensual a cada trabajador de la ⟦M1204⟧economía popular⟦/M1204⟧, que pasaría a estar sindicalizado,
+bancarizado y con obra social. El consenso entre todas las ideas, hay otras dando vueltas, es que los planes tienen que transformarse en empleo y producción, y que la vicepresidenta está en las
+propulsoras de la idea.
+
+===== NOTA 13 de 27 =====
+medio: Página/12
+titulo: Los titulares del plan Potenciar Trabajo tendrán ahora una cuenta sueldo
+fecha: 2020-08-13 15:49:48
+autor: 
+seccion: El País
+volanta_bajada: Podrán recibir transferencias y depósitos por otras actividades
+link: https://www.pagina12.com.ar/284876-los-titulares-del-plan-potenciar-trabajo-tendran-ahora-una-c
+marcas a codificar: M1205
+----- TEXTO -----
+El convenio, firmado entre el ministro de Desarrollo Social, Daniel Arroyo, y el titular del Banco Nación, Eduardo Hecker, alcanza a cerca de 570 mil personas. El ministro de Desarrollo Social de la
+Nación, Daniel Arroyo, y el presidente del Banco de la Nación Argentina, Eduardo Hecker, firmaron un acuerdo que convierte en cajas de ahorro de libre administración -–similares a una cuenta
+sueldo-- las cuentas bancarias de las y los titulares de Potenciar Trabajo y otros programas sociales. De este modo, dispondrán de una cuenta bancaria mediante la cual podrán recibir transferencias y
+depósitos por otras actividades particulares que realicen, sin costos adicionales y en el marco de lo establecido por el Banco Central. En el acto de firma de convenio que se realizó de modo virtual
+también participó el Secretario de Economía Social, Emilio Pérsico. "El Banco les va a comunicar todo, pero no tienen que hacer ningún trámite", dijeron a PáginaI12 desde el ministerio.
+
+“Siempre decimos que Potenciar Trabajo es una base que el trabajador después podrá ampliar. Es otro paso a la formalización, que se combina con el Registro Nacional de Trabajadoras y Trabajadores de
+la ⟦M1205⟧Economía Popular⟦/M1205⟧, que les permitirá facturar por dos años sin pagar impuestos. Y podrán tomar créditos productivos, para incorporar máquinas o elementos para trabajar", dijo Arroyo.
+
+"Es muy importante este convenio porque permite generar una herramienta de inclusión financiera para los 570 mil beneficiarios de programas sociales", dijo Hecker y agregó que "El acuerdo permite
+tratar a todos los ciudadanos en igualdad de condiciones".
+
+El Programa Nacional de Inclusión Socioproductiva y Desarrollo Local “Potenciar Trabajo”, unifica a los programas Hacemos Futuro y Salario Social Complementario en una única iniciativa. Tiene como
+objetivo contribuir a mejorar el empleo y generar nuevas propuestas productivas a través del desarrollo de proyectos socio-productivos, socio-comunitarios, socio-laborales y la terminalidad educativa,
+con el fin de promover la inclusión social plena para personas que se encuentren en situación de vulnerabilidad social y económica.
+
+El Programa Nacional de Inclusión Socioproductiva y Desarrollo Local “Potenciar Trabajo”, unifica a los programas Hacemos Futuro y Salario Social Complementario en una única iniciativa.¿Cuál es su
+objetivo?Tiene como objetivo contribuir a mejorar el empleo y generar nuevas propuestas productivas a través del desarrollo de proyectos socio-productivos, socio-comunitarios, socio-laborales y la
+terminalidad educativa, con el fin de promover la inclusión social plena para personas que se encuentren en situación de vulnerabilidad social y económica.
+
+Está destinado a aquellas personas físicas que se encontraban bajo los programas “Hacemos Futuro” y “Proyectos Productivos Comunitarios”. El programa “Potenciar Trabajo” unifica en esta iniciativa a
+todas y todos sus titulares.
+
+Los y las titulares del programa podrán optar por cumplir su contraprestación con su participación en proyectos socio-productivos, socio-laborales y/o socio-comunitarios o a través de la terminalidad
+educativa.
+
+===== NOTA 14 de 27 =====
+medio: Página/12
+titulo: Los alimentos cooperativos baratos que la economía popular le quiere vender al Estado 
+fecha: 2020-08-13 16:38:53
+autor: Laura Vales
+seccion: El País
+volanta_bajada: El Movimiento Popular La Dignidad presentó 8 productos esenciales
+link: https://www.pagina12.com.ar/284883-los-alimentos-cooperativos-baratos-que-la-economia-popular-l
+marcas a codificar: M1206, M1207, M1208, M1209
+----- TEXTO -----
+El Movimiento Popular La Dignidad presentó en la Plaza del Congreso un bolsón de alimentos cooperativos. Harina de empresas recuperadas,  aceite y polenta de agricultores federados, tomates
+mendocinos, calditos, fideos,  yerba y verduras agroecológicas fueron exhibidos en una acción de marketing pensada desde la militancia social. La organización buscó poner a la vista que hay
+productores de la ⟦M1206⟧economía popular⟦/M1206⟧ dispuestos a venderle alimentos al estado para la asistencia en la pandemia. Y a mejores precios, sostienen, que los bolseros que en estos días dejan
+incompletas las licitaciones de Desarrollo Social.
+
+La propuesta es un paquete de ocho productos esenciales, cooperativos. Para que la campaña de promoción tenga continuidad en el tiempo, el MP La Dignidad va a armar 5 mil bolsones por mes, durante
+tres meses, y a repartirlos a jubilados en los barrios y hoteles porteños a los que llega con su trabajo territorial. El movimiento tiene una comercializadora alternativa, llamada Buen Vivir, que lo
+costeará con sus recursos.
+
+“Estos bolsones pueden ser una opción para la compra de alimentos por parte del Estado, y también una solución, porque tiene precios más bajos y le dan a las cooperativas la posibilidad de crecer”,
+señaló José Gazpio, uno de los organizadores de la iniciativa.
+
+Los productos de la ⟦M1207⟧economía popular⟦/M1207⟧ tienen un cuello de botella en la comercialización, y esta dificultad se agravó en la pandemia por  la suspensión de las  ferias y mercados que
+habitualmente motorizan su venta. La ley de góndolas, que el Congreso sancionó en febrero pasado, dispuso que los supermercados les hagan un espacio, pero su cumplimiento viene siendo muy escaso.
+
+Una investigación difundida esta semana por el Observatorio del Conurbano de la Universidad Nacional de General Sarmiento advierte  que ”los trabajadores ‘sin patrón’, desde cooperativistas a
+integrantes de la ⟦M1208⟧economía popular⟦/M1208⟧, se encuentran entre los más afectados” por la crisis generada por  la pandemia, “porque ya formaban parte de un sector muy golpeado en los cuatro
+años de gobierno de la Alianza Cambiemos”.
+
+El análisis,  realizado por Susana Hintze y María Victoria Deux Marzi, valora las medidas tomadas desde el estado para disminuir los efectos de la drástica reducción de los ingresos sufrida por los
+trabajadores. La pandemia, remarcan las investigadoras, “puso blanco sobre negro una realidad que aún incomoda al pensamiento neoliberal: en épocas de crisis es el Estado, no el mercado, donde se
+procesan las respuestas que ayudan a seguir viviendo”.
+
+Pero también señala que “los trabajadorxs asociativxs autogestionadxs han sido limitadamente incluidos en el radar de estrategias nacionales para paliar la crisis”. Entre las medidas que podrían
+mejorar la situación del sector, las autoras destacan la posibilidad abierta con la incorporación de cooperativas y mutuales al Sistema de Información de Proveedores (SIPRO) para que sean contempladas
+en las licitaciones públicas del Estado Nacional para adquisición de bienes y servicios.
+
+Los alimentos del bolsón son elaborados por pequeños y medianos  productores cooperativos. La harina, por ejemplo, es Sicsa, un histórico molino de la localidad de Saladillo que cerró en 1997 y fue
+reabierto por sus trabajadores en 2002. Una empresa recuperada de Berazategui produce calditos. La polenta, los fideos y el aceite son elaborados por Agricultores Federados Argentinos, que pertenecen
+a la Federación Agraria. De la Unión de Trabajadores de la Tierra hay yerba y verduras agroecológicas. La botella de tomates es de productores cooperativos mendocinos. Buscando cómo sumarle algo de
+valor agregado, el MP La Dignidad pica las verduras y las embolsa en paquetes de un kilo, a la manera de las bandejas listas para sopa de las verdulerías.
+
+Estos bolsones se hacen a una escala pequeña, son solamente cinco mil; sin embargo, en el Buen Vivir apuntan que la escala puede ser aumentada si tienen demandan. Lo consideran, sobre todo, un tema de
+planificación.
+
+El compre del estado a la ⟦M1209⟧economía popular⟦/M1209⟧ viene siendo encarado por algunos municipios del conurbano. En San Martín, por ejemplo, la experiencia lleva varios años. Los alimentos
+cooperativos lograron también hace poco llegar a los comedores escolares de la intendencia de Ensenada
+, en una experiencia que busca replicarse en otros partidos.
+
+===== NOTA 15 de 27 =====
+medio: Página/12
+titulo: Es Tiempo de Igualdad: "Un compromiso con la unidad de las mayorías populares"
+fecha: 2020-08-13 21:09:07
+autor: 
+seccion: El País
+volanta_bajada: Nuevo espacio dentro del Frente de Todos
+link: https://www.pagina12.com.ar/284952-es-tiempo-de-igualdad-un-compromiso-con-la-unidad-de-las-may
+marcas a codificar: M1210, M1211
+----- TEXTO -----
+"Queremos reafirmar nuestro compromiso con la unidad de las mayorías populares y dejar a un lado a los que proponen la división". Así se presentó Es Tiempo de Igualdad, un espacio dentro del Frente de
+Todos que busca darle protagonismo a la agenda de los movimientos sociales y poner de manifiesto la solidaridad con los sectores más pobres. Entre sus primeras iniciativas, impulsarán una campaña para
+que el Congreso trate la ley del impuesto a las grandes fortunas que el Gobierno aun no presentó. Este nuevo sector está integrado por distintos funcionarios y dirigentes sociales como Daniel
+Menéndez, referente de Barrios de Pie y  subsecretario de Políticas de Integración y Formación; Victoria Donda, de Somos y titular del INADI; y Laura Berardo, subsecretaria de Desarrollo Humano.
+
+"Sostenemos que es nuestro deber romper la lógica individual, entendiendo que nadie se salva solo, que la salida se logra colectivamente construyendo un país soberano", precisa la carta de
+presentación de esta organización lanzada a un año de la victoria de Alberto Fernández en las elecciones primarias.
+
+"Queremos permitirnos reflexionar sobre lo que significó la constitución del Frente de Todxs, para las mayorías populares, para las mujeres y disidencias, para les jóvenes que se volvieron a
+entusiasmar con la política como herramienta de transformación", agrega el texto.
+
+Como parte de la agenda de este espacio, el subsecretario de Obras Públicas, Edgardo Depetri, adelantó a este diario que van a "lanzar una campaña para que el Parlamento trate la ley de impuesto a las
+grandes fortunas". "El macrismo endeudó al país y  transfirió riqueza a los sectores económicos más concentrados. Tienen que ser ellos los que hagan el esfuerzo para reparar la desigualdad", dijo el
+funcionario.
+
+Ante la consulta de PáginaI12, Donda destacó que este espacio “empieza a nacer para aportar a la discusión de un país más justo”. La funcionaria señaló la importancia de que este sea un “lugar de
+debate” dentro del Frente de Todos, donde estén presentes los sectores populares, las minorías y las disidencias para generar políticas de inclusión con ejes económicos, sociales y políticos.
+
+Menéndez destacó que los miembros de Es Tiempo... comparten "un componente importante vinculado con la gestión, que nos permite pensar la política pública con un fortalecimiento de la unidad y un
+esfuerzo por construir un Estado que pueda dar respuesta a los desafíos actuales", dijo a este diario.
+
+Los referentes de este nuevo espacio apuntan a priorizar políticas reparatorias frente al daño que causaron las políticas neoliberales de la gestión de Mauricio Macri en los sectores más bajos de la
+sociedad. "El macrismo, ahora derrotado por el pueblo en el terreno electoral, conduce la ofensiva desestabilizadora y el intento de jaquear la posibilidad de que la crisis que ellos generaron la
+paguen los que se beneficiarios con sus políticas", argumentan en la carta de presentación.
+
+Sobre el impacto que causó la pandemia en un tejido social ya dañado, entienden que es "importante comprender que nadie se salva solo, que la salida es colectiva", en línea con el mensaje que dan el
+Papa Francisco y el presidente Alberto Fernández. "Cómo nunca, el Estado debe jugar un rol central en la construcción de una sociedad más equitativa e inclusiva", consideran.
+
+Es Tiempo... cuenta también como integrantes a  la legisladora porteña Laura Velasco, el presidente del Parlasur Oscar Laborde, el secretario general de la Agrupación 17 de Agosto y dirigente
+cooperativista Marcelo Yaquet y a María Rachid, de la Federación Argentina LGBT.
+
+"Sostenemos que estamos frente a un desafío histórico que genere orgullo sobre la convicción de que los argentinos y argentinas, cuando nos unimos, podemos transformar la realidad en un sentido de
+justicia", afirma el comunicado.
+
+La organización de referentes sociales dentro del Frente de Todos no es un caso aislado. El lunes la Unión de Trabajadores de la ⟦M1210⟧Economía Popular⟦/M1210⟧ (UTEP), junto con otros sindicatos,
+presentaron el Plan de Desarrollo Humano Integral o San Martín,
+ una especie de Plan Marshall criollo que busca la reactivación del trabajo en la Argentina de la pospandemia.
+ Por su parte, la vicepresidenta, Cristina Fernández de Kirchner mantuvo reuniones con dirigentas y dirigentes
+con el propósito de sumar a los trabajadores de la ⟦M1211⟧economía popular⟦/M1211⟧ a la producción y generar nuevos planes laborales.
+
+Informe: Antonio Riccobene.
+
+===== NOTA 16 de 27 =====
+medio: Página/12
+titulo: La cultura salteña en la pandemia 
+fecha: 2020-08-17 04:52:47
+autor: Natalia Bares
+seccion: Salta|12
+volanta_bajada: Un sector en emergencia
+link: https://www.pagina12.com.ar/285583-la-cultura-saltena-en-la-pandemia
+marcas a codificar: M1212
+----- TEXTO -----
+La pandemia del coronavirus y su consecuente crisis económica, social y sanitaria, puso en eje lo que ya sabíamos: las desigualdades sociales, la importancia y magnitud de la ⟦M1212⟧economía
+popular⟦/M1212⟧ (8 millones de personas cobraron el Ingreso Familiar de Emergencia, IFE), y los históricos sectores postergados en la realización y aplicación de políticas públicas: feriantes, cuidado
+de personas, centros culturales, trabajadorxs de la cultura, entre otros.
+
+En particular, desde el sector de la cultura actualmente estamos reclamando una ley de emergencia por la afectación que atraviesa la actividad desde que los espacios en los que nos desempeñamos se
+vieron obligados a cerrar las puertas para realizar eventos y espectáculos públicos. La “nueva normalidad” empezó para nosotrxs también y los festivales en formato stream ya empezaron a producirse. La
+carencia de recursos para la producción cultural, es un mal que afecta no sólo al sector mencionado, sino a la sociedad en su conjunto.
+
+En las constituciones tanto nacionales como provinciales, en los pactos internacionales de carácter constitucional, y en las normativas locales vemos la ausencia, ya sea por desconocimiento o por
+voluntades, de la creación de políticas legislativas y ejecutivas para el sector de la cultura.
+
+El artículo 52 de la Constitución Provincial de Salta establece: “El Estado asegura a todos los habitantes el derecho a acceder a la cultura y elimina toda forma de discriminación ideológica en la
+creación cultural. Promueve las manifestaciones  culturales, personales o colectivas y aquellas que afirmen el sentido nacional y latinoamericano. El acervo histórico, arqueológico, artístico y
+documental forma parte del patrimonio cultural de la Provincia y está bajo la guarda del Estado. Las manifestaciones culturales y tradicionales de reconocido arraigo y trascendencia popular son
+protegidas y promocionadas por el Estado.”
+
+El artículo 41 de la Constitución Nacional, que consagra el derecho al medio ambiente sano y equilibrado, estipula en su segundo párrafo: “Las autoridades proveerán a la protección de este derecho, a
+la utilización racional de los recursos naturales, a la preservación del patrimonio natural y cultural y de la diversidad biológica, y a la información y educación ambientales".
+
+Por su parte, el nuevo artículo 75 inciso 19, asigna al Congreso la facultad de dictar leyes que den protección a: a) la identidad y pluralidad cultural; b) la libre creación y circulación de las
+obras.
+
+La lectura de estos artículos nos permite marcar una postura tomada por las constituciones, evadiendo la consagración expresa de los derechos culturales como derechos fundamentales, mediante la
+elección de fórmulas que los enuncian como contenidos programáticos, o como facultades, pero no deberes, del Estado.
+
+Si comparamos, en relación a los derechos civiles y políticos, la desvalorización es notable. A modo de ejemplo: la propiedad privada es inviolable, según el artículo 17. La Constitución garantiza el
+pleno ejercicio de los derechos políticos (artículo 37).
+
+Al mismo tiempo la Constitución salteña, en su última parte establece un resguardo económico, social y de construcción lingüística a la cultura “tradicional”, esto habilita que se desarrollen en el
+ámbito artístico con mucha más facilidad, por ejemplo, el folklore. Las políticas culturales de los estados dan cuenta de una práctica homogeneizadora, mientras que productos culturales son protegidos
+y promocionados, otros son segregados y, en consecuencia, invisibilizados.
+
+Ya vimos que los derechos culturales desafían intereses económicos, ideológicos y políticos. La secretaria de Cultura de la provincia de Salta, Sabrina Sansone, la semana pasada fue noticia en todos
+los portales de la provincia. En sus primeros meses de gestión tuvo que enfrentar resistencia desde los sectores más postergados de la cultura. Esta semana se sumaron Graciela Quipildor (“La Quipi”) y
+el cantante de cumbia David Leiva. La polémica giró alrededor del monto que deben pagar los artistas para usar la Usina Cultural. Al ser consultada, la secretaria Sabrina Sansone mandó a hacer fila a
+lxs artistas salteños para acceder a ayudas para poder trabajar.
+
+Es evidente que su trayectoria como coach en “Bailando por un Sueño” no le alcanza para hacerse cargo de una cartera que debe gestionar un sector diverso que precisa de un Estado presente para
+desarrollarse. La pandemia de coronavirus tampoco la hizo dar cuenta del estado de emergencia del sector. Armó numerosas reuniones y promesas que quedaron solamente en eso.
+
+La red cultural de Salta (La Multicultural) trasciende a los folkloristas más reconocidos. Está compuesta por artistas callejeros, centros culturales, movimiento de danzas, artistas visuales, entre
+otros, que precisan de una Secretaría de Cultura que los conozca y pueda poner en práctica políticas que potencien al sector y beneficien a la sociedad.
+
+Desde distintas organizaciones culturales, Multicultural, Recis, Artistas en emergencia, venimos impulsando un camino institucional en busca de una respuesta estatal hacia el sector. Esa respuesta fue
+la NO respuesta.
+
+Hace unas semanas el diputado provincial Héctor Chibán (UCR) presentó un proyecto de ley de emergencia cultural en el que los principales ejes son:
+
+a) La atención de la situación socioeconómica de las personas laboralmente vinculadas a la industria y al quehacer cultural, sin relación de dependencia con organismos estatales; un ingreso
+equivalente al salario mínimo vital y móvil e ingreso a la obra social del Instituto Provincial de la Salud.
+
+b) El sostenimiento de los espacios culturales independientes. Subsidio del 50% del alquiler de los inmuebles utilizados con tal fines.
+
+c)      El fomento y promoción de las prácticas colectivas, colaborativas y solidarias dentro del sector cultural.
+
+La unidad del sector de la cultura, que a raíz de la pandemia pudimos confluir con cada una de nuestras identidades, en mesas de trabajo, debate y visibilización, llegó para quedarse. Para interpelar
+el sector público estatal y pensarnos también en post pandemia.
+
+===== NOTA 17 de 27 =====
+medio: Página/12
+titulo: El dial al servicio de la educación
+fecha: 2020-08-18 03:01:00
+autor: Bárbara Schijman
+seccion: Sociedad
+volanta_bajada: Las radios comunitarias en tiempos de pandemia
+link: https://www.pagina12.com.ar/285615-el-dial-al-servicio-de-la-educacion
+marcas a codificar: M1213
+----- TEXTO -----
+De marzo a esta parte, con la nueva realidad marcada por la pandemia del coronavirus, las escuelas debieron modificar sus planes de estudio e incorporar, de la noche a la mañana, nuevos conceptos y
+métodos de enseñanza y presencia. La radio comunitaria, por su parte, transformó parte de su grilla y se volvió un actor central en este escenario. Según el Foro Argentino de Radios Comunitarias
+(FARCO), más de la mitad de sus emisoras asociadas, distribuidas a lo largo y ancho del territorio nacional, trabaja con docentes y alumnos para transmitir contenidos y acercar a las partes en estos
+tiempos de aislamiento social, preventivo y obligatorio.
+
+Si bien una importante cantidad de radios comunitarias ya se vinculaba de alguna manera con colegios, jardines o instituciones de enseñanza en general, este rol se potenció en los últimos cuatro
+meses, de acuerdo a un reciente estudio difundido por FARCO.
+
+Las radios comunitarias informan, acompañan, entretienen, difunden programas educativos, y brindan un espacio al pluralismo y la diversidad de voces. Además de compartir las producciones de “Seguimos
+Educando”, iniciativa lanzada por el Ministerio de Educación de la Nación para facilitar y promover el acceso a contenidos educativos y bienes culturales hasta tanto se retome el normal funcionamiento
+de las clases, las escuelas producen sus propios programas en una importante cantidad de radios comunitarias de todo el país.
+
+¿Cómo es que la radio comunitaria sirve de enlace entre la comunidad y la escuela? ¿En qué consiste su acompañamiento? Y dada la evidente importancia de la radio comunitaria para garantizar el
+pluralismo informativo y la diversidad de actores en el sistema mediático de nuestro país, ¿cuál es la situación de las radios comunitarias hoy?
+
+Larisa Kejval es doctora en Ciencias Sociales, magister en Comunicación y Cultura y licenciada en Comunicación. En abril asumió como directora de la carrera de Ciencias Comunicación de la Universidad
+de Buenos Aires (UBA). Es autora de “Truchas” (2009) y “Libertad de antena” (2018). Cristina Cabral, entretanto, es vicepresidenta de FARCO y comunicadora de Radio Encuentro y Entv, canal de
+televisión digital abierta de Viedma, Río Negro.
+
+En 2019, Kejval tuvo a su cargo la coordinación del Relevamiento de los Servicios de Comunicación Audiovisual comunitarios, populares, alternativos, cooperativos y de pueblos originarios en la
+Argentina, realizado por once universidades nacionales.
+
+“La pandemia vino a exponer de manera brutal situaciones que ya se padecían, como la desigualdad digital y de conectividad que atraviesa a todo el país”, observa Kejval. En este sentido, y con
+respecto al estudio del año pasado, resulta que “de las 289 emisoras –radios en su mayoría-, el 12 por ciento de las radios relevadas no tenía conectividad a internet, es decir, medios de comunicación
+que no poseen conectividad”. Indudablemente, “este es un dato que ilustra las profundas desigualdades en el acceso a Internet de nuestra sociedad y de toda América latina, habida cuenta de que
+aproximadamente entre el 40 y el 50 por ciento de los habitantes de América Latina no tiene acceso a Internet”, indica.
+
+En muchos sitios, agrega Cabral, “la radio comunitaria es el único medio local; en esos casos, las emisoras sirven de canal no solo para transmitir contenidos específicos de los planes de estudio a
+los alumnos y sus familias, sino también para sostener los vínculos humanos, para organizar campañas ante las necesidades específicas de cada escuela como puede ser, por ejemplo, la recolección de
+alimentos y el acercamiento de materiales para los estudiantes que no tienen Internet y los precisan”.
+
+Educar, contar, estar, desde y gracias a la radio
+
+En tiempos de cuarentena, una importante cantidad de radios comunitarias se han transformado en puentes entre la comunidad y la escuela. Al observar el rol que desempeñan las radios comunitarias en
+contextos difíciles, de algún modo, vemos “que se actualiza el rol que este tipo de emisoras jugaron siempre en la trama de sus comunidades o en la trama social en su conjunto”, aclara Kejval. En este
+sentido, “siempre que en una localidad o en una comunidad se presentó un conflicto ahí estuvieron las radios comunitarias”. Cabral coincide: “el trabajo articulado entre radios comunitarias y escuelas
+y jardines precede al aislamiento, aunque en algunos casos se fortaleció considerablemente”. En sintonía, Kejval señala que estos lazos no son nuevos, sino que tienen una historia muy larga: “el
+vínculo entre docentes, estudiantes y radios comunitarias antecede a este momento, más allá de que ahora aparezca potenciado y resignificado. Lo que es interesante de la radio comunitaria es que se
+dan vínculos mucho más accesibles, cercanos, donde el estudiante no es pensado solo como un receptor pasivo sino que es pensado como sujeto de derecho con capacidad de tomar la palabra y expresarse”.
+La vinculación de la radio comunitaria con los procesos educativos “tiene que ver con un profundo compromiso con procesos de transformación de las desigualdades sociales que atraviesa nuestro mundo y
+con un profundo arraigo en las comunidades o en los territorios en las que se insertan”, concluye.
+
+Además de los programas que ya se venían haciendo con escuelas y espacios educativos, “a partir del aislamiento nacieron muchísimas actividades que van desde programas, aulas abiertas por radios,
+campañas y micro programas”, precisa Cabral. Estas propuestas, subraya, “tienen en el centro la defensa del derecho a la educación y del derecho a la comunicación como algo que van absolutamente de la
+mano”. No sorprende, entonces, que “en pocos días se hayan inscripto sesenta radios de la red de FARCO para transmitir el programa “Seguimos Educando”, considera.
+
+La radio comunitaria luego de la Ley de Servicios de Comunicación Audiovisual
+
+Las radios comunitarias son espacios que a lo largo de los años han crecido y se han fortalecido. “La ley de Servicios de Comunicación Audiovisual fue una conquista, y los artículos inscriptos en esa
+ley son muy importantes; significó imprimir de un carácter democrático a la comunicación en la Argentina y derogar la vieja ley de radiodifusión de la dictadura cívico miliar”, sostiene Kejval. Sin
+embargo, y en función del pasado inmediato, “las radios comunitarias también han padecido el desmantelamiento de las políticas públicas orientadas a fortalecer al sector en los años de la gestión
+anterior. Y la pandemia las encuentra de ese modo con serios problemas de sostenibilidad”, lamenta. Por eso, en pos de un sistema de medios de comunicación diverso y plural, se requiere de “un fuerte
+rol del Estado justamente para garantizar la diversidad y el pluralismo en el sistema mediático”.
+
+En esta línea, Cabral rescata la importancia de la norma, en tanto que impulsó la creación de una importante cantidad de emisoras comunitarias. No obstante ello, “es necesario un mayor acompañamiento
+para la legalización de los medios comunitarios y una democratización de la publicidad oficial, dado que en los últimos cuatro años solamente un dos por ciento de todos los medios comunitarios tuvo
+algún tipo de publicidad oficial”, advierte.
+
+En paralelo a la relevancia de contar con políticas públicas que favorezcan el desarrollo de la radio comunitaria, distintos actores del sector comunitario están trabajando sobre un proyecto llamado
+iniciativa para el fomento de la pluralidad y diversidad informativa, tendiente a construir una legislación que garantice el pluralismo informativo y la diversidad de actores en el sistema mediático
+de nuestro país.
+
+De Ushuaia a La Quiaca
+
+De un extremo a otro del país, la red FARCO tiene 120 emisoras asociadas. De ese total, hoy más de la mitad dedica parte de sus espacios en el dial para transmitir contenidos pedagógicos, a la par de
+afianzarse como enlace frente a las diversas necesidades que plantea la realidad de cada comunidad.
+
+Maitén Cañicul es parte del colectivo de FM Pocahullo (91.1), una radio comunitaria ubicada en San Martín de los Andes, Neuquén, con casi treinta años de existencia. Comunicadora mapuche, Cañicul
+cuenta que desde el decreto de cuarentena obligatoria la radio no paró: “al principio colocamos en la grilla el programa “Seguimos Educando” y, más tarde, las producciones de las comunidades
+educativas locales”.
+
+De las primeras radios comunitarias de la Argentina, Pocahullo tiene una fuerte presencia en proyectos vinculados con lo comunitario, la defensa de los derechos humanos y la interculturalidad, y la
+visibilización y las reivindicaciones del Pueblo Mapuche. Como lugar de encuentro y de búsquedas, siempre pero fundamentalmente en este contexto, “la radio otorga espacio a las organizaciones de la
+⟦M1213⟧economía popular⟦/M1213⟧, que armaron módulos alimentarios para que los vecinos se acerquen a pedir, preguntar o buscar cómo solucionar sus necesidades básicas”, explica Cañicul.
+
+En la otra punta del país, La Voz del Cerro Radio Comunitaria trabaja con el mismo compromiso. Daniel Chauqui es comunicador y coordinador de la radio, en el Cerro Las Rosas, un barrio periférico de
+San Salvador de Jujuy.
+
+Desde el FM 92.1 del dial la radio brinda capacitaciones en aspectos culturales, comunicativos y educativos. De sus iniciativas participan jóvenes, mujeres y vecinos de los barrios cercanos de la
+ciudad, en el que se abordan problemáticas barriales que se articulan con los contenidos de los programas.
+
+Desde la radio, detalla Chauqui, “encaramos proyectos solidarios para responder a las inquietudes de las comunidades. Hemos trabajado con la comunidad educativa y todavía seguimos transmitiendo todos
+los días los contenidos del Ministerio de Educación de la Nación”.
+
+La Voz del Cerro impulsa además actividades artísticas culturales para jóvenes y niños de los barrios relacionados con aprendizajes en producción en medios de comunicación (gráficos, radiales,
+audiovisuales y digitales) y artísticos expresivas como estrategias válidas de inclusión socio-educativa a través de la producción socio-cultural.
+
+===== NOTA 18 de 27 =====
+medio: Página/12
+titulo: Daniel Arroyo: "Hay que mejorar la calidad nutricional y la producción de alimentos"
+fecha: 2020-08-19 03:01:00
+autor: Laura Vales
+seccion: El País
+volanta_bajada: El planteo del ministro de Desarrollo Social en el Consejo Federal Argentina contra el Hambre
+link: https://www.pagina12.com.ar/285902-daniel-arroyo-hay-que-mejorar-la-calidad-nutricional-y-la-pr
+marcas a codificar: M1214, M1215, M1216, M1217
+----- TEXTO -----
+El Ministerio de Desarrollo Social planteó a los integrantes del Consejo Federal Argentina contra el Hambre una agenda centrada en mejorar la calidad nutricional de la asistencia alimentaria y el
+impulso a la producción de alimentos. “El Estado lleva invertidos 70 mil millones de pesos en asistencia alimentaria en lo que va del año. Hemos logrado sostener la situación para que los alimentos no
+falten, pero hay un desafío de calidad, de pensar qué tipo de producción queremos y con qué calidad nutricional. Hay que pensar cómo ir acompañando ese proceso”, dijo el ministro Daniel Arroyo a
+PáginaI12 sobre los temas planteados en la reunión con la que el Consejo retomó sus actividades, tras cuatro meses de interrupción por la pandemia.
+
+Arroyo llevó tres puntos al encuentro, realizado de manera virtual y con la  participación de representantes de cámaras empresarias, movimientos sociales, gremios, figuras del ambiente artístico y de
+la iglesia católica. El primero fue dar un informe de lo realizado en términos de asistencia. El Consejo contra el Hambre había tenido una  sola reunión, en diciembre, y tras casi cinco meses de
+pandemia el escenario en el que retoma su actividad es de una gravedad varias veces mayor. La asistencia alimentaria, demandada por 8 millones de personas en la salida del gobierno de Mauricio Macri,
+llega ahora a 11 millones de personas.
+
+Su segundo punto fue proponer la creación, dentro del Consejo, de una comisión que estudie cómo mejorar la calidad nutricional de los alimentos del Programa contra el Hambre. “Hoy tenemos una
+alimentación con mucha harina, fideos y arroz, y hay que avanzar con leche, frutas y verduras”, describió el ministro. Esto será impulsado con equipos de nutricionistas y trabajadores sociales.
+Desarrollo Social distribuye la asistencia alimentaria a través de dos vías, el envío de alimentos, con camiones, y la asignación de fondos mediante transferencias bancarias. En este aspecto, la
+cartera le da una importancia especial a la Tarjeta Alimentar, porque a diferencia de los envíos de mercadería permite a las familias la compra de alimentos frescos. El plan es por esto ir
+fortaleciando a la Tarjeta Alimentar, presupuestariamente y en su prestación, para que pueda ser utilizada en un mayor número de comercios.
+
+El ministerio planteó, finalmente, generar dentro del Consejo una comisión de trabajo que impulse la producción de alimentos, apuntando a la creación de empleo y a que una mayor oferta ayude a
+mantener los alimentos a precios accesibles. En la mesa  contra el Hambre participan productores  de alimentos de muy diversa escala, desde las cámaras empresariales -representantes de los llamados
+gigantes de la alimentación- hasta organizaciones de la ⟦M1214⟧economía popular⟦/M1214⟧ y la agricultura familiar. Arroyo indicó que  la comisión sobre la producción de alimentos va a incluir a todos
+estos actores. Y agregó que hay una decisión de impulsar la producción de los pequeños productores, y a la ⟦M1215⟧economía popular⟦/M1215⟧, como un mecanimos de creacion de trabajo en la salida de la
+pandemia.
+
+“Estamos generando un sistema de financiamiento para la agricultura familiar y fortaleciendo la producción que ya existe en la economía social popular, mediante la creación de almacenes populares.
+Queremos vincular al productor con el consumidor, con una mirada integral: por un lado, con la creación de almacenes y ferias; también con créditos no bancarios para máquinas y herramientas. La
+inscripción en el Registro de Trabajadores de la ⟦M1216⟧Economía Popular⟦/M1216⟧ va a permitir a los productores emitir facturas e inscribirse en el monotributo de manera gratuita por dos años”.
+
+El ministerio está desarrollando una app para que los beneficiarios de la Tarjeta Alimentar puedan comprarle sus productos a la ⟦M1217⟧economía popular⟦/M1217⟧. Por ahora, la tarjeta sólo puede
+utilizarse mediante un posnet, es decir mayoritariamente en los supermercados. Otro mecanismo de apoyo será la certificación de calidad  y el impulso a una marca colectiva. “Unificar a los productores
+es un modo de generar mecanismos de acopio", para que puedan producir en mejores condiciones.
+
+===== NOTA 19 de 27 =====
+medio: Página/12
+titulo: Repudian el anuncio de Larreta del regreso a clases en zonas vulnerables
+fecha: 2020-08-19 03:01:00
+autor: 
+seccion: El País
+volanta_bajada: "La desigualdad no se resuelve estigmatizando" 
+link: https://www.pagina12.com.ar/285999-repudian-el-anuncio-de-larreta-del-regreso-a-clases-en-zonas
+marcas a codificar: M1218
+----- TEXTO -----
+Luego de que el Jefe de gobierno de la Ciudad de Buenos Aires, Horacio Rodríguez Larreta, dijera que va abrir las escuelas para aquellos chicos que no han tenido contacto con sus maestros durante el
+aislamiento social por falta de conectividad, la Multisectorial por la Escuela Pública brindó una conferencia de prensa para repudiar las declaraciones del jefe de gobierno porteño y presentar
+dos propuestas para garantizar el derecho a la educación y a la conectividad, sin poner en riesgo la salud de la comunidad educativa. El espacio que integran organizaciones sindicales y sociales,
+cooperadoras, familias y estudiantes, instó al gobierno de Rodríguez Larreta a comprar de forma inmediata computadoras para todos los estudiantes en condición de vulnerabilidad social, y a instalar
+antenas que provean wifi en todas las villas y asentamientos de la Ciudad.
+
+"La desigualdad educativa no se resuelve ni estigmatizando, ni exponiendo a las personas a riesgos sanitarios. La solución está en las políticas públicas que equiparan condiciones y garantizan
+derechos", expresaron. "La brecha digital es brecha educativa. Y a la brecha educativa no se la resuelve estigmatizando. La solución está en las políticas públicas que equiparan condiciones y
+garantizan derechos", aseguró la secretaria general de la Unión de Trabajadores de la Educación (UTE), Angélica Graciano, en la conferencia realizada en forma remota.
+
+Graciano señaló que la solución que propone el jefe de Gobierno de abrir las escuelas "pone en riesgo la salud de los chicos" y los convierte en "sujetos de asistencia" en lugar de "sujetos de
+derecho". En ese sentido, la representante gremial de UTE indicó que el gobierno de Rodriguez Larreta tiene la obligación de garantizarle la conectividad a los 5100 chicos que no tuvieron contacto con
+sus maestros durante el período de aislamiento social, a través de la compra de dispositivos y la instalación de antenas móviles en aquellos barrios más humildes que tengan problemas de conectividad.
+
+Si bien la multisectorial ya había acudido a la Justicia
+ para exigirle a Rodríguez Larreta que cumpla con la compra de dispositivos y el derecho a la conectividad, el jefe de Gobierno porteño intentó frenar la causa apelando el fallo del juez. "Si no puede
+garantizar el derecho social a la educación, el 11 de septiembre, que es el Día del Maestro, nosotros tomaremos las medidas que correspondan", aseguró Graciano.
+
+"Todos tenemos derecho a tener una computadora. No queremos a nuestros niños enfermos, queremos que nuestros niños se resguarden y tengan la posibilidad de estudiar", señaló Nora Flores, referente del
+Frente Barrial CTA y del barrio Padre Mugica.
+
+Marina Joski, de la Unión de Trabajadores y Trabajadoras de la ⟦M1218⟧Economía Popular⟦/M1218⟧ (UTEP) denunció que "hay una desidia profunda". "Hay una brecha que no sólo es digital sino esencial
+entre norte y sur, entre los trabajadores y el Gobierno de la Ciudad. La pandemia puso de manifiesto esta brecha que existe en la Ciudad de Buenos Aires".
+
+En el mismo sentido se expresó Pablo Cesaroni, de Cooperadores en Movimiento: "En medio del aumento de contagios, no se puede poner en riesgo la salud de los chicos haciéndolos ir a escuelas que
+además no están condiciones. Faltan insumos como alcohol, lavandina, faltan obras y auxiliares".
+
+===== NOTA 20 de 27 =====
+medio: Página/12
+titulo: La Policía de la Ciudad detuvo a tres trabajadores senegaleses en Once
+fecha: 2020-08-19 18:28:36
+autor: 
+seccion: Sociedad
+volanta_bajada: La persecución contra migrantes es constante en el distrito porteño
+link: https://www.pagina12.com.ar/286142-la-policia-de-la-ciudad-detuvo-a-tres-trabajadores-senegales
+marcas a codificar: M1219
+----- TEXTO -----
+La Policía de la Ciudad de Buenos Aires detuvo este miércoles a dos trabajadores ambulantes senegaleses y un ghanés por estar trabajando en la calle en el barrio de Once, en el marco de un fuerte
+operativo donde participó el Ministerio de Espacio Público de la Ciudad. Los arrestos ocurrieron el mismo día que el gobierno porteño de Horacio Rodríguez Larreta determinó la reapertura de comercios
+y locales de ese barrio. Los trabajadores fueron trasladados, por violación a la ley de marcas, a distintas alcaldías porteñas y se esperaba que los liberen en las próximas horas.
+
+"Es algo que viene sucediendo hace varios años. Los senegaleses que están en Capital trabajan con la venta ambulante y tuvieron que dejar de salir a laburar por la cuarentena", explicó en diálogo con
+Página/12 Agustina Mayansky, militante del  Movimiento de Trabajadores Excluidos (MTE).
+
+"Muchos compañeros senegaleses no pueden acceder a ningún tipo de programa de ayuda y contención que está llevando adelante el Estado. Para ellos no queda otra que salir a laburar a la calle", agregó
+en declaraciones a este medio. Desde el MTE denuncian el racismo desplegado por las fuerzas de seguridad porteñas.
+
+La imagen no es nueva. El gobierno de Cambiemos en la Ciudad de Buenos Aires hace tiempo desplegó una política de persecución hacia las y los vendedor ambulantes
+, y hacia los migrantes en particular, a través de represiones y detenciones que les impiden trabajar en paz y con sus derechos garantizados. La xenofobia de la Policía quedó expuestas en diferentes
+oportunidades.
+
+En marzo de 2019, el Grupo de Trabajo de Expertos sobre Afrodescendientes de la ONU realizó un informe sobre Argentina, y  le recomendó al Estado argentino “poner fin al excesivo control policial de
+los vendedores ambulantes de ascendencia africana”. 
+En tanto, la jueza porteña en lo Contencioso y Administrativo Romina Tessone tiene por resolver una demanda presentada por Defensoría en lo Contencioso y Administrativo Nº5, a cargo Ramiro Dos Santos
+Freire, que busca sentar al gobierno porteño en una mesa de conciliación para alcanzar un plan integral que asista a la población migrante
+.
+
+A pesar de que miles de personas se manifestaron libremente el lunes pasado contra el gobierno de Alberto Fernández, en esta oportunidad las fuerzas de seguridad de la Ciudad decidieron avanzar sobre
+un sector de la población que se ve profundamente afectado por la cuarentena, cuya subsistencia depende de su trabajo en la calle.
+
+La militante del MTE señaló que "estos operativos son muy violentos, los compañeros denuncian golpizas y hasta discriminación verbal por parte de los funcionarios de la Policía y Espacio Público".
+
+La diputada del Frente de Izquierda, Alejandrina Barry, denunció los hechos en su cuenta de Twitter:  "Tres manteros senegaleses fueron detenidos hoy en Once. Un descomunal operativo de la Policía de
+la Ciudad contra quienes dependen de eso para comer. Nuestro total repudio con @myriambregman desde la Comisión contra la Violencia Institucional de@LegisCABA"
+
+Lo mismo hizo el líder de la Confederación de Trabajadores de la ⟦M1219⟧Economía Popular⟦/M1219⟧ (CTEP), Juan Grabois, quien denució el racismo desplegado en el distrito de la Ciudad: "Recién
+detuvieron a tres trabajadores senegaleses en Once. Otra vez, racismo y doble vara: si trabajás en la calle para ganarte el pan, marche preso. Si violás las normas sanitarias, sos un gran
+republicano".
+
+===== NOTA 21 de 27 =====
+medio: Página/12
+titulo: Breves
+fecha: 2020-08-20 03:03:13
+autor: 
+seccion: Universidad
+volanta_bajada: CICLO DE CHARLAS VIRTUALES PARA LA COMUNIDAD&#13;
+&#13;
+La Universidad Nacional de José C.
+link: https://www.pagina12.com.ar/286081-breves
+marcas a codificar: M1220
+----- TEXTO -----
+La Universidad Nacional de José C. Paz (UNPAZ) presenta un ciclo de charlas abierto a la comunidad sobre “Transferencia de conocimiento y vinculación tecnológica”, organizado por el Instituto
+Interdisciplinario de Estudios Constitucionales y la Facultad de Derecho de la Universidad Nacional de Rosario (FDER-UNR). El ciclo se encuentra estructurado a partir de tres encuentros: el primero
+abordará el eje “Economía social y solidaria y cooperativas de trabajo” y se realizará el jueves 20 a partir de las 16 en formato de videoconferencia con trasmisión por el canal oficial de YouTube de
+la Universidad; los dos siguientes se realizarán los días 27 de agosto y 3 de septiembre y tendrán como ejes de trabajo “Drogas y estupefacientes” y “Derechos de las y los consumidores”,
+respectivamente. Los links para inscripciones, conocer el programa completo y el canal YouTube se encuentran disponibles en www.unpaz.edu.ar/node/4109.
+
+Después de 27 años de reclamos, la Universidad Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur (UNTDF) celebró días atrás una jornada histórica luego de que el Senado de la Nación
+aprobó la ley que formaliza la transferencia de la titularidad del terreno donde funciona el campus universitario de Ushuaia. El trámite comenzó en 1993 mediante la firma del convenio específico entre
+el CONICET, la Armada Argentina y la entonces Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB), por el cual se acordó el otorgamiento del terreno. No obstante, por diversos motivos el
+traspaso hasta la fecha no había podido efectivizarse. “Nos permitirá seguir afianzando a la Universidad en el territorio, con el avance de nuestro proyecto edilicio, y concretar el sueño de
+consolidar nuestro campus con infraestructura para actividades académicas, deportivas y la futura residencia estudiantil”, apuntó el rector Juan José Castelucci.
+
+La Escuela de Capacitación y Negocios de la Universidad Nacional de La Matanza (UNLaM) organizó un ciclo de charlas abiertas y gratuitas en modalidad virtual vinculado con actividades productivas en
+medio de la pandemia. La próxima charla será el 24 de agosto a las 18 bajo la temática “Ventas en tiempos de pandemia”, especialmente dirigida a emprendedores, profesionales, independientes y PyMES,
+que sufren drásticas disminuciones en las ventas. La actividad ayudará a incorporar ideas de marketing y ventas para aplicarlas en el negocio y potenciar la comercialización. En tanto, el 26 a las 18
+se realizará otro encuentro bajo el título “Actores de la ⟦M1220⟧economía popular⟦/M1220⟧”, un tema importante frente al auge del emprendedorismo, considerado como factor de crecimiento económico y
+determinante en el desarrollo de los barrios para saber cómo potenciar y gestionar emprendimientos. Las inscripciones se realizan por correo en empresas@unlam.edu.ar.
+
+Los estudiantes de la carrera de Abogacía de la Universidad Nacional del Noroeste de Buenos Aires (UNNOBA) tienen la oportunidad de realizar prácticas en el ámbito judicial a partir de un convenio
+entre la Escuela de Ciencias Económicas y Jurídicas y la Suprema Corte de Justicia de la provincia de Buenos Aires. El objetivo es que los alumnos obtengan experiencia en el ámbito judicial como
+complemento de su actividad académica y que desarrollen habilidades que serán de utilidad en su desempeño profesional futuro. Deberán ser alumnos regulares de la carrera y tener regularizada la
+materia Práctica Profesional I y Derecho Procesal II. La inscripción está abierta hasta el 31 de agosto y la información puede consultarse en la página
+www.unnoba.edu.ar/escuela-de-economicas-y-juridicas/estudiantes/practicas-juzgados-tribunales/inscripcion/.
+
+Tras un nuevo aniversario del fallecimiento del general José de San Martín, la Universidad Nacional de San Luis (UNSL) recibió de parte de la Junta de Historiadores del Río de La Plata documentos que
+corresponden con la copia del acta de bautismo y su certificación del padre del general San Martín y las actas bautismales digitalizadas de tres de los hermanos del General. El rector de la UNSL,
+Víctor Moriñigo, y la directora del Archivo Histórico y Documental, Sonia Riveros, recibieron formalmente la documentación de manos de la profesora e historiadora Agueda Quinteros quien anticipó que
+en septiembre se donará el acta de nacimiento de la madre del General, documento traído desde España. Los originales digitalizados y legalizados estarán disponibles para ser consultados por la
+comunidad. Esta entrega también se realiza a todas las universidades del país para contar con la misma documentación y poder corregir los textos de historiadores del pasado.
+
+Un grupo de docentes de la Escuela de Arqueología de la Universidad Nacional de Catamarca (UNCA), que investiga hace más de 30 años a los antiguos pobladores de la localidad de Las Juntas, trabaja en
+un nuevo proyecto para revalorizar el sitio arqueológico La Silleta, ubicado a 2500 metros sobre el nivel del mar, con el fin de lograr mayor participación de la comunidad en la resignificación del
+lugar. Junto al municipio local, la iniciativa consiste en confeccionar mapas temáticos que permitan tareas de extensión, interacción y cooperación con la comunidad y en un lapso de cinco meses poder
+realizar excavaciones arqueológicas, charlas informativas, talleres participativos con el fin de planificar una estrategia de gestión, diseño de sendas, circuitos interpretativos y material didáctico.
+El sitio ocupa una superficie de seis hectáreas y forma parte de un paisaje donde las prácticas agrícolas y/o ganaderas estuvieron ligadas a los lugares de vivienda.
+
+===== NOTA 22 de 27 =====
+medio: Página/12
+titulo: Pospandemia: La CGT y las organizaciones sociales presentaron un programa de desarrollo en Diputados
+fecha: 2020-08-21 03:01:00
+autor: 
+seccion: El País
+volanta_bajada: Plan de Desarrollo Humano Integral
+link: https://www.pagina12.com.ar/286519-pospandemia-la-cgt-y-las-organizaciones-sociales-presentaron
+marcas a codificar: M1221
+----- TEXTO -----
+Dirigentes sindicales de la CGT y de las organizaciones sociales, le entregaron al presidente de la Cámara de Diputados, Sergio Massa el "Plan de Desarrollo Humano Integral". Este programa se presenta
+como propuesta concreta para la pospandemia,  inspirados en la consigna de Tierra, Techo y Trabajo que impulsa el Papa Francisco, junto a movimientos populares de todo el mundo. El plan, según
+trascendió, prevé la creación de más de 4 millones de puestos de trabajo y una inversión inicial de 750 mil millones de pesos anuales.
+
+El plan, en cuya elaboración participan referentes de sindicatos y organizaciones sociales, fue presentado en forma de anteproyecto de ley y contempla y sintetiza la iniciativa del movimiento obrero
+organizado y de los trabajadores de la ⟦M1221⟧economía popular⟦/M1221⟧ para generar esa cantidad de empleos en 4 años.
+
+Entre los que entregraron el proyecto estuvo Gerardo Martínez, titular de la Uocra, y el dirigente  Juan Grabois  de la CTEP, entre otros. "La estratégica iniciativa de generación de empleo se asienta
+en un esquema de inversión pública orientada a la construcción e integración urbana a través de viviendas sociales, de un plan de transporte multimodal y de asentamientos productivos nuevos en varias
+regiones de la Argentina", dijo Martínez.
+
+En tanto que Grabois, dijo que "es un momento para avanzar y reflexionar, porque la crisis económica, social, sanitaria y ambiental requiere de la mayor eficiencia para enfrentarla".
+
+===== NOTA 23 de 27 =====
+medio: Página/12
+titulo: Coronavirus: cómo impacta la covid-19 en la vida de las mujeres
+fecha: 2020-08-21 03:01:00
+autor: 
+seccion: Sociedad
+volanta_bajada: Encuesta liderada por la Universidad de San Martín e impulsada por el Conicet y los ministerio de Ciencia, Tecnología e Innovación y de Mujeres, Géneros y Diversidad
+link: https://www.pagina12.com.ar/286484-coronavirus-como-impacta-la-covid-19-en-la-vida-de-las-mujer
+marcas a codificar: M1222
+----- TEXTO -----
+Medidas extraordinarias que atiendan los problemas relacionados con trabajos de cuidados, las violencias de género, el teletrabajo, el acceso fácil a documentación a migrantes, recursos habitacionales
+para personas trans y travestis y garantizar tierra y producción a mujeres rurales y originarias, son algunas de las sugerencias de un informe difundido este jueves sobre el impacto de la pandemia de
+coronavirus en mujeres y disidencias.Se trata de la encuesta sobre el impacto de la covid-19 en la vida de las mujeres, liderada por un equipo de la Universidad de San Martín (Unsam), e impulsado por
+el Conicet y los ministerio de Ciencia, Tecnología e Innovación y de Mujeres, Géneros y Diversidad.El estudio reveló la situación en la que se encuentran las mujeres urbanas, rurales, indígenas,
+afrodescendientes, trans y travestis en el contexto de la pandemia y "la oportunidad de brindar elementos para la planificación de políticas públicas" para el período poscuarentena en Argentina, se
+destacó en el resumen ejecutivo.Se realizó en base a un universo de 2.274 mujeres y trans/travestis de la Argentina, de las cuales 2.135 son urbanas y 139 rurales, que residen en su mayoría en las
+zonas de contagio de la Covid-19 --Área Metropolitana Buenos Aires (AMBA), Chaco y Córdoba--.El relevamiento expuso "la crisis de cuidados" entre las mujeres urbanas durante el confinamiento, donde el
+55,1% son jefas de hogar, responsables en su mayor parte de los trabajos domésticos y de cuidar. La sobrecarga se notó, por ejemplo, en que un 92,6% se encarga de acompañar las actividades escolares
+de sus hijos e hijas en cuarentena. En relación a la coparticipación en el reparto de las tareas, el 54,8% respondió que, entre todas las personas de la familia, las mujeres son las que trabajan
+más.Si bien la muestra evidenció un alto nivel educativo (60,8% tiene estudios terciarios y universitarios completos en la encuesta urbana y un 43,9% en la rural) "resulta importante observar el
+impacto sobre las condiciones laborales de las mujeres: el aumento de la precarización del trabajo, la pérdida de ingresos --al ser parte muchas mujeres de las ⟦M1222⟧economías populares⟦/M1222⟧,
+artesanas-- y por las propias condiciones materiales de infraestructura de los hogares y barrios donde reside". El estudio mostró cómo estos indicadores de vulnerabilidad se incrementan por
+segmentación entre mujeres afrodescendientes, trans/travesti, originarias y migrantes.Respecto a cómo la cuarentena afectó el trabajo y los ingresos en las mujeres urbanas un 20% indicó una situación
+de precarización laboral (ya sea, con reducción de la carga horaria del trabajo, no está trabajando y no le pagan o fue despedida); el 53,6% tuvo que adaptarse a trabajar de forma virtual; el resto
+siguió de forma normal o no está trabajando, pero le pagan el sueldo.La dificultad que más expresaron las participantes del estudio fue conseguir trabajo, estar viviendo de trabajo precario o
+"changas" , sobre todo entre mujeres trans/travesti, originarias, rurales, afrodescendientes y mestizas. Respecto de la percepción de algún subsidio estatal, las mujeres migrantes junto con las
+afrodescendientes presentaron mayores dificultades en acceder a las políticas públicas y beneficios sociales y en relación con la alimentación "ha empeorado", su situación.El estudio también mostró
+que un 7,5% de las mujeres urbanas durante la cuarentena sufrieron alguna forma de violencia y que aumentó en un 84,6% la percepción sobre este delito "sin que esto implique necesariamente un aumento
+en el número de casos".Sobre las mujeres rurales y originarias, el análisis señaló que son principalmente afectadas por la destrucción de la naturaleza, el aumento de enfermedades relacionadas con la
+degradación medioambiental, el impacto del cambio climático, el uso indiscriminado de productos químicos, la falta de agua potable y la imposibilidad de acceder a los alimentos.En la mayoría de la
+muestra rural, están vinculadas a actividades agrícolas, el 68,3% son jefas de hogar, y un 94,1% de las mujeres rurales y originarias respondieron que son las responsables del trabajo doméstico y de
+cuidados.También se evidenció la brecha digital, ya que "solamente un 56,8% tiene acceso a Internet desde su casa", y se destacó la sobrecarga de trabajo en relación a la educación de sus hijos e
+hijas que depende de esta tecnología.En relación al acceso a los subsidios, el 22,3% recibe la Asignación Universal por Hijo (AUH) y el 20,1% el Ingreso familiar de Emergencia (IFE).Las principales
+dificultades expresadas por las encuestadas en zonas rurales fueron: dificultad para conseguir trabajo, enfermedad por otro motivo, acceso o continuidad de estudios, acceso a alimentos en forma
+regular, a medicamentos y agua potable; situaciones de conflictos territoriales y tenencia precaria de la tierra. Y un 18% denunció que sufró alguna forma de violencia de género.Como conclusión,
+Karina Bidaseca, doctora en Ciencias Sociales, que lideró la investigación, consideró que en el caso de las mujeres rurales "es importante reforzar los tejidos comunitarios --que en muchos casos
+constituyen el apoyo fundamental de mujeres que se quedaron sin trabajo durante la pandemia-- y de generar y multiplicar políticas orientadas a la comercialización de los productos de la agricultura
+familiar". En tanto que para mujeres originarias "observamos sobre todo una preocupación muy grande por la violencia institucional", expresó.Otras medidas de inclusión sugeridas por el equipo de
+investigación fueron para las mujeres afrodescendientes, las políticas de empleo y de protección social, como la política habitacional. Y para las mujeres migrantes, refugiadas y solicitantes de
+asilo, políticas de protección social y facilidad de acceso a la documentación y los trámites de regularización migratoria durante el confinamiento. Para las mujeres trans/travestis, alertaron sobre
+el riesgo habitacional "ya que se han incrementado los desalojos, como el acceso a recursos institucionales"."Una de las situaciones más complejas es el escenario de desocupación y crisis económica
+que puede dejar la pandemia. Creemos que es urgente comenzar rápidamente un mapeo post pandemia de la economía de los sectores populares. Garantizar la infraestructura de producción y
+comercialización, como mejorar la alimentación a partir de la perspectiva agroecológica", señaló Bidaseca.
+
+===== NOTA 24 de 27 =====
+medio: Página/12
+titulo: Intendencia y Concejo se cruzaron por las huertas en la ciudad de Salta
+fecha: 2020-08-22 05:40:17
+autor: 
+seccion: Salta|12
+volanta_bajada: "Hubiese estado bueno que se informen y articulen"
+link: https://www.pagina12.com.ar/286809-intendencia-y-concejo-se-cruzaron-por-las-huertas-en-la-ciud
+marcas a codificar: M1223
+----- TEXTO -----
+El Concejo Deliberante capitalino aprobó por unanimidad el pasado miércoles un proyecto de ordenanza presentado por el edil Abel Moya, solicitando al Ejecutivo que avance con la implementación de una
+huerta en el Vivero municipal, para abastecer de verduras a los comedores de la ciudad.
+
+Al defender el proyecto, el también representante de los canillitas en Salta y que llegó a ocupar su banca de la mano del gobernador Gustavo Sáenz, manifestó que “Salta tiene 250 mil habitantes en la
+línea de la pobreza y más de 30 mil que no cuentan con ningún tipo de ingreso”, y agregó que la ordenanza “llenará un vacío”, ya que el municipio “no asiste económicamente a los más de 400 comedores
+que existen en la ciudad”.
+
+Rápidamente el municipio recogió el guante y le contestó recordando que dentro del Programa Unidos no solo se está avanzando con las huertas comunitarias en los barrios, sino que también se entregan
+más de 50 mil raciones de alimentos por semana. Y acusaron a los concejales de “mezquindad política” y de desconocer el trabajo de gestión municipal.
+
+La subsecretaria de Promoción Social, Jacqueline Cobo, aseguró que ese Programa se ejecuta desde mayo de este año “con una idea social y que servirá para trabajar con Nación todos los programas de
+contraprestación laboral para cobrar subsidios”.
+
+“Unidos se pensó cuando arrancó la pandemia como una agenda de seguridad alimentaria entendiendo que tenemos a casi el 50% de la población bajo la línea de pobreza y 40% de precariedad e informalidad
+laboral” por lo que se debía garantizar la seguridad alimentaria, dijo la funcionaria.
+
+En ese marco, el Programa se pensó con un “esquema de alianzas” con centros vecinales, iglesias evangélicas y centros de jubilados, entre los que hay "cerca de 80 puntos donde entregamos viandas con
+comidas calientes, son unas 50 mil raciones por semana”.
+
+Cobo indicó que se pasó a “un verdadero plan de abordaje integral en los barrios más populares y carenciados de la ciudad”, en donde se incluye asistencia social, de ayuda a personas con discapacidad,
+en violencia de género “y con obras públicas”. “Es decir, salieron distintas líneas de acción, una de ellas es el de huertas comunitarias”, confió.
+
+Contó que ya están funcionando dos huertas, en el barrio Primera Junta y en el CIC Constitución, mientras están en camino seis más. El objetivo del área es tener antes de fin de año “ocho o nueve
+huertas”, para ello los vecinos que participan se están capacitando con técnicos de la Universidad Nacional de Salta (UNSa) y el INTA, con quienes el municipio firmó un convenio.
+
+La funcionaria resaltó que el proyecto que aprobó el Cuerpo deliberativo es algo que ya se está haciendo, “a mi entender, el punto de partida no es el correcto, porque además saca las huertas de los
+barrios, que es a donde tenemos que llegar”.
+
+Aseguró que el Programa Unidos y las huertas justamente tienen la finalidad que busca la ordenanza que emitió el Concejo el último miércoles, “trabajar con los sectores más vulnerables a través de los
+comedores”. A su vez, añadió que ven un nexo a futuro con el esquema que está diagramando el Gobierno nacional para quienes reciban subsidios, y que será a través de una contraprestación laboral “de
+los trabajadores de la ⟦M1223⟧economía popular⟦/M1223⟧”.
+
+“No es casual la puesta en marcha de este Programa; en cambio, el proyecto de Moya desnaturaliza lo comunitario y lo mete en el Vivero municipal, por lo que a mi entender, desde el Concejo desconocían
+lo que se está haciendo”, se explayó.
+
+El Vivero municipal está ubicado en la calle Gato y Mancha, pegado al río Arenales. Allí trabajan empleados contratados para realizar tareas de mantenimiento y parquizado de plazas, parques y espacios
+verdes con flores y árboles autóctonos.
+
+“Que se puede articular desde el Vivero con las huertas, seguramente”, subrayó Cobo, “pero no fue un proyecto nuevo y hubiese estado bueno que se informen y se articule, porque la intendenta cuando
+inauguró las sesiones ya había anunciado el Plan de abordaje integral de los barrios populares”, concluyó.
+
+Tras la respuesta del Ejecutivo capitalino, el autor del proyecto, Abel Moya, resaltó que “es mucha la necesidad que hay en los barrios y comedores” y sostuvo que lo que más solicitan son verduras
+para cocinar. También aseguró que habían preguntado al Ejecutivo municipal y que visitaron el Vivero para interiorizarse de sus labores y qué tipo de plantaciones realizaban.
+
+El resultado de ese relevamiento arrojó que de las ocho hectáreas que posee el predio, “solamente hay media hectárea ocupada con plantines de árboles autóctonos”, mientras que el terreno restante
+“está en desuso”.
+
+Moya también dijo que solicitaron información en la UNSa y el INTA “porque ellos pueden colaborar para dar capacitaciones y con las semillas”. Algo que según la subsecretaria de Promoción Social ya se
+acordó en mayo con esas dos entidades.
+
+No obstante ello, el concejal insistió en que el Vivero podría ser mejor aprovechado, y destinar algunas hectáreas a la producción de verduras y hortalizas y complementar el Programa Unidos, “porque
+lo necesitan los 400 comedores comunitarios de la ciudad capital”.
+
+Por último, el edil lamentó que el municipio no tenga una comunicación fluida con el Concejo deliberante de la ciudad, y aseveró que nunca les llegó “ningún tipo de información sobre las huertas
+comunitarias”.
+
+===== NOTA 25 de 27 =====
+medio: Página/12
+titulo: Coronavirus: reabrieron los negocios de Once
+fecha: 2020-08-23 03:01:00
+autor: María Daniela Yaccar
+seccion: Sociedad
+volanta_bajada: Entre carteles de "se alquila" y de ventas por WhatsApps, el barrio está lejos de recuperar su espíritu
+link: https://www.pagina12.com.ar/286872-coronavirus-reabrieron-los-negocios-de-once
+marcas a codificar: M1224
+----- TEXTO -----
+La nueva normalidad de Once es lúgubre. La idea de locales abiertos podría sugerir el asomo de un paisaje renovado en la castigada AMBA, pero no es así. Los manteros, con absoluta razón, tienen miedo.
+También hambre. Los vendedores de locales no se sienten para nada aliviados. Cientos de persianas están bajas, y los negocios, que tienen permitido cerrar a las 21, se despiden temprano por la tarde
+debido a la escasa circulación de clientes. Abundan carteles de “se alquila” y de ventas por WhatsApp. Se ven muchos cartoneros rondando por el lugar.
+
+Todo lo que caracterizaba a Once --su carácter dinámico, vital, pintoresco-- parece ser historia. La "inseguridad" en algunas calles, dicen los que transitan el barrio, es el rasgo que perdura. Lo que
+se percibe hoy es otra postal porteña de distopía. Una película triste. De acuerdo a los testimonios de muchxs comerciantes entrevistadxs por Página/12, la novedad de que los locales abrieron
+miércoles y jueves es relativa. Varios, salvo los de avenida Corrientes, estaban abiertos desde antes porque "no daba para más", revela un empleado de una juguetería. A comienzos de agosto, cuando
+estaba habilitado vender únicamente bajo la modalidad de delivery, algunas persianas se levantaron a modo de protesta.
+
+Tampoco es cierto que estén abriendo de acuerdo a la terminación del CUIT (día par si el número es par; día impar si es impar es la condición): no es una norma respetada por todos --"la gente está
+desesperada, quiere trabajar", señalan-- y no hay control sobre esto. Según Eduardo Sirodsky, presidente de la Asociación de Centros Comerciales de Once --una de las entidades que negociaron la
+apertura con el gobierno porteño, junto a la Federación de Comercio e Industria de la Ciudad Autónoma de Buenos Aires (Fecoba)--, los que no tenían permiso oficial para abrir y lo obtuvieron esta
+semana son los del llamado “Polígono” (Larrea, Lavalle, Boulogne Sur Mer y Rivadavia).
+
+"No se vende nada. Está todo hecho mierda", se lamenta Lucas, el empleado de la juguetería, observando la calle desértica. Es alarmante el número de locales que ha cerrado: 1600. Un 20 por ciento de
+acuerdo a un relevamiento de la Asociación. Pero son muchos más los que tienen las persianas bajas, por factores múltiples. Se presume que hay casos de coronavirus entre los trabajadores. Además, al
+no ser esenciales, no tienen permitido el viaje en transporte público. El gasto del traslado corre por cuenta del empleador, algo complicado en este contexto. Y, se sabe, Once es un centro comercial
+que vive de las ventas mayoristas a personas que llegan desde todo el país, que ahora no pueden hacerlo. Lxs entrevistadxs coinciden en que el ATP no alcanza y subrayan las dificultades para afrontar
+alquileres muy altos.
+
+***
+
+El rechazo de algunos comerciantes hacia los manteros, inmigrantes en su mayoría, estuvo siempre. Pandemia mediante quizás se intensifica, con la necesidad de todos acentuada. La violencia policial
+sobre los primeros no tardó en manifestarse: el miércoles la Policía de la Ciudad se llevó a cuatro manteros detenidos por violar la Ley de Marcas y resistencia a la autoridad (ver recuadro). Eran
+tres senegaleses y un ghanés. El jueves detuvo a un senegalés más. En realidad hubo operativos para sacarlos de la zona incluso antes de los sucesos de esta semana. Los Vendedores Ambulantes
+Independientes de Once (VAIO) protestaron el viernes en Plaza Miserere.
+
+Algunos comerciantes los ven como “invasores” del territorio y los acusan de no respetar "ningún tipo de protocolo" y de estar instalados "desde mayo", cuando ellos en cambio no podían abrir. Otros,
+si bien no están de acuerdo con que "no paguen impuestos" por instalarse allí, suavizan el discurso porque sus mercaderías no les significan competencia. El jueves se los puede ver en dos cuadras
+sobre Avenida Corrientes, desplegando sus lentes, perfumes y ropa deportiva, apretados en ese perímetro en que los dejan trabajar. No alcanza para todxs, que antes ocupaban algo así como seis cuadras.
+El énfasis que ponen en la invitación a comprar --un énfasis muy calmo, de todos modos-- es directamente proporcional al pánico que revelan sus cuerpos.
+
+Huyen de los medios y las cámaras y varios dicen que no entienden español. En la esquina de Larrea, un grupito de senegaleses que se comunica en su idioma manda a hablar con Ahmed, quien está
+vendiendo pantuflas a entre 300 y 500 pesos. Dice que no tiene miedo porque no hace "cosas malas" y que no vio con sus propios ojos el operativo del miércoles. También que la relación con los
+comerciantes no es mala. "A veces viene la policía, nos saca las cosas y no nos devuelve nada. Hace seis meses que no trabajamos. Salimos a trabajar para pagar el alquiler, vivir y comer. Sólo el 1
+por ciento de nosotros cobra el IFE. Si los policías y el gobierno no quieren que trabajemos en la calle tienen que buscar la solución", expresa el joven de 31 años, que es monotributista e ingeniero
+en Informática. Al llegar a la Argentina, hace nueve años, buscó trabajo de eso pero no lo consiguió.
+
+"Nos tratan mal y nos corren como si fuéramos delincuentes. Más a los morochos: si les tienen que pegar les dan. Me dio impotencia ver cómo les pegaban a los morochitos", manifiesta una vendedora
+peruana, Geraldine, madre soltera, sin ayuda estatal. Sugiere que la detención del miércoles en la calle Azcuénaga fue un montaje armado para los medios. La policía llega a las 8 y se queda "dando
+vueltas". Los manteros se ubican a las 10 y se van avisando si hay riesgos de que los corran. Geraldine recuerda la muerte de Beatriz Mechato Flores
+, vendedora de 73 años que falleció tras ser atropellada cuando escapaba de un operativo de secuestro de mercadería. Fue en marzo y un inspector de la Ciudad (Alejandro Cohen) está imputado. La joven
+denuncia que la policía la agredió psicológica y físicamente cuando se manifestaba con sus pares por la muerte de Beatriz
+.
+
+***Temprano circula bastante gente en Plaza Miserere, pero a medida que las horas pasan la zona se apaga y la poca clientela se escurre. A las 17, la avenida Pueyrredón es un hormiguero sin
+distanciamiento social, pero ninguna de esas personas está yendo a comprar algo. Son trabajadores esenciales moviéndose en transporte público. Se ve buena cantidad de religiosos.
+
+Los locales pueden abrir, pero… ¿qué es de ellos si no tienen quien consuma? Podrían estar abiertos de 11 a 21, pero a las 16 ya comienza a sentirse la música de las persianas bajando, acaso un eco no
+deseado del bullicio que siempre caracterizó al barrio. Abundan los carteles de “se alquila” y los que ofrecen ventas online. En este punto tampoco hay alivio: representan con suerte el 15 por ciento
+de las ventas. Algunos locales con las persianas bajas entregan mercadería. La típica imagen de compradores con enormes bolsas es cosa del pasado. ¿Quién compra hoy en Once? Los mismos trabajadores
+entre sí. Los vecinos del barrio y alrededores, o personas que se pueden acercar en auto.
+
+"No hay gente. Si no vienen clientes del interior no tiene sentido. Estamos abiertos porque no podemos cerrar más. Vendemos por Internet pero no es lo mismo", dice Gabriel, de Nastar, empresa en su
+primer día de apertura. Trabaja "talles grandes, para señoras", un público que elige probarse antes de comprar. Algunxs comentan que mantienen los precios, en cambio Gabriel asegura que está
+"reventando la mercadería".  Vendedores de diversos rubros --telas, zapaterías, ropa--, sobre todo en los locales más pequeños, atienden desde la puerta, donde han colocado una mesita. Hay cadenas y
+fierros en las entradas. No rige un protocolo común: en algunos casos se puede entrar, en otros no. Algunos comerciantes dicen que tienen prohibido el ingreso de clientes y no comprenden por qué otros
+lo habilitan libremente. Se ven cintas de color en el piso en las entradas y se indica capacidad máxima. Al ingresar a espacios grandes como la Galería del Siglo unx es apuntado con las pistolas que
+toman la temperatura. Hay vendedores que se apresuran a echar alcohol diluido en las manos de potenciales compradores.
+
+Todas estas nuevas situaciones generan nerviosismo. Nadie parece cómodo en Once. A los vendedores, aparte de nerviosos, se los ve muy bajoneados. Están en un callejón sin salida. Querían abrir, pero
+no es alentador el panorama que encuentran. Sin clientes no son nada. Para colmo, según el rubro, después del Día del Niño es normal que la actividad entre en una meseta. Tampoco en ese sentido es
+éste el mejor momento. La cosa suele mejorar cuando se acerca el Día de la Madre. Pero ahora quién sabe.
+
+En la vidriera de un local de la avenida Corrientes un vestido de fiesta parece esperar que alguien lo luzca alguna vez, cuando la pandemia se disipe. El encargado de la tienda de ropa de fiesta que
+funciona hace tres décadas dice, con resignación, que no han vendido una sola prenda en todo el día. Pero curiosamente en este período hay quienes han adquirido, por venta online, trajes que guardan
+para más adelante. También quedan fuera de contexto las piñatas y globos de Carcajada, uno de los cotillones de la otrora calle de los cotillones, Lavalle. Allí Marta y Erica, que hacen frente a la
+desesperanza con alegres vinchas, cuentan cómo se vio alterada la naturaleza de la venta al calor de los acontecimientos: ahora se venden más que nada velas y decoración sencilla para cumpleaños
+celebrados con los familiares más íntimos y que se han trasladado al Zoom. Al stock sumaron barbijos y camisolines. Ese es otro denominador común en las vidrieras: los tapabocas se cuelan entre
+productos con los que nada tienen que ver.
+
+Ambulantes: decomisos, violencia y discriminación
+
+Agustina Mayansky, militante del Movimiento de Trabajadores Excluidos (MTE), aporta detalles de las detenciones a vendedores ambulantes. Como suele suceder, a los cuatro detenidos del miércoles les
+quitaron la mercadería y no les dieron acta de decomiso. Los liberaron en la misma noche. Es un hecho constante; en efecto el jueves hubo un caso más. Mayansky dice que hay un detenido por día. "La
+venta ambulante no es delito en CABA, a lo sumo puede ser contravención. La mayoría de las causas se archivan, con el motivo de que quien compra mercadería en la vía pública a precio bajo sabe que no
+es genuina. No se engaña al consumidor ni se lesiona al propietario de la marca. Esta (la Ley de Marcas) es la excusa del gobierno de la Ciudad para el desalojo", explica.
+
+Los operativos son racistas e incluyen violencia física y verbal. Cuando a Rodríguez Larreta a mediados de agosto le consultaron qué haría con el tema de la venta ambulante, contestó que se había
+trabajado para que los manteros no puedan ocupar el espacio público en Once. Lo cierto es que apenas empezó a haber algo de movimiento en la calle los vendedores salieron. Según la perspectiva de
+Mayansky, se plantea un debate de "comerciantes contra manteros", pero la cuestión central pasa por un Estado que no sólo no reconoce la actividad sino que además la persigue. No obstante, aclara que
+la Federación de Comercio e Industria de la Ciudad Autónoma de Buenos Aires ejerció presión para que los inmigrantes sean desalojados."Además, es un escándalo que en un contexto de crisis sanitaria no
+haya una política de contención y asistencia alimentaria. En el caso de los senegaleses es terrible: no pueden acceder a ningún programa del Estado porque no tienen documentación", remarca. "Quieren
+estar regularizados. Ellos pagan monotributo social: es mentira que no pagan impuestos. Su trabajo se puede regularizar con ferias, permisos para puestos fijos, mercados populares." Hubo un desalojo
+importante entre 2015 y 2016, y luego de eso, el gobierno porteño abrió dos galpones en Once. "Pero fueron un fracaso rotundo. Reubicaron vendedores --ninguno senegalés-- pero se fueron. El promedio
+de venta hasta diciembre de 2019 era de entre 500 y mil pesos semanales. A los vendedores no les quedó otra que volver a salir a la calle." Los proyectos para regularizar la actividad fueron enviados
+al gobierno porteño, en una mesa de diálogo con participación de la Unión de Trabajadores y Trabajadoras de la ⟦M1224⟧Economía Popular⟦/M1224⟧ (UTEP). Quedaron en la nada.
+
+===== NOTA 26 de 27 =====
+medio: Página/12
+titulo: Represión en los asentamientos San Calixto y ampliación Parque La Vega
+fecha: 2020-08-26 06:48:07
+autor: Claudia Alvarez Ferreyra
+seccion: Salta|12
+volanta_bajada: Sin orden judicial, con balas de goma y gas lacrimógeno
+link: https://www.pagina12.com.ar/287661-represion-en-los-asentamientos-san-calixto-y-ampliacion-parq
+marcas a codificar: M1225
+----- TEXTO -----
+La Policía reprimió sin orden judicial a alrededor de mil familias asentadas en terrenos fiscales de los barrios San Calixto y ampliación Parque La Vega, en la zona sur de la ciudad de Salta. Según el
+relato de vecinas, los uniformados comenzaron a los tiros luego de que una mujer intentara ingresar cartones para protegerse del frío en la intemperie.
+
+La Policía cercó los accesos. Hay mujeres, hombres, adolescentes, niños y niñas con heridas. Desde la toma señalaron que no hubo advertencia previa para que desalojaran. Si bien intentaron el
+resguardo, hubo niños y niñas que salieron corriendo y llegaron a perderse en medio de la represión, también dispararon contra un almacén donde se habían refugiado. Varias organizaciones repudiaron la
+represión policial, responsabilizaron al Gobierno y apuntaron contra el ministro de Seguridad, el militar retirado Juan Manuel Pulleiro.
+
+Las familias estaban en un proceso de mediación a cargo del fiscal Horacio Córdoba Mazuranic. Desde el Ministerio Público Fiscal informaron a Salta/12 que desde allí no hubo pedido de desalojo y que
+el procurador General Abel Cornejo estaba intentando intervenir para frenar el accionar policial.
+
+La referenta de la asociación Eclosión, Cintia Gabris, informó a Salta/12 que se acercaron al lugar cuando escucharon los disparos. Señaló que vio muchos niños y niñas llorando y corriendo, huyendo de
+las balas de goma. "Era un desparramo de niños y adolescentes. La gente está rodeada por la Policía, entre San Remo y el predio hay varios móviles policiales, hay una barrera de policías en una de las
+veredas", describió.
+
+"Nos están reventando con la represión, hay heridos, uno en el ojo. Estamos cuidando el merendero donde refugiamos a las mujeres embarazadas y a los niños y las niñas. No nos dejan salir. Han tirado
+gas lacrimógeno", contó Andrea, quien se encuentra en el lugar.
+
+Tiros, corridas, pedidos de agua, es lo que se escuchaba detrás del teléfono durante la represión. "Los cascotes de balas están por todos lados, reprimieron alrededor de una hora, pegando tiros. No
+había advertencia previa, no tienen orden judicial", sostuvo Andrea.
+
+La referenta de la Federación de Organizaciones de Base (FOB), Yamila Romero, indicó que hay diferentes sectores en la toma, divididos por siete calles y dos avenidas y que la Policía mantiene
+vallados los accesos. "Hay mucha gente herida con balas de goma en la frente y pómulos, mujeres embarazadas intoxicadas por el gas lacrimógeno. Hay dos niñas heridas. No hay ambulancias", manifestó
+desde la toma.
+
+Romero dijo que muchas niñas se perdieron en la represión y que las mujeres se encargaron de ir juntándolas en un almacén de una esquina: "dispararon al portón cuando estábamos ahí", afirmó.
+
+Explicó que la represión comenzó luego de que una vecina quiso introducir cartones y un colchón porque tiene una hija pequeña y estaban expuestas al frío. "Un policía se bajó de una camioneta, y
+empezó a disparar tiros. Estamos rodeadas, hay muchos móviles policiales. Las vecinas están tratando de resistir, tienen todas sus pertenencias en la toma y hay muchas niñas. Los heridos son
+principalmente jóvenes que se pusieron al frente para intentar contener a la Policía para que otros vecinos con niños y niñas puedan salir por otro lado. Les han tirado a la cara", sostuvo.
+
+Romero denunció que la Policía ingresó a las casas vecinas y empezaron a disparar desde ahí. Calcula que hay alrededor de 600 familias en el sector de la toma donde se encuentra.
+
+La referenta de la Unión de Inquilinos de Salta, Natalia Soraire, expresó su solidaridad con las familias reprimidas y responsabilizó al gobierno provincial.  "No hay respuesta, nadie dice nada. Hay
+familias enteras con niños. Tiraron balas de goma y gas lacrimógeno. Había un arreglo en la mediación penal y un compromiso de que no iban a reprimir con 1.800 personas ahí pero no hubo soluciones",
+aseveró. Si bien la cifra que señaló era la cantidad inicial en la toma, hubo gente que desde mayo hasta la fecha se fue yendo. Soraire planteó que el gobierno solo amenazaba a la gente con no dejarla
+participar en los sorteos del Plan Mi Lote si continuaban en los asentamientos, por ello por miedo, y el desgaste de permanecer ahí sin respuestas hicieron que muchas familias se fueran.
+
+"A la necesidad de acceso a la vivienda le tienen que dar solución, no represión", afirmó Soraire. "Como Unión de Inquilinos damos el apoyo a la gente que está siendo reprimida, y vamos a pelear por
+el derecho a la vivienda como derecho humano básico. El 30 de septiembre caduca el decreto nacional 320 (que impedía desalojar) y se van producir desalojos. Hay más familias que pueden quedar en la
+calle. En una encuesta que hicimos, más del 45% de quienes contestaron no podía pagar el alquiler", sostuvo.
+
+"Hace más de 120 días que estamos acá. Al que quiere salir lo detienen. No se ve nada, andamos con velas. No hubo ningún pedido para que desalojemos, empezaron con los disparos. Tiraron gran parte del
+merendero. No se detuvieron ante las mujeres y niños. Hay mujeres golpeadas. A los niños los protegimos. Hay un hombre herido en el ojo con bala de goma. Nosotros asistimos a los heridos, no hay
+asistencia médica", afirmó la vecina Mirta Juárez.
+
+"Queremos una solución habitacional, no queremos que nos regalen nada. Hace tres meses y medio que estamos viviendo así. El hambre no entiende de Covid-19. Los chicos menos. A mí me desalojaron del
+alquiler, vimos que la gente se metía en este asentamiento y no nos quedaba de otra que venir también, tengo una nena de 4 años. Mi pareja es trabajador independiente y yo estudiante", señaló Juárez.
+
+Varias organizaciones repudiaron la represión policial. La Unión de Trabajadores de la ⟦M1225⟧Economía Popular⟦/M1225⟧ indicó que había alrededor de 30 heridos, entre ellos niños y niñas.
+
+En el mismo sentido se expresó el movimiento La Dignidad, que responsabilizó de la integridad física de las personas que estaban asentadas al gobierno provincial y municipal.
+
+También el Partido Obrero- Tendencia, repudió la represión y señaló que es la muestra del fracaso de la política habitacional salteña que se aplica desde hace casi 30 años.
+
+También se expresaron en idéntico tono el Colectivo de Abogados Populares y la Agrupación HIJOS Salta. Y anoche la Delegación local de la Secretaría de Derechos Humanos de la Nación se comunicó con
+autoridades provinciales para expresar su preocupación por la represión.
+
+Este martes, el gobernador Gustavo Sáenz entregó mediante videollamada 100 casas del Instituto Provincial de la Vivienda en Embarcación. Si bien señaló la voluntad del gobierno de trabajar ante el
+déficit habitacional, la demanda por terreno y vivienda supera a las  respuestas gubernamentales.
+
+===== NOTA 27 de 27 =====
+medio: Página/12
+titulo: Reunión CGT Y Movimientos Sociales
+fecha: 2020-08-27 03:01:00
+autor: 
+seccion: El País
+volanta_bajada: Pospandemia
+link: https://www.pagina12.com.ar/287891-reunion-cgt-y-movimientos-sociales
+marcas a codificar: M1226
+----- TEXTO -----
+La CGT y los movimientos sociales formalizarán esta tarde un acuerdo estratégico conjunto para lanzar con financiamiento estatal "el Plan de Desarrollo Productivo para la pospandemia" bajo las
+premisas de "diálogo social y unidad nacional". Hace una semana los referentes de ambos sectores se reunieron en el Congreso e hicieron participe al presidente de la Cámara baja, Sergio Massa, de la
+iniciativa. El encuentro, según pudo confirmar Página/12, se llevará a cabo en la sede la UOCRA y comenzará a las 15. La iniciativa gremial-social intentará sellar un acuerdo político general para
+impulsar la generación de empleo, la puesta en marcha del aparato productivo y un proceso de diálogo tripartito e institucionalizado. Por la CGT participarán sus dos cosecretarios Generales, Héctor
+Daer y  Carlos Acuña, además de Gerardo Martínez, Andrés Rodríguez, José Luis Lingeri, Armando Cavalieri y Omar Maturano, entre otros. Por los Movimientos Sociales estarán presentes Juan Grabois
+(Confederación de Trabajadores de la ⟦M1226⟧Economía Popular⟦/M1226⟧), Esteban Castro (Movimiento Evita), Daniel Menéndez (Barrios de Pie) además de representantes del Frente Popular Darío Santillán y
+de la Corriente Clasista y Combativa. Fuentes sindicales que participarán de la reunión señalaron que “esta confluencia en una reunión cumbre entre el movimiento obrero organizado y los movimientos
+sociales responde a un consenso respecto de la necesidad de poner en marcha un proceso de Unidad Nacional a través de la convocatoria a un espacio de Diálogo Social Institucionalizado cuyos objetivos
+estén enfocados en la generación de empleo a través de un Plan de Desarrollo Económico Productivo para la post pandemia”. Esta será la primera vez que la CGT y los Movimientos Sociales articulan una
+estrategia común tendiente a la elaboración de propuestas conjuntas que contribuyan a superar la grave crisis económica y social que atraviesa nuestro país.
+

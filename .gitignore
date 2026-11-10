@@ -1,0 +1,30 @@
+# Datos con texto completo: tienen derechos de autor.
+# Mientras el repositorio sea privado se incluyen. Antes de hacerlo público,
+# volver a excluir datos/crudos/ y borrarlos del historial.
+*texto_completo*
+*nota_completa*
+
+# Credencial de la suscripción y avances del scraper
+sesion_lanacion.json
+checkpoints/
+
+# Python y notebooks
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.ipynb_checkpoints
+
+# LaTeX (archivos intermedios)
+informe/*.aux
+informe/*.log
+informe/*.out
+informe/*.toc
+informe/*.fls
+informe/*.fdb_latexmk
+informe/*.xdv
+informe/*.synctex.gz
+
+# Sistema
+.DS_Store
+.Rhistory

@@ -1,0 +1,1617 @@
+===== NOTA 1 de 31 =====
+medio: Página/12
+titulo: ¿Es posible implementar un salario básico universal?
+fecha: 2022-07-25 03:01:00
+autor: Andrés Cappa, Gabriela Cugliari y Rodrigo Ercolani
+seccion: Economia
+volanta_bajada: Temas de debate. Cuáles son los argumentos a favor y en contra de la iniciativa
+link: https://www.pagina12.com.ar/439602-es-posible-implementar-un-salario-basico-universal
+marcas a codificar: M1669
+----- TEXTO -----
+Producción: Natalí Risso
+
+---------------------------------------------------------------------
+
+Por Andrés Cappa (*)
+
+La propuesta del Salario Básico Universal (SBU) se basa en razones estructurales y coyunturales. Respecto a las primeras, la heterogeneidad estructural característica de las economías subdesarrolladas
+implica formas de inserción laboral precarias para grandes porciones de la población.
+
+Pero más allá de las condiciones estructurales, la coyuntura marca el ritmo de la urgencia. Luego del impacto de la pandemia, la recuperación de la actividad económica llevó a que en el primer
+trimestre de 2022 la tasa de desocupación descienda a 7 por ciento, similar a la observada en 2015. Sin embargo, la inflación ha mantenido a raya a los ingresos de la población trabajadora. El salario
+de las y los trabajadoras/es no registrados de abril de 2022 acumula una caída de 32 por ciento respecto a diciembre 2015. En efecto, una porción relevante de la población ocupada es pobre: en el
+cuarto trimestre de 2021, 41 por ciento de las y los trabajadoras/es de la ⟦M1669⟧economía popular⟦/M1669⟧ eran pobres, y si se excluye a este segmento, la pobreza alcanza a uno de cada cuatro
+trabajadores/as.
+
+Sobre la base de esta delicada situación, la actual aceleración de la inflación repercutirá, en ausencia de nuevas medidas, en un nuevo incremento de la pobreza e indigencia. El SBU implicaría una
+suerte de refuerzo de ingresos permanente con similar alcance al otorgado este año a 7,5 millones de personas, con una prestación equivalente a la Canasta Básica Alimentaria de una persona adulta
+(15.057 pesos en junio 2022). La reasignación del 20 por ciento de los subsidios de tarifas hacia el SBU y la eliminación de la exención del impuesto a las ganancias vigente para jueces y funcionarios
+del poder judicial alcanzaría para lograr el financiamiento sin necesidad de aumentar el déficit fiscal. Se trata entonces de utilizar los recursos limitados del Estado de forma que maximicen el
+impacto distributivo en una situación social límite.
+
+La propuesta, sin embargo, no está exenta de detractores. Entre las objeciones de fondo más recurrentes aparece aquella que puede resumirse en la sentencia “antes que subsidiar la pobreza se debe
+crear empleo de calidad”. La cuestión subyacente es si el Estado debe garantizar el ingreso necesario para cubrir necesidades básicas o si lo que debe asegurar es el empleo. Las visiones que se
+inclinan por esta última posición destacan la ética del trabajo y, en algunos casos, ponderan la “creación de riqueza” que generaría el trabajo por sobre políticas “meramente distributivas” que
+solidifican la dependencia de la población de transferencias estatales sin resolver el problema de fondo que causa la pobreza y la exclusión.
+
+En primer lugar, este enfoque no logra explicar por qué el SBU iría contra la creación de empleo registrado. Y, por el contrario, abona a la invisibilización de trabajos de cuidados, tareas del hogar
+y actividades socio comunitarias en los barrios, usualmente realizadas por mujeres. Cabe preguntarse acerca del sentido práctico de la exigencia de una contraprestación laboral fuera del hogar a
+población que se encuentra desarrollando actividades como el estudio, la crianza de niños o inclusive a población que ya se encuentra trabajando a jornada completa en el mercado informal con ingresos
+de indigencia.
+
+En segundo lugar, la crítica que sostiene que el SBU no crea riqueza responde a un enfoque teórico particular (neoclásico) que implica, tal como afirman Minoldo y Dvoskin (2021), suponer que la
+producción es independiente del nivel de demanda y que la redistribución del ingreso no afecta la generación de valor. Por el contrario, la distribución del ingreso mediante transferencias de ingreso
+genera una inyección de demanda que impulsa la producción y el empleo. No se trata entonces de generar riqueza para luego redistribuirla, sino que la propia redistribución genera riqueza.
+
+Más allá del contrapunto entre ambas posturas, cabe notar que no son incompatibles ni en teoría ni en la práctica. La implementación de políticas de empleo no contradice ni obstaculiza las políticas
+de transferencias de ingreso, que pueden incluir diferentes tipos de contraprestaciones, adaptadas a las situaciones específicas de las personas beneficiarias. En este sentido, el programa Potenciar
+Trabajo debe mantenerse, pero evitando que se desvirtúe su esencia.
+
+La creación de empleo de calidad es, por supuesto, un objetivo irrenunciable, que depende de encauzar un sendero de desarrollo económico de largo plazo. Este sendero es compatible con la garantía de
+un ingreso mínimo de subsistencia que contribuya a eliminar la indigencia hoy, sin más demoras.
+
+(*) Lic. en Economía, investigador del OCEPP.
+
+-----------------------------------------------------------------------
+
+Por Gabriela Cugliari (**) y Rodrigo Ercolani (***)
+
+La seguridad social es el conjunto de instituciones que tienen como objetivo la protección de las personas frente a determinadas contingencias (vejez, invalidez, enfermedad, etc.). En los países
+periféricos, estas contingencias se tornan estructurales evidenciándose en altos niveles de pobreza y desempleo. La estructura económica heterogénea de economías como las latinoamericanas permite una
+precarización laboral en un gran porcentaje de la Población Económicamente Activa (PEA), lo que hace que los sistemas de seguridad social puramente contributivos sean débiles para lograr niveles de
+cobertura universales.
+
+Históricamente, la seguridad social en nuestro país se basaba en beneficios contributivos, es decir, financiados por aportes y contribuciones del trabajo registrado. Sin embargo, desde 2005 el sistema
+de la protección social está tendiendo a la universalización de las prestaciones en dos componentes principales: la previsión social y las asignaciones familiares. Por ejemplo, el Plan de Inclusión
+Previsional de 2005 y la creación de la Asignación Universal por Hijo (AUH) en 2009. Esto generó que el financiamiento de la seguridad social actualmente se nutra de un conjunto más amplio de
+tributos.
+
+Actualmente en nuestro país, las transferencias de ingresos a cargo del Estado se concentran en los grupos etarios de la niñez y la adultez (población inactiva) combinando prestaciones contributivas y
+no contributivas. Sin embargo, dentro del grupo de la población activa existen millones de personas no cubiertas por políticas universales.
+
+Es por eso que el sistema de seguridad social debe repensarse en función de las transformaciones del mercado laboral. En la actualidad, la pregunta de cómo conformar un piso de ingresos para toda la
+población que garantice, al menos, las necesidades alimentarias más elementales, rige nuestras reflexiones que concluyen en la posibilidad de concebir un Salario Básico Universal en Argentina.
+
+En el contexto de crisis económica post pandemia Covid-19, se han producido distintos debates a nivel mundial sobre la pertinencia de implementar ingresos universales y permanentes cambiando el
+paradigma de los diseños de las políticas de protección social. Las propuestas de la universalización de las políticas de transferencia de ingreso, en sus diversas modalidades, han entrado en la
+agenda pública actual.
+
+Como antecedente a la propuesta del Salario Básico Universal (SBU), podemos considerar tres iniciativas a nivel internacional: el Piso de Protección Social (PPS), el Estado como Empleador de Última
+Instancia (EUI) y el Ingreso Universal Básico (IBU).
+
+La iniciativa del PPS propone la garantía al acceso a la salud y a la protección frente a contingencias más acotadas como la invalidez y los accidentes laborales, y además se establecen objetivos de
+cobertura más amplios que buscan garantizar un ingreso mínimo a toda la población activa, reconociendo el rol del Estado como principal garante.
+
+Por su parte, el EUI plantea que el Estado debe otorgar un salario prestablecido a cualquier persona que lo desee, a cambio de una contraprestación laboral que reemplazaría el salario mínimo vigente
+en el mercado laboral.
+
+Para el IBU, si bien no existe una definición homogénea, se lo considera una transferencia individual, universal y periódica para quienes no tengan ingresos formales, sin exigir una contraprestación
+laboral a cambio.
+
+En estas discusiones internacionales se instala el debate sobre un Salario Básico Universal en Argentina. Para crear una versión de IBU adaptada a la realidad de nuestro país existen múltiples aristas
+a considerar y cuestiones a resolver. Para poder calcular el impacto de una política de este tipo se requiere definir una serie de parámetros: cuáles serán los requisitos y la población alcanzada, los
+montos de las prestaciones, la fuente de financiamiento, la compatibilidad con otras prestaciones de la seguridad social, la existencia de contraprestación o no, entre otras.
+
+Cada uno de estos puntos requieren ser estudiados en profundidad para tomar definiciones políticas. Forman parte de un debate rico y necesario al que se le debe dar la importancia y seriedad que se
+merece. Pero sin duda son parte del camino hacia una sociedad más justa e igualitaria.
+
+(**) Lic. en Economía UBA. Miembro del Observatorio de Políticas Públicas de la Universidad Nacional de Avellaneda
+
+(***) Lic. en Economía UNLaM. Miembro del Observatorio de Políticas Públicas de la Universidad Nacional de Avellaneda
+
+===== NOTA 2 de 31 =====
+medio: Página/12
+titulo: El Frente de Todos contra las maniobras de "neto corte golpista"
+fecha: 2022-07-25 03:01:00
+autor: Melisa Molina
+seccion: El País
+volanta_bajada: Reafirman la unidad contra la derecha
+link: https://www.pagina12.com.ar/439648-el-frente-de-todos-contra-las-maniobras-de-neto-corte-golpis
+marcas a codificar: M1670
+----- TEXTO -----
+Desde el Gobierno, con la ministra de Economía Silvina Batakis en Estados Unidos --arribó a Washington este domingo, donde el lunes se reunirá con la titular del FMI, Kristalina Georgieva-- expresan
+que no anunciarán, por ahora, nuevas medidas. El presidente Alberto Fernández estuvo el domingo en Olivos, después de la reunión que tuvo el día anterior con la vicepresidenta y, tal como ocurrió con
+todos los encuentros que hubo entre ellos luego de la designación de Batakis, el contenido de la misma se mantuvo en extremo hermetismo. Distintos sectores de la alianza oficialista, mientras tanto,
+buscan darle un respaldo al Gobierno frente al escenario complejo que atraviesa en materia económica, política y social. En esa línea, los diputados del bloque oficialista lanzaron un comunicado
+apoyando la gestión y denunciando "una acción sistemática de desestabilización política y económica con maniobras y expresiones de neto corte golpista".
+
+Los partidos políticos integrantes del FdT, por otra parte, publicaron una declaración en la que indicaron que reafirman la unidad del Frente de Todos "como una herramienta
+imprescindible para derrotar a la derecha".
+
+El silencio de la vicepresidenta, Cristina Fernández de Kirchner, acerca de la situación actual y su opinión respecto a la ministra, sin embargo, incomoda a distintos sectores de la alianza, que
+consideran que su respaldo explícito ayudaría a dar estabilidad. Por ahora también están suspendidos los actos que desde su entorno habían anunciado serían cada quince días en distintos sitios del
+país. De todas formas, fuentes del Ejecutivo aseguraron en diálogo con este diario que CFK "tiene diálogo casi permanente con Batakis".
+
+La senadora Juliana Di Tullio fue la única funcionaria cercana a CFK que este fin de semana realizó declaraciones. "Por supuesto que Cristina banca a Batakis, no hay dudas. No se me ocurrió nunca
+preguntarle porque para mí es obvio", afirmó Di Tullio, y elogió que la nueva ministra "tiene todos los números en la cabeza, pero también a toda la gente y eso es lo importante". En diálogo con este
+diario la senadora aclaró que ella "no habla por CFK", y que "está difícil hablar de política porque descontextualizan todas las declaraciones". "Las apreciaciones sobre Batakis son mías", resaltó.
+
+Por su parte, los gobernadores que forman parte de la Liga tienen planificada una reunión este miércoles al mediodía, que iba a ser en Bariloche, pero finalmente será en la sede central del CFI en
+Capital Federal, luego de que varios de ellos tuvieran encuentros con Batakis durante la semana que pasó.
+
+En esas reuniones con grupos pequeños de gobernadores en el Palacio de Hacienda la ministra les habló de la importancia de "colaborar para pasar los siguientes dos meses", en los que habrá una sangría
+de dólares por la compra de energía, sumada a la no liquidación de la cosecha por parte del agro.
+
+"Hay que pasar el invierno", repiten en los despachos oficialistas y comentan que el ministro de Desarrollo Productivo, Daniel Scioli; el Presidente del Banco Central, Miguel Pesce y Batakis están
+"todo el tiempo evaluando medidas para ver qué se puede hacer, ya que hasta el mes que viene va a estar complicado porque se van los dólares para pagar la energía", dijeron a Página12.
+
+En este escenario, esperan con ansiedad los resultados de las gestiones que la ministra emprenderá en Estados Unidos. "Batakis es una mujer de carácter, con ideas, pero está limitada por la coyuntura.
+Esperamos que desde EEUU pueda traer novedades", remarcan.
+
+En el escrito que publicaron este domingo los diputados oficialistas, expresaron su "firme repudio a las maniobras y expresiones de neto corte golpista que aparecieron en los últimos días. Una brutal
+corrida cambiaría que pretende una devaluación abrupta de la moneda nacional. Pedidos de juicio político a nuestro Presidente de la Nación. Amenazas hacia nuestra Vicepresidenta de la Nación. Acciones
+violentas contra el Instituto Patria. Ex militares convocando a las Fuerzas Armadas. Dirigentes políticos y operadores mediáticos planteando el adelantamiento de las elecciones".
+
+En esa línea, realizaron "un llamado a la responsabilidad institucional de la oposición política", y agregaron que "el contexto requiere claras y explícitas manifestaciones públicas". También
+solicitaron al Poder Judicial "que asuma una postura proactiva en defensa de la democracia y las instituciones e investigue las denuncias que el Poder Ejecutivo ha realizado".
+
+Lejos de realizar manifestaciones públicas en repudio a la situación actual, la presidenta del Pro, Patricia Bullrich, citó el documento y escribió en sus redes: "el oficialismo es el colmo. Se
+boicotean, se insultan, se destruyen entre ellos ¡y sacan este documento! En el medio estamos todos los argentinos, pero no les importa. ¡Gobiernen! Si no saben hacerlo, ¡acéptenlo, carajo!".
+
+En diálogo con Página12 cerca del jefe de bloque oficialista, Germán Martínez, resaltaron que "sacamos el documento porque permitió hilvanar varias situaciones que se fueron dando en la semana. La
+contundencia del comunicado está en contar todas juntas las maniobras que por separado muchas veces no se entienden".
+
+El escrito, en principio, fue propuesto por un grupo de legisladoras, que le llevaron la propuesta a Martínez, quien redactó la versión final. "La situación es seria como para mirar al costado y
+naturalizar esto que está pasando", dijo en diálogo con este diario la diputada del FdT, Blanca Osuna, y agregó que "son momentos donde hay que jugar las fichas y sentar posición y cada cual lo hace
+desde su historia y su compromiso". Sobre los dichos de Bullrich, opinó que "es sumamente irresponsable y se agrega a la corriente desestabilizadora. El problema es que ella no habla en términos
+individuales, porque es la presidenta del Pro. Habría que ver si todos los partidos que forman parte de Juntos piensan igual".
+
+El documento que lanzaron los partidos que integran el FdT --Justicialista; Frente Grande; Nuevo Encuentro; Unidad Popular; Kolina; entre otros--, resaltan que "el intercambio de ideas en nuestro
+Frente, ayuda la
+oxigenación política.
+Oxigenación que solo puede pensarse en el marco de una refundación y
+recomposición del poder político de la coalición". "El Gobierno debe tomar el
+camino de convocar a las fuerzas políticas que lo integramos, al conjunto de los trabajadores, de la ⟦M1670⟧economía popular⟦/M1670⟧, PYMES. Sabemos de qué lado hay que estar. Si la presión es
+por imponer un programa de ajuste, la respuesta debe ser adoptar una salida
+que nos permita transitar esta crisis con políticas que se conjuguen en clave
+de mayor igualdad y democratización", finalizan.
+
+===== NOTA 3 de 31 =====
+medio: Página/12
+titulo: Más de $380 millones para obras en barrios populares de la ciudad de Salta
+fecha: 2022-07-27 04:39:45
+autor: 
+seccion: Salta|12
+volanta_bajada: “Estamos llevando dignidad a los barrios populares”
+link: https://www.pagina12.com.ar/440284-mas-de-380-millones-para-obras-en-barrios-populares-de-la-ci
+marcas a codificar: M1671
+----- TEXTO -----
+La Municipalidad de Salta dio a conocer ayer que se pondrá en marcha la ejecución de una primera etapa de obras que beneficiarán a 390 familias del barrio Ampliación 20 de Junio. Este primer momento
+tendrá una inversión de 80 millones pesos y se sumará a los 300 millones que ya se están invirtiendo en los barrios Sanidad II y San Justo I, Juan Manuel de Rosas y 23 de Agosto.
+
+Las obras son de conexiones domiciliarias e intra-lote de agua y cloacas; desagües pluviales y cordón cuneta; nuevas redes de agua y cloaca, con conexión domiciliaria y nuevo pavimento y alumbrado
+público; y refuncionalización de espacios públicos. La posibilidad de emprender los proyectos se dio por la gestión realizada ante la Secretaría de Integración Socio Urbana del Ministerio de
+Desarrollo Social de Nación, que puso en marcha el Programa de Integración Socio Urbana, para barrios populares.
+
+En Salta existen 46 barrios populares de acuerdo al Registro Nacional de Barrios Populares (RENABAP), que reúne información sobre las villas y asentamientos de Argentina. Este año se sumaron otros 7
+barrios en la ciudad de Salta: Los Pinos, Israel, Ara San Juan, El Milagro, Santa Clara de Asis, La Católica y Comunidad Lule.
+
+En la jornada de ayer la intendenta de la capital salteña, Bettina Romero, encabezó la apertura de sobres para la ejecución de una primera etapa de obras que beneficiarán a familias del barrio
+Ampliación 20 de Junio, y que consiste en la refuncionalización de la plaza 25 de Mayo, como punto de integración y encuentro de niños y jóvenes para luego continuar con las obras de agua y cloaca.
+
+Durante la presentación Romero destacó que desde su gestión se pone el eje en el progreso de los barrios populares y aseguró que estas obras representan una verdadera política de desarrollo humano.
+“Esto es unir a la ciudad con obras, conectar a los barrios y llevar dignidad pensando en las nuevas generaciones. Esta es la columna vertebral de este gobierno municipal, invertir y gestionar fondos
+para mejorar la calidad de vida de miles de familias de barrios que por años han sido olvidados”, afirmó.
+
+En ese sentido, sostuvo que seguirá gestionando fondos ante Nación y Provincia, para "avanzar y llevar soluciones a más barrios de la ciudad, porque sabemos que falta mucho por hacer". En la
+presentación, también se adelantó que la Municipalidad ya envió a Nación dos nuevos proyectos para urbanizar los barrios La Cerámica y Santa Anita, que reúnen a 476 familias entre ambos.
+
+Mientras que ya están en ejecución las obras en barrio Sanidad II y San Justo I, donde se está llevando a cabo, en un 90%, el desarrollo del desagüe pluvial y cordón cuneta. Allí serán beneficiadas
+370 familias, con una inversión de 64 millones de pesos. En el caso del barrio Juan Manuel de Rosas, se está ejecutando la conexión domiciliaria e intra-lote de agua y cloacas. La obra está en un 78%
+de avance, beneficiando a 1.560 familias, con una monto de 91 millones de pesos.
+
+También se realizan obras en el barrio 23 de Agosto, donde 125 familias serán beneficiarias de una nueva red de agua y cloaca, con conexión domiciliaria y nuevo pavimento y alumbrado público. Para
+ello se invirtieron 125 millones de pesos, y el porcentaje de avance se encuentra en 20%.
+
+Con respecto a los futuros proyectos presentados, resta la aprobación final de la Secretaría de Integración Socio Urbana. En el caso del barrio La Cerámica, se proyecta llevar adelante un corredor
+peatonal adoquinado, una nueva red de agua y cloacas, un nuevo pavimento y veredas; y un nuevo pozo de agua. Para ello, se invertirán más de 125 millones de pesos.
+
+Mientras que, para el barrio Finca Santa Anita, se proyecta una nueva plaza, un pozo de agua, alumbrado público, el desagüe pluvial, una nueva red de agua y cloacas. También, un nuevo pavimento y
+cordón cuneta, con una inversión de casi 235 millones de pesos.
+
+De acuerdo al RENABAP, en los 46 barrios populares que hay en la ciudad de Salta viven aproximadamente 8327 familias, concentrándose el 50% de la población en los barrios Juan Manuel de Rosas,
+Floresta, Gauchito Gil, Ampliación 20 de Junio.
+
+La ley 27.453/18 considera barrios populares a aquellos que están compuestos por al menos ocho familias agrupadas o contiguas, donde más de la mitad de la población no cuenta con título de propiedad
+del suelo ni acceso regular a dos, o más, de los servicios básicos.
+
+La subsecretaria de Promoción Social municipal, Jacqueline Cobos, informó a Salta/12 que desde 2020 vienen manteniendo distintas reuniones con actores de los barrios, como la Mesa de Barrios Populares
+de Salta, en las que diagramaron un esquema de prioridades. "Se empezaron a mandar los proyectos y hoy somos una de las primeras provincias de la región en tener obras en ejecución", contó.
+
+"Llegan obras que son esperadas en los barrios, algunos de los cuales tienen una antigüedad de 30 a 20 años", manifestó. Destacó que se está desarrollando una verdadera política social desde el
+municipio con cuatro ejes claros. En primer lugar, el desarrollo humano, ya que se avanza en obras que garantizan el acceso a servicios básicos históricamente postergados.
+
+El segundo es la dinamización de la economía y el empleo, dado que un 25% de los contratados para ejecutar las obras deben ser de los propios barrios; priorizando las cooperativas de la
+⟦M1671⟧economía popular⟦/M1671⟧. "Es algo que destacamos porque también hace a la integración de cada barrio", afirmó Cobos.
+
+El tercer eje refiere al trabajo de regularización dominial de los barrios, posibilitando la entrega de las escrituras a las familias que allí viven. En ese sentido, la funcionaria dijo que desde el
+gobierno capitalino están avanzando en la entrega de las escrituras en los barrios que  están sobre tierras municipales. Ya lo hicieron en los barrios 23 de Agosto, Ceferino, Unión y Tinkunaku.
+
+Mientras que el último eje es sobre el abordaje social y la descentralización de los servicios municipales, dado que mientras avanza la obra en cada barrio también abren centros de atención al vecino,
+donde se llevan los servicios que ofrece la Municipalidad al lugar, como el móvil de castración o capacitaciones en prevención de adicciones o violencia de género.
+
+Cobos destacó que todo el proceso de urbanización "no es otra cosa que llevarle dignidad a generaciones de miles de familias que han crecido sin acceder a los servicios básicos".
+
+===== NOTA 4 de 31 =====
+medio: Página/12
+titulo: Daer: "La luz de Evita nos marca el horizonte"
+fecha: 2022-07-27 11:01:10
+autor: 
+seccion: El País
+volanta_bajada: Acto en la CGT por el 70 aniversario del fallecimiento de Eva Perón
+link: https://www.pagina12.com.ar/440260-daer-la-luz-de-evita-nos-marca-el-horizonte
+marcas a codificar: M1672
+----- TEXTO -----
+El cosegretario general de la CGT Héctor Daer instó a seguir la  "luz" de Eva Perón para "saber cuál el horizonte", y de esa manera,  "buscar la felicidad del pueblo", en el acto que la central obrera
+realizó con la participación del Movimiento  Evita y Somos Barrios de  Pie, en homenaje a la llamada "abanderada de los humildes" al cumplirse  70 años de su muerte.
+
+"Tengámosla como bandera para saber cuál es el horizonte, que es nada  más ni nada menos que la felicidad del pueblo y la grandeza de la  patria", expresó Daer en referencia a Evita, durante el acto
+que  se realizó en el mítico salón Felipe Vallese. En el encuentro hubo dirigentes sindicales peronista, pero también de  movimientos sociales como el Evita, entre ellos Fernando Navarro y  Emilio
+Pérsico, y Daniel Menéndez, líder de Somos Barrios de Pie.
+
+Daer se refirió a la marcha que convocó la central obrera para el  próximo 17 de agosto y arremetió contra quienes "quieren confundir y  dividir", asegurando que el sindicalismo tiene "muy en claro
+los  intereses" que defiende.
+
+Apuntó contra "los que tienen responsabilidad superior" en la crisis que  atraviesa la Argentina, por ser "los que destruyeron la economía" y  "los que dejaron endeudado a nuestro país en una deuda
+impagable".
+
+"No nos confundimos cuando nos corren por derecha o por izquierda,  cuando nos preguntan si desestabilizamos a este Gobierno", señaló.
+
+El acto por el 70° aniversario del fallecimiento de la también llamada  "santa del pueblo", tal como la nombraron los organizadores del  homenaje, se inició a las 17.30 luego de que Daer ingresara al
+salón  acompañado por el secretario general adjunto de la CGT y titular de la  Unión del Personal Civil de la Nación (UPCN), Andrés Rodríguez, quien  subió al escenario junto a la cosecretaria de
+Cultura, María Belén  Ratto.
+
+Horas antes, militantes de la Unión Obrera de la Construcción de la  República Argentina (Uocra) colmaron el tramo de la avenida  Independencia cercano a la sede cegetista, mientras sindicalistas de
+la  Unión Docentes Argentinos (UDA) y de UPCN se repartieron las presencias  en Azopardo.
+
+Una columna muy importante del Movimiento Evita ingresó desde la  intersección de Belgrano y Azopardo hasta llegar a la altura de  Independencia, ocupando casi tres cuadras de manifestantes. Mientras,
+en las primeras filas de las butacas del salón Vallese, se  ubicaron por el lado sindical Juan Carlos Schmid (Dragado y Balizamiento  y extitular de la CGT), Sergio Romero (UDA) y Miguel Ángel
+Paniagua  (Sutep).
+
+En la parte izquierda de los asientos se sentaron gremialistas del  Sindicato de Empleados de Comercio, de Sanidad (cuyo secretario general  es Daer) y de la Uocra, y del lado derecho los
+sindicalistas de UPCN y  UDA. También en las primeras filas estuvieron el dirigente del Movimiento  Evita y secretario de Relaciones Parlamentarias de la Jefatura de  Gabinete, Fernando Navarro; el
+secretario de Economía Social del  Ministerio de Desarrollo Social y referente del Evita, Emilio Pérsico;  el dirigente de Somos Barrios de Pie, Daniel Menéndez; el exjefe de  Gabinete Juan Manuel
+Abal Medina y el legislador porteño Alejandro Amor.
+
+Fue a los dirigentes de los movimientos sociales y de la ⟦M1672⟧economía  popular⟦/M1672⟧ a quienes se dirigió Daer primero al abrir su discurso:  "Arrancamos saludando al Movimiento Evita y Barrios
+de Pie ¡bienvenidos a  la casa de los trabajadores!". Enseguida explicó que cuando se refería a los trabajadores lo hacía  incluyendo a "aquellos que se la tienen que rebuscar inventando con sus
+manos su trabajo todos los días".
+
+"Esos son con los que vamos a marchar el 17 de agosto, tal cual lo decía  Evita: la Confederación General del Trabajo conjuntamente con todos los  descamisados de Argentina", remarcó.
+
+También recordó que en el frente del edificio del Sindicato de  Dragado y Balizamiento de Schmid, se inauguró una imagen de Evita  iluminada. "Esa luz es la que debemos seguir para entender y
+comprender cada uno de los momentos que nos toca vivir", agregó.
+
+Además, aseguró que la marcha anunciada no se convoca desde "la  antipolítica", sino para pedirle a "este Gobierno peronista" que es  necesario "hacer todos los esfuerzos para resolver este proceso
+especulador". "Lo único que persigue es la devaluación para empobrecer a todo el  pueblo argentino y de esa manera tener habilitado el 2023", aseguró en  referencia al mencionado proceso.
+
+===== NOTA 5 de 31 =====
+medio: Página/12
+titulo: Organizaciones sociales reclaman el salario básico universal y cambios en la política económica
+fecha: 2022-07-28 14:52:05
+autor: 
+seccion: El País
+volanta_bajada: Protestas en distintos lugares de la Capital Federal
+link: https://www.pagina12.com.ar/440665-organizaciones-sociales-reclaman-el-salario-basico-universal
+marcas a codificar: M1673
+----- TEXTO -----
+Organizaciones piqueteras realizan este jueves una nueva protesta contra el Gobierno nacional en el centro porteño. Sus principales reclamos son que haya más planes sociales y la implementación del
+salario básico universal. La movilización complica el tránsito en la Capital Federal y no se descarta que concluya con un acampe en Plaza de Mayo.
+
+La manifestación de la Unidad Piquetera y movimientos que conforman la Unión de Trabajadores y Trabajadoras de la ⟦M1673⟧Economía Popular⟦/M1673⟧ (UTEP) en demanda de cambios en la política social y
+económica comenzó a las 10. A partir de esa hora comenzó la concentración en distintos puntos de la ciudad para confluir luego en Plaza de Mayo.
+
+Los manifestantes protestan contra el Gobierno bajo el lema de "trabajo genuino, aumento de los montos y cupos de los planes sociales, bolsones de alimentos y asistencia económica para familias de
+desocupados y jubilados".
+
+Las agrupaciones nucleadas en la denominada "Unidad Piquetera" que integran el Polo Obrero, MTR-Votamos Luchar, el CUBA-MTR, el Bloque Piquetero Nacional, la Agrupación Armando Conciencia, la
+Organización 17 de Noviembre, el MTR Teresa Rodríguez y el Movimiento Territorial Liberación (MTL-Rebelde) se concentraron en el Obelisco para luego marchar a Plaza de Mayo.
+
+El Frente Popular Darío Santillán junto a otras organizaciones sociales decidieron realizar asambleas, con epicentro en el Obelisco, mientras que Barrios de Pie optó concentrarse frente al Ministerio
+de Trabajo "para pedir que el salario mínimo vital y móvil llegue a los niveles de la canasta básica". Los integrantes de esa organización decidieron trasladarse luego hacia el Ministerio de
+Desarrollo Social "para que entregue alimentos y herramientas para los proyectos del potenciar trabajo".
+
+De allí, los manifestantes irán al Ministerio de Economía para exigirle a la titular del Palacio de Hacienda, Silvina Batakis, el pago de "un bono de 20 mil pesos a los jubilados que cobran la mínima,
+a quienes tienen monotributo de las categorías A y B, y a los que cobran el Potenciar Trabajo".
+
+La protesta se lleva a cabo después de que el presidente Alberto Fernández anunciara un bono de 11 mil pesos para los más de 1.300.000 beneficiarios del plan Potenciar Trabajo.  "La medida, aunque
+insuficiente, es una primera victoria del movimiento piquetero combativo contra el ajuste", remarcó el referente del Polo Obrero Eduardo Belliboni.
+
+Juan Grabois, Esteban "Gringo" Castro, Hugo Yasky, y Dina Sánchez, entre otros dirigentes que forman parte de la oficialista UTEP, alineada con el Frente de Todos, también decidieron volver a las
+calles para insistir con el Salario Básico Universal.
+
+Se trata de la tercera de un plan de lucha que comenzó el 13 de julio con más de 450 asambleas en todo el país y continuó el 20 de julio con concentraciones en las principales rutas del país cuyo
+epicentro fue el Puente Pueyrredón en Avellaneda.
+
+===== NOTA 6 de 31 =====
+medio: Página/12
+titulo: Marchas de organizaciones sociales confluyeron el centro porteño
+fecha: 2022-07-29 03:01:00
+autor: Laura Vales
+seccion: El País
+volanta_bajada: Jornada de protestas en el Obelisco y Plaza de Mayo
+link: https://www.pagina12.com.ar/440909-marchas-de-organizaciones-sociales-confluyeron-el-centro-por
+marcas a codificar: M1674, M1675
+----- TEXTO -----
+Dos protestas de organizaciones sociales coparon el centro porteño mientras por Casa Rosada pasaba Silvina Batakis, renunciaba Gustavo Béliz y se definía como superministro de Economía a Sergio Massa.
+En reclamo por un salario básico universal, los movimientos que se referencian con Juan Grabois, junto con La Poderosa y la CTA Autónoma se concentraron en el Obelisco. Al mismo tiempo, la Unidad
+Piquetera cortó la 9 de Julio con una marcha netamente opositora que, repartida en dos brazos, finalizó en la Plaza de Mayo.
+
+Fueron movilizaciones con demandas distintas, y posicionamientos frente al Gobierno también diferenciados, pero que se coordinaron en el día y hora para salir a la calle. Así apostaron a conseguir el
+mayor ruido posible.
+
+¿Quiénes marcharon? El modo más fácil de explicarlo es que salieron todos los movimientos, con excepción de los más albertistas, como Somos Barrios de Pie y el Evita.
+
+Aunque Esteban Castro, “el gringo”, la figura de mayor peso en la construcción territorial del Evita y titular de la Unión de Trabajadores de la ⟦M1674⟧Economía Popular⟦/M1674⟧ (UTEP), sí fue al
+Obelisco y mostró su apoyo a las protestas
+
+-¿Cómo hay que entender que las organizaciones de la izquierda trotskista, o guevarista coincidan en salir el mismo día que un sector de la UTEP, que es parte del Frente de Todos? ¿Y cómo es que cada
+una sale con consignas diferentes? -le preguntó Página/12.
+
+-Porque esto es puja distributiva- contestó el-: Hay un problema de distribución de la riqueza y es eso lo que nos ubica acá. Que la mitad de los trabajadores sean informales, que de los trabajadores
+conveniados la mitad sea pobre y que los sectores concentrados sigan acumulando poder.
+
+Castro se fue rápido rumbo a una reunión de las organizaciones de la UTEP con monseñor Ojea, el presidente de la Conferencia Episcopal Argentina, al que denunciaron la ofensiva judicial sobre los
+movimientos sociales. El tema se retomará mas adelante.
+
+Las medidas de fuerza se concretaron a pesar de que el gobierno dió esta semana un bono de 11 mil pesos a los beneficiarios del Plan Potenciar. Y es que por la fuerte presión inflacionaria, el monto
+de un plan, que hoy es de 22 mil 770 pesos, alcanza para menos de la mitad de canasta alimentaria de una familia tipo; está muy abajo de la línea de indigencia.
+
+Los referentes sociales señalan,  por otra parte, que en la Argentina hay 7,5 millones de trabajadores informales y sólo un millón 300 mil reciben un plan. Pese a que la frazada es grande, en este
+mercado laboral precarizado queda corta.
+
+“Hay que avanzar. Aunque no sea en todo lo que se necesita, por lo menos avanzar en algún tipo de ingreso”, opinaba al mediodía en la plaza de la Républica Dina Sánchez.
+
+La vocera del Frente Popular Darío Santillán viene siendo parte de la campaña por el salario básico universal, una propuesta a la que Cristina Kirchner dió un espaldarazo, aunque introduciéndole
+varios cambios. De hecho, el proyecto kirchnerista, que hoy redacta la senadora Juliana Di Tullio, no habla de salario sino de ingreso y achica su universo prácticamente a la mitad: llegaría a 4
+millones de personas en lugar de los 7,5 millones del proyecto impulsado por Juan Grabois.
+
+La medialuna de la plaza de la República ya estaba cubierta por manifestantes: trabajadores de cooperativas de construcción y textiles, de comedores populares, vendedores ambulantes organizados,
+cuidacoches. Al costado, sobre un carril de la 9 de Julio, comenzó a concentrar uno de los brazos de la marcha de la Unidad Piquetera para ir a la plaza de Mayo.
+
+-Yo creo que no es imposible, aunque ya estemos cerca del comienzo de las campañas políticas- contestó sobre el salario universal Leo Larraburu, de la Federación de Cartoneros, aunque sobre la marcha
+se corrigió: -sobre todo es una solución, es algo necesario. Los trabajadores de la ⟦M1675⟧economía popular⟦/M1675⟧ que ya estamos organizados tenemos un ingreso, pero hay muchos compañeros que no
+están organizados y la están pasando muy mal.
+
+En torno al Obelisco hubo banderas del MTE, el Frente Darío Santillán, La Poderosa, Organizaciones Libres del Pueblo, Nuestramérica, Fenat, el Partido Piquetero. La actividad de protesta consistió en
+una asamblea . La cerró el titular de la CTA Autónoma, Hugo Godoy, luego de una votación que aprobó que este sector participará de la marcha de San Cayetano el próximo 7 de agosto, con la UTEP.
+
+Luego de votar, los manifestantes marcharon hasta la Avenida de Mayo y 9 de Julio. Ahí estaba el segundo brazo de la marcha de la Unidad Piquetera y, como parte de ellos, un grupo de organizaciones
+que el martes y miércoles hicieron dos días de acampes frente a las sedes de 20 grandes empresas de la alimentación como Molinos Río de La Plata, La Serenísma, Molinos Cañuelas, Ledesma.
+
+Melisa Gargarello, del FOL, fue una de las que acampó en la 197 y Panamericana, frente a un edificio de Arcor. “Nuestra intención es señalar a los formadores de precios que monopolizan la canasta
+alimentaria; hacerlos visibles a otros sectores de la sociedad que también están afectados como nosotros por la inflación”, explicó.
+
+Contó además que el acampe fue pasado por agua porque los agarró la tormenta. Y el clima social no estuvo menos picado: “hubo una cosa mixta, gente que pasaba y nos daba su apoyo pero también gente
+hostil. Eso es bien zona norte; la televisión estaba dándole aire a esa persona que dijo que le gustaba vivir de subsidios, y en ese clima nos gritaron de todo, como ‘negros de mierda’ o ‘vayan a
+trabajar’”.
+
+La entrevistada no esconde que le dolió escucharlo: “¡Nosotros trabajamos! Hoy estamos haciendo veredas en el barrio y sostenemos emprendimientos productivos para ganar un mango más. Nuestra pelea,
+además, es por recuperar el trabajo. En nuestro FOL tenemos esa regla interna: el que quiera sumarse es a trabajar ”.
+
+En esta esquina de avenida de Mayo y 9 de Julio hubo un segundo acto, de esas organizaciones de la izquierda apartidaria (FOL, MTD Aníbal Verón, Frente Popular Darío Santillán, Resistencia Popular,
+entre otras) que finalmente marcharon a la secretaria de Comercio para reclamar un efectivo control de precios.
+
+En la plaza de Mayo
+
+Frente a la Casa Rosada se hizo la concentración más numerosa. La Unidad Piquetera llegó hasta el lugar con una movilización de dos brazos: una columna salió del ministerio de Trabajo, pasó por el
+Obelisco para llegar a la Casa Rosada. Y otra salió del ministerio de Desarrollo Social para recorrer la 9 de julio en sentido contrario antes de desembocar en la plaza.
+
+“Hay que centrar los reclamos al Gobierno porque es el responsable de esta situación por acción u omisión”, sostuvo desde el escenario del acto Eduardo Belliboni, titular del Polo Obrero. El dirigente
+llamó al resto de las organizaciones a “romper con el gobierno” porque -dijo. en la Casa Rosada “lo único que se debate es cómo hacer el ajuste”.
+
+Silvia Saravia, de Barrios de Pie -Libres del Sur coincidió con él: “Nosotros creemos que el mayor responsable de la crisis es el gobierno. Comprendemos que hay sectores económicos muy poderosos que
+siempre van a intentar sacar los mayores beneficios, pero cuando uno se postula para gobernar sabe que esto va a suceder y lo importante es cómo se plante. Hoy la mayoría del país está sufriendo: no
+sólo los trabajadores informales y los jubilados, sino incluso parte de los trabajadores que están en blanco y esto es porque el gobierno no está pensando en tomar medidas en favor del conjunto del
+pueblo”.
+
+La Unidad Piquetera tiene un pliego de reivindicaciones por trabajo genuino, reapertura del Potenciar Trabajo, el aumento del salario mínimo a 105 mil pesos, aumento para los jubilados de la mínima y
+un bono de emergencia de 20.000 pesos para los trabajadores de bajos ingresos.
+
+El punto de unidad con todo el arco las organizaciones está en el rechazo a la judicialización de quienes se organizan:  la situación de Milagro Sala, que permanece detenida desde enero de 2016; los
+más de 40 allanamientos recientes a comedores populares y domicilios de integrantes de las organizaciones -en causas por "averiguación de delito", es decir que fueron armadas para "ir a la pesca" de
+evidencia- y, en la última semana , la presentación de nueve denuncias penales contra Juan Grabois, todas  realizadas en un solo día.
+
+===== NOTA 7 de 31 =====
+medio: Página/12
+titulo: Crónica de una protesta contra la especulación del sector agropecuario
+fecha: 2022-07-31 03:01:00
+autor: 
+seccion: El País
+volanta_bajada: “La Argentina no termina en los límites de su estancia”
+link: https://www.pagina12.com.ar/441395-cronica-de-una-protesta-contra-la-especulacion-del-sector-ag
+marcas a codificar: M1676
+----- TEXTO -----
+Sábado soleado en la ciudad. La atención se reparte en dos lugares emblemáticos de Buenos Aires, con sectores antagonistas ocupando ambos espacios. En Palermo, la Sociedad Rural Argentina realiza la
+inauguración de la 134° Exposición en el tradicional predio de Palermo. En Balvanera, el movimiento Somos Barrios de Pie se manifiesta frente al Congreso de la Nación. En el palco de La Rural, las
+principales figuras de la oposición se hacen presentes y muestran todo su apoyo a los grupos más poderosos del sector agropecuario, a los que caracterizan como víctimas de un "Estado especulador". En
+el centro porteño, cientos de personas esperan su plato de comida en la olla popular y se suman al reclamo de las organizaciones sociales que demandan un cambio de actitud por parte de los sectores
+concentrados del agro.
+
+"La derecha está desprestigiando a las organizaciones populares, y no podemos permitirlo. Pero también venimos a apoyar al Gobierno contra los especuladores", dice un referente de Somos Barrios de
+Pie. Detrás suyo, uno de los carteles reclama: “Primero la Patria. Basta de especular”. Ya pasaron 15 minutos de la hora pactada y con Los Charros sonando de fondo, algunos militantes colocan las
+últimas banderas en la reja del Congreso.
+
+Mucho se dijo en los días previos. Se aseguraba que los manifestantes tenían pensado bloquear el ingreso a los asistentes a La Rural, también se dijo que su intención era cortar el acceso de las
+avenidas adyacentes. Hubo medios que sostuvieron, incluso, que podían llegar a ingresar de incógnito, luego de pagar la entrada, para realizar la protesta dentro del recinto. Nada de eso fue
+ratificado por los dirigentes que organizaron la marcha. La amenaza de un rígido operativo en las inmediaciones de La Rural se hizo más y más fuerte, y terminó por desplazar la protesta unas 50
+cuadras, hasta el Congreso. El que intercedió con fuerza para disuadir a los manifestantes fue el ministro de Justicia y Seguridad porteño, Marcelo D’Alessandro. El interés del funcionario en impedir
+que los reclamos opaquen la fiesta de los sectores agropecuarios y ganaderos fue tal que solicitó una reunión con los dirigentes del movimiento encabezado por Daniel Menéndez.
+
+Los manifestantes empezaron a concentrarse desde temprano sobre la avenida Entre Ríos. Junto a los bombos, banderas, globos y demás elementos de la liturgia militante, se dispusieron largas mesas con
+manteles violetas y sillas a los costados. Sobre la vereda del Congreso, algunas cocineras hierven las verduras para el guiso popular. Al grito de “Hay que saltar, hay que saltar, el que no salta es
+La Rural”, jóvenes con pecheras celestes van calentando el ambiente.
+
+A la convocatoria de Somos Barrios de Pie se sumaron, finalmente, la Unión de Trabajadores de la ⟦M1676⟧Economía Popular⟦/M1676⟧ y el Movimiento Territorial de Liberación. “Hay un grupo de mil
+familias en la Argentina que son las que dirigen los destinos de la economía. Y en el marco de las dificultades por las que pasa el Estado nacional, estas familias especulan y presionan por una
+devaluación”, dice “Beto” Ibarra, dirigente del MTL. Para el referente social, no se trata de pensar al campo como un ente único, sino que diferencia a “los pequeños productores, que también son
+víctimas de esas mil familias y de los grandes pools de siembra”. Por eso, afirma que la protesta “no va contra los productores que trabajan día a día, que alquilan los campos con mucho esfuerzo”.
+
+Ibarra está convencido de la importancia de manifestarse contra las maniobras de los sectores concentrados del campo, aun cuando hayan tenido que cambiar el lugar original del encuentro: “En el
+Congreso hay legisladores votados por el pueblo para que planteen que primero están los sectores más desprotegidos de la sociedad. Creo que diputados y senadores tienen que poner de manifiesto la
+distribución igualitaria de la riqueza en la Argentina. Y para eso tienen que atacar a los sectores concentrados de la economía que hoy plantean una devaluación para incrementar sus ganancias".
+
+En una de las mesas, una referente de Barrios de pie escribe en un cuaderno. A su derecha, una compañera la imita. "Estamos haciendo la tarea", dice. Ambas militan en el partido de Escobar. Definen a
+la jornada de hoy como un “comedorazo”. Pero explican que la propuesta es aún más abarcativa: "Durante la pandemia muchos jóvenes de la organización salieron a reemplazar a maestros que no podían dar
+clase. Esta es una forma de mostrar todo el trabajo que se hizo y se sigue haciendo en los comedores, también desde la educación”.
+
+Cerca del mediodía llegan los oradores del acto. Luego de leer la Carta Abierta a la Sociedad Rural Argentina que días atrás publicara el movimiento, toman la palabra los referentes sociales. En
+representación del MTE, Nicolás Caropresi culpa a la “ambición inagotable de un grupo reducido de los gremios de la tierra” por los momentos difíciles que está atravesando el país. En ese grupo
+destaca a “los Etchevehere” y “los Macri”, y dice que los primeros le “robaron la herencia a su hermana, imagínense qué pueden hacer con la herencia y la necesidad de nuestro pueblo”. También afirma
+que “necesitamos un Gobierno fuerte que enfrente esos intereses” y sostiene: “es el momento de discutir un salario universal”.
+
+El secretario general de la UTEP, Esteban “Gringo” Castro se suma al reclamo de recomposición de los ingresos de los sectores populares. Sostiene que el salario básico universal “no desestabiliza al
+Gobierno”, sino que lo hacen los sectores que plantean una devaluación, con la que “si ahora no llegamos a fin de mes, no llegaríamos a vivir una semana”. Por eso pide “caracterizar bien a los
+enemigos”, que son aquellos que “quieren hambrear al pueblo”. El dirigente señala que “los sectores más poderosos de la Argentina han decidido ir por nosotros y nosotras. Desde que presentamos la Ley
+General de Tierra, Techo y Trabajo, no ha parado la persecución a dirigentes populares, y hasta se metieron en comedores y merenderos”. Sin embargo, dice que “no podemos ponernos en víctimas, nos
+atacan porque construimos poder”. Por su parte, Norma Morales, secretaria adjunta de la UTEP, se refiere a la persecución que denuncia Castro y sostiene que “no vamos a responder a las provocaciones”.
+
+El coordinador nacional de Somos Barrios de Pie, Daniel Menéndez, no participó del acto. En su lugar, decide brindar declaraciones a los diferentes medios que se acercan: “No hemos buscado los niveles
+de tensión que se generaron. Simplemente impugnamos la actitud desestabilizadora y especulativa que tienen los sectores concentrados del campo. Vemos con preocupación que no haya sido el mismo
+razonamiento del presidente de la SRA que se la pasó faltando el respeto a una dirigente como Cristina, que es la referente del principal espacio opositor, con una actitud antidemocrática, y no ha
+dicho una línea sobre la propuesta que hizo el Gobierno para que puedan liquidar con un 15 % más de rentabilidad”.
+
+El dirigente hace referencia a las declaraciones de Nicolás Pino, que aprovechó el discurso inaugural de la 134° Exposición Rural para enviar un mensaje al Gobierno actual y poner en advertencia a los
+futuros candidatos. “Estamos del lado opuesto a los autócratas y los dictadores”, sentenció en uno de los pasajes más filosos.
+
+“Nosotros vamos a estar en la calle, lo vamos a hacer con prudencia, pero yo les recomiendo que no tiren la cuerda”, advierte Menéndez. Y recuerda que “la Argentina no termina en los límites de su
+estancia”. Además, se muestra conforme con la designación de Sergio Massa, en lo que puede ser el relanzamiento de la coalición de gobierno: “El proceso de Sergio Massa al frente de la articulación
+económica de nuestro Gobierno tiene que servir para cohesionar al Frente de Todos y para llevar adelante medidas económicas firmes que equilibren la búsqueda de un punto de estabilidad macroeconómica
+con un proceso de recuperación del poder adquisitivo de los ingresos indispensable”.
+
+El “comedorazo” va llegando a su fin. Entre aplausos, circulan las primeras bandejas de guiso por las mesas, mientras que algunos prefieren hacer fila frente a las ollas, táper en mano. La barra de
+militantes casi no ha parado de arengar todo este tiempo. A los cantos clásicos del movimiento, hoy se sumaron las consignas que apuntan hacia el sector agropecuario: “¡Las manos arriba! ¡Las manos
+arriba! El campo guarda la soja, pero en los barrios falta comida”.
+
+Informe: Diego Castro Romero
+
+===== NOTA 8 de 31 =====
+medio: Página/12
+titulo: La canasta alimentaria tuvo un salto del 11 por ciento en los barrios populares 
+fecha: 2022-08-02 03:01:00
+autor: Laura Vales
+seccion: El País
+volanta_bajada: La suba del precio de los alimentos durante el mes de julio
+link: https://www.pagina12.com.ar/441745-la-canasta-alimentaria-tuvo-un-salto-del-11-por-ciento-en-lo
+marcas a codificar: M1677
+----- TEXTO -----
+En los barrios populares el precio de los alimentos subió un 11 por ciento durante el mes de julio. Así lo muestra el último informe del Isepci, la consultora que releva los comercios de proximidad en
+los que se abastecen los vecinos de las zonas urbanas de menores ingresos. Según su medición, la canasta de alimentos para una familia de dos adultos y dos chicos pasó a costar 50.411 pesos. Esta suba
+implica que en julio, un hogar tipo necesitó 5 mil pesos más de ingresos que en junio para no caer bajo la línea de indigencia.
+
+Los últimos datos oficiales sobre lo que ganan los trabajadores no asalariados indican que su ingreso medio es de 53.555 pesos (en marzo, de la Encuesta Permanente de Hogares).  Es decir que los que
+se ganan la vida por cuenta propia, sin un patrón, están peleando para no caer en la indigencia más que para salir de la pobreza (línea que está muy por encima de los ingresos medios de los no
+asalariados: para no ser pobre una familia de cuatro integrantes necesita 112 mil pesos, según esta misma medición de Isepci).
+
+¿A qué comercios corresponde este costo de la vida? A 900 negocios de cercanía ubicados en veinte distritos del conurbano bonaerense. El Isepci, que está vinculado al Movimiento Barrios de Pie -
+Libres del Sur, tiene una red de relevadoras de precios  que son integrantes de esa organización popular. El valor de esta medición ha sido reconocida por el Ministerio de Desarrollo Social, durante
+la gestión anterior a la actual.
+
+En lo que va del año, los productos de almacén que más subieron fueron el azúcar (116 por ciento), el pan (93 por ciento) y las galletitas (90 por ciento). En las carnes, aumentaron los precios de las
+de mayor consumo, como el pollo (84 por ciento en lo que va del año) y el espinazo (78 por ciento).
+
+A su vez, en los promedios mensuales  las verduras fueron el subconjunto con las alzas más altas, del 17 por ciento mensual, en segundo lugar se encarecieron un  14 por ciento los productos de almacén
+y un 3 por ciento la carne.
+
+Como se sabe, las organizaciones sociales vienen pidiendo un refuerzo en las políticas de ingresos del Gobierno destinadas a los trabajadores informales. La Unidad Piquetera reclama un bono de 20 mil
+pesos para paliar la inflación.
+
+Por su parte, los movimientos que se referencian en Juan Grabois, junto con La Poderosa y la CTA Autónoma, impulsan la creación de un salario básico universal equivalente a línea de indigencia por
+adulto equivalente (15 mil pesos).
+
+Tras la asunción de Sergio Massa como ministro de Economía, habrá que esperar qué definiciones van a tomarse para reforzar los ingresos de las familias de menores ingresos. En julio, antes de los
+cambios de Gabinete, el gobierno nacional otorgó a los trabajadores del Plan Potenciar un bono de 11 mil pesos, que era esperado porque en julio tradicionalmente el Estado paga a estos trabajadores un
+aguinaldo social.
+
+Uno de los interrogantes es si el proyecto de un ingreso complementario elaborado por la senadora Juliana Di Tullio encontrará eco con Sergio Massa como ministro de Economía, es decir si tendrá
+chances de salir mediante un decreto presidencial.  Por otro lado están las vías ya abiertas para recomponer los ingresos de los sectores más desprotegidos como refuerzos a través de la AUH o de la
+Tarjeta Alimentar.
+
+Esta semana todavía no hay previstas movilizaciones de las organizaciones sociales en reclamo al gobierno nacional. El paréntesis es lógico tras los cambios de Gabinete, ya que Massa hará sus primeros
+anuncios sobre el rumbo económico a mitad de la semana.
+
+La Unidad Piquetera va a hacer cortes este martes en la Ciudad de Buenos Aires, pero  con demandas a Horacio Rodríguez Larreta por la falta de viviendas y de urbanización en los barrios  populares.
+
+Por su parte, las organizaciones de la Unión de Trabajadores de la ⟦M1677⟧Economía Popular⟦/M1677⟧ está preparándose para realizar, el próximo domingo, la tradicional marcha de San Cayetano, desde
+Liniers a la Plaza de Mayo. Esta movilización va a reunir a toda la  UTEP, que tiene un sector albertista, liderado por el Movimiento Evita,  que en los últimos tres meses bajó la intensidad de sus
+protestas, como una forma de respaldar al Presidente en el último tramo de la gestión de Martín Guzmán. El otro sector de la UTEP, que sintoniza con Cristina Kirchner,  mantuvo en cambio actividades
+callejeras semanales, con un plan de lucha por el salario universal. San Cayetano los reunirá sobre un mismo escenario, frente a una crisis agudizada por la disparada de la inflación.
+
+En diálogo con AM750 el director de Isepci, Isaac Yuyo Rudnik, señaló que “durante julio, en general, los productos que más aumentaron son los que siguieron la tendencia de los últimos meses”. Estos
+son los derivados de las harinas, de la azúcar, los dulces, las mermeladas, los aceites. “Todos los productos tuvieron el impacto de los precios internacionales, principalmente a partir de febrero,
+cuando se desató la guerra en Ucrania”, explicó.
+
+“Hay un arrastre de los productos que tienen una influencia directa en la problemática de la guerra sobre todos los alimentos. Esto pasa a nivel global. Pero en Argentina hay una problemática especial
+respecto a cómo impactan estos productos, porque tenemos una coincidencia calcada entre los principales productos de la canasta de exportación con esos que son los principales de la canasta de
+alimentos. Ahí hay un mecanismo de transmisión de precios casi mecánica”, añadió el especialista.
+
+Y concluyó: “El aumento de los alimentos es lo que, obviamente, más preocupa a las familias de menores ingresos. En las últimas dos semanas hubo una situación de inestabilidad que produjo una
+expectativa de devaluación y esto aumentó la expectativa de impacto sobre los precios internos”.
+
+===== NOTA 9 de 31 =====
+medio: Página/12
+titulo: Gustavo Béliz, además de político también es peregrino
+fecha: 2022-08-03 03:01:00
+autor: 
+seccion: El País
+volanta_bajada: El exfuncionario se mostró en la misa de la Básilica de Luján junto a los movimientos sociales alineados con el Gobierno 
+link: https://www.pagina12.com.ar/442173-gustavo-beliz-ademas-de-politico-tambien-es-peregrino
+marcas a codificar: M1678
+----- TEXTO -----
+Hace apenas cinco días Gustavo Béliz renunciaba a la secretaría de Asuntos Estratégicos del Gobierno nacional, el área que el presidente Alberto Fernández creo para su amigo político maneje las
+relaciones con los organismos internacionales, bilaterales y multilaterales de crédito. Sin éxitos para exhibir sobre sus ambiciosos proyectos, Béliz redactó su renuncia sin agradecimientos y con una
+cita religiosa para quienes en la coalición decidieron que su etapa en la gestión estaba terminada: “Dios los guarde”.  No es la primera vez que el miembro de Opus Dei ata su desempeño político al
+pensamiento religioso. Ayer, el exfuncionario volvió a mostrarse en la Basílica de Luján, junto a los movimientos sociales alineados con el Gobierno –conocidos como “Los Cayetanos”— que arrancarán
+desde allí su peregrinación hasta el centro porteño para celebrar al patrono del trabajo bajo la consigna enarbolada por el Papa Francisco de “Paz, Pan, Tierra, Techo y Trabajo”.
+
+Béliz llegó a Luján junto a su hijo, en zapatillas y cargando una mochila. Participó de la misa junto a dirigentes sociales para pedir contra la pobreza y la inflación que jaquea al Gobierno. “Gustavo
+es un hermano de la fe”, dijeron sobre la presencia del exfuncionario cerca de Esteban “El Gringo” Castro, el secretario general de La Unión Trabajadores de la ⟦M1678⟧Economía Popular⟦/M1678⟧ (UTEP),
+el gremio que forjaron Los Cayetanos (el Movimiento Evita, Somos Barrios de Pie y la Corriente Clasista y Combativa) junto a otros movimientos territoriales que adhirieron al Frente de Todos.
+
+En su condición de “peregrino” y sin tarea de gestión que desempeñar, Béliz acompañaría la peregrinación que demandará cinco días desde Luján al centro porteño, con componentes religiosos y políticos.
+Tras la misa en la Basílica, los peregrinos caminaron hasta la ermita del Negro Manuel, una pequeña capilla que venera al esclavo africano considerado el “cuidador inseparable de la Virgen de Luján”.
+Mañana, la peregrinación continuará hasta la Iglesia San Martín de Tour, de General Rodríguez, donde pasarán la noche. El jueves llegará a Moreno –el municipio que gobierna la referente del Movimiento
+Evita, Mariel Fernández--; y el viernes harán un alto en Castelar y caminarán hasta Liniers, donde descansarán en el sindicato de Ladrilleros.
+
+El domingo 7 (el día del Patrono del Pan y del Trabajo), los movimientos sociales se plegarán a los peregrinos en la Iglesia de San Cayetano, donde emprenderán la última etapa de 20 kilómetros hasta
+el centro porteño, en el cruce de las avenidas De Mayo y 9 de Julio, y que podría extenderse hasta Plaza de Mayo. Los organizadores estiman que reunirían a medio millón de personas, para reclamar una
+mayor y mejor distribución de la inversión del Estado en políticas sociales y otras demandas como la baja en inflación.
+
+Una extensa caminata y una multitud empobrecida, que ayudará a reflexionar a Béliz sobre su opaca gestión en el Gobierno nacional, al que llegó para diseñar políticas de consenso y largo plazo para el
+país. Aunque unos de sus anhelos centrales –y tal vez plegarias--  estaba puesto en llagar a ocupar la presidencia del Banco Interamericano de Desarrollo en representación de Argentina. Con ese
+objetivo y juego propio, se alineó con los deseos del Departamento de Estado de Estados Unidos y pisaba los expedientes de créditos negociados con China, que bloquearon el desarrollo de la central
+eléctrica de Atucha III y la represa hidroeléctrica Néstor Kirchner.
+
+Pero el expresidente Donald Trump, impuso como despedida de su mandato al estadounidense Mauricio Claver Carone al frente del BID y frustró los deseos de Béliz. Como coletazo de la disputa por ese
+sillón, Claver Carone pisó el crédito de 500 millones de dólares que esa entidad multilateral había concedido con anterioridad en medio de la sequía de divisas del Banco Central.
+
+Unos de sus últimos actos de gestión, Béliz recurrió al representante chino en el BID para que interceda por la liberación de ese crédito, pero ya era tarde: sus días en el Gobierno ya estaban
+contados. Ahora, el exfuncionario de Carlos Menem, Néstor Kirchner y Alberto Fernández retoma su peregrinar religioso y político desde el llano.
+
+===== NOTA 10 de 31 =====
+medio: Página/12
+titulo: Feriazo de pequeñxs productores 
+fecha: 2022-08-03 04:42:02
+autor: 
+seccion: Salta|12
+volanta_bajada: En reclamo por legislación que lxs ampare 
+link: https://www.pagina12.com.ar/442187-feriazo-de-pequenxs-productores
+marcas a codificar: M1679
+----- TEXTO -----
+Pequeñxs productorxs rurales nucleados en la rama agraria de la UTEP (Unión de Trabajadores de la ⟦M1679⟧Economía Popular⟦/M1679⟧) realizarán feriazos este miércoles 3 de agosto en distintos puntos de
+la provincia de Salta en el marco de un reclamo nacional por el tratamiento de la Ley de Acceso a la Tierra, la reglamentación definitiva de la Ley 27.118 de Reparación Histórica de la Agricultura
+Familiar y para que se avance con el proyecto de Fomento a la Agroecología. En Buenos Aires también habrá una manifestación frente al Congreso Nacional.
+
+En el contexto de la emergencia económico social, lxs pequeñxs productores reclaman leyes y medidas urgentes. Señalan la problemática de la dolarización de insumos, el aumento del precio de los
+alquileres así como de la tierra, y la contracción de la demanda de la producción que genera pérdidas y la dificultad para sostener los ciclos productivos.
+
+Este miércoles en Salta los feriazos tendrán lugar en las localidades de Colonia Santa Rosa, Apolinario Saravia, General Güemes, Campo Santo y Rosario de Lerma.
+
+“Nosotros no cortamos rutas, hacemos marchas pasivas. Queremos visibilizar lo que hacemos. Nosotros desde el Movimiento de Trabajadores Excluidos (MTE) vamos a salir de forma masiva si es posible, el
+100 por ciento de toda la base. Primero haremos un recorrido de la plaza principal y marcharemos hacia la salida de Colonia Santa Rosa”, explicó a Salta/12 la pequeña productora de aquella localidad,
+Carmen Bonilla.
+
+La concentración está prevista en Colonia Santa Rosa desde  las 8 en la plaza principal para luego dirigirse a una plazoleta que está a la salida del pueblo, donde se desarrollará el feriazo en el que
+venderán a mitad de precio la verdura que producen.
+
+En el MTE de Colonia Santa Rosa hay 109 pequeños productores  nucleados en esa organización. “Nosotros producimos tomate, tomate cherry, berenjena, zapallito, zucchini, pepino, chaucha, choclo”,
+detalló Bonilla.
+
+Sobre la situación de lxs pequeñxs productores, Bonilla señaló que les está afectando la suba en el precio de los insumos “para sembrar, mantener la planta, sacar la producción, el abono. Este año nos
+tocó una peste que nos hizo perder todo. Los remedios para eso son bastante caros, $34.000 un litro. No alcanza”.  La agricultora detalló por otro lado que perciben montos miserables por lo que
+producen. Por ejemplo, indicó  que por un cajón de tomates les pagan $500.
+
+“Ahora, como siempre, te pagan un precio y allá (en los centros urbanos) vale otro, por el transporte, el recorrido que tiene. Este año los precios están por el piso. Un cajón de tomate cuesta $500,
+no hacés nada. Si ocupás cosechero te cobra $50 por caja para cosecha, un embalador $50, te quedan $400, con eso no cubrís el trabajo que venís haciendo desde marzo, y los gastos que se generaron, por
+lo menos tendría que valer $2.500 para recuperar algo”, explicó Bonilla. Añadió lo que recaudan con sus ventas apenas alcanza para cubrir los insumos y la subsistencia diaria.
+
+“Pese al esfuerzo que ponemos, las cosas que hacemos, este año con la situación económica, no sé si alcanzamos a cubrir todas las deudas”, dijo además Bonilla. Contó que en su caso debe las semillas
+que usó para su producción a una agroquímica que se las cobrará con aumento acorde a la suba del dólar.
+
+La pequeña productora indicó que además no son propietarios de la tierra que producen, sino que la alquilan de forma anual. En Colonia pagan entre $150.000 o $200.000 el alquiler de la tierra, monto
+que calificó de “mucho”. Algunas familias trabajan desde una hectárea a tres hectáreas. Bonilla dijo que por eso es urgente que se trate la ley de acceso a la tierra.  “No queremos que nos regalen la
+tierra, sino que con el tiempo en vez de pagar un alquiler, podamos ir pagando la tierra para que sea nuestra. No queremos estar toda la vida pagando un alquiler”, manifestó.
+
+Según lo señalado por el MTE en un comunicado, la Ley de Acceso a la Tierra y protección de los cinturones verdes y zonas estratégicas de producción lleva varios años esperando su tratamiento en los
+despachos del Congreso. Esta legislación prevé que lxs agricultorxs que carezcan de tierra propia, puedan adquirir inmuebles rurales a través de créditos blandos destinados a tal fin, y de esa manera
+terminar con el abuso inmobiliario y la especulación. A la vez promueve el reordenamiento del uso de tierras fiscales, y protege los cinturones verdes periurbanos, valles y oasis productivos, del
+avance indiscriminado de actividades que dañan los servicios eco sistémicos.
+
+Otro reclamo es por la reglamentación de la Ley 27.118 de “Reparación Histórica de la Agricultura Familiar para la Construcción de Una Nueva Ruralidad”. Entre sus facultades crea un Programa Nacional
+de formalización, valor agregado y comercialización para la agricultura familiar, campesina e indígena, con la finalidad prioritaria de incrementar la productividad, seguridad y soberanía alimentaria,
+así como de valorizar y proteger al sujeto esencial de un sistema productivo ligado a la radicación de la familia en el ámbito rural.
+
+Mientras que el proyecto de Ley de fomento de la Agroecología, presentado en 2021, comprende la promoción y el fortalecimiento de políticas, programas, proyectos y acciones que den un mayor impulso al
+desarrollo de sistemas de producción. Busca estimular y promover la adopción de buenas prácticas para la producción agroecológica a nivel municipal, provincial y nacional.
+
+Bonilla contó que en el caso de lxs pequeñxs productorxs de Colonia Santa Rosa, lo que producen es con uso de agroquímicos, aunque esperan poder cambiar esa forma de producir por otra agroecológica.
+
+===== NOTA 11 de 31 =====
+medio: Página/12
+titulo: Sergio Massa en el centro de la escena, con un paquete bajo el brazo
+fecha: 2022-08-04 03:01:00
+autor: Mario Wainfeld
+seccion: El País
+volanta_bajada: Las designaciones, la jura y las primeras medidas 
+link: https://www.pagina12.com.ar/446668-sergio-massa-en-el-centro-de-la-escena-con-un-paquete-bajo-e
+marcas a codificar: M1680
+----- TEXTO -----
+Esta columna repasa a modo de racconto escenas y sucedidos de los últimos días. Empecemos por el último acto de ayer: la presentación del ministro de Economía, Sergio Massa, del primer paquete de
+medidas. Massa leyó con suficiencia un discurso del que no se apartó nunca. Contestó con calma las preguntas de periodistas. Negó ser un superministro, ninguneó la metáfora de la bala de plata. Pero
+se mostró (o se ostentó) como un decisionista, muy bien informado. Como un funcionario activo que ya celebró sigilosamente reuniones con las corporaciones empresarias y, según asevera, con resultados
+contantes y sonantes en dólares. Como el nuevo jefe de una administración renovada (autocriticada) que controlará despilfarros en la asignación de gastos públicos y abusos del sector privado
+(subfacturaciones y sobrefacturaciones amañadas). Escatimó hasta la avaricia el sentido del humor que prodigaba en Diputados.
+
+Las medidas son analizadas por los colegas especializados de Economía en esta misma edición. Para calibrarlas será también necesario escuchar los debates que suscitarán.
+
+La prioridad es recuperar reservas. Los peligros de una corrida persisten, la idea central es reforzar las arcas del Banco Central como ancla para el conjunto de la economía. La contradicción
+principal, parafraseando al olvidado compañero Mao. Massa negó de modo tajante y fundado la perspectiva de una devaluación decidida por el Estado.
+
+A primera vista de un profano reluce el recorte de recursos del sector público en Nación y provincias. Confirmación en sustancia de la aparición inicial de su antecesora Silvina Batakis. Más detallada
+y fortalecida por los gestos de autoridad.
+
+Levantará polémicas y reproches, quizás incluso internos, el cierre de la inscripción para pedir segmentación de subsidios. No habrá período de gracia para nuevos beneficiarios, algo que se
+consideraba posible. Además, se impondrán topes al consumo subsidiado de los beneficiarios. Massa le puso cifras al máximo que podrán usar. Ya se escuchan voces críticas.
+
+Se anunció un refuerzo adicional para los jubilados, una acción reparadora. La cantidad se dará a conocer la semana que viene, lo que impide justipreciarla.
+
+El potencial incremento general de salarios para trabajadores del sector privado queda supeditado a reuniones de las centrales obreras y patronales. Hasta ahora, ha sido un método que no dio
+resultados.
+
+No se nombró ninguna acción de corto plazo para los trabajadores de la ⟦M1680⟧economía popular⟦/M1680⟧ o los inscriptos en el plan Potenciar Trabajo.
+
+Para valerse de otra expresión en boga, Massa se mostró en control. Su oferta básica es reforzar las reservas en divisas y garantizar que no se reperfilará la deuda pública en pesos. La solvencia
+primero, en yunta con el cumplimiento de las metas pactadas con el Fondo Monetario Internacional (FMI).
+
+***
+
+Seguimos con el racconto, un par de horas antes.
+
+El Salón Blanco de la Casa Rosada viene quedando chico para las juras convocantes desde hace rato.  Massa quiso una ceremonia “a mi manera”, con tribuna colmada. De cajón, tocaba el Museo de
+Bicentenario.
+
+El Presidente pronunció pocas palabras antes de leer la fórmula del juramento. Lucía emocionado. Le agradeció a les ex ministres Silvina Batakis y Daniel Scioli. El ex secretario Gustavo Beliz no
+mereció mención: entró en el pasado. Massa juró en voz bien alta. Firmaron ambos, luego el escribano rubricó, dando fe como cuadra. El notario se quedó con la lapicera en sentido literal. Massa la
+esgrime en el sentido figurado que Cristina puso de moda: goza de una cuota contundente de poder.
+
+Fernández subrayó el “coraje” del flamante ministro. En efecto, Massa se juega una parada brava. Arriesga mucho, es intrépido. El Presidente se retiró por un costado, Massa quedó en el centro del
+Museo, repartiendo y recibiendo abrazos y besos. La escena quedó fotografiada, será tendencia en memes y en redes.
+
+**
+
+La vicepresidenta Cristina Fernández de Kirchner no estuvo, era clavado. En una cultura política signada por las imágenes y las “señales”, una foto entrambos protagonistas bastó para patentizar el
+aval, sin cláusulas conocidas ni detalles.
+
+Moria Casán imantó cámaras con presencia, carisma, barbijo celeste y blanco. La visibilidad y cierta euforia del exministro y actual empresario José Luis Manzano motivará comentarios durante días.
+
+Los nombramientos que Massa informó en cuotas no sorprendieron, no hay figuras descollantes. Quienes lo acompañaron en el Frente Renovador (FR) durante momentos dichosos o de declive ocuparon varias
+plazas: es de manual. La designación de Daniel Marx robó cámara; concitó las mayores y merecidas críticas internas por motivos rejunados.
+
+**
+
+El dólar blue bajó su cotización de entrada, volvió a subirla. El Banco Central debió vender una cifra importante de reservas. Alerta, desmentida, para voluntaristas que supusieron que el “mensaje
+político de unidad” encuadraba a los mercados. La amenaza de corrida está latente, no muerta. Sería instructivo saber cuántos empresarios que aplaudían ayer son especuladores que siguen buscando la
+devaluación. Sin confesiones de parte ni otras pruebas, a puro costumbrismo, el cronista intuye: no serían tantos, imposible que no hubiera ninguno. Unos pocos, con capacidad de daño... lo que se sabe
+desde siempre.
+
+**
+
+Cristina y Alberto, por necesidad y urgencia, volvieron a conversar tras la dañina renuncia de Martín Guzmán. Ambos y Massa reformularon el diseño del FdT y del Gobierno. Massa da un paso al frente.
+De la diarquía sin precedentes se deriva a otro diseño inédito: un ministro con amplias potestades que se mueven en subibaja con el caudal imaginario del Presidente. Fernández es el único titular del
+Ejecutivo según la Constitución escrita. En los hechos, el reparto es diferente.
+
+El Gobierno necesitaba reorganizar su organigrama, poner coto al tabicamiento de reparticiones, promover un liderazgo que dejara atrás “el vacío de poder”. Dichos pasos se han cumplido. La
+reorganización política era imprescindible.
+
+**
+
+El ministro dejó claro que habrá nuevas medidas y rehusó anticipar algo al respecto. Se cuidó, hizo bien.
+
+Puesto a imaginar un escenario, sin fuentes oficiales pues, este cronista cree que las movidas iniciáticas persiguen fondear al Banco Central y reducir la brecha cambiaria en un plazo breve. Y con la
+economía más calmada, lanzar algo parecido a un plan de estabilización con un acuerdo de precios y salarios. La falta de anuncios específicos sobre acciones referidas a la inflación sustenta la
+hipótesis que, se ratifica, solo es eso.
+
+Estas historias continuarán.
+
+mwainfeld@pagina12.com.ar
+
+===== NOTA 12 de 31 =====
+medio: Página/12
+titulo: Radios comunitarias: una especie en peligro de extinción
+fecha: 2022-08-04 03:01:00
+autor: Marianela Morzán y Gretel Scheneider*
+seccion: Universidad
+volanta_bajada: OPINIÓN
+link: https://www.pagina12.com.ar/446557-radios-comunitarias-una-especie-en-peligro-de-extincion
+marcas a codificar: M1681
+----- TEXTO -----
+Una antena, un transmisor, un micrófono y alguien que locute, elementos básicos para hacer radio. Las radios comunitarias y populares para transmitir, además, cuentan con una estructura que las
+sostiene: un grupo de vecinas y vecinos de un barrio, un paraje rural, una asociación civil o un movimiento social; personas que se dedican a algo más que su propia subsistencia: priorizar y
+fortalecer la parte comunitaria de la vida social y con esto, su ejercicio ciudadano a través de la comunicación.
+
+Estos medios tuvieron mayor reconocimiento a partir de la Ley Nacional 26.522 de Servicios de Comunicación Audiovisual, en 2009. Una ley que define a la comunicación como un derecho. Las radios
+comunitarias constituyen un eslabón fundamental del sistema democrático: suponen el ejercicio del derecho a la comunicación de sectores alejados del poder. Hablan de ⟦M1681⟧economía popular⟦/M1681⟧,
+soberanía alimentaria, atención en salud, acceso a derechos y programas sociales. También, de eso que habitamos pero que muy pocos pronuncian: la desigualdad. Durante los meses de aislamiento social
+en pandemia, las radios se sumaron a una red de contención que sólo las organizaciones barriales y los movimientos sociales aportaron entre tanta incertidumbre.
+
+Según el Relevamiento de radios y televisoras comunitarias, populares, alternativas, cooperativas y de pueblos originarios de Argentina (2018-2019), en el país trasmiten unas 250 radios sin fines de
+lucro transmiten, con un alto reconocimiento de las comunidades. Sin embargo las energías de sus participantes están invertidas en los problemas cotidianos: interferencias de otras radios,
+interrupciones temporales, imposibilidad de pagar los servicios o el alquiler o de sostenerse con trabajo voluntario.
+
+Que sean “radios sin fines de lucro” no quiere decir que puedan funcionar sin presupuesto. Estos medios afrontan una dificultad histórica: no acceden a la pauta oficial, injustamente distribuida. Los
+grandes medios argentinos y las plataformas internacionales se llevan casi toda la torta publicitaria, principalmente en Buenos Aires y CABA. Sólo el 2 por ciento del presupuesto asignado a la
+radiofonía FM llega a las radios comunitarias. Por eso, su principal fuente de financiamiento es la publicidad municipal, el canje y la creatividad (socios, mate bingos y ventas varias).
+
+Desde el Área de Comunicación Comunitaria de la Facultad de Ciencias de la Educación de la Universidad Nacional de Entre Ríos (UNER) hace 18 años compartimos espacios de trabajo con radios
+comunitarias. Actualmente desarrollamos un Proyecto de Desarrollo Tecnológico y Social (PDTS) “Radios comunitarias entrerrianas: estudio e intervención para la sustentabilidad” y dictamos una
+Diplomatura en Comunicación Comunitaria en Radios a participantes de todo el país. Apuntamos a fortalecer el sector a través de la formación técnica profesional, el acompañamiento en la organización,
+el aporte de contenidos y la socialización de saberes.
+
+Consideramos que son necesarias más políticas que promuevan a estos medios. Es imperiosa la definición de procedimientos transparentes y sencillos para el acceso a la publicidad oficial y de un cupo
+para los medios sin fines de lucro, así como porcentajes por provincia, que garanticen la federalización. Cuando los laberintos sin salida de los medios hegemónicos no nos dan respiro, las radios
+comunitarias aportan oxígeno, son esa ventilación cruzada que renueva el aire y nos pone en otra sintonía. La responsabilidad es nuestra, de escuchar, participar y promover las voces que vienen de más
+cerquita y tienen tanto para contar sobre lo que somos y lo que nos pasa.
+
+*Licenciadas en Comunicación Social y docentes integrantes del Área de Comunicación Comunitaria de la Facultad de Ciencias de la Educación de la Universidad Nacional de Entre Ríos (UNER).
+
+===== NOTA 13 de 31 =====
+medio: Página/12
+titulo: Reclaman leyes para "el campo que produce alimentos"
+fecha: 2022-08-04 08:01:10
+autor: 
+seccion: Catamarca | 12
+volanta_bajada: Reclamo de trabajadores rurales de la agricultura familiar, comunitaria e indígena
+link: https://www.pagina12.com.ar/446673-reclaman-leyes-para-el-campo-que-produce-alimentos
+marcas a codificar: M1682, M1683
+----- TEXTO -----
+Los productores rurales nucleados en la rama Agraria de la UTEP (Unión de Trabajadores de la ⟦M1682⟧Economía Popular⟦/M1682⟧) se movilizaron hasta el Congreso de la Nación para exigir el tratamiento
+de leyes en beneficio del sector de la agricultura familiar, comunitaria e indígena. A nivel federal, se llevaron a cabo diferentes acciones en todas las provincias.
+
+En Catamarca, la convocatoria fue en la esquina de la Escuela de Artesanías, ubicada en la Manzana de las Artes (ex hospital San Juan Bautista).
+
+El actual reclamo se basa en el pedido de medidas urgentes para paliar la actual crisis generada por la emergencia económica y social que atraviesa el país y que golpea fuertemente a las familias
+productoras agropecuarias, que tienen un rol central en la producción de los alimentos que se consumen a nivel nacional.
+
+Jeremías Mensa, del Movimiento de Trabajadores Excluidos (MTE) rama rural local (Catamarca), en diálogo con Catamarca12 manifestó que en la provincia hay “alrededor de 8.000 unidades productivas
+agropecuarias, de las cuales cerca de 7.300 cuentan con el 7% de la tierra y el resto tiene todo el porcentaje restante. Familias ligadas a la ruralidad hay muchísimas más, pero no están censadas por
+la informalidad en la que trabajan”.
+
+Mensa expresó que la actual medida busca iniciar “el diálogo de apertura de derechos que haga que esa brecha de concentración de tierras y capitales sea más justa. Nuestro objetivo es visibilizar que
+la producción de alimentos para la mesa de los argentinos es fruto del trabajo de miles de pequeños productores y no de los que producen monocultivos con sistemas convencionales, donde se producen
+kilos, pero no alimento. Justamente es ese sector que produce alimentos el que sufre la carencia de tierras, los alquileres insostenibles y la dolarización de los insumos para la producción cuando la
+venta es en pesos”.
+
+María Barrionuevo, representante en Catamarca de la organización Nuestramérica Rural, agregó que “existen alrededor de 6.000 familias de trabajadores rurales en negro en nuestra provincia. Hay más de
+8.000 trabajando en emprendimientos rurales, pero los números en negro aumentan día a día. Las personas que viven y producen ganado caprino son los sectores más postergados, principalmente en las
+regiones de salinas”.
+
+El sector destaca que a pesar de que Argentina es el octavo país con mayor superficie del mundo, la tierra se encuentra concentrada en unas pocas manos: el 1% de las explotaciones controla el 36% de
+la tierra, casi el 40% del territorio nacional es propiedad de 1.200 terratenientes y un 40% de los habitantes del país no tiene acceso a tierras o vivienda propia (este último dato, con un marcado
+sesgo de género, ya que el 78% de las explotaciones están manejadas por hombres y apenas un 20% son controladas por mujeres), de acuerdo a información del Censo Nacional Agropecuario de 2018 del INDEC
+y el Registro de Tierras Rurales de la Nación.
+
+A nivel nacional, la movilización estuvo coordinada por el MTE Rural y la Unión de Trabajadores y Trabajadoras de la ⟦M1683⟧Economía Popular⟦/M1683⟧ (UTEP). En la provincia, las organizaciones que
+formaron parte fueron MTE Rural Catamarca, Nuestramérica Rural, Mujeres Rurales, Evita y productores autoconvocados, cuyos delegados de distintos puntos del interior participaron de la concentración
+en la Capital, donde realizaron una asamblea pública con feria de la agricultura familiar.
+
+Los referentes manifestaron que lo que los moviliza es “ver cómo cada año van desapareciendo pequeños productores. Nos moviliza ver la falta de alimentos en la mesa del país y el sector de la
+agricultura familiar siempre postergado en cuanto a financiamiento y políticas públicas que lo beneficien”.
+
+Barrionuevo agregó que “el hecho de andar en los territorios rurales, conocer de cerca las problemáticas y las desigualdades que padecen el campesinado y las comunidades originarias de la provincia y
+del país ha sido lo que nos impulsó a unir los criterios, las experiencia y las metodologías con las que debemos trabajar de ahora en adelante si queremos realmente generar un cambio radical. No es
+posible que habitando en un estado plurinacional todavía estemos viviendo endeudados, sin tierra, sin agua y sin techo, porque trabajo tenemos, solo que no es reconocido como tal”.
+
+Tanto a nivel provincial como nacional, el reclamo se basa en la exigencia de políticas públicas para la agricultura familiar, lo cual gira en torno al tratamiento de tres ejes principales: la Ley de
+Acceso a la Tierra, protección de cinturones verdes y zonas estratégicas de producción; reglamentación de la Ley de Reparación Histórica de la Agricultura Familiar y la Ley de Fomento a la
+Agroecología.
+
+===== NOTA 14 de 31 =====
+medio: Página/12
+titulo: Leonardo Grosso auguró un "relanzamiento" del Gobierno" ante la llegada de Sergio Massa
+fecha: 2022-08-04 19:34:14
+autor: 
+seccion: LA750 
+volanta_bajada: "Era muy necesario en medio de esta crisis", aseguró el diputado
+link: https://www.pagina12.com.ar/446856-leonardo-grosso-auguro-un-relanzamiento-del-gobierno-ante-la
+marcas a codificar: M1684
+----- TEXTO -----
+El diputado nacional Leonardo Grosso expresó que la designación de Sergio Massa al frente del ministerio de Economía se dio en medio de "una crisis política" y que espera que el expresidente de la
+Cámara de Diputados pueda "reordenar" el espacio del Frente de Todos.
+
+En diálogo con AM750, el dirigente del Movimiento Evita se mostró expectante por el cambio en el Gabinete: "Esperemos que sea un relanzamiento del Gobierno, que era muy necesario en el nivel de crisis
+económica y política que veníamos llevando".
+
+Unsupported embed [https://mdstrm.com/embed/62ec012eb228c50831f4e660]
+
+En el mismo sentido, insistió con la importancia de la decisión del Presidente "de incorporar a un hombre de la talla política de (Sergio) Massa". "A Sergio lo pone Alberto (Fernández). Me parece que
+hay que dejar de hacer especulaciones y esperar a que esto funcione en términos políticos para que este nuevo orden permita un estado más eficiente", remarcó.
+
+Por otro lado, apuntó contra los sectores económicos concentrados e indicó que "es importante que quienes hacen de la puja distributiva el aumento constante de los precios se hagan cargo y dejen de
+hacer chistes en encuentros empresarios y se pongan a trabajar para colaborar con esta situación tan especial que vive la Argentina".
+
+"Necesitamos una clase empresaria comprometida con los destinos del país, no solo con sus ganancias, y para eso hay que reducir los márgenes de ganancias, que fueron extraordinarios no solo durante la
+pandemia sino también en este momento de guerra entre Rusia y Ucrania", sentenció.
+
+Y agregó: "Lo que tienen que entender estos sectores es que el destino de sus empresas también está ligado al destino del mercado interno".
+
+Por último, Grosso se manifestó sobre la posible salida del Frente Patria Grande de la coalición del Frente de Todos y expuso que "entiende el planteo" de Juan Grabois y sus compañeros y compañeras.
+
+"Lo entiendo, y tengo una sensación parecida en términos de que faltan medidas para el sector  popular", dijo. "Me parece que falta escuchar un poquito más a las organizaciones populares, a los
+movimientos populares que tenemos expertise en esto, que venimos trabajando hace un montón y que venimos diciendo algunas cosas", argumentó.
+
+Y ejemplificó: "Nos gustaría que se discutiera el monotributo productivo (que nos permitiría registrar a los trabajadores de la ⟦M1684⟧economía popular⟦/M1684⟧), el Salario Básico Universal y la
+prórroga de la prohibición de los desalojos a las comunidades campesinas indígenas, porque ahí se producen muchos de los alimentos que consumimos en la ciudad", explicó.
+
+"Tenemos un montón de propuestas que queremos que se discutan en el Parlamento y que nos gustaría que sean más tomadas en cuenta", concluyó.
+
+===== NOTA 15 de 31 =====
+medio: Página/12
+titulo: "Sin un ingreso para los que menos tienen sería condenar al FdT a una derrota”
+fecha: 2022-08-05 03:01:00
+autor: Laura Vales
+seccion: El País
+volanta_bajada: La diputada Natalia Zaracho de Patria Grande y los anuncios de Massa
+link: https://www.pagina12.com.ar/446853-sin-un-ingreso-para-los-que-menos-tienen-seria-condenar-al-f
+marcas a codificar: M1685
+----- TEXTO -----
+Natalia Zaracho es diputada del Frente Patria Grande, que debate si dejar el bloque del Frente de Todos por los anuncios que hizo el ministro de Economía, Sergio Massa, luego de asumir. Cartonera y
+militante social, tiene su casa en Villa Fiorito. “Vivo en un barrio popular, mis hijos van a una escuela pública, usamos el sistema de salud público, sé cuál es el termómetro de los barrios”, dice al
+explicar las razones por las que cree que no crear un ingreso para los que menos tienen “sería condenar al Frente de Todos a una derrota en el 2023”. Lo plantea, además, como una urgencia, algo que no
+puede esperar. En diálogo con Página/12, Zaracho habló de la eventual salida de los diputados y legisladores de Patria Grande del bloque oficialista.
+
+-¿Qué opina de los anuncios de Massa?
+
+-Nos dejaron un gusto amargo. No podemos pensar siempre en hacer gestos al mercado y a los que concentran el poder; un gobierno debe pensar también en los que ponen el cuerpo, en los que siempre
+tienen que esperar. Y esto no es una definición del Frente Patria Grande que cuida sus intereses sino que es una discusión que viene dando la política. Cristina lo dijo muy bien en el 2020, en Vélez:
+tenemos que rediscutir que la recuperación de la economía no se la lleven cinco vivos.
+
+-Tu Frente hizo saber que hasta último momento de los anuncios de Massa intentó que se incluyera alguna medida para reforzar los ingresos de quienes están en la indigencia. ¿Cómo fueron esas
+conversaciones?
+
+-Es así, estuvimos hasta último momento hablando con todos los espacios, con todos los dirigentes, porque creemos que hay que darle mensajes a la sociedad, no sólo a los que especulan, a los que
+concentran el poder y desestabilizan. No estamos cumpliendo con el sector que nos votó. Tenemos que mirar ese termómetro, no solamente el termómetro de las corporaciones.
+
+-¿Por qué creen que el momento de pensar en irse es ahora?
+
+-Planteamos una salida y sentimos que no somos escuchados. Venimos hablando hace mucho tiempo de la necesidad de un salario básico universal, que no es para la ⟦M1685⟧economía popular⟦/M1685⟧
+organizada, sino para los últimos de los últimos.  En Argentina hay 9 millones de personas sin ingresos fijos, a los que las políticas de asistencia del Estado no les llegan por ningún lado. Por eso
+tenemos que rediscutir, pensar que esta frase que dice que es con todos adentro se haga real.
+
+-¿Cuándo hacen el Congreso?
+
+-En diez o quince días.
+
+-¿Creen que pueden generar esos cambios de fondo que reclaman si están fuera del Frente de Todos?
+
+-No queremos irnos; lo que estamos planteando es que no podemos seguir como estamos. Yo tengo un compromiso con el sector que represento; no me puedo ir del gobierno con más de la mitad de los pibes
+por debajo de la línea de pobreza, sin haber hecho nada, sin generar una política para esos sectores. Los dirigentes sociales creen que contienen el problema social, y es una mentira: el problema
+social que tenemos en algún momento va a explotar. Decir esto no es incentivar a que eso pase, a mí no me gustaría que pasara, son mis parientes, son mis vecinos los que están en esa situación. No es
+que nosotros nos estemos comiendo la curva, que no seamos conscientes de la situación: vemos la situación y queremos que al gobierno le vaya bien.
+
+===== NOTA 16 de 31 =====
+medio: Página/12
+titulo: Esteban "Gringo" Castro: "Se instaló la idea de que nuestros compañeros no trabajan y yo los veo laburando todo el día"
+fecha: 2022-08-05 21:58:53
+autor: 
+seccion: LA750 
+volanta_bajada: Este domingo las organizaciones sociales se movilizarán por San Cayetano bajo la consigna “sin poder popular no hay justicia social"
+link: https://www.pagina12.com.ar/447220-esteban-gringo-castro-se-instalo-la-idea-de-que-nuestros-com
+marcas a codificar: M1686, M1687, M1688
+----- TEXTO -----
+El dirigente de la UTEP Esteban "Gringo" Castro se refirió a los anuncios que realizó este miércoles el nuevo ministro de Economía, Sergio Massa, en particular a la "auditoría" de los planes sociales
+que planteó el referente del Frente Renovador: "Se instaló la idea de que nuestros compañeros no trabajan y yo los veo laburando todo el día", señaló en AM750.
+
+Unsupported embed [https://mdstrm.com/embed/62ed7329a141440838f3400f]
+
+Las organizaciones sociales y movimientos populares manifestaron esta semana su disconformidad con la ausencia de anuncios del flamante "superministro" hacia los sectores nucleados en la
+⟦M1686⟧economía popular⟦/M1686⟧.
+
+"Sinceramente, no tengo problemas con que auditen las universidades", planteó Castro, pero recordó que el relevamiento ya lo realiza la unidad ejecutora que corresponde al Ministerio de Desarrollo
+Social.
+
+En ese sentido, el secretario de la Unión de Trabajadores de la ⟦M1687⟧Economía Popular⟦/M1687⟧ manifestó su disconformidad con la medida. Y agregó que, desde su perspectiva, la mirada de auditoría
+tiene una lógica empresarial: "La gestión es muy burocrática, es armada por otra cabeza, no con la cabeza de los sectores populares".
+
+Castro también comentó que no pudo asistir a la conferencia de prensa que brindó Massa este miércoles. Sin embargo, expresó que escuchó que las medidas "tienen bastante conformes a los sectores de
+mayor concentración económica".
+
+Este domingo los trabajadores de la ⟦M1688⟧economía popular⟦/M1688⟧ se movilizarán hacia la 9 de julio bajo la consigna “Sin poder popular no hay justicia social”. La marcha se da en el marco del día
+de San Cayetano, patrono del pan y del trabajo.
+
+===== NOTA 17 de 31 =====
+medio: Página/12
+titulo: El debate entre los movimientos sociales: ¿Romper o seguir en el Frente de Todos
+fecha: 2022-08-06 03:01:00
+autor: 
+seccion: El País
+volanta_bajada: El futuro de la bancada oficialista en la Cámara de Diputados
+link: https://www.pagina12.com.ar/447286-el-debate-entre-los-movimientos-sociales-romper-o-seguir-en-
+marcas a codificar: M1689
+----- TEXTO -----
+Las primeras medidas anunciadas por el flamante ministro de Economía, Sergio Massa, desencadenaron diferencias entre los movimientos sociales que integran el Frente de Todos, que hora afronta la
+posibilidad de una ruptura del bloque en la Cámara de Diputados y el riesgo de perder la condición de primera minoría. "Si no hay medidas para los más pobres, no tenemos nada que hacer en el FdT”,
+reiteró Juan Grabois, el líder del Frente Patria Grande, que tiene tres diputados propios. Desde la Corriente Clasista y Combativa marcaron otra postura: "Si nos fuéramos los dos diputados nacionales
+(que tiene la CCC en el FdT), dejaríamos a Cambiemos como primera minoría. Damos la pelea por adentro", planteó Juan Carlos Alderete.
+
+"Antes de los anuncios, pedimos una medida para los más pobres, para los que están sufriendo la indigencia, para los que pasan hambre. No necesariamente tiene que ser el Salario Básico Universal, que
+es nuestra propuesta. No hubo nada de eso", reiteró en las últimas horas Grabois. “A la hora de los bifes, son sólo para los ricos", agregó sobre los anuncios oficiales. Con esa postura, el dirigente
+social volvió a advertir sobre una posible ruptura: "Tengo una posición tomada. Si no hay medidas para los sectores populares y los más pobres, no tenemos nada que hacer en el bloque del Frente de
+Todos".
+
+A pesar de coincidir en los reclamos, la CCC tomó distancia de esa postura política. "Están los anuncios, hay que mirar muy bien la letra chica y cómo se pueden implementar", sostuvo Alderete y
+agregó: "Está bien controlar el déficit, pero no está bien hacerlo sobre la base de ajustar a los que vienen padeciendo la crisis". El diputado y líder de la CCC afirmó que "el Frente de Todos sigue
+siendo una herramienta válida para conquistar derechos”, y advirtió sobre la debilidad en que quedaría la bancada oficialista en la Cámara baja si desertaran del FdT los legisladores de los
+movimientos sociales.
+
+"Estamos en un escenario muy difícil, pero hasta ahora acompañamos al Frente de Todos", manifestó Alderete y remarcó que "vamos a exigir que se tomen medidas urgentes que vayan en el camino de cumplir
+el programa (electoral planteado en 2019), que se garantice el programa de Techo, Tierra y Trabajo que venimos reclamando las organizaciones sociales". Ese será el reclamo central que compartirán con
+los demás movimientos sociales en la marcha de este domingo por San Cayetano, que culminará en el centro porteño.
+
+En el actual escenario, la negociación abierta en el bloque del FdT para conservar la unidad parece condicionada a las decisiones que adopte o no el Gobierno para los sectores de la ⟦M1689⟧economía
+popular⟦/M1689⟧. El Frente Patria Grande tiene previsto un congreso en dos semanas, para definir su futuro político. Si la decisión fuera que los tres diputados del espacio (Natalia Zaracho, Itai
+Hagman y Federico Fagioli) dejaran el bloque oficialista, el FdT se quedaría con 115 legisladores propios y perdería su condición de primera minoría, que pasaría a manos del interbloque de Juntos por
+el Cambio con 116 bancas. Eso dejaría al oficialismo con un panorama más complicado aún, en un esquema de paridad de fuerzas. Incluso abriría las puertas a que los sectores más duros de la oposición
+intentaran ir en busca de mayor poder en la Cámara baja.
+
+===== NOTA 18 de 31 =====
+medio: Página/12
+titulo: La peregrinación que combina la fe y la lucha social
+fecha: 2022-08-06 03:01:00
+autor: María Daniela Yaccar
+seccion: El País
+volanta_bajada: Una movilización como anticipo de la marcha del domingo por San Cayetano
+link: https://www.pagina12.com.ar/447269-la-peregrinacion-que-combina-la-fe-y-la-lucha-social
+marcas a codificar: M1690
+----- TEXTO -----
+Esteban “El Gringo” Castro, de jogging y campera deportiva, avanza caminando sobre un puente que cruza las turbias aguas del Río Reconquista. Lleva un báculo en su mano derecha. El secretario de la
+Unión de Trabajadores de la ⟦M1690⟧Economía Popular⟦/M1690⟧ (UTEP) es uno de los participantes de una peregrinación que comenzó en Luján y que ahora pasa por Merlo, al oeste del conurbano bonaerense.
+La imagen de por sí tiene un halo épico, pero lo que le dice un peregrino a Esteban, evocando a Moisés, lo acentúa: "¿Vas a abrir las aguas?". Este recorrido que un grupo de trece personas inició el
+martes es la antesala de la marcha que los movimientos sociales nucleados en la UTEP preparan para este domingo en el centro porteño, en el día de San Cayetano y en reclamo de "paz, pan, tierra, techo
+y trabajo".
+
+Desde 2016, para esta fecha, los Misioneros de Francisco --movimiento católico nacido poco después de la elección de Jorge Bergoglio como Papa en 2013, cuya creación está vinculada a Emilio Pérsico--
+organizan una peregrinación que va de Luján a Liniers y encabezan la movilización hacia Plaza de Mayo. Aquel fue el año en el que, en pleno macrismo, empezó a realizarse la marcha de San Cayetano, que
+selló la unidad de los movimientos populares. "El Gringo dice 'no separamos la fe de la lucha'", sintetiza Gabriel "Pato" Duna, respecto del espíritu del corredor religioso-social que se viene armando
+en vísperas de cada 7 de agosto. Pato es de Misioneros, de Luján, y pertenece a la UTEP. "Somos los piecitos de la Virgen", define el hombre de barba larga, 55 años, exrecolector de residuos y ahora
+trabajador municipal, en una parada en la plaza ubicada frente a la estación de Paso del Rey, en el partido de Moreno.
+
+El recorrido que este viernes soleado se inicia pasadas las 9 desde la sede del PJ de Moreno es una expresión a pequeña escala de ese híbrido de lo religioso y lo social: en el camino se desarrollan
+un pequeño acto religioso, en Paso del Rey, y una asamblea de movimientos sociales, en una plaza de Merlo. El encuentro anticipa el tono de la marcha del domingo. En los discursos aparecen la
+estigmatización hacia quienes cobran planes, la persecución judicial y política sufrida por las organizaciones, las medidas oficiales que no las contemplan.
+
+***
+
+Fueron Pato y la Flaca, otra de las peregrinas --la única mujer "fija" de un grupo que se nutre de personas que entran y salen--, los que idearon este ritual, mates mediante en La Casita de la Virgen,
+en Luján. Recuerda la Flaca que en una hoja A4 pegaron una imagen de San Cayetano, una estampita del Papa Francisco y Pato escribió a mano unas líneas. Sacaron fotocopias y así lo difundieron. "Nos
+fuimos con los bolsos y bolsas de dormir, con poca plata, con banana, maní y paté, sin saber cómo era peregrinar tantos días", cuenta. "Esto es la panacea", coinciden ambos. Es que, con el tiempo, la
+producción se hizo más sofisticada. Duermen en sindicatos y capillas. En muchos lugares los esperan compañeros con comida. Una camioneta Hilux con la bandera amarilla de los misioneros va al frente
+cargando pertenencias, también frutas --mandarina, manzana, banana-- y agua para el camino. Agentes de tránsito de las municipalidades a veces los protegen. En el caso de Moreno, aportan incluso
+camionetas y motos.
+
+Esta edición es particular por la presencia de Castro. El dirigente, figura de mayor peso en la construcción territorial del Evita  y esposo de la intendenta Mariel Fernández, vive en Moreno. Desde
+esa localidad venía apoyando la peregrinación. "Genera un montón de cosas, un poco más de revuelo, los compañeros lo esperan, todos lo quieren ver", dice Pato con admiración. "Nunca me animé. Pesaba
+115 kilos, ahora 93", dice Castro, que ha hecho otros tramos más cortos. Acaba de estirar las piernas. "Viví en un barrio popular más de 20 años y vengo de una clase media baja. Me fui ideologizando y
+no me metía en la fe popular. Me fue metiendo el pueblo y fue sanador para mí. Las capas de individualismo te las saca el pueblo que no tiene nada", se define. Respecto de la relación con el Gobierno,
+señala: "Tiene que llamarnos a discutir y darnos pelota. Los dirigentes tienen que acercarse a los más humildes, aprender y sensibilizarse. La comunidad está mostrando formas de construir poder
+popular y hay que mirarlo más profundamente. Es lo que falta".
+
+Es aún más llamativa la participación de Gustavo Beliz, recién salido del cargo de secretario de Asuntos Estratégicos. Se mueve bastante alejado del grupo. Conversa poco. Pareciera que su viaje es
+hacia adentro. Lleva una botellita de agua en la mano. Ropa cómoda, marrón; una gorra; un pañuelo que oficia de barbijo. "Vine en silencio": es todo lo que dice a esta cronista. Dos hermanos gemelos
+que viven entre la calle y paradores --y que misionan hace muchos años--, un pastor evangélico y Tamara Barbará, coordinadora de la comisión afro de la Asociación del Personal Legislativo, también
+caminan. Uno de los que entra y sale es el periodista especializado en temas religiosos Lucas Schaerer. Hay algunos jóvenes, por ejemplo una chica de 15 años que acaba de sumarse, y Nacho, uno de los
+que carga a la Virgen en sus hombros.
+
+***
+
+Al frente van las vitrinas con las imágenes de la Virgen de Luján, el Negro Manuel y la Virgen de Aparecida, de Brasil, donde en rigor finaliza la peregrinación, tras dejar la 9 de Julio y Avenida de
+Mayo.
+
+Es interesante la comparación que hace Matías, con campera del Movimiento Evita, en las puertas de la delegación municipal de Paso del Rey, que presta el baño. Él, evangelista, es uno de los
+organizadores del grupo. Lo cuida del tránsito. "Esto es distinto a una movilización porque ahí, si cortás el tránsito, te putean. Acá se persignan, quizás te dan una docena de facturas o van a la
+verdulería y te traen un kilito de manzanas. Es todo amor y paz. La Virgen abre camino", describe, contento. El acto religioso recién terminó en la plaza de Paso del Rey y de golpe, luego de cruzar
+las vías del tren, la columna se ensancha.
+
+Viene pasando, dice Matías. Están los que se suman un rato. Los que, como una chica que baja de su moto o una mujer de unos 70 años, se acercan a tocar a la Virgen. Los que lloran al verla. Los que
+piden que la entren a sus casas. También hay quienes hacen preguntas raras ("¿están cargando a San La Muerte?", consulta alguien que observa de lejos) o comentarios graciosos. Por todo lo bueno que
+aparece en el andar, la Flaca (39) asegura que la peregrinación es "útil", aunque su madre la acuse de "estar loca, al pedo, perder el tiempo". Ella es organizadora de eventos. Su trabajo se resintió
+con la pandemia y la situación económica. Cobra el Potenciar. Pasa la mayor parte de su tiempo en La Casita. "Yo no quiero ni puedo vivir del plan. Es laburo darle de comer a alguien y escuchar, pero
+se ve lo malo", expresa.
+
+***
+
+Un almuerzo de pizzetas y empanadas aguarda a los peregrinos en la sede del Movimiento Evita, en Merlo. En la plaza de los Héroes de Malvinas hay luego una asamblea en la que dirigentes locales piden
+"unidad" para este domingo. El discurso más encendido es el de Dina Sánchez, del Frente Popular Darío Santillán, que insta a reclamar "respuestas urgentes para los y las últimas de la patria". "La
+UTEP tiene propuestas, vuelve a poner sobre la mesa la Ley Integral de Tierra, Techo y Trabajo. Estuvieron Guzmán, Batakis, y ahora el superministro Massa. Estuve escuchando atentamente los anuncios.
+¿En algún momento escucharon alguna propuesta para los sectores populares? Lo único que escuché fue auditoría, ordenar los planes. El domingo no tenemos que decir que queremos trabajo, porque lo
+tenemos. Lo que no tenemos son derechos", manifiesta, entre otras cosas, en un paisaje que combina banderas con estatuillas, preocupación y fe.
+
+===== NOTA 19 de 31 =====
+medio: Página/12
+titulo: Comedores escolares: el GCBA volvió a adjudicar el servicio a las mismas empresas denunciadas por la mala calidad 
+fecha: 2022-08-07 03:01:00
+autor: Santiago Brunetto
+seccion: Sociedad
+volanta_bajada: La licitación rige hasta finales de 2025
+link: https://www.pagina12.com.ar/447384-comedores-escolares-el-gcba-volvio-a-adjudicar-el-servicio-a
+marcas a codificar: M1691
+----- TEXTO -----
+El Gobierno de la Ciudad de Buenos Aires (GCBA) adjudicó el servicio de alimentación escolar a las mismas empresas que están a cargo de las viandas desde hace dos décadas y que acumulan denuncias por
+entregar alimentos en mal estado, con ingredientes de baja calidad y en raciones escasas. Pese al amparo presentado por organizaciones sociales y al proyecto de ley de la oposición porteña para
+modificar el sistema de los comedores, el GCBA concretó la licitación abierta hace unos meses y 18 empresas continuarán con el servicio hasta fines de 2025. "Pese a las numerosas denuncias volvieron a
+adjudicar la licitación a las empresas que se cartelizaron nuevamente", advirtieron desde la oposición.
+
+Cuando en abril de este año el gobierno porteño oficializó el llamado a licitación, las organizaciones nucleadas en la “Campaña por una alimentación de calidad y gratuita para todxs" ya advertían que
+el proceso se cerraría con las mismas empresas cuestionadas. La primera confirmación llegó el pasado mes de junio, cuando se conoció que esas 19 empresas eran las únicas que habían ofertado en la
+licitación y las organizaciones denunciaron que, "en un comportamiento cartelizado", las empresas "ofertaron los mismos valores para cada desayuno, refrigerio y almuerzo": el desayuno a 35,57 pesos,
+el almuerzo a 302,95 pesos y el refrigerio a 105,17 pesos.
+
+Ahora, a través de una resolución firmada por Soledad Acuña, el Ministerio de Educación confirmó las readjudicaciones para 18 de esas empresas por los servicios de desayuno, almuerzo y refrigerio de
+los colegios porteños para cerca de 240 mil chicos y chicas. Con un presupuesto total de poco más de 50 mil millones de pesos, el período otorgado finalizará en diciembre de 2025. Solo una de las 19
+ofertantes iniciales, Treggio SRL, se dio de baja del proceso.
+
+Hace unos meses este diario relevó varias de las denuncias de familias y comunidades educativas de las escuelas porteñas. Sandwiches con una feta de queso, frutas en mal estado, carnes duras, crudas o
+directamente reemplazadas por ingredientes más baratos, son algunos de los "alimentos" que día a día llegan a los comedores. En marzo de 2020, por caso, casi cien alumnos se intoxicaron por alimentos
+en mal estado en escuelas de Caballito y Palermo. El servicio de esos colegios estaba a cargo de Lamerich S.A, una de las empresas que se mantienen desde hace años y que volvió a ser beneficiada con
+el servicio.
+
+Otro caso es el de Bagalá S.A., que llegó a recibir multas "por servir la guarnición tortilla de verdura con un insecto, entregar viandas con un pedazo de metal que parece ser parte de una esponja
+‘tipo virulana', y dejar un trapo de piso junto a las supremas de pollo", según denunciaron las organizaciones, que en junio de este año habían presentado un amparo para intentar frenar la licitación.
+Desde el Frente de Todos (FdT) porteño también intervinieron en la situación. En abril de este año, tras conocerse la apertura del proceso, Ofelia Fernández y Matías Barroetaveña, legisladores
+porteños de ese bloque, presentaron un proyecto de ley apoyado por las comunidades educativas para modificar el sistema.
+
+"Lamentablemente sucedió lo que dijimos que sucedería. No solo ignoraron el proyecto que presentamos, sino que pese a las numerosas denuncias volvieron a adjudicar la licitación a las mismas empresas
+que se cartelizaron nuevamente", dijo Barroetaveña a Página 12 tras conocerse la nueva adjudicación. "Esta licitación puso al descubierto el funcionamiento cartelizado de las concesionarias de
+comedores, empresas creadas exclusivamente para vivir del Estado, y el manejo sumamente opaco del gobierno porteño", coincidió María Eva Koutsovitis, coordinadora de la Cátedra de Ingeniería
+Comunitaria de la UBA, una de las organizaciones integrantes de la Campaña.
+
+Jonatan Baldiviezo, abogado patrocinante del amparo y fundador del Observatorio del Derecho a la Ciudad (ODC), agregó que el hecho de que las empresas ofertaran exactamente el mismo monto "conlleva a
+dos posibles situaciones": que los valores de los pliegos estuvieron mal calculados, y "en este caso el GCBA pierde recursos al garantizar mayor rentabilidad a las empresas", o que el gobierno "acordó
+con las empresas un valor y luego se elaboró el pliego hecho a medida para justificar legalmente dichos valores con el establecimiento de precios mínimos para ofertar".
+
+En este sentido, Barroetaveña criticó "la falta de transparencia en la gestión y la mala alimentación para nuestros estudiantes en momentos complicados para los bolsillos de las familias" y aseguró
+que Larreta "está comprometiendo 50 mil millones de pesos que deberá pagar el próximo gobierno". Sobre el proyecto presentado junto a Fernández, afirmó que busca "garantizar alimentos saludables y de
+calidad en las escuelas generando  miles de empleos en la economía social".
+
+Entre otros puntos, el proyecto prevé la universalización y la gratuidad del servicio, que en la actualidad es pago y los sectores que no pueden abonarlo deben solicitar becas para poder acceder. La
+universalización, en tanto, supondría que todos los niveles reciban la misma comida, con desayuno/merienda, almuerzo/cena, refrigerio y vianda incluido. Además, el proyecto prevé que las empresas que
+hayan incumplido el servicio no puedan volver a presentarse en las licitaciones. También incorpora a la ⟦M1691⟧economía popular⟦/M1691⟧ y a las cooperadoras como posibles gestoras del servicio,
+priorizando que los alimentos provistos sean agroecológicos.
+
+===== NOTA 20 de 31 =====
+medio: Página/12
+titulo: Las organizaciones sociales se movilizan por San Cayetano
+fecha: 2022-08-07 03:01:00
+autor: 
+seccion: El País
+volanta_bajada: "Paz, Pan, Tierra, Techo y Trabajo"
+link: https://www.pagina12.com.ar/447457-las-organizaciones-sociales-se-movilizan-por-san-cayetano
+marcas a codificar: M1692, M1693, M1694, M1695
+----- TEXTO -----
+La Unión de Trabajadores de la ⟦M1692⟧Economía Popular⟦/M1692⟧ (UTEP) marcha este domingo desde Liniers hasta la intersección de la 9 de julio y Avenida de Mayo. Con las consignas “por Paz, Pan,
+Tierra, Techo y Trabajo. Sin poder popular, no hay justicia social", las organizaciones sociales que integran el frente popular llamaron a movilizarse una vez más en lo que ya es la histórica Marcha
+de San Cayetano.
+
+La concentración comenzó a las 8 de la mañana en la iglesia del patrono del trabajo para acompañar el reclamo de las organizaciones populares por “Tierra, Techo y Trabajo”. La histórica agenda de la
+triple T, a la que este año se le sumó "paz para todos los argentinos y argentinas", entre otras demandas.
+
+“Desde la UTEP venimos impulsando la Ley General de Tierra, Techo y Trabajo con propuestas concretas para el sector de la ⟦M1693⟧economía popular⟦/M1693⟧ y seguirá siendo nuestra principal demanda
+este domingo”, expresaron en un comunicado. Se promueve la institucionalización de la ⟦M1694⟧economía popular⟦/M1694⟧, mediante la creación de un ministerio especifico; la aplicación de un Salario
+Básico Universal y créditos para favorecer el acceso a la tierra, entre otras medidas.
+
+En este sentido, el secretario gremial de la UTEP e integrante de la conducción del Movimiento Evita, Gildo Onorato, dijo en declaraciones radiales previas a la convocataria que "seguimos planteando
+la urgencia en el tratamiento de las propuestas que dignifiquen el trabajo de la ⟦M1695⟧economía popular⟦/M1695⟧". Agregó, además, que se espera una movilización en todo el país, con la marcha porteña
+como evento central.
+
+Conocidos como “los cayetanos”, el grupo integrado por el Movimiento Evita, la Corriente Clasista y Combativa (CCC) y el Movimiento Somos Barrios de Pie comenzó a movilizarse en 2016, durante el
+gobierno de Mauricio Macri, para visibilizar los reclamos del sector frente a las políticas impulsadas por la gestión de Cambiemos. "La movilización popular es también un factor para aportar a la paz
+social y a la gobernabilidad", aseguraron desde la organización de cara a la convocatoria de este año. Este 7 de agosto, la Marcha de San Cayetano tendrá su acto de cierre a las 14 horas, en pleno
+centro porteño.
+
+El diputado nacional del Frente de Todos y coordinador nacional de la CCC, Juan Carlos Alderete, sostuvo que “esperamos una movilización muy grande, porque las necesidades del pueblo son muchas". Sin
+embargo, ratificó el apoyo al Gobierno nacional, en el marco de los cuestionamientos a las medidas económicas de los últimos días: “acompañamos al Frente de Todos sobre la base de un programa que fue
+el que la mayoría del pueblo argentino votó para derrotar al macrismo y salir de la crisis económica y social". Por eso, dijo que exigirán “medidas urgentes que vayan en el camino de cumplir ese
+programa".
+
+En línea con los reclamos que distintas organizaciones vienen realizando, y que llevaron a un “comedorazo” frente al Congreso días atrás, desde la UTEP apuntan a quienes presionan para maximizar
+ganancias en un contexto adverso para las clases populares: “Frente a la agenda del sector concentrado que continúa pujando por sus intereses particulares en detrimento de las mayorías, especulando y
+remarcando sin resignar nada; nosotros y nosotras estamos en la calle para imponer nuestra agenda, una agenda que puja por los intereses y las necesidades de los y las de abajo", denuncian.
+
+Asimismo, sostienen que “en un contexto de persecución a las organizaciones, seguimos fortaleciendo la unidad, profundizando la organización y peleando por Paz, Pan, Tierra, Techo y Trabajo”, en
+referencia a las detenciones y allanamientos a que se llevaron a cabo en comedores y sedes de movimientos sociales recientemente.
+
+===== NOTA 21 de 31 =====
+medio: Página/12
+titulo: San Cayetano: los testimonios de las organizaciones sociales que marcharon a la 9 de Julio
+fecha: 2022-08-07 19:14:03
+autor: 
+seccion: El País
+volanta_bajada: "Pan, Paz y Trabajo"  
+link: https://www.pagina12.com.ar/447561-san-cayetano-los-testimonios-de-las-organizaciones-sociales-
+marcas a codificar: M1696
+----- TEXTO -----
+Las organizaciones sociales y políticas que conforman la Unión de Trabajadores y Trabajadoras de la ⟦M1696⟧Economía Popular⟦/M1696⟧ (UTEP) realizaron este domingo una nueva edición de la marcha de San
+Cayetano, desde la iglesia ubicada en Liniers hacia la intersección de las avenidas de Mayo y 9 de Julio, en el centro porteño.
+
+Bajo el lema "Pan, paz, tierra, techo y trabajo", una larga columna con banderas de la UTEP, la Corriente Clasista y Combativa (CCC), Somos Barrios de Pie, el Frente Popular Darío Santillán, el
+Movimiento Evita y la Asociación de Trabajadores del Estado (ATE), entre otras, se concentró a partir de las 8 en Cuzco y Rivadavia y minutos después inició la movilización hacia el centro de la
+ciudad.
+
+Durante el acto principal, que empezó pasadas las 14, el secretario gremial de la UTEP, Gildo Onorato, sostuvo que "lo que falta no es trabajo sino derechos laborales de la mayoría".
+
+"Si nos movilizamos es porque hay problemas", dijo, pero recordó que los movimientos sociales de la UTEP son "garantes de la paz social" y recordó que las crisis las sufren los sectores más humildes
+que "se hacen más pobres".
+
+En un mensaje al Congreso, Onorato le recordó a los diputados y senadores que "votaron una ley que establece un salario social complementario", en referencia a emergencia social que rige desde 2016.
+
+"De qué planes hablan, esto es trabajo. Y salario, porque reconoce un trabajo social y da cuenta de una tarea comunitaria en los barrios más humildes, y complementarios porque complementa los
+ingresos. Es lo que ustedes llaman planeros y nosotros decimos trabajadores y trabajadores", enfatizó Onorato.
+
+También reclamó: "No estigmaticen, porque cuando ustedes hablan los medios amplifican y la Justicia persigue a los más débiles".
+
+Por su parte, el diputado del Frente de Todos (FdT) y referente de la CCC Juan Carlos Alderete exclamó: "Salimos a la calle una vez más por pan, tierra, techo, trabajo, salud, educación y soberanía
+nacional para todos los que habitan nuestro suelo".
+
+"Otros sectores quieren sacarnos de la calle. No vamos a aceptar mansamente las injusticias y los sufrimientos que padecemos", dijo y denunció "persecución judicial y mediática" con allanamientos y
+persecuciones en diferentes provincias, procedimientos que asoció a la "mesa judicial macrista".
+
+En esa línea, Alderete aseguró que hay sectores que se preparan para avanzar con sus planes de ajuste brutal y entrega nacional, y sobre los derechos" de jubilados y trabajadores.
+
+Y cargó contra los especuladores que "remarcan los precios" y contra "los terratenientes y agroexportadores que no liquidan la cosecha" porque ellos sí "ganan fortunas".
+
+"El pueblo no puede seguir pagando una fiesta de pocos", remarcó y pidió "medidas que frenen la inflación", como "congelamiento de precios" y la aplicación de la Ley de Góndolas, además de considerar
+"urgente" la implementación del salario universal.
+
+Del acto participaron también el referente del Movimiento Evita, Emilio Pérsico, y los dirigentes de la CTA-Autónoma Ricardo Peidró y Hugo "Cachorro" Godoy, que estuvieron en el escenario, además del
+dirigente Juan Gabois.
+
+La marcha de San Cayetano comenzó a realizarse en 2016 -durante el Gobierno macrista- y fue impulsada en sus comienzos por el Movimiento Evita, la Corriente Clasista y Combativa (CCC) y el Movimiento
+Somos Barrios de Pie, grupo de organizaciones conocidos como "Los Cayetanos".
+
+===== NOTA 22 de 31 =====
+medio: Página/12
+titulo: San Cayetano: "No falta trabajo sino derechos laborales"
+fecha: 2022-08-08 03:01:00
+autor: María Daniela Yaccar
+seccion: El País
+volanta_bajada: Multitudinaria marcha desde Liniers hasta la 9 de Julio
+link: https://www.pagina12.com.ar/447651-san-cayetano-no-falta-trabajo-sino-derechos-laborales
+marcas a codificar: M1697
+----- TEXTO -----
+"Lo que falta no es trabajo sino derechos laborales de la mayoría", sentenció el secretario gremial de UTEP, Gildo Onorato, en el acto que dio cierre a la masiva marcha de los movimientos populares
+desde Liniers hasta la intersección de Avenida de Mayo y la 9 de julio. La misma idea se palpaba al caminar por los alrededores del santuario de San Cayetano: más que pedir trabajo, los fieles pedían
+por mejores condiciones laborales en un contexto signado por la informalidad y la inflación, a la que hizo mención Mario Poli, el arzobispo de Buenos Aires, en la misa central por la fecha. También en
+ella hicieron foco los discursos de los dirigentes de las organizaciones. Apuntaron, además, a la estigmatización, la "desilusión" con respecto a las últimas medidas oficiales y el "control" sobre el
+Potenciar Trabajo, y a la persecución judicial por parte de la oposición. El principal reclamo es una ley general de Tierra, Techo y Trabajo, que entre sus principales puntos incluye el salario básico
+universal.
+
+La estigmatización se filtra en los discursos que los dirigentes de los movimientos sociales dan, pasadas las 15, sobre un escenario montado en Avenida de Mayo y la 9 de julio.
+
+"¿Qué pasa con el gobierno que militamos para sacar a Macri? ¿Cómo puede ser que después de seis años en los que la crisis y la deuda nos golpean a nosotros, pero fundamentalmente a nosotras, las que
+pusimos el cuerpo y hasta la vida en pandemia, sólo escuchemos como medidas respuestas para los mercados, las petroleras, los que se la vienen llevando en pala hace muchísimo tiempo", pregunta Dina
+Sánchez, secretaria adjunta de UTEP y referenta del Frente Popular Darío Santillán. "Si el único planteo para los sectores populares es judicializar y estigmatizar, esta Argentina no tiene destino",
+afirma Onorato, y agrega, en respuesta a Massa: "Parece mentira que la Iglesia reconozca nuestro esfuerzo y trabajo y a la dirigencia política haya que explicarle la diferencia entre un plan social y
+el trabajo”. Alderete apunta a la inflación: "Se cagan en los acuerdos de precios. Hay que ir al congelamiento y de ser necesario aplicar las leyes de abastecimiento y góndolas".
+
+Esteban "El Gringo" Castro, secretario general de la UTEP, dice: “Tenemos nuevo ministro de Economía que parece ser el resultado de una unidad en el Frente de Todos. Parece que los muchachos que
+tienen mucha plata en los bolsillos estaban contentos (cuando asumió), pero que no anunciaron nada para los de abajo. Que nos vengan a auditar de las universidades, van a terminar militando con
+nosotros”. Norma Morales, de Barrios de Pie, se dirige a los productores rurales: "Si no liquidan por las buenas los vamos a ir a buscar. No les vamos a permitir que se metan en la mesa de los
+argentinos”.
+
+Se suman al acto el referente del Movimiento Evita, Emilio Pérsico; el subsecretario de Políticas de Integración y Formación del Ministerio de Desarrollo Social y titular del Movimiento Somos Barrios
+de Pie, Daniel Menéndez; los dirigentes de la CTA-Autónoma Ricardo Peidró y Hugo "Cachorro" Godoy, y el dirigente del MTE y referente de Patria Grande, Juan Gabois.
+
+Los discursos dan cierre a una multitudinaria marcha que comienza a las 8 a pocas cuadras del santuario. En la movilización, adelante van dos camiones. Uno con herramientas de construcción y de
+herrería, y otro de recicladores. Les sigue un tercero, más pequeño, de los costureros. Transporta un maniquí y algunas prendas. La larga columna que avanza por la avenida Rivadavia --cortada al
+tránsito, como varias de las calles de los alrededores-- está encabezada por los Misioneros de Francisco --movimiento católico nacido poco después de la elección de Jorge Bergoglio como Papa en
+2013--. En sus hombros, llevan vitrinas con las imágenes de la Virgen de Luján, el Negro Manuel y la Virgen de Aparecida, de Brasil. Vienen hace unos días peregrinando desde Luján, junto a El Gringo
+Castro. Algunos continuarán hasta el país vecino.
+
+Detrás, a paso rápido y con semblante alegre aunque por momentos cansado, caminan los integrantes de las organizaciones, con sus banderas y pecheras. Entre la gente se mezclan camiones y tractores con
+frutas y verduras del Frente Agrario Evita y la Federación Nacional Campesina y vehículos que cargan carretillas y herramientas; símbolos para dar visibilidad al amplio y variado sector de la
+⟦M1697⟧economía popular⟦/M1697⟧. Todo fue bendecido más temprano por un cura. A Grabois se lo ve en un momento cargando a la Virgen; a Pérsico agarrando una mandarina ellendale del acoplado del
+camión. La ruta de 16 kilómetros es transitada por muchísimas mujeres y jóvenes. Los manifestantes llegaron desde la capital, distintos puntos del conurbano y el interior de la provincia. Es muy
+grande el grupo de la JP Evita. Van cantando. Por la calle se ven estacionados micros escolares y turísticos en los que llegaron algunas organizaciones. Hay música durante toda la marcha; sale de los
+parlantes que lleva una camioneta. Se escuchan, por ejemplo, Gilda, y la canción "Cartonero", de Attaque 77.
+
+"Antes la gente nos veía y bajaba las persianas de los locales. Los mozos se paraban en las puertas, aunque nadie les tocó nunca un caramelo. Ni loco había un kiosco abierto. Hoy ya se sabe quienes
+somos", celebra Pato, de Misioneros, quien viene caminando desde Luján. Un encargado de seguridad de una concesionaria lo saluda desde detrás del vidrio, con el celular en la mano, filmando la escena.
+Varias cuadras más adelante, un joven explica a sus hijas qué es lo que tienen enfrente. No podían faltar, claro, los detractores. La agresividad: "¡Qué vergüenza! Manga de hijos de puta, negros de
+mierda", le grita un hombre a un policía de la Ciudad que dirige el tránsito, buscando complicidad. El uniformado no le responde. "¡Viva Macri!", provoca otro hombre al pasar. "¡Por eso te cagás de
+hambre!", le retrucan. "No nos pagan por venir a la marcha. Somos criticados, pero yo me levanto a las 5, entro a las 8, trabajo hasta las 12 reciclando en la cinta y después salgo a la calle a buscar
+residuos hasta la tarde", explica Sabrina (27), de una cooperativa de recicladores y recicladoras de La Matanza.
+
+Para Grabois, el reclamo del salario básico universal sella la "maduración del sector", que está no solamente "pujando por su propio mejoramiento" sino también por el de los que están "afuera de
+todo". "Estamos interviniendo en la puja distributiva donde solamente están ganando los de más arriba y para los de más abajo no hay siquiera migajas. El contrato electoral de 2019 decía 'empecemos
+por los últimos para llegar a todos'. Hoy los últimos están peor que cuando se dijo esa frase", concluye en diálogo con Página/12. Adhiere, Grabois, a lo que en las puertas del santuario señala el
+padre Daniel: "La tasa de actividad está volando. Nunca hubo una tasa tan alta, pero la mitad de los trabajadores está por abajo de la línea de pobreza. El segmento más castigado es el informalizado".
+Este 7 de agosto, la fe y la lucha se conjugan en un mismo mensaje.
+
+Es un abrazo que se extiende por varios minutos. Apretado. En una esquina de la calle Bynnon, un cura contiene a un hombre; los dos están arrodillados y tienen los ojos cerrados. Con la mano izquierda
+el sacerdote sostiene con dificultad las sillas de plástico que se colocan en la calle para las confesiones. A un costado va creciendo la fila de fieles que quieren tocar a San Cayetano. "¡Espigas!",
+gritan vendedores. Seminaristas esparcen sobre los cuerpos agua bendita. Muchos miran el abrazo, pero nadie puede conocer las razones del momento íntimo y público a la vez. Sólo pueden suponerse.
+
+A lo mejor el abrazo sea un reflejo de la conclusión que saca el padre Daniel Pellizzón, del santuario de Liniers, y que también se cristaliza en la marcha y el acto de la UTEP. El padre dice que la
+mayor parte de los fieles llora y “pide la bendición” no tanto porque le falte trabajo, sino porque padece la precarización o la informalidad.
+
+--Mucha gente viene a agradecer, también piden, pero se ve que hay trabajo. Mucho informal, changas, más que antes. Es el que se frenó por la pandemia. El pobre sale a la lucha de lo poco que le queda
+y se aferra a eso. Antes a una empleada doméstica en casa de familia quizá con un trabajo de días de semana le alcanzaba para tener el nivel de vida que quería para sus hijos. Hoy no: tiene que
+trabajar sábado y domingo, tener dos o tres casas para lograr ese nivel de vida. El tema inflacionario nos toca a todos en la Argentina-- analiza el cura en las puertas del templo. Lo último que dice
+está en el núcleo del mensaje de Poli: "La inflación asfixiante que padecemos genera miseria". "El pueblo necesita medidas que frenen la inflación. No va más", sentenció, por su parte el diputado Juan
+Carlos Alderete, referente de la Corriente Clasista y Combativa, en el acto de las organizaciones.
+
+Lo que dice el padre Daniel se comprueba en la fila de fieles. Andrea Zapata, empleada doméstica, llegó desde Moreno para pedir "más trabajo, fijo, en blanco". "Estamos bien, pero hoy en día estar
+bien... sabemos lo que es. Venimos para poder por lo menos estar estables, poder estar, eso es lo más importante", expresa María, auxiliar de escuela, 51 años, de Monte Grande. Raúl "Rulo" Santana, de
+69 años, vino con su nieto, a quien le consiguió trabajo en una fábrica de alfombras. "Hace 40 años que vengo. Agradezco el pan, la familia toda unida, el trabajo", enumera. La vez que vio más gente
+fue en 2002: "Faltaba trabajo; era muy bravo".
+
+Es la primera vez en dos años que el santuario abre sus puertas al público. Por el coronavirus la edición 2020 fue virtual, y en 2021 los creyentes se acercaron hasta el lugar pero no podían ingresar
+a tocar y ver al patrono del pan y el trabajo. En esta ocasión hay mucha menos gente que en otros años. Una particularidad es que no se vieron carpas en la noche de la víspera. El principal motivo de
+la merma, según las hipótesis que circulan en la calle, es el miedo que dejó la pandemia.
+
+La crisis económica repercute también en los vendedores. Se lamentan: se vende poco y nada, y lo que se vende son artículos bien baratos: espigas, velas, cintitas de protección. Los que tienen puestos
+sobre la calle Francisco de Viedma --en su mayoría, oriundos de Perú-- han podido extender su horario de trabajo respecto de 2021, cuando tuvieron problemas con el gobierno de la Ciudad. A los
+vendedores de espigas los corren los inspectores: no les permiten improvisar puestos en la vereda, por eso es que se van moviendo con sus bolsas. "En San Expedito me sacaron la mercadería. Con el
+hambre que hay, nena", protesta una señora que vende espigas a 100 (las comunes) y 200 pesos (las especiales, con los pequeños pancitos). Todo aumentó. Para graficar, las velas que antes costaban tres
+por 50 salen ahora el doble. Destaca lo que ofrece Eber Gamboa, artesano venezolano que talla a mano figuras de distintas religiones en terracota. Migró hace tres meses y se está "actualizando con los
+santos de Argentina".
+
+Desde 2016 los movimientos populares marchan el Día de San Cayetano para pedir "paz, pan, tierra, techo y trabajo". El padre Daniel aclara que, si bien desde la iglesia no invitan ni convocan a la
+marcha, él la apoya completamente. En cambio, los fieles miran con recelo a los que, desde las 8, copan Rivadavia con banderas y bombos. "Este es un país de cultura de trabajo, y la está perdiendo.
+Hay más gente para manifestarse que acá. Pero cada uno sabe el lugar que tiene que tener", opina María. Raúl argumenta que, por los cortes de tránsito, "mucha gente pierde el presentismo". "Podés
+rezar, pedir a Dios, confiar en la providencia, en que te dé un trabajo digno a través de San Cayetano, pero también reclamar tu justo derecho a las autoridades", reflexiona el cura, para quien hay
+una "estigmatización mediática" que repercute en los fieles.
+
+===== NOTA 23 de 31 =====
+medio: Página/12
+titulo: Fernando Espinoza: “Este nuevo convenio traerá más justicia social y más derechos a las vecinas y vecinos de La Matanza”
+fecha: 2022-08-08 03:10:23
+autor: 
+seccion: El País
+volanta_bajada: Sobre el proyecto “Promoviendo el acceso a derechos de la niñez, jóvenes y familias de La Matanza”
+link: https://www.pagina12.com.ar/447765-fernando-espinoza-este-nuevo-convenio-traera-mas-justicia-so
+marcas a codificar: M1698
+----- TEXTO -----
+El acuerdo firmado entre la Secretaría de Inclusión Social del Ministerio de Desarrollo Social de la Nación y el Municipio, cuenta con una inversión de más de 235 millones de pesos y mejorará las
+condiciones de bienestar de más de 100 mil familias de La Matanza.
+
+El intendente de La Matanza, Fernando Espinoza, y la secretaria de Inclusión Social del Ministerio de Desarrollo Social de la Nación, Laura Alonso, participaron del cierre del Proyecto “Promoviendo el
+acceso a derechos de niñxs, jóvenes y familias de La Matanza” realizado en el Polideportivo Juan Domingo Perón, ubicado en González Catán; y firmaron un nuevo convenio que fortalece el compromiso para
+garantizar en el distrito el acceso a derechos, generando acciones promocionales preventivas, fortaleciendo y ampliando la capacidad instalada y el entramado social, a través del acompañamiento
+familiar y el desarrollo sociocomunitario de niñas, niños, jóvenes, personas adultas y familias.
+
+“Hoy es el cierre de un convenio que ayudó a más de 20 mil familias y para el que se invirtieron más de 31 millones de pesos; y el inicio de otro convenio enmarcado dentro del Plan nacional de
+Seguridad Alimentaria, con una inversión de más de 235 millones de pesos, que beneficiará a más de 100 mil familias”, expresó *Fernando Espinoza* y subrayó: “No solo garantizamos la asistencia
+alimentaria sino que también generamos progreso a través de la entrega de herramientas como las tablets para que nuestras chicas y chicos tengan las mismas posibilidades de desarrollo y que puedan
+entrar en la era digital”.
+
+Por su parte, la secretaria de Inclusión Social del Ministerio de Desarrollo Social de la Nación, Laura V. Alonso, manifestó: “Estamos una vez más en representación del Estado nacional acompañando al
+municipio de La Matanza trabajando en la recuperación de nuestro pueblo, tanto en lo que es la asistencia alimentaria como en proyectos que están vinculados a promover la organización comunitaria.
+Para ello, firmamos este convenio que le da continuidad a la asistencia alimentaria y también nos encontramos para celebrar con las familias del municipio que se han comprometido a participar en
+diversos talleres que promueven derechos y empoderan a nuestro pueblo”.
+
+“Trabajamos todos unidos con la Nación, la Provincia y las organizaciones comunitarias de La Matanza para que cientos de familias tengan acceso a derechos indispensables y les brindamos herramientas
+para mejorar la salud en forma integral, la alimentación y la educación de nuestros niños y niñas”, destacó el intendente y manifestó: “Desde La Matanza seguimos apostando a políticas públicas que
+aseguren la mesa de los argentinos y que promuevan la protección de derechos, porque ese es nuestro compromiso: ser un Estado presente que trabaja día a día para cada vecina y de cada vecino. Nosotros
+estamos generando que a través del estudio, a través del esfuerzo, a través de la formación en oficios, a través de la formación en arte o en cultura, cientos de miles de chicas, chicos y jóvenes
+tengan un mejor futuro y una vida digna”. concluyó Fernando Espinoza.
+
+Durante el evento, se entregaron reconocimientos a las organizaciones comunitarias del distrito que participan en los proyectos enmarcados dentro del Plan Nacional de Protección Social. Los programas
+contienen módulos de asistencia, de acompañamiento a la primera infancia,  herramientas y talleres de alfabetización, de ⟦M1698⟧economía popular⟦/M1698⟧, de apoyo social y escolar para niñas, niños,
+jóvenes, y personas adultas; fomentando el acceso de derechos y oportunidades para todos los habitantes de La Matanza.
+
+===== NOTA 24 de 31 =====
+medio: Página/12
+titulo: CABA: más de 400 mil personas viven en barrios populares según un informe de organizaciones sociales
+fecha: 2022-08-09 03:01:00
+autor: Santiago Brunetto
+seccion: Sociedad
+volanta_bajada: El 82 por ciento de los encuestados está en contra de la cesión de tierras a empresas privadas en el "Distrito de Barrios Populares"
+link: https://www.pagina12.com.ar/447767-caba-mas-de-400-mil-personas-viven-en-barrios-populares-segu
+marcas a codificar: M1699
+----- TEXTO -----
+"El 15 por ciento de la población de la Ciudad de Buenos Aires vive en villas, asentamientos y Núcleos Habitacionales Transitorios (NHT)", indica un informe elaborado por organizaciones sociales
+porteñas sobre el número de habitantes de los barrios populares, que asciende a "más de 400 mil vecines". El informe es el resultado de un relevamiento autogestivo realizado casa por casa, en el que
+además se consultó sobre las preocupaciones de la población: mayor acceso a la salud, acompañamiento en casos de violencia de género, más escuelas y vacantes, y creación de puestos de trabajo,
+aparecen como los principales reclamos. El 82 por ciento de los encuestados se manifestó en contra de la cesión de tierras a empresas privadas a través del recientemente creado "Distrito de Barrios
+Populares".
+
+El relevamiento fue realizado durante el tercer fin de semana de julio por las organizaciones Corriente Villera Independiente, La Barriada, MTD Aníbal Verón, Soberana y Paritaria Social y Popular, y
+se llevó a cabo en 21 de las 50 villas, asentamientos y NHT que según el Registro Nacional de Barrios Populares (ReNaBaP) hay actualmente en la Ciudad de Buenos Aires. Con 600 vecinos y vecinas que
+oficiaron de encuestadores, las organizaciones llegaron "casa por casa, manzana por manzana" a "un total aproximado de 150 mil vecinxs relevados" a través de 36 mil encuestas. La proyección hacia los
+demás barrios y por familias arrojó que "más de 400 mil vecines" viven en barrios populares y "no poseen acceso a servicios básicos como luz, agua, gas natural y cloacas".
+
+"400 mil personas, es decir el 15 por ciento de la población de la ciudad de Buenos Aires, habita en villas, asentamientos o NHT", subrayó Marina Joski, coordinadora nacional del Movimiento Popular La
+Dignidad, durante la presentación del informe, que se realizó este martes en el Salón Montevideo de la Legislatura, en el inicio del ciclo "Los barrios desde adentro", promovido por la diputada
+porteña del Frente de Todos, Laura Velasco. La legisladora, presidenta de la Comisión de Promoción e Integración Social, aseguró allí que el oficialismo porteño "gobierna para los negocios de unos
+pocos y no para el bien común. En lugar de subsidiar a los sectores populares, subsidia a las empresas que ya tienen todo".
+
+Pero además de las cifras poblacionales, el relevamiento también arrojó resultados sobre las principales preocupaciones de los habitantes de los barrios populares, divididas en los ejes salud,
+educación, vivienda, trabajo, deportes y cultura. La necesidad de hospitales de alta complejidad picó en punta como la más urgente, especialmente en los barrios de la comunas 8 y 1, con el 85 y el 62
+por ciento de las respuestas respectivamente. Los vecinos y vecinas también reclamaron mayor acceso a herramientas de salud mental y a profesionales de la salud en en los centros de atención primaria.
+
+En cuanto a la educación, más de la mitad de los encuestados señalaron que se necesitan más vacantes y escuelas en los barrios, que en muchos casos ni siquiera cuentan con un establecimiento
+educativo. De una serie de varias opciones, el 52 por ciento apuntó a esa necesidad, mientras que el 33 por ciento pidió mejoras en el transporte escolar para llevar al colegio a los chicos y chicas
+que, precisamente, deben asistir a instituciones fuera de sus barrios. La opción por mayores becas alimentarias fue elegida en el 44 por ciento de los casos.
+
+En el eje centrado en la vivienda, el "acceso a la vivienda propia" fue el reclamo más repetido, seguido por la exigencia de una "solución definitiva a los inquilinos y de urbanización, es decir, el
+acceso a los servicios básicos de agua, luz, cloacas y gas", según precisó Joski. En este sentido, el informe recuerda que en la ciudad "solo cuatro Barrios Populares se encuentran en procesos de
+urbanizacion activa pero de manera incompleta, poco democrática y transparente". Se trata de los barrios Padre Mugica, Rodrigo Bueno, Playón Chacarita y Villa 20. En el cuarto lugar del eje aparece la
+necesidad de "refacciones en las casas" y en quinto la de escrituración de viviendas con situaciones dominiales irregulares. Por último, los vecinos y vecinas también reclamaron "más subsidios
+habitacionales".
+
+En el ámbito del trabajo, la mayor exigencia fue la de "creación de puestos de trabajo dentro y fuera del barrio". En este punto, la integrante de La Dignidad destacó que el "82 por ciento de los
+encuestados rechazó el distrito económico de barrios populares" aprobado por el oficialismo porteño, que otorga beneficios impositivos a las empresas para instalarse en terrenos de los cuatro barrios
+que están en proceso de urbanización. Joski precisó que ese porcentaje se expresó en contra de "la cesión de tierras a empresas". Los vecinos y vecinas también pidieron por el fortalecimiento de
+cooperativas barriales y de la ⟦M1699⟧economía popular⟦/M1699⟧, además de capacitaciones, financiamientos de proyectos y escuelas de oficio.
+
+"El acceso a la salud, la educacion y el trabajo no son abordados por el Gobierno de la Ciudad", apunta el informe, que advierte que "el presupesto de la Ciudad invierte más en publicidad, con 12
+millones de pesos por día, y en fomento de la especulación inmobiliaria que en urbanizar las villas". El rol del Estado porteño frente a la violencia de género en los barrios también estuvo presente
+en el relevamiento. En el eje "violencia machista", el reclamo de "mayor acompañamiento y seguimiento" fue el más mencionado con el 80 por ciento de las respuestas. También aparece el de mayor
+acompañamiento en salud mental y la denuncia por la no recepción en las comisarías de las denuncias por violencias.
+
+El 72 por ciento de los encuestados, en tanto, señaló que sus barrios necesitan que se creen "espacios culturales y deportivos". Dentro de ese rubro, con el 63 por ciento, aparece el reclamo por mayor
+"acceso a la cultura dentro y fuera del barrio", mientras que la opción "acceso gratuito a polideportivos barriales" fue elegida en un 26 por ciento de los casos.
+
+===== NOTA 25 de 31 =====
+medio: Página/12
+titulo: Más de $1.900 millones en obras para barrios populares del interior de Salta
+fecha: 2022-08-09 04:52:50
+autor: Maira López
+seccion: Salta|12
+volanta_bajada: La Provincia cuenta con 154 barrios inscriptos en el RENABAP
+link: https://www.pagina12.com.ar/447980-mas-de-1-900-millones-en-obras-para-barrios-populares-del-in
+marcas a codificar: M1700
+----- TEXTO -----
+Desde que el gobierno de Salta anunció el arribo del Programa Argentina Unida por la Integración de Barrios Populares, dependiente de la Secretaria de Integración Socio Urbana de la Nación, las
+localidades del interior ya recibieron $1.933 millones para el financiamiento de proyectos de integración socio urbana. Esto significa la ejecución de obras de infraestructura en los barrios
+inscriptos en el Registro Nacional de Barrios Populares (RENABAP).
+
+Las localidades beneficiadas son Orán, General Güemes, Rosario de Lerma y Tartagal. Se espera la aprobación de un proyecto para el municipio de Pichanal, que tendrá un monto estimado de $1.170
+millones, convirtiéndose en el proyecto de mayor inversión en la provincia. Desde la Dirección General de Integración Socio Urbana (DISU) se adelantó que además hay 22 barrios incluidos en un listado
+para recibir futuras inversiones.
+
+Funcionarios de esta Dirección provincial ayer recorrieron el departamento Rosario de la Frontera para iniciar una primera etapa de identificación de obras prioritarias en los barrios Santa Ana y
+Obras Sanitarias. Su directora, Paula Castro, celebró el trabajo que vienen ejecutando junto a su equipo técnico en el interior de la provincia, pues se trata de dar respuesta a demandas básicas
+existentes en barrios desde hace más de 30 años.
+
+El programa se creó para garantizar obras en los barrios populares del país. En Salta existen 154 barrios populares inscriptos en el Renabap. Estas obras consisten en conexiones domiciliarias e
+intra-lote de agua y cloacas; desagües pluviales y cordones cuneta; nuevas redes de agua y cloaca, con conexión domiciliaria y nuevo pavimento y alumbrado público, y refuncionalización de espacios
+públicos.
+
+Castro dijo que la puesta en marcha del programa es "básicamente la participación ciudadana", que permite que las y los vecinos del lugar definan "qué es lo más prioritario que tiene el barrio", por
+lo que destacó que se sostengan los encuentros vecinales, como se hizo ayer en Rosario de la Frontera.
+
+La realización del diagnóstico social y urbano está a cargo del equipo DISU, que mediante reuniones participativas con vecinos ejecutan, de acuerdo a las líneas del programa vinculadas a las urgencias
+de la ciudadanía. Se coordinan las reuniones en espacios verdes o espacios comunitarios a los fines de generar la apropiación del espacio público, se informó desde la Dirección.
+
+"Estas reuniones participativas son las que permiten involucrar al vecino en los proyectos y hacerlos propios", precisó Castro. La resolución nacional 925/20, que crea el programa nacional, ordena que
+un 25% de las obras, como mínimo, deberán adjudicarse a las cooperativas de trabajo u otros grupos asociativos de la ⟦M1700⟧economía popular⟦/M1700⟧ integradas, preferentemente, por vecinos y vecinas
+de los barrios.
+
+Desde que la política nacional entró en funcionamiento, Castro dijo que $437 millones se destinaron al barrio Libertad, de Orán; otros 374 millones fueron al barrio Nueva Esperanza de General Güemes;
+en el barrio 9 de Julio, de Tartagal, se recibieron $580 millones, y en el barrio Las Malvinas, $222 millones. Mientras que el 16 de agosto se abrirán los sobres licitatorios para el barrio Parcela
+37, de Tartagal, que será beneficiario de $320 millones ya asignados.
+
+Además, está próximo a firmarse el proyecto para el barrio Tres Palmeras, de Pichanal, que tendrá una inversión de $1.170 millones para la ejecución de distintas obras. Según la ley nacional 27.453,
+los barrios populares son aquellos que están compuestos por al menos ocho familias agrupadas o contiguas, donde más de la mitad de la población no cuenta con título de propiedad del suelo ni acceso
+regular a dos, o más, de los servicios básicos.
+
+"Este es un trabajo conjunto entre los municipios, la Provincia y Nación", expresó la Castro, agregando que tienen "22  barrios más" en un listado para que también puedan contar con fondos de
+inversión en obras.
+
+En ese sentido, destacó la labor que están realizando en las localidades que no cuentan con un equipo técnico para desarrollar las carpetas que se piden desde la Secretaría de Integración Socio Urbana
+de la Nación. Indicó que el acompañamiento es antes, durante y después de la obra. En ese sentido, adelantó que la semana entrante llegará la responsable del área nacional, Fernanda Miño, quien vendrá
+a supervisar las obras.
+
+En el caso de la capital salteña, la intendenta Bettina Romero y su equipo técnico, gestionan los fondos para su municipio. Precisamente, a fines de julio, dio a conocer que ya cuentan con más de $380
+millones para obras en barrios populares de la ciudad de Salta.
+
+La Municipalidad capitalina anunció que se pondrá en marcha la ejecución de una primera etapa de obras que beneficiarán a 390 familias del barrio Ampliación 20 de Junio. Este primer momento tendrá una
+inversión de $80 millones y se sumará a los 300 millones que ya se están invirtiendo en los barrios Sanidad II y San Justo I, Juan Manuel de Rosas y 23 de Agosto.
+
+En la ciudad de Salta hay 46 barrios populares, de acuerdo al Registro Nacional de Barrios Populares (RENABAP), que reúne información sobre las villas y asentamientos de Argentina. Este año se sumaron
+otros 7 barrios: Los Pinos, Israel, ARA San Juan, El Milagro, Santa Clara de Asis, La Católica y Comunidad Lule.
+
+===== NOTA 26 de 31 =====
+medio: Página/12
+titulo: Marc Chagall y su prestigio eterno
+fecha: 2022-08-09 23:22:07
+autor: Alejandro Marmo
+seccion: Cultura y Espectáculos
+volanta_bajada: De Arte no entiendo nada 
+link: https://www.pagina12.com.ar/448184-marc-chagall-y-su-prestigio-eterno
+marcas a codificar: M1701
+----- TEXTO -----
+Si la posta es lo etéreo, creer en la realidad es perderse en tiempo y espacio. De esta forma empezaría a pensar lo inspirador de la obra del pintor nacido en Bielorrusia.
+
+Chagall es perceptivo a todo el universo, y la obra, en ese plan, se ríe con ganas del clisé que imponen las lecturas contemporáneas de un proceso creativo que vive en la atemporalidad. El prestigio
+amateur del arte generalmente cae en el disparate de pensar lo etéreo como algo perdido, que no entiende nada más que su órbita y desconecta el cable a tierra.
+
+Por ello hay que estar atento al costado mersa de la belleza impuesta, porque en ese tablero  aflora la falsa reputación  y entra en crisis el verdadero prestigio que es lo auténtico.
+
+Pensar la existencia con medida de profundidad en la pisada que dejamos, me hace pensar que la marca de la huella que deja una vida como la de Marc Chagall, pone en jaque a esta época sin espíritu.
+Transitamos un tiempo con líderes que no lideran la determinación de una nueva esperanza, con entusiasmo viejo.
+
+La galería que expone conquistas pasadas, porque puede ejercer la violencia física o discursiva, confundiendo esa acción negativa  con "la honestidad  brutal", está montada al peor defecto que
+construyen las imposturas intelectuales.
+
+El ejemplo más contundente es el hit que funcionó en un verano,  y se repite a sí mismo,  para seguir choreando, como diría mi amigo Lalo, que se puso un mercado de ⟦M1701⟧economía popular⟦/M1701⟧ en
+Recoleta.
+
+Por ello, la agonía de los viejos prestigios ya es un hecho fáctico en todos los mundos nuevos y, como una pintura de Marc Chagall, el color de la verdad toma “La crucifixión blanca” para un
+renacimiento de la nueva confianza social.
+
+Su obra hace pensar en su historia. Chagall nació en una aldea en  Rusia, en una familia de origen judío y fue el mayor de 9 hermanos. Desde su adolescencia se vinculó con el arte y viajó a París ya
+siendo un reconocido pintor. Regresó a su país natal donde formó su familia. Involucrado socialmente, participó de manera activa en la Revolución Rusa. Durante la Segunda Guerra Mundial tuvo que
+exiliarse en Estados Unidos tanto por su origen judío como por su provocador estilo artístico. Allí sus pinturas alcanzaron un notable reconocimiento.
+
+Sin embargo, en el año 1948 Marc decide regresar e  instalarse definitivamente en Francia donde desarrolló su obra. Sus inicios fueron inspirados por grandes artistas como Matisse, Picasso y Braque.
+Luego su obra fue plasmando las memorias de su infancia y el folclore popular ruso, temas que marcaron una impronta en su arte.
+
+Murió a los 97 años dejando un caudal de obras como “Yo y la Aldea”, “Autorretrato del artista”, “La casa gris”, “La creación del hombre”, entre otras.
+
+Hoy encontramos a Chagall en las catedrales de Zurich y Reims (Francia), en la Opera de París, o en la Metropolitan Opera House de Nueva York. También podemos verlo en una plaza en el centro de
+Chicago y en el museo de Vitebsk que lleva su nombre, entre tantos otros lugares.
+
+Recorrer su obra nos hace creer que Chagall no envejece, porque su prestigio angelado es la cultura del trabajo y el silencio.
+
+===== NOTA 27 de 31 =====
+medio: Página/12
+titulo: Arroyo: "Macri termina con más pobreza, desocupación y desigualdad"
+fecha: 2022-08-10 18:45:00
+autor: 
+seccion: LA750 
+volanta_bajada: 
+ El Diputado Daniel Arroyo estuvo en diálogo con Bernarda Llorente y Claudio Villarruel y se refirió a 
+link: https://www.pagina12.com.ar/449944-arroyo-macri-termina-con-mas-pobreza-desocupacion-y-desigual
+marcas a codificar: M1702
+----- TEXTO -----
+El Diputado Daniel Arroyo estuvo en diálogo con Bernarda Llorente y Claudio Villarruel y se refirió a la propuesta que presentó en el día de hoy Alberto Fernández para garantizar la alimentación a los
+sectores más vulnerables.
+
+La iniciativa que propuso el Diputado Daniel Arroyo, apunta a mejorar la nutrición, prevé bajas del precio de los alimentos y la generación de mayores ingresos para las familias:  "acá hay una
+política de estado y es que no puede haber hambre en la Argentina".  Para Arroyo, "la canasta de alimentos tiene que ser accesible siempre, tiene que ser barato en un país que produce alimentos".
+
+En la presentación del plan "Argentina contra el hambre", que buscará reunir en un consejo al Estado, las empresas y las organizaciones de la ⟦M1702⟧economía popular⟦/M1702⟧ para bajar los precios de
+la canasta básica y aplicar una política alimentaria federal. "Todo lo que vamos a conversar parte de una premisa: La canasta básica tiene que ser accesible siempre", explicó Arroyo y agregó: "la
+regla de Argentina es que comer tiene que ser barato porque producimos alimentos"
+
+Arroyo explicó que esta crisis económica no sigue la misma lógica de las anteriores:  "hay dos situaciones que son distintas a las otras crisis: El aumento de alimentos, que siempre aumentan y los
+endeudamientos de las familias". Según el Diputado, "lo que ha faltado es distinguir la canasta básica del resto".
+
+Para el Diputado, uno de los grandes problemas actuales es el consumo de leche, Arroyo explicó que en los gobiernos anteriores se incentivaba el consumo de lácteos, "si baja el consumo es que estamos
+en un lugar muy complicado".  Arroyo se refirió a las políticas económicas del Gobierno de Mauricio Macri que  "termina con más pobreza, más desocupación y más desigualdad".   "La Argentina iba camino
+a resolver el problema del hambre y retrocedió con las políticas de este Gobierno", finalizó.
+
+===== NOTA 28 de 31 =====
+medio: Página/12
+titulo: Alberto Fernández: "El Gobierno está en caravana y se olvidó de gobernar"
+fecha: 2022-08-10 18:45:00
+autor: 
+seccion: LA750 
+volanta_bajada: 
+El candidato a Presidente por el Frente de Todos, Alberto Fernández, estuvo en diálogo con Pablo Caruso y Luispa Giniger
+link: https://www.pagina12.com.ar/449947-alberto-fernandez-el-gobierno-esta-en-caravana-y-se-olvido-d
+marcas a codificar: M1703
+----- TEXTO -----
+El candidato a Presidente por el Frente de Todos, Alberto Fernández, estuvo en diálogo con Pablo Caruso y Luispa Giniger después de la presentación en el día de hoy del plan de lucha contra el hambre.
+
+En el plan que presentó en el día de hoy en Agronomía por iniciativa del Diputado Daniel Arroyo "Argentina contra el hambre",  buscará reunir en un consejo al Estado, las empresas y las organizaciones
+de la ⟦M1703⟧economía popular⟦/M1703⟧ para bajar los precios de la canasta básica y aplicar una política alimentaria federal. Para Fernández, "es incomprensible que en el siglo XXI, en el mismo país
+que dice que puede alimentar a 400 millones de personas no podamos resolver la situación de 15 millones que están en situación de pobreza".  Alberto Fernández se refirió a los dichos de algunos
+dirigentes en contra de los planes sociales: "¿en serio alguien cree que alguien que vive en un plan está feliz? Nadie en su sano juicio puede creer que hay argentinos que puedan preferir un plan
+antes que tener trabajo", explicó.  "Es cierto que hay un sector de la sociedad que ha quedado muy postergado, que no ha logrado salir de la pobreza", dijo el Candidato y aclaró: "vamos a  ser una
+mejor sociedad si nos preocupamos en que todas las familias haya un plato de comida".
+
+Alberto Fernandez explicó que si bien, antes respondía que "era solo un candidato" cambió su postura ante las necesidades urgentes que tiene la sociedad Argentina por las políticas de Mauricio Macri:
+"esto hay que empezar a hacerlo hoy, no después del 27 de octubre. "Uno empieza a advertir que tiene que hacerse cargo de los problemas que le plantean" y agregó:  "lo que más me preocupa es que la
+Argentina no se desbarranque más que lo que se ha desbarrancado". Fernández apuntó contra el Presidente al mencionar que  "está en caravana y se olvidó de gobernar, no hace nada por gobernar".
+
+La propuesta del Candidato para luchar contra el hambre, busca acuerdos intersectorales, políticas alimentarias acordadas con cada provincia e infraestructura. "es un tema que hace tiempo me lo vengo
+planteando. A todos los que llamé y convoque por esto me dijeron que si".
+
+Fernández explicó que si bien hay consensos los sectores más dominantes en la argentina son más reacios al pacto social: "los sectores dominantes nunca quieren ceder", dijo y agregó: "hay que
+recomponer la estructura social de la argentina, de ese modo se reconstruye la posición consumidora de la sociedad".  Alberto Fernández también se refirió a las reuniones que ha tenido con la UIA y
+otros sectores empresarios: "hay que entender que los empresarios no son nuestros enemigos", explicó y agregó: "la regla es que podemos encontrarnos en un proyecto común que es el que hay que
+construir".
+
+"Todos viven en un contexto espantoso y el espanto une. Hay que entender que una vez que lo superemos, no volvamos a ese espanto", dijo el Candidato a Presidente al referirse al contexto que vive la
+población Argentina.
+
+Alberto Fernández dio definiciones acerca de las políticas tarifarias que necesita el país, Fernández explicó que las tarifas en principio están dolarizadas y tienen un sendero de precio que se
+incrementa al márgen de la devaluación. "Pagamos más no porque las tarifas aumenten sino por la devaluación, hay un doble incremento", explicó y agregó: "si se aplica toda la tarifa retrasada en
+enero, que dios nos ayude". Fernández criticó la comparación de las tarifas argentinas con las de Estados Unidos o Europa, "no me sirve de nada, porque no tiene que ver con Argentina".El candidato
+explicó que hay una parte de la economía argentina que está dolarizada, "me pregunto por qué todos nos manejamos en pesos menos estas tarifas".
+
+Fernández también se refirió a las "cadenas de valor": "cuando mirás cuando vale un litro de leche y cuanto le pagan a un productor decís ¿que pasó en el medio?.Acá hay una distorsión", explicó.
+
+Fernández bromeó acerca de los dichos de Mauricio Macri comparándose con San Martin: "la verdad es que San Martin generó un movimiento en toda la independencia y Macri lo único que hizo fue someternos
+al FMI".
+
+Alberto, que explicó que acababa de reunirse con el Candidato a Presidente de Uruguay, Daniel Martinez  con quien tienen una "muy buena relación y una mirada común en lo que hay que hacer en Uruguay,
+en Argentina y en nuestro continente". El Candidato a Presidente habló acerca de la crisis en américa latina y de las elecciones que se vienen en el continente, como la de Bolivia y la de Uruguay: "la
+Argentina está haciendo un viraje político muy importante y todos los países están prestando atención"
+
+===== NOTA 29 de 31 =====
+medio: Página/12
+titulo: Emergencia Alimentaria: "La expectativa es que hoy se convierta en ley"
+fecha: 2022-08-10 18:45:00
+autor: 
+seccion: LA750 
+volanta_bajada: 
+Gildo Onorato de la CTEP  (Confederación de Trabajadores de la Economía Popular), estuvo en diálogo con Federica Pais y Martín Granovsky y se refirió a la 
+link: https://www.pagina12.com.ar/449749-emergencia-alimentaria-la-expectativa-es-que-hoy-se-conviert
+marcas a codificar: M1704
+----- TEXTO -----
+Gildo Onorato de la CTEP  (Confederación de Trabajadores de la ⟦M1704⟧Economía Popular⟦/M1704⟧), estuvo en diálogo con Federica Pais y Martín Granovsky y se refirió a la movilización que realizarán
+hoy desde las 11 hs al Congreso Nacional para apoyar el proyecto de ley de Emergencia Alimentaria.
+
+===== NOTA 30 de 31 =====
+medio: Página/12
+titulo: Desde la CTEP aplaudieron el encuentro con Alberto Fernández
+fecha: 2022-08-10 18:54:51
+autor: 
+seccion: LA750 
+volanta_bajada: 
+ Esteban "Gringo" Castro, referente de la CTEP estuvo en diálogo con Pablo Caruso y Luispa Giniger y se refirió a la
+link: https://www.pagina12.com.ar/450343-desde-la-ctep-aplaudieron-el-encuentro-con-alberto-fernandez
+marcas a codificar: M1705, M1706
+----- TEXTO -----
+Esteban "Gringo" Castro, referente de la CTEP estuvo en diálogo con Pablo Caruso y Luispa Giniger y se refirió a la reunión del día de ayer entre Alberto Fernández con los Movimientos Sociales y el
+titular de la Pastoral Social.
+
+"La impresión que me dio Alberto es que fue muy sincero en entender lo que es la ⟦M1705⟧economía popular⟦/M1705⟧", dijo Castro en referencia al encuentro y explicó que "la ⟦M1706⟧economía
+popular⟦/M1706⟧ es algo que llegó para quedarse. Le tenemos que dar alguna solución en término de políticas de estado"
+
+Para el referente de la CTEP, "hay una coincidencia general en que este es un país totalmente desigual. Partido en dos maneras de pensar la vida, que han logrado que un sector esté creyendo que, por
+si no fuera por los impuestos que ellos pagan,  el otro sector no seria capaz de vivir". Para Castro, ese discurso "hay que ponerlo en discusión" y explicó que el mayor impuesto de recaudación es el
+Impuesto al Valor Agregado (IVA), que lo paga tanto el gran empresario como la persona humilde que compra "una maceta"
+
+"Desde los más pobres apostamos a que el país salga adelante, es un debate que se tienen que promover desde el estado", dijo Castro y agregó: "los 12 años de Kirchnerismo fueron los momentos mas
+felices de mi vida, fuimos felices como colectivo pero sin embargo quedó un sector que no lograba la integración social". Para el referente de la CTEP, "integración es que estas teniendo en cuenta al
+otro para integrarlo, es todo lo contrario que lo que plantea la señora que asumió la presidenta de Bolivia"
+
+===== NOTA 31 de 31 =====
+medio: Página/12
+titulo: Mujeres sindicalistas se reunieron con el Ministerio de Mujeres, Géneros y Diversidad
+fecha: 2022-08-10 18:54:51
+autor: 
+seccion: LA750 
+volanta_bajada: El Ministerio de Mujeres, Géneros y Diversidad organizó un encuentro con mujeres de las distintas centrales sindicales del país con el con el objetivo de promover la ig
+link: https://www.pagina12.com.ar/451599-mujeres-sindicalistas-se-reunieron-con-el-ministerio-de-muje
+marcas a codificar: M1707
+----- TEXTO -----
+El Ministerio de Mujeres, Géneros y Diversidad organizó un encuentro con mujeres de las distintas centrales sindicales del país con el con el objetivo de promover la igualdad de género en el mundo del
+trabajo y en el sindical. "En este ministerio somos ante todo trabajadoras y por eso nuestro objetivo es garantizar los derechos de todas, todos y todes", expresó la ministra Elizabeth Gómez Alcorta.
+
+https://youtu.be/zrUMbGl8BiI
+
+En el encuentro estuvieron presentes también la secretaria de Políticas de Igualdad y Diversidad, Cecilia Merchan,  Yamile Socolovsky, de la CTA de los Trabajadores; Claudia Baigorria, de la CTA
+Autónoma; Noe Ruiz, de la CGT; Mara Rivera, de la Corriente Federal de Trabajadores y Trabajadoras y Jackie Flores, de la Unión de Trabajadores de la ⟦M1707⟧Economía Popular⟦/M1707⟧.
+
+"Escuchar a quienes representan a las mujeres trabajadoras en los propios sindicatos es el modo que tenemos para poder pensar con los pies en la tierra los problemas y las realidades y para poder
+diseñar las políticas públicas justamente desde esa realidad y no desde los despachos del Ministerio”, sostuvo Gómez Alcorta.
+
+Además, las participantes del encuentro hicieron propuestas a los fines de  fortalecer la participación política de las mujeres y el colectivo LGTBI+ en el mundo laboral y sindical así como realizar
+aportes para diseñar políticas públicas con perspectiva de género.
+

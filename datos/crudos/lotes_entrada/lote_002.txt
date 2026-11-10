@@ -1,0 +1,1768 @@
+===== NOTA 1 de 35 =====
+medio: La Nación
+titulo: Asignaciones y planes sociales: cómo son las transferencias de dinero del Estado a los hogares
+fecha: 2019-09-29 03:00:00
+autor: Silvia Stang
+seccion: Economía
+volanta_bajada: Los cobros por hijo, los programas para desocupados y las pensiones no contributivas son las vías por las cuales se distribuyen recursos fiscales a un grupo de familias; cómo funcionan los esquemas, qué opiniones hay sobre las formas de implementarlos y cómo entran en juego las organizaciones sociales
+link: https://www.lanacion.com.ar/economia/el-escenario-financiero-quienes-son-los-mercados-y-como-influyen-en-la-economia-del-pais-nid2292141/
+marcas a codificar: M0042
+----- TEXTO -----
+Una sociedad con una fuerte y persistente fragmentación, donde la pobreza afecta a más de un tercio de las personas y la informalidad es la condición en la que está inmersa casi la mitad de quienes
+tienen alguna ocupación laboral. Esa es la realidad de la Argentina detrás del esquema de transferencias de dinero desde el Estado hacia un amplio número de hogares, caracterizados por estar al margen
+del sistema de seguridad social de la economía formal.
+
+La asignación universal por hijo, que alcanza a casi cuatro millones de chicos y a la que este año se destinan $129.500 millones, y los planes para desocupados, con 450.000 beneficiarios que este mes
+cobraron $8000, son los sistemas dirigidos a los menores de edad y a los adultos en edad activa. El segundo de esos dos universos es el más frecuentemente puesto bajo la lupa, por la exposición a los
+juegos clientelares de la política y por la mirada crítica de parte de la población. Qué contraprestaciones debería haber, por ejemplo, es un eje de debate contante. "Pareciera que quienes cobran
+planes son el problema central del país, cuando en realidad lo son las causas estructurales que llevan a esos ciudadanos a tener planes o a manifestarse en la calle", considera sobre el tema el
+politólogo y sacerdote jesuita Rodrigo Zarazaga, director del Centro de Investigación y Acción Social (CIAS) .
+
+A los dos grupos mencionados se suma el de las pensiones no contributivas, cobradas por razones como la de llegar a una determinada edad sin aportes jubilatorios, tener una discapacidad, o ser madre
+de siete o más hijos. Medida en términos de dinero, esta pata de la protección social es la de mayor incidencia: este año los pagos rondarían los $620.000 millones, un monto en el que pesan
+fuertemente las jubilaciones dadas por moratoria, que no están en su totalidad asignadas a población vulnerable, porque en el gobierno anterior no hubo, para acceder, condiciones referidas a la
+situación económica.
+
+Los objetivos de asignar ingresos difieren según la edad y la condición de quienes los reciben. La meta que diferentes estudios e incluso políticas concretas plantean para quienes transitan la etapa
+activa es la inserción en el empleo formal. Meta difícil en un escenario de recesión y alta inflación, que en los últimos tiempos hizo que creciera el número de personas que están en busca de un
+puesto para mejorar el ingreso familiar.
+
+A continuación, una descripción de los tres universos de pagos sociales y un análisis sobre la forma en la que podría mejorarse su gestión.
+
+AUH, la prestación social con más destinatarios
+
+De las transferencias directas de dinero desde el Estado a los hogares la que tiene mayor cantidad de destinatarios es la Asignación Universal por Hijo (AUH). Se trata de una política vinculada no
+solo a la situación de las familias que sufren desempleo, sino también a una realidad muy cercana a la vulnerabilidad y a los bajos ingresos: la informalidad. Si se considera al conjunto de
+asalariados y cuentapropistas, esa condición afecta a cerca de la mitad de los trabajadores en la Argentina.
+
+La AUH es, en rigor, una de las tres patas del esquema de derivación de recursos a la niñez. Otra es el sistema de asignaciones familiares que abarca a un amplio grupo de trabajadores formales bajo
+relación de dependencia y monotributistas y, la tercera,la deducción por hijo del impuesto a las ganancias que hacen quienes tienen ingresos medios y altos.
+
+Nacida a fines de 2009, la AUH -que se percibe hasta un límite de cinco menores de edad a cargo- alcanza hoy a casi cuatro millones de hijos de desocupados (incluyendo a quienes cobran planes
+sociales), trabajadores en negro, monotributistas sociales y personal de servicio doméstico. Desde marzo pasado y hasta noviembre próximo el monto es de $2652 por hijo. Pero esa cifra no es la que
+llega mensualmente a los hogares; en realidad, lo que se recibe con tal periodicidad es el 80% (hoy por hoy, $2121,60), mientras que el 20% ($530,40) llega en el año siguiente, tras la presentación,
+en cada caso, de la documentación que demuestre el cumplimiento de las condiciones de asistencia a la escuela y cuidado de la salud.
+
+Para presentar la documentación, el plazo vence el 31 de diciembre del año siguiente al del período por el que hay que informar. "En los últimos años hemos dispuesto la extensión del período, para
+que, entre el vencimiento original y el último día de la prórroga, el beneficio no quede suspendido", explica Fernanda Reyes, directora general de Proyectos de Niñez, Adolescencia y Juventud en la
+Anses. La funcionaria agrega que ahora se habilitó la posibilidad de usar la app del organismo previsional para subir los datos y que, además, hay acuerdos con provincias que dan información
+proveniente de sus sistemas de salud y educación, lo cual simplifica el trámite.
+
+"Hay que esperar aún para ver si la app funciona en términos de lograr que baje la cantidad de suspensiones", dice Gala Díaz Langou, investigadora del Centro de Implementación de Políticas Públicas
+para la Equidad y el Crecimiento (Cippec), que en 2018 participó de la elaboración de un trabajo con recomendaciones para mejorar el sistema y, entre ellas, estaba la de desburocratizar.
+
+Reyes dice que en los últimos años se avanzó en identificar datos referidos a chicos que estaban fuera de toda asignación. A eso se sumó la incorporación, en 2016, de algo más de un millón de hijos de
+monotributistas, no a la AUH sino al sistema formal de asignaciones familiares. Sin embargo, el número de menores por los que se percibe esta última prestación vinculada a la economía formal cayó en
+2018 y también este año, en gran medida por la recesión.
+
+En cuanto al monto de la AUH, José Fiorito, coordinador del Programa de Protección Social del Cippec, considera que debería redefinirse en función de un parámetro: el costo de la canasta básica
+alimentaria para un niño. "Además, creemos que la actualización debería hacerse más en tiempo real y no con un rezago de seis meses respecto de la inflación que se toma en cuenta, tal como ocurre
+hoy", agrega.
+
+El valor de la prestación mensual equivale hoy a alrededor de 60% del costo de la canasta básica alimentaria para un adulto varón, según datos del Indec. Pero para el caso de los chicos de 0 a 17
+años, el organismo de estadística estima que el costo de los alimentos que deberían consumir para cubrir sus necesidades calóricas más básicas es, dependiendo de la edad y el género, de entre 28% y
+104% en comparación con el correspondiente a un adulto.
+
+Para la actualización del monto, la AUH se rige por la ley de movilidad previsional, que prevé subas trimestrales. Para hacer el cálculo y determinar el porcentaje de aumento de cada período, se
+observa lo que ocurrió con las variables de la fórmula (inflación y salarios) seis meses atrás, es decir que existe un rezago significativo. Eso hace que en un escenario de inflación al alza, como
+pasó en varios meses de este año, se pierda poder adquisitivo.
+
+Solo en el caso de la AUH y por una medida de excepción, en marzo de este año se otorgó, a modo de adelanto, una suba de 46%, el porcentaje que, según se proyectó en ese momento, acumularía la
+movilidad este año al sumarse los cuatro aumentos dispuestos por ley (marzo, junio, septiembre y diciembre). Finalmente, la suma acumulativa de las recomposiciones dará 51%, lo que llevará a que haya
+un ajuste de la asignación en el mes de diciembre.
+
+"Los hogares no dejan de ser pobres por la AUH -concluye el economista Oscar Cetrángolo, investigador y docente en la UBA y el Conicet-. En algún momento el monto debería acercarse al cumplimiento de
+esa meta, pero eso depende de las posibilidades presupuestarias. Y la puja entre los conceptos de pago a cargo del Estado es compleja".
+
+Planes, la ayuda dirigida a desocupados
+
+¿Pensar en un proyecto para desarrollar algo a futuro? ¿O cobrar mes a mes un ingreso para subsistir? En una sociedad ampliamente fragmentada, la expresión "tener un plan" puede significar una u otra
+cosa, según quién se ubique frente a las preguntas. Tema que gana visibilidad en tiempos de crecientes manifestaciones callejeras, los planes del Estado dirigidos a desocupados alcanzan a unas 450.000
+personas, según lo informado por el Ministerio de Salud y Desarrollo Social.
+
+La gestión macrista agrupó lo otorgado en dos grandes programas. Uno es Hacemos Futuro (depende de la Secretaría de Economía Social y absorbió a los anteriores Argentina Trabaja y Ellas Hacen), con
+casi 250.000 beneficiarios. El otro, el Salario Social Complementario, cobrado por unas 200.000 personas, se puso en marcha a partir de la ley de emergencia social de 2016.
+
+Esa norma dispuso la participación de organizaciones sociales en la asignación del plan, al crear un consejo que le reserva tres sillas a sus dirigentes y que, entre sus funciones, tiene la de
+promover "los criterios de elegibilidad y priorización" para acceder al programa de ingresos. Formal e informalmente, el Gobierno mantuvo diálogos con varias organizaciones, de las cuales tres tomaron
+el rol de acercar beneficiarios: la Confederación de Trabajadores de la ⟦M0042⟧Economía Popular⟦/M0042⟧, Barrios de Pie y la Corriente Clasista Combativa.
+
+El monto de la prestación, que se paga por depósito bancario, tiene vinculación con el salario mínimo. Este mes es de $8000 y en octubre subirá a $8500. En Hacemos Futuro la condición para estar es
+terminar los estudios secundarios o capacitarse para un oficio. Desde el Gobierno señalan que la línea implementada para llamar por situaciones de amenazas o intimidaciones en relación al cobro de
+planes recibió 3345 denuncias y consultas y que 100 casos se derivaron al ámbito judicial.
+
+¿Es realista pensar en los planes como puente al empleo? En 2017 el Gobierno anunció el programa Empalme, por el cual las empresas que contratan a quienes cobran planes se ven beneficiadas con un
+menor costo, porque el Estado paga por un tiempo un subsidio, que se toma a cuenta del salario. Según datos presentados por el jefe de Gabinete en el Congreso, en dos años (hasta abril) 11.089
+personas fueron incluidas en ese esquema. A eso se suman otras estrategias de inserción con incentivos de la Secretaría de Empleo: "En 2018 y en lo que va de 2019, esos programas (incluyendo el
+Empalme) alcanzaron a 18.600 personas", dicen en esa dependencia.
+
+Según entiende el diputado Daniel Arroyo, quien está en las filas del Frente de Todos y es referente en políticas sociales, "lo que explica el bajo impacto del plan Empalme es que lo lanzaron en un
+contexto de caída de la actividad y que no lo orientaron hacia determinados sectores productivos".
+
+Arroyo sostiene que las organizaciones sociales son parte de la solución, "porque asisten, encaran procesos productivos y dan visibilidad a los más pobres". Entre las acciones que propone contra la
+desocupación están una masificación de créditos no bancarios a tasas bajas para compra de herramientas, y la creación de una red de tutores que ayuden a pasar de un plan a un empleo.
+
+La gestión actual lanzó un sistema de créditos de la Anses y otorgó $500 millones, a través de la Comisión Nacional de Microcrédito, a entidades que prestan a emprendedores vulnerables.
+
+"Empleo mínimo" es el nombre que le da el sociólogo Agustín Salvia a las tareas que podrían vincularse a los planes, a manera de contraprestación y de puente hacia el trabajo formal. "Hay que
+recuperar que se hagan actividades como contraparte; pueden ser trabajos comunitarios, de cuidado de personas", dice quien está a cargo del Observatorio de la Deuda Social de la UCA.
+
+Pero, ¿no podría ocurrir que se ocupen puestos en los que debería haber alguien cobrando al menos el salario mínimo y con todos los derechos laborales? Salvia responde que deben tomarse resguardos
+para que eso no pase. "Por ejemplo -explica-, no se trata de reemplazar al portero de una escuela, pero sí de ponerle un asistente, alguien que se vaya preparando y que pueda ocupar un puesto así al
+haber una vacante".
+
+Según Salvia, más allá de un contexto en el que se creen empleos, un plan como el Empalme necesita de otras condiciones para funcionar: algunas de contexto (la existencia de centros de primera
+infancia, por ejemplo) y otras personales: "De la inactividad absoluta no se puede ir a un empleo formal", advierte. Como una línea de acción concreta, considera positiva la reciente creación del
+Servicio Cívico Voluntario en Valores, que prevé talleres para jóvenes vulnerables. "La preparación allí recibida podría ser canalizada en esos 'empleos mínimos', que generarían capital humano y
+social entre los más pobres", dice.
+
+"Sin los planes sociales el país ya estaría sumido en el caos, y por eso el gobierno los mantuvo -define el investigador, sacerdote jesuita y doctor en Ciencias Políticas Rodrigo Zarazaga-. Pero son
+un mero paliativo frente a la pobreza estructural. Una sociedad que no produce empleo de calidad está destinada a los planes. Y una nación de planes no tiene futuro".
+
+Cobrar por edad, por siete hijos o más o por discapacidad
+
+El alcance que tiene la Asignación Universal por Hijo es una señal de la cantidad de chicos que viven en estado de vulnerabilidad. Los planes sociales reflejan la realidad del desempleo y el empleo
+precario. Y la magnitud de los pagos hechos a quienes no hicieron los aportes necesarios para la jubilación es la manera en que la fragmentación social se refleja en la población de mayor edad.
+
+En el universo de pensiones no contributivas hay, en rigor, tres grupos: las vinculadas a la edad, las otorgadas por discapacidad para el trabajo y las que tienen que ver con situaciones como la de
+ser madre de siete o más hijos.
+
+En 2006, durante el gobierno de Néstor Kirchner y por efecto de la reglamentación de una ley de los 90 (y no por un plan diseñado por los funcionarios de entonces), comenzaron a otorgarse prestaciones
+jubilatorias por moratoria. El mecanismo inicial dispuso que las personas declararan que habían sido trabajadores autónomos pero que no habían hecho los aportes (o que se sí habían pagado pero en
+forma insuficiente como para poder jubilarse, si es que así había ocurrido); el Estado otorgaba un plan de pago de la deuda con un subsidio implícito de tal magnitud que hacía posible afrontar la
+obligación. Por varios años las prestaciones se otorgaron sin importar la situación socioeconómica, por lo cual -si bien no fueron mayoría- accedieron personas con alto patrimonio.
+
+De las prestaciones actuales del sistema jubilatorio y según datos aportados por la Anses, 3.637.873 se obtuvieron vía moratoria: algunas de las personas alcanzadas no tenían aportes previos y otras
+sí los tenían pero no llegaban a los 30 años requeridos por la ley para acceder a la jubilación. Este grupo de jubilados es hoy mayor que el de los que aportaron regularmente, aunque los pagos
+correspondientes a estos últimos implican un monto superior, dado que el promedio de los haberes es más alto. Así, los cobros de quienes hicieron todos los aportes sumarán más de $840.000 millones
+este año, mientras que los de quienes adhirieron a la moratoria acumularán $550.000 millones, según los datos de la Anses.
+
+Las moratorias llevaron a una tasa de cobertura de la población de 65 años y más, superior al 95% (es la proporción de adultos de esas edades que cobran un ingreso). La posibilidad de acceder hoy
+sigue vigente, pero para un grupo de casos muy limitado.
+
+Como reemplazo al sistema de moratorias, la ley 27.260 creó en 2016 la Pensión Universal para el Adulto Mayor (PUAM), que hoy llega a 132.000 personas. Se cobra el 80% del haber mínimo y, para
+acceder, tanto varones como mujeres deben tener al menos 65 años (en el régimen contributivo la edad jubilatoria femenina se mantiene en 60 años). Además, hay que pasar una evaluación socioeconómica,
+una condición que no regía en un primer momento, sino que fue agregada después.
+
+"La moratoria es una salida de emergencia, pero acá se hizo recurrente y se lesionó la lógica previsional", analiza Oscar Cetrángolo, docente e investigador en la UBA y el Conicet, quien considera
+que, hacia adelante, habría que separar las prestaciones contributivas de las no contributivas y de las "semicontributivas" (muchas de las dadas por moratoria), para determinar qué podría pagar el
+Estado. El financiamiento del total de prestaciones (con y sin moratoria) requiere hoy, casi por partes iguales, de los aportes y contribuciones de trabajadores y empleadores, y de una parte de la
+recaudación impositiva.
+
+"La PUAM es más razonable y efectiva que la moratoria", evalúa Rafael Rofman, economista del Banco Mundial y líder del Programa de esa institución para la Argentina, Paraguay y Uruguay que, entre
+otros temas, contempla la protección social. Agrega que un aspecto a corregir es la falta de progresividad de la PUAM, porque, según entiende, debería tenerse en cuenta la cantidad de aportes en cada
+caso (hoy el pago es el mismo para quien no contribuyó nunca que para quien aportó, por ejemplo, 10 o 15 años).
+
+Otro capítulo de las pensiones no contributivas y, en este caso no vinculadas necesariamente a la pobreza, es el de las otorgadas por invalidez para el trabajo. Hoy hay 1.041.864 en curso de pago,
+algo menos de las que había en 2015, cuando habían llegado a 1.065.025 tras un alto crecimiento en seis años: en 2009 eran 309.711. En la Anses señalan que, como hubo fallos judiciales contrarios a la
+revisión hacia atrás que quiso hacer el Gobierno, no se llegó a conclusiones de cómo ocurrió aquel incremento de casos.
+
+En tanto, el número de pensiones a madres de siete hijos o más pasó de 209.128 a 309.399 en la última década. La asignación equivale a una jubilación mínima y este mes es de $12.937. Es un ingreso
+inferior al que le llega a una familia con cinco o seis hijos, que percibe el monto tope de la AUH (cinco prestaciones de $2652). Pero la pensión de las madres tiene una característica que la
+diferencia de las otras asignaciones: es vitalicia y se sigue cobrando siempre, más allá de la edad de los hijos o de si alguno fallece. La razón es que es una prestación para la mujer y no para los
+chicos y, una vez que ellos son grandes, ella ya lo será también como poder insertarse en el mercado laboral.
+
+===== NOTA 2 de 35 =====
+medio: La Nación
+titulo: Patricia Bullrich, sobre los movimientos sociales: "Tienen una cultura de la pobreza como algo positivo"
+fecha: 2019-09-29 15:38:00
+autor: 
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/patricia-bullrich-juan-grabois-movimientos-sociales-pobreza-nid2292417/
+marcas a codificar: M0043
+----- TEXTO -----
+La ministra de Seguridad, Patricia Bullrich, apuntó hoy contra los dirigentes de movimientos sociales por tener "una cultura de la pobreza como algo positivo" y afirmó que "no hay una estrategia clara
+para que la gente salga de la pobreza". "Tienen una mirada poco proclive a un cambio. Piensan la pobreza de una mirada simple", dijo.
+
+En diálogo con radio Mitre, a un día de la primera marcha del "Sí se puede" impulsada por el presidente Mauricio Macri, la funcionaria indicó además que aquellos que lideran los movimientos son
+políticos y no simples manifestantes: "No vamos a pensar que son Margarita Barrientos".
+
+En este sentido mencionó a los líderes del Movimiento Evita, Emilio Pérsico, y de la Confederación de Trabajadores de la ⟦M0043⟧Economía Popular⟦/M0043⟧ (Ctep), Juan Grabois, a los que tildó de ser
+"políticos reconvertidos en dirigentes sociales para tener una base política propia". "No son vulnerables", añadió.
+
+Aunque aseguró no estar "enojada" con las agrupaciones, manifestó que "en la Argentina hay un problema de pobreza que debe ser solucionada con una lógica de salida de la pobreza, no de estancamiento".
+"En los barrios, (los movimientos sociales) no logran dar herramientas distintas", indicó. "No hay una estrategia clara de los movimientos sociales de que la gente salga de la pobreza".
+
+Por otra parte, hizo referencia a las dificultades que, como Gobierno, enfrentaron "desde el primer día" al quedar "en un lugar muy difícil con marchas y oposición" a pesar de ser "una coalición
+política que cree en el diálogo como ninguna".
+
+"Hemos tenido poca posibilidad de diálogo en estos años, sobre todo en temas de carácter económico", objetó la ministra, para quien "una política de diálogo se da cuando hay que encarar políticas
+económicas difíciles también", de acuerdo a lo publicado por la agencia Télam.
+
+Bullrich también se refirió a los comicios generales del 27 de octubre y afirmó que el oficialismo mostrará una propuesta de cara a un segundo mandato vinculada con la clase media. "Nuestro foco es la
+clase media, la productividad y la competitividad de la economía. Una economía que permita a las empresas familiares crecer", aseguró.
+
+Consultada por el índice de pobreza del primer semestre de 2019 que informará mañana el Indec, aseguró que el dato responderá a que "en la Argentina hay un 30 por ciento de pobreza estructural que
+sube y baja de acuerdo al precio del dólar". "Hemos asumido perfectamente nuestra realidad. Lo que tenemos que hacer es reconstruir la moneda y la productividad", dijo Bullrich.
+
+Por último, la ministra habló sobre su futuro tras las presidenciales en caso de que Cambiemos no obtenga el triunfo e indicó que nunca pensó en irse del país y que tiene una filosofía que la impulsa
+a pensar en el presente. "Cuando uno está en un lugar, tiene que poner el esfuerzo ahí. No pensar en un paso siguiente. Prefiero quedarme en estos 30 días y luego veremos. Quizá si vamos al ballotage,
+tenemos más campaña. No nos damos por vencidos ni aun vencidos".
+
+===== NOTA 3 de 35 =====
+medio: La Nación
+titulo: De los que tienen planes del Gobierno, ni el 10% pudo pasar al mercado laboral
+fecha: 2019-09-30 03:00:00
+autor: Francisco Olivera
+seccion: Economía
+volanta_bajada: Desde 2017 se anotaron 560.000 personas; solo 30.000 consiguieron un puesto
+link: https://www.lanacion.com.ar/economia/de-los-que-tienen-planes-del-gobierno-solo-el-56-pudo-pasar-al-mercado-laboral-nid2292489/
+marcas a codificar: M0044
+----- TEXTO -----
+Podría ser la queja de un liberal ortodoxo, pero no: el que habla es Emilio Persico, secretario general del Movimiento Evita. "¿Sabe cuántos tipos trabajan en el sector privado en la Argentina? Seis
+millones. ¿Sabe cuántos eran en los 70? ¡Seis millones! Entonces, ¿cómo se va a sostener esto?". El dirigente social decía esto hace dos semanas en conversación con CNN Radio, horas antes de que se
+aprobara la ley de emergencia alimentaria. Consultado sobre si la asistencia social no conspiraba contra la cultura del trabajo, su respuesta tampoco difirió de la que daría cualquier empresario
+argentino: "Muchos planes la desalientan, esto es así. Como dice Francisco: bienvenida la ayuda social en la emergencia, pero una vez que eso se transforma en una forma de vida nacen los vicios
+sociales en el barrio. La familia argentina está desorganizada: el 60% de los hogares reciben más del Estado que de su propio trabajo. Eso es una barbaridad. Yo no quiero vivir en un país así".
+
+Los planes sociales son algo así como la herencia de la herencia de la herencia: cada una de las últimas administraciones le ha dejado algo, en general aumentado, a la subsiguiente. Lo más costoso del
+asunto es su contracara, la menos visible: se hace necesario solventar ese gasto con impuestos que vuelven menos atractiva la inversión y, por lo tanto, la generación de empleo. Es el círculo vicioso
+al que alude Persico y del que se quejan los empresarios.
+
+¿Cómo superar la trampa? No parece simple porque la educación, herramienta que podría volcar parte del universo de beneficiarios de la asistencia social al mercado laboral y aliviar el sistema, es
+también parte de la crisis. Hasta ahora, las iniciativas del Gobierno han tenido un éxito residual, afectado en gran medida por las dificultades de la macroeconomía.
+
+Los programas de Inserción Laboral y Empalme, creados a principios de 2017, reclutaron en distintos momentos a unos 560.000 aspirantes de entre 18 y 24 años con la esperanza de incorporarlos en
+empresas privadas. Pero al cabo de dos años y medio, solo 30.000 de ellos consiguieron fehacientemente trabajar. Es decir, se recuperó un 5%.
+
+"El problema es la demanda: dependemos mucho de que las empresas los tomen", dice Fernando Premoli, secretario de Empleo, dependencia del Ministerio de Producción y Trabajo que tiene a cargo el plan,
+que consiste en que el Estado le pague al trabajador parte del salario (entre 3900 y 7300 pesos, según el programa), y las compañías, lo que resta para llegar al salario mínimo vital y móvil, que
+quedó este mes en $15.625.
+
+La otra iniciativa pensada a esos efectos, el plan Hacemos Futuro, que depende del Ministerio de Desarrollo Social, reclutó en los últimos tres años a unos 250.000 beneficiarios a los que se les paga
+un salario social complementario, alrededor de 8000 pesos. La asistencia está en ese caso sujeta a inspecciones todos los meses: si quienes lo reciben acaban consiguiendo trabajo o se les detectan
+bienes que acrediten ingresos mayores, o empiezan a recibir jubilaciones u otros planes que no sean la asignación por hijo (AUH, único compatible) deben ser dados de baja.
+
+En el Gobierno afirman que la lista de quienes salen de ese plan crece a ritmo lento, pero todos los meses, y que llega en estos momentos a 23.000. Traducido: se recuperó algo más del 9% del total.
+Pero no cualquiera está capacitado para conseguirlo. En general, afirman, quienes quedan en esta situación de mejora, a los que se les da un año de plazo con la posibilidad de volver al beneficio
+inicial (hay unos 13.000 en estas condiciones) son los que han terminado la escuela secundaria, tienen cierta instrucción laboral o son hombres. Los sectores que suelen cobijarlos son los de la
+construcción, el servicio doméstico y servicios en general.
+
+"En general, no vuelven: la gente quiere trabajos. Es imposible vivir con un plan social", afirman en el Gobierno, donde aclaran que si alguien quisiera solo vivir de planes debería tener una
+situación infrecuente: debería sumar ese subsidio al de una asignación universal para cuatro hijos (el promedio de familias que reciben la AUH en todo el país es de dos hijos).
+
+Es cierto que no todos los dirigentes sociales están de acuerdo en que la relación entre gasto público, generación de riqueza y asistencia social supone un equilibrio frágil. Juan Grabois, otro de los
+dirigentes de la Confederación de Trabajadores de la ⟦M0044⟧Economía Popular⟦/M0044⟧, lo planteó la semana pasada en la sede de la CGT, durante la presentación de su libro La irrupción de los
+movimientos populares: Rerum novarum de nuestro tiempo, que acaba de publicar con prólogo del papa Francisco. "Yo quiero decir claro esto: el problema no son lo que llaman equivocadamente planes.
+Dejen de joder con que el problema son los planes: hay 500.000 miserables salarios sociales en la Argentina de muy poca plata. Si el problema de la Argentina es que hay eso, bueno, estamos mirando
+otra película. No se obsesionen por ver cómo reconvierten esos planes en un trabajador de Uber o de McDonald's o de Rappi. No es mucho mejor trabajar en McDonald's que en una casa comunitaria donde se
+saca a los pibes de la adicción".
+
+Son matices que emergen en medio de una preocupación común: la Argentina no solo no ha sido capaz de generar empleo, sino que ha consolidado en el transcurso de las últimas décadas un problema que si
+no se corrige a tiempo se podría propagar en una progresión casi geométrica. Como decía el premio Nobel Milton Friedman, que los planes se apliquen en un "ciclo eterno, no en un simple estado
+transitorio".
+
+Suele ocurrir con los flagelos argentinos: la gravedad del diagnóstico es capaz de hacer coincidir a Persico con el principal referente intelectual de la escuela de Chicago.
+
+===== NOTA 4 de 35 =====
+medio: La Nación
+titulo: Casi seis de cada diez personas están en situación de vulnerabilidad social
+fecha: 2019-10-08 23:41:00
+autor: Silvia Stang
+seccion: Economía
+volanta_bajada: 
+link: https://www.lanacion.com.ar/economia/casi-seis-cada-diez-personas-estan-situacion-nid2295356/
+marcas a codificar: M0045
+----- TEXTO -----
+Un 58% de la población urbana del país está en situación de vulnerabilidad social: 36,6% sufre la pobreza y 21,4% vive en hogares donde los ingresos percibidos sí superan el nivel establecido para no
+caer en esa condición, pero por una diferencia no significativa: en concreto, los ingresos que reciben esas familia equivalen hasta 1,5 veces el costo de la canasta básica que fija el umbral para
+definir quién es pobre y quién no. Por tanto, son personas que quedan muy expuestas al riesgo de caer en la pobreza, ante cambios o agravamientos en la situación económica.
+
+Los datos corresponden al segundo trimestre de este año y fueron estimados por investigadores de la Cátedra Unesco sobre las manifestaciones actuales de la cuestión social del Instituto Torcuato Di
+Tella, sobre la base de información del Indec, que días atrás informó que la pobreza llegó al 35,4% en el primer semestre de 2019. Un año atrás, la vulnerabilidad alcanzaba al 49,2% de la población.
+
+"En el conurbano la situación es más grave y, con un nivel de pobreza de 40,7%, la vulnerabilidad ronda el 62%", advirtió Guillermo Pérez Sosto, coordinador del mencionado espacio de estudios, quien
+participó como orador en el seminario sobre Inclusión Social y Laboral en la Argentina, organizado por el Programa Pobreza, Inclusión y Política Social (PIPS) de la Universidad Católica Argentina.
+
+Las políticas públicas para intentar dar alivio a la problemática social fueron uno de los ejes de la actividad. Los expositores se refirieron a dos tipos de estrategias: las más generales –sobre las
+cuales hubo consideraciones sobre la necesidad de reformular los sistemas productivo, económico y educativo– y las más puntuales, una temática dentro de la cual se exploraron las acciones, no solo de
+la Argentina, destinadas específicamente a personas vulnerables.
+
+"En Europa hay pobreza. Y todos los países tienen sus políticas de ingresos mínimos para protección social", describió Francesco Chiodi, coordinador de Política Social de IILA EUROsocial, un programa
+de cooperación entre la Unión Europea y América Latina. Explicó que esa política se basa en tres pilares: la transferencia de dinero; los servicios sociales (desde ayuda piscológica hasta orientación
+para proyectos de vida o acceso a vivienda) y los servicios laborales. El énfasis, agregó, está puesto en este último aspecto: por esta estrategia de "inclusión activa", quienes reciben el ingreso
+mínimo estatal y están en condiciones de trabajar deben formarse, hacer búsquedas laborales y no rechazar ofertas que sean acordes a su perfil. "Hay que atender peculiaridades y no categorías
+abstractas", sostuvo.
+
+Chiodi afirmó: "Todo lo que escuché aquí [en la Argentina] podría haberlo escuchado en Italia; allí también se da la trampa de la pobreza, que hace que haya gente que sume el ingreso mínimo al ingreso
+informal y no quiera formalizarse para no perder el subsidio".
+
+Explicó también que los resultados, en términos de lograr la inserción laboral de las personas en la economía formal y a partir de las políticas de transferencias de ingresos, son muy bajas. "En
+Alemania, en promedio la inserción se da en 2 años y 7 meses", ejemplificó.
+
+El funcionario destacó la necesidad de diferenciar las situaciones de quienes son subsidiados, porque "no todos los pobres pueden trabajar". Y llamó a no confundir las políticas de lucha contra la
+pobreza y la exclusión social con las políticas por el empleo.
+
+Quien también hizo hincapié en la necesidad de dar acompañamiento a las personas fue Vincent Billery, consejero de Asuntos Sociales de la Embajada de Francia, quien destacó que en su país hay en estos
+momentos una "mayor orientación al empleo" en los programas de ingresos mínimos.
+
+"Tenemos que tomar la estrategia de inclusión activa de Europa; poner el eje en el empleo", destacó Eduardo Lépore, director del PIPS. Agregó que los municipios tienen un rol fundamental, aunque
+advirtió que en nuestro país hay dificultades para lograr coordinaciones entre los niveles de gobierno. La cuestión clave, definió, es "cómo combinar la asistencia social universal con favorecer la
+transición a la vida laboral".
+
+Para Lépore, deben darse también reformas más amplias que tiendan a generar mejores condiciones para el empleo. Por ejemplo, puntualizó que habría que diferenciar los niveles de contribuciones que
+hacen los empleadores según el tamaño de la empresa. "No podemos pensar que la capacidad de las pymes es la misma que una empresa grande, y eso no debe significar que haya trabajadores de primera y de
+segunda, sino que los derechos deben darse para todos por igual".
+
+En un panel que abordó el tema de los desafíos de la ⟦M0045⟧economía popular⟦/M0045⟧, en tanto, Pablo Narvaja, especialista en temas de educación y miembro de la Comisión Nacional de Justicia y Paz de
+la Conferencia Episcopal Argentina, instó a actuar sobre las causas que provocan la pobreza. "El problema no es qué hacemos con los pobres que genera el sistema sino qué hacemos con el sistema, con un
+modo de producción que genera pobres", desafió. Y enfatizó: "El problema de la pobreza no son son los pobres".
+
+"La Argentina está en una inercia vinculada a la informalidad y la pobreza crecientes", que se explica por cuestiones como el marco legal existente y por prácticas financieras y empresariales, entre
+otras, afirmó por su parte Juan José Ezama, del consejo de economistas del equipo de Formalización Económica de la Asociación Cristiana de Dirigentes de Empresa (ACDE). Por ejemplo, describió, el
+régimen actual no está alineado con la capacidad contributiva que tienen las pymes, que entonces suelen irse a la informalidad y se instalan en un proceso de supervivencia hasta que mueren.
+
+"Hay que formalizar las empresas ante que formalizar el empleo", recomendó. Y definió tres medidas de acción necesarias para romper con los mecanismos que llevan a empeorar la situación social: un
+reordenamiento del sistema legal y operacional, para simplificar y reducir la cantidad de regulaciones vigentes; una fiscalidad que sea acorde con la capacidad tributaria, y una estrategia para
+procurar la inclusión financiera, con un mejor aprovechamiento de los medios electrónicos.
+
+Los ecos de la pobreza llegan a rincones del país donde no se la mide. Y eso es lo que advirtió en el evento organizado por la UCA Carlos Vigil, asesor de organizaciones de agricultura familiar, al
+recordar que los indicadores de la realidad social medidos por el Indec se refieren a la población urbana. "Los productores de la agricultura familiar integran un conjunto económico, social y
+cultural", definió. Y agregó que la titularidad de la gestión y de los medios de producción, la residencia en el lugar donde se trabaja y el hecho de que la agricultura sea la actividad principal son
+los elementos que definen a los llamados "pequeños agricultores rurales", dentro del heterogéneo escenario de la ruralidad argentina.
+
+Y puntualizó que hay muchas familias "expulsadas" de esta agricultura por cuestiones como el extractivismo, la deforestación y por ideas como las de algunos jóvenes "que creo que piensan que la
+pobreza urbana es un poco más digna que la pobreza de campo".
+
+===== NOTA 5 de 35 =====
+medio: La Nación
+titulo: Pobreza: las propuestas de los investigadores para erradicarla
+fecha: 2019-10-13 03:00:00
+autor: Paula Urien
+seccion: Economía
+volanta_bajada: En un seminario organizado por la UCA se presentaron ideas que permitirían avanzar en mejorar la calidad de vida y de trabajo de las personas vulnerables
+link: https://www.lanacion.com.ar/economia/pobreza-las-propuestas-de-los-investigadores-para-erradicarla-nid2296584/
+marcas a codificar: M0046
+----- TEXTO -----
+No todos los estudiantes del secundario quieren seguir el mismo camino cuando piensan en su trabajo. Algunos necesitan rápidamente una salida laboral, para la cual ya deberían estar preparados al
+egresar del colegio; otros piensan en una formación universitaria; están quienes prefieren un instituto terciario... y las opciones son múltiples. En esta etapa, lo más importante es que el secundario
+sea un puente entre la vida de adolescente y la vida de un adulto que se mantiene con su trabajo.
+
+Por otro lado, existe una enorme precariedad en el mundo del trabajo, donde se emplean fuerzas productivas paradójicamente de baja productividad. Se trata de personas que sí trabajan... de lo que
+pueden, con relaciones laborales endebles, salarios bajos, múltiples problemas para sostenerse, por lo que "transferimos recursos a familias que, por vías del mercado de trabajo no pueden subsistir",
+dijo Eduardo Donza, investigador del Observatorio de la Deuda Social Argentina, de la UCA, durante un encuentro en el auditorio Santa Cecilia del Campus Puerto Madero de esta universidad, durante el
+seminario Inclusión social y laboral en la Argentina: hacia una agenda renovada de política social para la superación de la pobreza.
+
+En el primer semestre de este 2019, el Indec registró un 25,4% de los hogares y un 35,4% de las personas en situación de pobreza. Asociada a la falta de trabajo de los adultos, o a los trabajos de
+baja calidad y baja productividad, la pobreza llega a alrededor de 15 millones de personas y afecta al 52,6% de chicos que tienen entre 0 y 14 años.
+
+Una encuesta presentada por Leticia Muñiz Terra, investigadora de la Universidad Nacional de La Plata y también investigadora del Conicet, dejó al descubierto el cambio estructural y social que se
+vive en la Argentina desde hace varias décadas. En un sondeo a trabajadores de la economía informal, trabajadoras domésticas y cuidacoches, entre otros, se comprobó que tienen experiencias disímiles
+en el sistema educativo, una alta rotación en sus trabajos y salarios muy bajos.
+
+Lo que tienen en común, en general, es haber vivido una desigualdad en el ámbito educativo a partir de factores diversos, la ocupación (o falta de ella) de sus padres, los útiles, la vestimenta, el
+hogar donde habitan, el origen étnico. "Es necesario recuperar la conexión entre las clases. No hay un lugar de encuentro, de lazo social, y así no se puede construir una sociedad en la que todos
+podamos participar como ciudadanos", dijo la investigadora. Estuvo en línea con las palabras del secretario General de la Confederación de Trabajadores de la ⟦M0046⟧Economía Popular⟦/M0046⟧ (CTEP),
+que dijo, molesto por el mote "choriplaneros": "Tenemos que reconceptualizar el trabajo. No es que no trabajamos. Yo lo hice como metalúrgico, con un empleo de 8 horas. Cuando me quedé sin trabajo fui
+vendedor ambulante y trabajaba 15 horas".
+
+En cuanto a los acuerdos que tanto se piden, afirmó que "se tienen que hacer teniendo en cuenta a los humildes. Si no, no son acuerdos". Finalmente se refirió a la necesidad de volver a la integración
+social. "Una persona que vive en un country tiene miedo de entrar en el barrio en el que vivo yo, y yo no puedo entrar al country".
+
+"Necesitamos en la Argentina una lógica en la que la educación esté unida con la lógica del trabajo", dijo durante el encuentro Jorge Colina, director de Idesa. "En el mundo esto se llama sistemas de
+transición de la educación al trabajo. Se trata de guiar a los alumnos para que comiencen su siguiente recorrido pensando en su futuro", agregó. "En países de Europa como Alemania, Austria o Suiza se
+va analizando qué alumnos van a ir a la universidad y la posibilidad de la educación dual para los que van a seguir en el mercado laboral". La educación dual, ya desde la secundaria, provee
+conocimientos para insertarse rápidamente en el mercado laboral, pero tiene una fuerte base de entrenamiento para le trabajo dentro del ámbito de las empresas.
+
+Según Colina, "es necesario tratar de hacer funcionar una articulación entre escuelas e instituciones de formación profesional". El economista preguntó: "Si tuviéramos una sola, una bala de plata,
+¿cuál sería? Hoy tenemos una ley de pasantías, la ley 26.427, que es de 2008. Se aplica solo a la educación superior, es una relación no laboral, es por un máximo de seis meses, pero renovables por
+seis meses más y estipula que solamente se pueden hacer pasantías durante 20 horas semanales", detalló. Para las pasantías en la secundaria existe un decreto de 2011, "aunque esto está en el ámbito de
+las provincias, que son las que manejan las escuelas secundarias", dijo.
+
+Colina advirtió que muchas veces se piensan los temas sin consultar a quienes están involucrados. "Se saca esta ley donde la institución educativa tiene que conservar los originales de los convenios;
+llevar un registro de los acuerdos individuales; hacer un legajo por cada pasante; asignar docentes guías (sin recursos para pagarles); supervisar el seguimiento de los planes de pasantías (sin
+recursos para pagar esta supervisación), y no se puede cobrar más del 5% de la asignación que se le da al pasante para recuperar costos".
+
+Por otro lado, las empresas deben conservar contratos originales durante cinco años; llevar un registro interno de cada contrato; designar un tutor con capacidad para planificar, implementar y evaluar
+la formación; contratar una ART y una obra social (aunque el alumno ya la tenga); pagar una asignación estímulo que no es en base al salario mínimo. En caso de duda, se pasa a relación de dependencia
+con sanciones por empleo en negro.
+
+El alumno/a por su parte recibe una asignación estímulo pero si tiene hijos no cobra la AUH u otros planes. Colina advierte entonces sobre la excesiva burocracia que promueve esta ley, además de otros
+problemas. Se trata entonces de una herramienta muy buena para que haya un importante entrenamiento profesional, además de una valiosa experiencia laboral, pero que hay que ajustar ya que ni las
+instituciones educativas ni las empresas se ven "tentadas" a llevarla adelante.
+
+Agustín Salvia, director de ODSA-UCA, por su parte, cerró el encuentro proponiendo un ejercicio: hay un total de casi US$70.000 millones en transferencias a programas de protección social en 2019 "y,
+sin embargo no se mueve la aguja". ¿Cuánto costaría llevar a cero la pobreza e indigencia en la Argentina hoy (de acuerdo a los números del primer semestre)? Para erradicar la indigencia a través de
+distintas estrategias se necesitarían US$1397 millones, el 0,3% del PBI. Terminar con la pobreza infantil significaría US$5500 millones, el 1,2% del PBI, y la pobreza en general, llevaría US$16.000
+millones, 3,5% del PBI.
+
+"Los argentinos tenemos US$300.000 millones fuera del sistema y en los últimos meses se fueron US$20.000 millones de reservas...", comparó. "Las sociedades con mayor equidad son las que más crecen".
+
+===== NOTA 6 de 35 =====
+medio: La Nación
+titulo: "Cuidado Grabois contigo", dijo José Luis Espert en el debate y éste le respondió
+fecha: 2019-10-21 06:42:23
+autor: 
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/cuidado-grabois-contigo-dijo-jose-luis-espert-nid2298959/
+marcas a codificar: M0047
+----- TEXTO -----
+Mientras los cinco candidatos a presidente debatían sobre Seguridad, José Luis Espert, del frente Unite por la Libertad y la Dignidad, se refirió a la modalidad de los piquetes que interfieren con la
+libre circulación de los ciudadanos. Fue entonces cuando señaló, en tono amenazante, al líder de la Confederación de Trabajadores de la ⟦M0047⟧Economía Popular⟦/M0047⟧ (CTEP), Juan Grabois. La CTEP es
+una de las organizaciones sociales que suele utilizar esta modalidad de protesta.
+
+"Las calles y las rutas no están para ser cortadas. Piquetero que corta la calle o la ruta, piquetero que termina preso. Cuidado Grabois contigo", arengó Espert. El dirigente social, en tanto, no
+tardó en salir a responderle al candidato a través de Twitter. "Espert me amenaza en el debate (¡qué miedo!). A su favor: por lo menos tiene sus (malas) convicciones de derecha, no es un farsante como
+Macri".
+
+La CTEP cuenta entre sus filas a 150 mil personas distribuidas en casi todo el país, con excepción de la provincia de Santa Cruz. Dentro de la fuerza convergen más de 40 organizaciones como el
+Movimiento Evita, de Emilio Pérsico, y el Movimiento de Trabajadores Excluidos, de Grabois. En tanto, la cabeza nacional de la CTEP es Esteban "Gringo" Castro, un dirigente barrial surgido en Moreno,
+provincia de Buenos Aires.
+
+===== NOTA 7 de 35 =====
+medio: La Nación
+titulo: Refuerzan las fronteras tras los conflictos
+fecha: 2019-10-22 03:00:00
+autor: 
+seccion: El Mundo
+volanta_bajada: 
+link: https://www.lanacion.com.ar/el-mundo/refuerzan-las-fronteras-tras-los-conflictos-nid2299304/
+marcas a codificar: M0048
+----- TEXTO -----
+Luego de los incidentes ocurridos ayer frente al consulado chileno en la ciudad de Buenos Aires, el Gobierno ordenó reforzar el control en los pasos fronterizos entre la Argentina y Chile, al mismo
+tiempo que aumentó la seguridad de todas las oficinas consulares del país vecino a lo largo de todo el territorio argentino. El objetivo es prevenir futuros episodios de violencia, que en el
+Ministerio de Seguridad vinculan a movimientos políticos regionales .
+
+Los resquemores del Gobierno apuntan a la coincidencias de acontecimientos como la crisis en Ecuador, la falta de definición de la elección en Bolivia, la advertencia del dirigente chavista Diosdado
+Cabello sobre un inminente "huracán" bolivariano y la reciente escalada de la violencia en el conflicto en Chile.
+
+"Hubo una convocatoria coordinada, que nosotros la habíamos previsto. En el único lugar donde se volvió violenta fue en la ciudad de Buenos Aires. También hubo una convocatoria similar en San Pablo,
+Brasil. La arenga en redes y de un candidato presidencial en el debate a movilizarse [en referencia a Nicolás del Caño] en un contexto donde hubo varias muertes no contribuye a la paz", dijo a la
+nacion Gerardo Milman, titular de la Unidad de Coordinación General del Ministerio de Seguridad.
+
+El funcionario responsabilizó por la protesta a agrupaciones de izquierda y a otras vinculadas al kirchnerismo, entre las que se cuentan la Confederación de Trabajadores de la ⟦M0048⟧Economía
+Popular⟦/M0048⟧ (CTEP), el Frente de Organizaciones en Lucha (FOL), la Asociación de Trabajadores del Estado (ATE) y el Movimiento Socialista de los Trabajadores (MST).
+
+Una hipótesis similar maneja la ministra de Seguridad, Patricia Bullrich, quien ayer protagonizó un cruce en Twitter con la diputada kirchnerista Gabriela Cerutti, quien comparó la situación argentina
+con la escalada de violencia chilena.
+
+"El tuit que critiqué ayer de Cerutti llamaba a la violencia. También en el debate el candidato Del Caño incitó a imitar a los chilenos que están incendiando Chile. Hoy la CTEP embanderada, por
+ejemplo, participaba de la agresión en el consulado de Chile en nuestro país. Eligen la violencia como camino, y ese sendero es peligroso e incontrolable. Actuaremos con todo el peso de la ley contra
+quienes quieran generar caos", lanzó la ministra.
+
+===== NOTA 8 de 35 =====
+medio: La Nación
+titulo: Quienes están detrás de los incidentes en el consulado de Chile
+fecha: 2019-10-22 11:36:00
+autor: 
+seccion: Seguridad
+volanta_bajada: 
+link: https://www.lanacion.com.ar/seguridad/quienes-estan-detras-incidentes-consulado-chile-nid2299364/
+marcas a codificar: M0049
+----- TEXTO -----
+Una concentración frente al consulado de Chile en Buenos Aires terminó ayer con incidentes, enfrentamientos con la policía y un equipo de periodistas agredidos. El gobierno de la Ciudad confirmó que
+hay seis detenidos, que estarían relacionados con grupos anarquistas y que serán indagados por la Justicia esta mañana.
+
+La protesta comenzó a las 17 de manera pacífica a solo metros de la Plaza de Mayo, pero una hora y media después, según denunciaron algunos manifestantes, un grupo de "infiltrados" encapuchados
+comenzaron a lanzar bombas molotov. Inmediatamente la policía comenzó a avanzar y reprimir.
+
+El secretario de Seguridad de la Ciudad de Buenos Aires, Marcelo D'Alessandro, dijo esta mañana que se trata de "un grupo de personas anarquistas que se infiltran en este tipo de manifestaciones".
+
+"Encapuchados, provocan incidentes y se dispersan", dijo el funcionario en radio La Red.
+
+Los detenidos fueron identificados como:
+
+La ministra de Seguridad, Patricia Bullrich, repudió ayer la protesta y recordó que el candidato presidencial del Frente de Izquierda-Unidad, Nicolás del Caño, "incitó" durante el debate del domingo a
+"imitar a los chilenos que están incendiando Chile".
+
+"No podemos en este momento reivindicar la violencia. Siempre denuncian lo mismo, rompen todo y después dicen que hay infiltrados. Vieron la bandera de la CTEP, la CTA. Siempre son unos santitos que
+están tranquilos y les aparecen unos infiltrados, déjense de joden. A esta altura del partido", dijo en radio Metro.
+
+Además, señaló que la Confederación de Trabajadores de la ⟦M0049⟧Economía Popular⟦/M0049⟧ (CTEP), la agrupación social que lidera Juan Grabois, "embanderada, participaba de la agresión en el consulado
+de Chile en nuestro país".
+
+Grabois replicó por Twitter a la ministra: "No somos como ella, ¡la CTEP no participó de ninguna agresión! Nuestra solidaridad con los periodistas".
+
+Una ola de protestas contra el aumento del pasaje de subte explotó el viernes en Santiago y luego se replicó en otras ciudades. Pese a que el gobierno de Sebastián Piñera suspendió el aumento, las
+protestas se radicalizaron.
+
+El gobierno decidió entonces imponer un toque de queda y un estado de emergencia en varias ciudades y regiones, lo que desató aún más violencia. Hasta esta mañana se registraron al menos 11 muertos y
+cientos de heridos.
+
+===== NOTA 9 de 35 =====
+medio: La Nación
+titulo: Juan Grabois cruzó a Patricia Bullrich y negó que la CTEP haya estado en los incidentes en el consulado de Chile
+fecha: 2019-10-22 17:03:00
+autor: 
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/juan-grabois-cruzo-patricia-bullrich-nego-ctep-nid2299438/
+marcas a codificar: M0050
+----- TEXTO -----
+El líder de la agrupación CTEP (Confederación de Trabajadores de la ⟦M0050⟧Economía Popular⟦/M0050⟧), Juan Grabois, se defendió de las acusaciones de la ministra de Seguridad Patricia Bullrich que los
+había señalado como partícipes de los incidentes que se produjeron en el consulado de Chile y donde fue agredido el equipo periodístico de LN+.
+
+"Tenemos grupos de la CTA , grupos anarquistas, otros de Izquierda Unida, hay una bandera de la CTEP. Es la típica violencia que ayer en el debate se vio bastante bien cuando un candidato a presidente
+salió a decir que era una rebelión popular. Hoy están, evidentemente, intentando plantear lo mismo", sostuvo Bullrich en una entrevista con LN+.
+
+Además, la ministra acusó a la agrupación de Grabois de participar en los incidentes a través de una publicación en sus redes sociales. "El tuit que ayer critiqué de Cerrutti llamaba a la violencia.
+También en el debate el candidato Del Caño incitó a imitar a los chilenos que están incendiando Chile. Hoy la CTEP embanderada, por ejemplo, participaba de agresión en el consulado de Chile en nuestro
+país".
+
+Posteriormente, el referente de la CTEP salió a desmentir tajantemente los dichos de la ministra. "Bullrich disfrutó la violencia y el comercio de armas con todas sus 'ideologías': desde lo que ellos
+llaman 'terrorismo de izquierda' hasta la derecha macartista. No somos como ella, ¡la CTEP no participó de ninguna agresión! Nuestra solidaridad con los periodistas", escribió Grabois en su cuenta de
+Twitter.
+
+Luego, el dirigente social ahondó en el tema y manifestó sus sospechas de que no haya ningún detenido de su agrupación si es que, como dijo Bullrich, habían estado presentes en los disturbios.
+
+"Si 'rompimos todo': ¿por qué ninguno de nosotros está detenido? ¿Es usted, @PatoBullrich, inútil o mentirosa? Como funcionaria pública, tiene el deber de denunciarnos, con pruebas, en la justicia,
+pero solo nos calumnia por TV. Raro", remarcó Grabois, indignado por la acusación.
+
+===== NOTA 10 de 35 =====
+medio: La Nación
+titulo: Cómo es la novela que Juan Grabois publicará el mes próximo
+fecha: 2019-10-22 20:17:00
+autor: Daniel Gigena
+seccion: Cultura
+volanta_bajada: 
+link: https://www.lanacion.com.ar/cultura/como-es-novela-juan-grabois-publicara-mes-nid2299422/
+marcas a codificar: M0051
+----- TEXTO -----
+A mediados de noviembre, pocos días antes de la asunción del Presidente que resulte electo en las urnas el domingo próximo, Juan Grabois dará a conocer su segundo libro. En este caso, el referente de
+la Confederación de Trabajadores de la ⟦M0051⟧Economía Popular⟦/M0051⟧ (CTEP) y del Movimiento de Trabajadores Excluidos (MTE) publicará una ficción política en vez de un ensayo. El autor de La clase
+peligrosa, que apareció en 2018, eligió esta vez la narrativa para avanzar sobre una de sus preocupaciones centrales: la desigualdad social y las formas de vida que provocan el poder y la codicia.
+
+En Los siete pecados argentinos. Una historia de demonios (Paidós), Grabois da vida a dos protagonistas en apariencia antagónicos: Manuel, un sacerdote católico con un pasado singular, que reside en
+la abadía Nuestra Señora de los Ángeles, y Olalla, su sobrina, una joven que, ocasionalmente y como una "forma de empoderamiento", ejerce la prostitución. Mientras en una ciudad de Buenos Aires
+infestada de demonios una mujer es víctima de un complot a medias terrenal, la sociedad argentina presencia el declive de la gestión de un Presidente "amigo de Wall Street", referencia explícita a
+Mauricio Macri, cuyo nombre aflora en varios momentos de la historia.
+
+La novela de Grabois está dedicada "a los buenos maestros y a las malas alumnas". Moral religiosa, política nacional, comercio sexual y negocios financieros sobrevuelan las páginas de este thriller
+teológico que se desarrolla en el presente inmediato. Pese a que la joven protagonista combate los mandatos patriarcales y eclesiales, las palabras "feminismo" y "aborto" no aparecen a lo largo de la
+novela. En 2016, el joven abogado nacido en 1983 fue designado por el papa Francisco consultor del Consejo Pontificio de Justicia y Paz de la Santa Sede.
+
+En la breve introducción de su novela, que adopta por momentos la forma de un diálogo filosófico entre personajes de ideas contrapuestas, Grabois echa sobre sí mismo una mirada autobiográfica.
+"Siempre tuve problemas con la autoridad -sostiene-. Recuerdo que no pude terminar primer grado en el Lenguas Vivas por mala conducta. Me expulsaron. Nunca entendí muy bien por qué determinadas
+categorías de personas podían imponer su voluntad sobre otras, en general más débiles, sin demasiados argumentos ni explicaciones. Es que, cuando sos débil, nadie te revela el porqué de las cosas.
+Son, simplemente, así, como ellos dicen. Si molestás, te castigan; si no te adaptás, te hacen sufrir. No hay tutía".
+
+Advierte, además, que en su nuevo libro el lector encontrará cierto grado de maniqueísmo y que uno de sus propósitos al escribirlo fue exorcizar sus propios demonios. "Me abordaban con furia
+susurrándome cientos de pecados. Creo que pude mantenerlos más o menos a raya. La política, la solidaridad, la religión son formas que tenemos para exorcizarlos. El arte también", agrega.
+
+"Quise hacer ficción porque, como digo en la introducción, el arte es una forma de procesar los demonios que se te van metiendo adentro en las batallas cotidianas de la vida -dice Grabois a LA
+NACION-. Al principio quería hacer un estudio sobre los pecados capitales y su estructuración comercial moderna, un ensayo más académico y filosófico, pero sabía que no iba a tener el tiempo, la
+concentración ni las ganas para desarrollarlo en un año electoral. Entonces propuse hacer algo de ficción, como un juego, para promover una discusión sobre la necesidad de recrear una moralidad
+sostenida en valores universales, esos que recibimos de tradiciones antiquísimas y también las cosas nuevas que fueron surgiendo en nuestro tiempo". El libro tiene algunos mensajes para leer entre
+líneas y otros más explícitos vinculados a los años del macrismo, pero es fundamentalmente una invitación a repensar los puntos de contacto entre las tan denostadas tradiciones humanistas de nuestros
+ancestros y las aspiraciones revolucionarias de la juventud que quiere cambiarlo todo".
+
+Para crear el personaje de la joven feminista, el autor reveló que fueron de gran ayuda las charlas que mantuvo con su amiga Ofelia Fernández, candidata a diputada por el Frente de Todos en la ciudad
+de Buenos Aires. En el primer capítulo de Los siete pecados argentinos, tío y sobrina ven juntos un film. "Hace unos meses la invité a ver Pecados capitales (Se7en), que fue furor cuando yo tenía su
+edad -cuenta el sacerdote-. Récord total de taquilla del verano de 1996. Pensé que nos podría servir como recurso pedagógico para discutir la cuestión del mal y el pecado. La vimos en su notebook, en
+uno de esos portales de películas pirateadas. Acá no tenemos ni tele ni radio ni Internet porque el superior hace interpretaciones antojadizas de la Regla. Lo mejor de las nuevas tecnologías, incluida
+la imprenta, es que no aparecen en las Reglas de San Benito. Es una desobediencia que me permito porque la Regla tiene que interpretarse en forma benigna. Si no, no es Regla, es arbitrariedad". Pese
+al entusiasmo del sacerdote, la chica se queda dormida antes del final de la película que dirigió David Fincher.
+
+Si bien se trata de una ficción, el segundo libro de Grabois se conoce en un año en que los libros escritos por políticos dominaron la agenda editorial. Antes y después de la publicación de
+Sinceramente, el best seller de 2019, libros de políticos como Elisa Carrió, Martín Lousteau, Axel Kicillof y José Luis Espert, entre otros, compitieron por ingresar en la lista de títulos más
+vendidos. En una estrategia inesperada, el referente de la CTEP volverá a las librerías con una ficción.
+
+===== NOTA 11 de 35 =====
+medio: La Nación
+titulo: Elecciones 2019: claro respaldo de los movimientos populares al Frente de Todos
+fecha: 2019-10-27 03:00:00
+autor: María Paula Etcheberry
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/elecciones-2019-claro-respaldo-movimientos-populares-al-nid2301018/
+marcas a codificar: M0052
+----- TEXTO -----
+Lejos de mantenerse al margen de la campaña electoral, los movimientos sociales más representativos presionaron por la sanción de la ley de emergencia alimentaria en el Congreso y brindaron su apoyo
+al Frente de Todos en reiteradas oportunidades durante la campaña.
+
+La Confederación de Trabajadores de la ⟦M0052⟧Economía Popular⟦/M0052⟧ (CTEP), la Corriente Clasista y Combativa (CCC), Barrios de Pie-Somos y una fracción del Frente Popular Darío Santillán (FPDS)
+componen el sector de "los cayetanos", que una vez lograda la sanción de la ley, acató el pedido de Alberto Fernández de desactivar la protesta en las calles.
+
+El apoyo no se expresó únicamente de esa manera. Algunos dirigentes sociales de estas agrupaciones integran las listas de candidatos del Frente de Todos. El caso más emblemático es el de Juan Carlos
+Alderete, líder de la CCC y candidato a diputado nacional. Se diferenciaron así de otro sector más minoritario, alineado con la izquierda, que continuó movilizándose para "marcarle la cancha" a
+Fernández.
+
+Quien tuvo una presencia activa durante la campaña fue el líder de la CTEP, Juan Grabois, que confrontó duramente con funcionarios del presidente Macri. Propuso inicialmente una "reforma agraria" y
+cuestionó la posición del gobierno argentino contra el régimen del dictador de Venezuela, Nicolás Maduro. "No creo que Venezuela sea una dictadura", insistió el referente de la CTEP en una de sus
+movilizaciones.
+
+===== NOTA 12 de 35 =====
+medio: La Nación
+titulo: Juan Grabois le pidió a Mauricio Macri que defienda a Alberto Fernández de Jair Bolsonaro
+fecha: 2019-10-30 15:52:00
+autor: 
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/juan-grabois-le-pidio-mauricio-macri-defienda-nid2302081/
+marcas a codificar: M0053
+----- TEXTO -----
+El líder de CTEP, Confederación de Trabajadores de la ⟦M0053⟧Economía Popular⟦/M0053⟧, Juan Grabois había dicho antes de conocer el resultado de las elecciones presidenciales que las organizaciones
+sociales como la suya estarían en la calle el año que viene, ganara quien ganara. A Alberto Fernández lo había definido como "un buen tipo, con buenas intenciones, que tiene sensibilidad social", pero
+consideraba que "no es un conocedor profundo de la realidad de las periferias".
+
+Sin embargo, saltó a defenderlo en sus redes luego de las declaraciones que hizo el domingo a la noche el presidente de Brasil, Jair Bolsonaro, quien no felicitó a Fernández por su triunfo. Dijo: "Nos
+estamos preparando para lo peor porque lo que se ha anunciado hasta ahora en el paquete económico del presidente electo es una receta que ya conocemos, ya que fue adoptada en parte en Brasil en el
+pasado, y no puede funcionar".
+
+El dirigente había manifestado su apoyo a Mauricio Macri, así que sus dichos no sorprendieron. Como tampoco lo que Fernández piensa sobre su gestión, dado que hasta en plena jornada electoral subió
+una foto dedicada a Lula da Silva, el máximo líder del izquierdista Partido de los Trabajadores (PT).
+
+Luego de escuchar las declaraciones, Grabois consideró que es un deber del presidente Macri decir algo al respecto. Lo increpó en Twitter: "Dónde está su patriotismo Sr. Presidente @mauriciomacri?
+¿Por qué no defiende al presidente electo de los agravios del psicópata Bolsonaro? No es un problema ideológico, es su responsabilidad institucional".
+
+===== NOTA 13 de 35 =====
+medio: La Nación
+titulo: Sin punto de contacto con los anarquistas
+fecha: 2019-11-03 03:00:00
+autor: Daniel Gallo
+seccion: Seguridad
+volanta_bajada: El antecedente del uso de explosivos en acciones políticas
+link: https://www.lanacion.com.ar/seguridad/sin-punto-de-contacto-con-los-anarquistas-nid2303202/
+marcas a codificar: M0054
+----- TEXTO -----
+A mediados de noviembre del año pasado otra noticia vinculada con explosivos y acciones políticas puso en alerta a las autoridades, que se preparaban para dar la seguridad a la cumbre presidencial del
+G-20. Una anarquista resultó herida cuando estalló en su mano la bomba de fabricación casera que colocaba en el cementerio de la Recoleta. La intención había sido generar destrozos en el mausoleo del
+coronel Ramón L. Falcón, asesinado 109 años antes en un ataque anarquista. Casi de inmediato, otro joven fue detenido al arrojar un artefacto explosivo contra la casa del juez federal Claudio Bonadio.
+
+Unidades antiterroristas de la Policía Federal allanaron una casa en la calle Pavón al 2300 y desactivaron ese punto de reunión "antisistema". Allí se encontraron pólvora, mechas y manuales para la
+preparación de aquello que se denomina "caño", constituidos por precarios artefactos explosivos que, por lo general, emplean un sistema básico de relojería o un temporizador para retardar el
+estallido. Materiales muy diferentes a lo hallado en los allanamientos de ayer en el local del Movimiento Popular 22 de Agosto, según contaron los investigadores que participaron en ambos casos. Poco
+punto de contacto encuentran los detectives entre los anarquistas de la calle Pavón y los guevaristas de Berazategui.
+
+"La forma de preparación de explosivos de los anarquistas parecía tomada de manuales de los 70, pero es distinto todo lo que se encontró ayer, más sofisticado y no lo aprendieron a desarrollar con un
+tutorial", comentó uno de los detectives porteños al referirse a los mecanismos de detonación remota confiscados en una de las sedes del Movimiento Popular 22 de Agosto.
+
+Ese grupo participa habitualmente de las jornadas de protesta callejera. En esa clase de agrupaciones las jefaturas tienen más bien arraigo territorial, por lo que cada líder zonal tiene capacidad
+propia de movimiento. Su forma de operar políticamente en las calles y su doctrina los vincula con otros grupos que se hacen fuertes en la zona sur del conurbano, como los diferentes MTD Aníbal Verón,
+el Movimiento La Dignidad, Confluencia Socialista, Fogoneros, todos con estructuras atomizadas y sin la conducción más piramidal que si puede encontrarse en el principal sector guevarista, el
+Movimiento Teresa Rodríguez.
+
+Todos esos grupos reivindican históricamente al Ejército Revolucionario del Pueblo y casi siempre algún viejo "erpiano" sobrevuela sus estructuras. El MP 22 de Agosto busca su nombre en la fecha de la
+masacre de Trelew, en 1972.
+
+Si bien confluyen en la Confederación de Trabajadores de la ⟦M0054⟧Economía Popular⟦/M0054⟧ (CTEP), su participación en la toma de decisiones piqueteras es minoritaria en comparación con los grandes
+grupos piqueteros.
+
+===== NOTA 14 de 35 =====
+medio: La Nación
+titulo: Juan Grabois volvió a criticar a Marcos Galperin: "Quisiera debatir los impuestos que no paga sin que me diga vago"
+fecha: 2019-11-07 17:08:00
+autor: 
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/nuevo-round-juan-grabois-volvio-criticar-marcos-nid2304399/
+marcas a codificar: M0055
+----- TEXTO -----
+Una de las peleas más ásperas del último año acaba de sumar un nuevo round: el dirigente social kirchnerista Juan Grabois volvió a criticar a Marcos Galperin, el fundador y CEO de Mercado Libre,
+durante una entrevista radial en La Red.
+
+Consultado sobre si continuará la grieta durante el gobierno de Alberto Fernández, el referente de la Confederación de Trabajadores de la ⟦M0055⟧Economía Popular⟦/M0055⟧ (CTEP) dijo que era "lógico",
+pero que ese no es el verdadero desafío que enfrenta el país.
+
+"El problema no es la grieta, la grieta estructural es que hay un 40% de pobres y para que dejen de ser pobres el 1% que más ganó durante estos años, al que le sobra la plata, va a tener que ceder
+algo. Y ese 1% no quiere ceder, ni blanquear la guita, ni pagar más impuestos", sostuvo.
+
+"Por eso nos van a atacar y nosotros nos vamos a defender -agregó-. Quisiera debatir ideas, debatir los impuestos que no paga Galperin sin que me diga vago y sin que yo le tenga que decir
+contrabandista".
+
+En mayo pasado, Grabois había presentado junto al Observatorio de Coyuntura Económica y Políticas Públicas (Ocepp) un informe en el que acusaba a Mercado Libre de cobrar cada vez más comisiones a los
+vendedores en "un abuso de posición dominante" y de tener un "encuadre legal inadecuado" dentro de la Ley de Promoción del Software por el que "paga menos impuestos de los que debería".
+
+Y esta misma semana, entrevistado en FM La Patriada, remarcó que "hay que sacar exenciones impositivas injustificadas, como las que tiene Galperin, el tipo más rico del país que tiene la plata en un
+paraíso fiscal y tiene el 70% del impuesto a las ganancias subsidiado por el conjunto de la población".
+
+Galperin ha respondido en el pasado a los ataques de Grabois. Tan solo en julio, le retrucó en Twitter que "tal vez ‘alguito' del éxito" de la empresa "tuvo que ver el esfuerzo, el sacrificio y la
+capacidad de sus 8000 empleados" y luego lo chicaneó: "Tal vez, algún día, también se te ocurra laburar!".
+
+===== NOTA 15 de 35 =====
+medio: La Nación
+titulo: Diálogo y tensión en el vínculo de Fernández y los piqueteros
+fecha: 2019-11-11 03:00:00
+autor: María Paula Etcheberry
+seccion: Política
+volanta_bajada: Los movimientos sociales le acercaron propuestas al presidente electo y esperan medidas inmediatas, a partir del 10 de diciembre
+link: https://www.lanacion.com.ar/politica/dialogo-y-tension-en-el-vinculo-de-fernandez-y-los-piqueteros-nid2305259/
+marcas a codificar: M0056
+----- TEXTO -----
+Colmada de expectativas y con buena sintonía. Pero no exenta de tensiones. Así podría definirse la relación entre el presidente electo, Alberto Fernández, y los movimientos sociales. El "triunvirato
+cayetano", grupo más representativo, mantiene con referentes del Frente de Todos un intercambio constante de propuestas e ideas. Aunque no dejan de reconocer que será urgente aplicar medidas para
+responder a las demandas del sector apenas asuma Fernández. Distinta es la relación con los grupos piqueteros "duros", que amenazan con permanecer en las calles.
+
+La Confederación de Trabajadores de la ⟦M0056⟧Economía Popular⟦/M0056⟧ (CTEP), la Corriente Clasista Combativa (CCC), parte del Frente Popular Darío Santillán y la fracción de Barrios de Pie que
+lidera Daniel Menéndez componen el grupo de "los cayetanos". Con el eje puesto en la problemática del hambre y el trabajo, ya presentaron sus propuestas a los equipos de Fernández.
+
+"Hemos presentado propuestas vinculadas a la generación de trabajo, para salir de los planes sociales. También, sobre políticas alimentarias y construcción de viviendas. Tenemos mucha expectativa de
+que sean aplicadas. En los gobiernos populares y peronistas siempre hay una sensibilidad social distinta", explicó Gildo Onorato, dirigente de la CTEP.
+
+"Le venimos acercando algunas ideas [al próximo gobierno]. Nos han escuchado y están elaborando proyectos. Estamos dispuestos a colaborar, siempre y cuando nos tengan en cuenta", indicó Juan Carlos
+Alderete, líder de la CCC, quien advirtió que tiene que haber medidas en los primeros días de gobierno. "Los primeros signos tienen que mostrarse apenas asuman. El próximo gobierno no va a tener el
+tiempo que tuvieron otros, porque la gente llega muy malherida y muy lastimada", agregó.
+
+"El próximo gobierno necesita dar una respuesta, no hay margen para mirar para el costado. Vemos una integración plena de los movimientos sociales y estamos preparados para protagonizar una
+transformación social", dijo Daniel Menéndez, coordinador de Barrios de Pie-Somos.
+
+En el mismo sentido, Juan Grabois, referente de la CTEP, lanzó una advertencia a Fernández: "Hay mecha corta en la Argentina, no hay margen para nuevas decepciones. El nuevo gobierno tiene que salir a
+la cancha con medidas muy claras", dijo en una entrevista radial.
+
+En el Frente de Todos confirmaron que elaboran proyectos junto con las organizaciones sociales. Un primer foco es el de "la Argentina contra el hambre", presentado por Fernández en la campaña. El
+segundo consiste en la generación de trabajo en áreas, como construcción, producción de alimentos, industria textil, cuidado de personas y reciclaje. También apuntan a la inclusión laboral de los
+jóvenes.
+
+Confían en que la aplicación de estos proyectos será inmediata. "Se van a poner en marcha las medidas a partir del 10 de diciembre", sostuvo Daniel Arroyo, referente del Frente de Todos en materia
+social.
+
+¿Cómo será el vínculo con los piqueteros duros? Conocidos por su postura más confrontativa, el Polo Obrero y el Frente de Organizaciones en Lucha (FOL) advierten que mantendrán su presencia en las
+calles. El sector de Barrios de Pie que responde a Libres del Sur, protagonista de los acampes en la 9 de julio junto con el Polo Obrero, muestra por ahora una actitud más conciliadora.
+
+"La resolución de la pobreza y el hambre merecen la participación de sectores amplios. Por más que haya diferencias, estamos dispuestos a aportar nuestra visión", señaló Silvia Saravia, coordinadora
+nacional de Barrios de Pie-Libres del Sur.
+
+"Vamos a mantenernos independientes del gobierno, como lo hemos hecho desde mediados de los 90. Pedimos que se revise la deuda con el FMI, que es ilegítima y fraudulenta. Si no se modifica la relación
+con el Fondo, habrá un rechazo y volveremos a salir a las calles", explicó Marianela Navarro, vocera del FOL.
+
+En una línea similar se expresó María Dotti, del Polo Obrero: "Durante el kirchnerismo hubo una clara discriminación en el acceso a la asistencia. Con los movimientos sociales no oficialistas ni
+alineados la relación fue conflictiva. Pensamos que esta lógica puede replicarse".
+
+Aunque se trata de un universo heterogéneo, en el Frente de Todos enfatizan la necesidad de dialogar con todos los grupos. "Los movimientos sociales son parte de la solución en la Argentina y tenemos
+que trabajar en conjunto. Trabajamos con todos los grupos. Cada uno tiene su mirada y su posición, pero van siempre en la misma dirección: resolver problemas como el trabajo y el hambre", concluyó
+Arroyo.
+
+===== NOTA 16 de 35 =====
+medio: La Nación
+titulo: Crisis en Bolivia: el kirchnerismo y la izquierda marcharon en apoyo a Evo Morales
+fecha: 2019-11-12 03:00:00
+autor: María Paula Etcheberry
+seccion: El Mundo
+volanta_bajada: Un grupo de legisladores del Frente de Todos se reunió con el canciller Faurie
+link: https://www.lanacion.com.ar/el-mundo/crisis-en-bolivia-el-kirchnerismo-y-la-izquierda-marcharon-en-apoyo-a-evo-morales-nid2305553/
+marcas a codificar: M0057
+----- TEXTO -----
+Agrupaciones vinculadas al kirchnerismo, la izquierda y sectores de la comunidad boliviana en la Argentina se manifestaron ayer por separado en apoyo al expresidente de Bolivia Evo Morales y en
+rechazo a lo que consideran un golpe de Estado en el país andino.
+
+Los movimientos sociales, con la adhesión de La Cámpora y algunos sindicatos, llevaron su protesta hasta la embajada de Bolivia y la Cancillería, ambas ubicadas en pleno microcentro porteño.
+
+En tanto, las fuerzas de izquierda realizaron una marcha de apoyo a Morales que se concentró en el Obelisco, que reunió a un conglomerado heterogéneo de agrupaciones.
+
+Parte del kirchnerismo se movilizó junto a La Cámpora, primero hacia la embajada del país vecino y luego hasta la Cancillería, donde los diputados Leopoldo Moreau, Horacio Pietragalla y Andrés
+"Cuervo" Larroque consiguieron reunirse con el canciller Jorge Faurie.
+
+"El diputado Larroque le planteó [al canciller Faurie] que la única posición posible es que el Gobierno reconozca al gobierno de Evo Morales como el único legítimo y repudie expresamente el golpe de
+Estado. En este punto, obviamente, no hubo acuerdo", informó Moreau tras la reunión.
+
+"Estamos satisfechos por haber tenido la reunión, pero no compartimos en nada lo vertido por el canciller en la misma", agregó Larroque, que se mostró preocupado con "que el Gobierno sea tan laxo en
+la caracterización de la situación que vive Bolivia". Ambos diputados firmaron la convocatoria a una sesión especial de la Cámara baja para mañana, en la cual esperan que "el bloque oficialista
+corrija esta visión del Gobierno", aseguraron.
+
+Entre las organizaciones sociales que participaron se encuentran Los Cayetanos, grupo compuesto por la Confederación de Trabajadores de la ⟦M0057⟧Economía Popular⟦/M0057⟧ (CTEP), la Corriente Clasista
+Combativa (CCC), Barrios de Pie-Somos y parte del Frente Popular Darío Santillán. Este sector apoyó al Frente de Todos durante la campaña electoral, aunque no reporta de manera unívoca al presidente
+electo. Al igual que el kirchnerismo, marcharon primero a la embajada y luego a la Cancillería.
+
+También participaron de las protestas otros movimientos sociales más pequeños, vinculados con la izquierda. El propio Frente de Izquierda-Unidad ayudó a nutrir las columnas de protesta por la crisis
+boliviana.
+
+Este grupo también se movilizó hacia la embajada del país limítrofe, donde realizaron un acto conjunto de las fuerzas que componen el bloque, entre las que se encuentran el Partido Obrero (PO) y el
+Partido de los Trabajadores Socialistas (PTS).
+
+Otras agrupaciones que hicieron oír su voz en rechazo al golpe en Bolivia fueron los sindicatos: Camioneros, gremio que lidera Hugo Moyano; la Asociación de Trabajadores del Estado (ATE), y la CTA,
+encabezada por Hugo Yasky y Roberto Baradel también se movilizaron al mediodía hasta las oficinas de la embajada boliviana.
+
+El último grupo en manifestarse fue el de la comunidad de ciudadanos bolivianos en la Argentina, que marchó por la tarde a la embajada de su país de origen, ante la cual decidieron mantener una
+vigilia durante toda la noche.
+
+"Evo, amigo, el pueblo está contigo", cantaban los manifestantes, que apuntaban sus críticas contra Luis Fernando Camacho y Carlos Mesa, dirigentes a los que Morales responsabiliza por el golpe de
+Estado, en una marcha teñida por los colores de la bandera boliviana y de la wiphala, la enseña de los pueblos originarios andinos.
+
+===== NOTA 17 de 35 =====
+medio: La Nación
+titulo: El Episcopado, como testigo de acuerdos para enfrentar la crisis
+fecha: 2019-11-14 03:00:00
+autor: Mariano De Vedia
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/el-episcopado-como-testigo-de-acuerdos-para-enfrentar-la-crisis-nid2306259/
+marcas a codificar: M0058, M0059
+----- TEXTO -----
+La reunión de los grupos piqueteros "cayetanos" con la Pastoral Social de la Iglesia tuvo ayer un invitado especial. El presidente electo, Alberto Fernández, llegó a la sede de la calle Suipacha de la
+Conferencia Episcopal a instancias de los movimientos sociales, y participó del encuentro sentado al lado del obispo Jorge Lugones, jesuita y cabeza de la estratégica comisión pastoral.
+
+Fernández traspuso como presidente electo la puerta del Episcopado tres meses después de la visita que había hecho como candidato, en agosto -para reunirse con la comisión ejecutiva que encabeza el
+obispo Oscar Ojea- y la semana siguiente a que la asamblea plenaria de los obispos sentenciara que "las mayores hipotecas del país siguen siendo la pobreza, la exclusión y la desigualdad".
+
+Acompañado de Daniel Arroyo, quien asoma como el ejecutor de las políticas sociales del próximo gobierno, y de Gustavo Beliz, quien conserva sólidos contactos con la Iglesia, Fernández tendió la mano
+a las organizaciones sociales para avanzar en acuerdos que atiendan la problemática de la ⟦M0058⟧economía popular⟦/M0058⟧, un sector que las organizaciones sociales estiman en cuatro millones de
+personas.
+
+A pocos metros se ubicaba, entre otros, el dirigente social Juan Grabois, una de las caras visibles de las organizaciones de la ⟦M0059⟧economía popular⟦/M0059⟧, quien pocos días después de la elección
+que consagró presidente a Fernández declaró que la Argentina tiene "mecha corta", lo que muchos interpretaron como un virtual intento de marcar la cancha.
+
+Fuentes eclesiásticas indicaron, sin embargo, que el clima del encuentro de ayer fue cordial, con coincidencias y con el horizonte puesto en los consensos y en el diálogo que las distintas partes se
+comprometieron a buscar.
+
+Frente a la continuidad de los planes sociales, se habló de la necesidad de que incluyan un efectivo proceso de capacitación de personal y reconversión, con el objetivo de acompañar una esperada
+recuperación de la industria.
+
+La Iglesia prestó su espacio para avanzar en las pautas generales del plan contra el hambre que lanzó Fernández durante la campaña. Y se abordó la posibilidad de darles continuidad a encuentros de
+este tipo, extendidos a la participación de sectores empresarios y organizaciones gremiales. Una forma de sentar las bases para el ejercicio de un acuerdo social como el que impulsa el presidente
+electo y de cumplir con la exhortación de los obispos, que hace una semana llamaron a un "renovado esfuerzo de diálogo sincero y búsqueda de consensos".
+
+===== NOTA 18 de 35 =====
+medio: La Nación
+titulo: Alberto Fernández sella un acuerdo con las agrupaciones sociales
+fecha: 2019-11-14 03:24:56
+autor: Gabriel Sued
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/alberto-fernandez-junto-movimientos-sociales-lo-viene-nid2306102/
+marcas a codificar: M0060, M0061, M0062
+----- TEXTO -----
+Con el objetivo de ampliar su base política, Alberto Fernández selló un fuerte compromiso con las organizaciones sociales, a las que les aseguró, al igual que había hecho con los sindicatos, que
+formarán parte de su gobierno.
+
+"Lo que viene es el gobierno de todos ustedes, no de Alberto y de Cristina, vamos a resolver las cosas juntos", manifestó el presidente electo, en un encuentro que mantuvieron en la sede de la
+Conferencia Episcopal Argentina.
+
+Participaron de la reunión los referentes del llamado triunvirato piquetero, así como otras organizaciones que integran el Consejo de la ⟦M0060⟧Economía Popular⟦/M0060⟧, creado por la ley de
+emergencia social, pero desactivado por el gobierno de Mauricio Macri. Todas ellas ya habían dado su respaldo a Fernández en la campaña. Eso sí, habían marcado su autonomía al promover la ley de
+emergencia alimentaria, que terminó imponiéndose en el Congreso.
+
+"Pueden surgir diferencias entre nosotros, pero no permitamos que usen esas diferencias para dividirnos", dijo Fernández, con la mirada puesta en Juan Grabois, del Movimiento Trabajadores Excluidos
+(MTE), integrante de la Central de Trabajadores de la ⟦M0061⟧Economía Popular⟦/M0061⟧ (CTEP).
+
+Fue un guiño cómplice. Minutos antes, el presidente electo había elogiado a Grabois y había valorado los temas que el dirigente social había logrado instalar durante la campaña, como la necesidad de
+facilitar tierras a los pequeños campesinos. Grabois había dicho que iban a mantener la autonomía frente al gobierno que viene.
+
+El presidente electo se comprometió a atender la agenda de las organizaciones sociales y reivindicó el papel que desempeñaron durante el gobierno de Macri. "Gracias a lo que hicieron hoy no estamos
+como en Chile", les dedicó, y destacó la trayectoria del líder de la Corriente Clasista y Combativa (CCC), Juan Carlos Alderete.
+
+Junto con Grabois y Alderete, estuvieron Emilio Pérsico, del Movimiento Evita; Esteban Castro y Gildo Onorato, de la CTEP; Fredy Mariño y Luciano Álvarez, de la Corriente Clasista y Combativa (CCC);
+Daniel Menéndez, Néstor Moccia y José Oscari, de Barrios de Pie; Dina Sánchez, del Frente Darío Santillán; Rafael Klejser, del Movimiento Popular La Dignidad, y Natalia Zaracho, del MTE.
+
+La Iglesia, que actúa como intermediaria de la relación entre el Estado y los movimientos sociales, estuvo representada en la reunión por Jorge Lugones, obispo de Lomas de Zamora y titular de la
+Comisión Episcopal de la Pastoral Social. Fernández acudió con Daniel Arroyo, futuro ministro de Desarrollo Social, y Gustavo Beliz, parte de sus equipos técnicos y articulador de la relación con la
+Iglesia.
+
+En un clima de camaradería, el presidente electo pidió "no tener miedo del debate que hay que dar" y aseguró que "la ⟦M0062⟧economía popular⟦/M0062⟧ llegó para quedarse" y que "la gente necesita un
+horizonte de progreso". Pérsico tomó la palabra y señaló que el objetivo de las organizaciones es dejar de lado los subsidios y crear puestos de trabajo genuino.
+
+Fernández les adelantó que prepara para este viernes la puesta en marcha del consejo que desarrollará el plan Argentina contra el Hambre. El organismo, integrado por unas veinte personas, tendrá su
+primer encuentro en las oficinas que el presidente electo tiene en Puerto Madero. Será el debut del conductor televisivo Marcelo Tinelli, quien ya confirmó que será parte del consejo ejecutivo, a
+cargo de Arroyo. No está en los planes por el momento que Roberto Lavagna cumpla un papel en ese organismo.
+
+"Es un preencuentro, porque el plan no arranca hasta el 10 de diciembre, cuando vamos a empezar a gestionar. Pero es la primera vez que se van a ver las caras todos los integrantes del consejo, en un
+mismo lugar", explicó Arroyo a LA NACION. El diputado informó que van a participar otras figuras de la sociedad civil, pero no dio a conocer otros nombres.
+
+Lanzado el 7 de octubre, en la Facultad de Agronomía de la UBA, el plan Argentina contra el Hambre es la gran apuesta de la política social que prepara Fernández. Pretende que sea la "primera política
+de Estado del siglo XXI". Formarán parte del consejo representantes de las empresas agrupadas en la Coordinadora de la Industrias de Productos Alimenticios (Copal), de las asociaciones del campo, de
+las universidades, y de las organizaciones civiles y sindicales.
+
+El plan contará con un "observatorio" dedicado a realizar controles de peso y talla, y control nutricional de los niños pobres. Esos controles se volcarán en informes semestrales que recibirá el
+presidente de la Nación.
+
+La mitad del recinto se puso de pie y estalló en aplausos cuando la vicepresidenta Gabriela Michetti leyó, ante la Asamblea Legislativa, la resolución por la cual se proclamó presidente y
+vicepresidente para el próximo período a Alberto Fernández y a Cristina Kirchner. Llevados por la euforia, los diputados y los senadores del Frente de Todos, brazos en alto, entonaron la marcha
+peronista mientras, al otro lado del hemiciclo, los legisladores de Cambiemos permanecían en respetuoso silencio. "¡Se siente, Alberto presidente!", exclamaban los peronistas. Cuando Michetti mencionó
+a la expresidenta Cristina Kirchner, sobrevino una ovación. "¡Vamos a volver!", arengaban, con su cántico, los legisladores de La Cámpora.
+
+De esta manera, la Asamblea Legislativa cumplió ayer con el trámite formal de proclamar la fórmula presidencial ganadora en las últimas elecciones generales, tal como disponen los artículos 120 y 122
+del Código Nacional Electoral, conforme al artículo 97 de la Constitución Nacional.
+
+Cuáles son los movimientos sociales que participaron de la reunión con la Iglesia y Fernández
+
+===== NOTA 19 de 35 =====
+medio: La Nación
+titulo: Los movimientos sociales crean un gremio unificado
+fecha: 2019-11-15 03:00:00
+autor: 
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/los-movimientos-sociales-crean-un-gremio-unificado-nid2306660/
+marcas a codificar: M0063, M0064, M0065, M0066
+----- TEXTO -----
+Dirigentes de los movimientos sociales adelantaron que se está trabajando en la creación de un sindicato que agrupará a las principales organizaciones de la "⟦M0063⟧economía popular⟦/M0063⟧". Se trata
+de la Unión de Trabajadores de la ⟦M0064⟧Economía Popular⟦/M0064⟧ (UTEP).
+
+"Vamos a unificar a las organizaciones de la ⟦M0065⟧economía popular⟦/M0065⟧ de todo el país en una especie de protosindicato", afirmó el secretario general del Movimiento Evita, Emilio Pérsico, en
+diálogo con El Destape Radio.
+
+"Vamos a ir hacia una organización social única que va a unir a más de 40 organizaciones, y si tenemos que salir a la calle saldremos, como Alberto mismo dijo que está bien", continuó.
+
+"Lo más probable es que la Unión de Trabajadores de la ⟦M0066⟧Economía Popular⟦/M0066⟧ (UTEP) tenga una conducción unipersonal", agregó, al referirse al futuro gremio que representará a las
+organizaciones sociales.
+
+En una línea similar, Daniel Menéndez, coordinador nacional de Barrios de Pie-Somos, explicó a la nacion: "Estamos enfocados en el proceso de unificación del conjunto de los movimientos sociales en un
+sindicato único, que permita aglutinar los reclamos mayoritarios del sector".
+
+Al mismo tiempo, el dirigente social destacó que el 7 de diciembre se hará la presentación oficial del nuevo sindicato en un acto al que invitarán al presidente electo, Alberto Fernández.
+
+Sin embargo, Menéndez destacó que la creación de la nueva entidad gremial aún se encuentra "en proceso" y que los movimientos sociales están enfocados en esa cuestión.
+
+===== NOTA 20 de 35 =====
+medio: La Nación
+titulo: Alberto Fernández defendió a los famosos que participaron del encuentro contra el hambre
+fecha: 2019-11-16 16:58:00
+autor: 
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/alberto-fernandez-defendio-figuras-participaron-del-encuentro-nid2307119/
+marcas a codificar: M0067
+----- TEXTO -----
+El presidente electo, Alberto Fernández, defendió la presencia de famosos como Marcelo Tinelli y Narda Lepes durante el primer encuentro del consejo federal contra el hambre y se quejó de la
+"argentina miserable" que puso foco en los vehículos de alta gama que usaron algunos de los participantes para llegar hasta Puerto Madero.
+
+"El encuentro de ayer fue maravilloso", destacó hoy Fernández en una entrevista radial, y agregó: "Esa es la Argentina miserable. [A los que asistieron] no les pedí que se disfracen de pobres. Todos
+sabemos de dónde vienen. Les pedí que ayuden a vivir mejor a otros. Hay una Argentina que se resiste a eso, y una Argentina miserable que piensa que es un acto político de Alberto Fernández".
+
+Sobre Lepes, dijo que en la reunión "explicó que el problema no es esencialmente el hambre sino lo mal que se come, y habló de la diferencia entre el comer y el alimentarse".
+
+Reveló que el momento más "emotivo" del encuentro fue cuando el referente de la Confederación de los Trabajadores de la ⟦M0067⟧Economía Popular⟦/M0067⟧ (CTEP), Esteban "Gringo" Castro, contó que su
+mujer escuchó a un niño decir que "había encontrado la manera para saciar su hambre: mojando cartón y comiéndolo".
+
+También rescató el aporte de Tinelli: "Le tengo afecto, silenciosamente trabaja con su fundación sin que salga en los diarios, y asumió el compromiso de difundir el problema en su programa de TV, y le
+pedí también que muestre la otra cara de las organizaciones sociales".
+
+"Hablaron todos los sectores. Y todos dijeron cosas valiosas, fue un buen punto de arranque, pusimos blanco sobre negro y tomamos dimensión del problema. Los vi a todos muy comprometidos", concluyó
+Fernández.
+
+Además, Fernández destacó el "compromiso" y los "aportes" que hicieron los referentes sociales, políticos, económicos y sindicales que participaron del encuentro.
+
+El presidente electo también afirmó hoy que el diputado Daniel Arroyo "es la persona que más conoce" de desarrollo social en el país y que "difícilmente no sea el responsable de esa área" a partir del
+10 de diciembre. "Y digo difícilmente porque no se lo ofrecí todavía; tal vez me diga que no", bromeó Fernández.
+
+Arroyo coordinó ayer el primer encuentro del consejo que ayudará a implementar el programa "Argentina contra el hambre" a partir del 10 de diciembre, que integran referentes de la política, los
+sindicatos, las empresas, las organizaciones sociales y la Iglesia, entre otros.
+
+Por otro lado, dijo que la ley de legalización del aborto "debería salir" durante su gestión, tal como lo afirmó esta semana al participar de la presentación del libro "Soy Belén", de Ana Correa, que
+relata la historia de la joven tucumana que pasó casi 3 años presa por un aborto espontáneo.
+
+"Ese libro hay que leerlo. Son cosas que me avergüenzan mucho. Cuando uno ve eso entiende porque hay que corregir esas cosas", indicó.
+
+Fernández sostuvo hoy que las críticas del papa Francisco al "uso arbitrario" de la prisión preventiva constituyen "el ABC del derecho procesal penal", y dijo que lo habló en reiteradas ocasiones con
+el pontífice.
+
+"El Papa ha dicho una obviedad para los que enseñamos derecho procesal penal. Ha dicho algo que el ABC del derecho penal, lo que pasa es que en Argentina muchos se rasgan las vestiduras", detalló
+Fernández durante la charla con AM 750.
+
+Ayer, en un discurso frente a miembros de la Asociación Internacional de Derecho Penal -a quienes recibió hoy en el Vaticano- Francisco criticó el "uso arbitrario" de la prisión preventiva, denunció
+el "lawfare" contra "dirigentes políticos" y pidió que el denominado "ecocidio" sea declarado como un "crimen contra la paz".
+
+"Ay Dios... es muy difícil leer esa tapa de Clarín", dijo Fernández, y agregó: "¿Cómo se animan a escribir eso? Es muy difícil, pero la gente va entendiendo dónde está la locura".
+
+Además, contó que habló del tema "varias veces con el Papa", y recordó especialmente cuando se entrevistó con él en Santa Marta para darle detalles de la detención preventiva del expresidente de
+Brasil Inacio "Lula" da Silva, recientemente liberado.
+
+"Yo llamé la atención del Papa porque esto viene pasando en toda América Latina. Desde 2015 a esta parte se dieron cambios legislativos, los más notorios, en Ecuador, Brasil y Argentina, con la figura
+del arrepentido", explicó el mandatario electo.
+
+"Lo hablé muchas veces con el Papa y lo tiene muy claro. Y si revisan, desde hace mucho tiempo el Papa, en sus sermones, ha rescatado la idea de los perseguidos por el poder".
+
+En su discurso de ayer, el pontífice argentino sostuvo que "el encarcelamiento preventivo, cuando es impuesto sin que se verifiquen las circunstancias excepcionales que lo habilitan, o por un período
+excesivo, vulnera la presunción de inocencia y el principio según el cual todo imputado debe ser tratado como inocente hasta que una condena firme establezca su culpabilidad".
+
+"La situación se ha agravado en algunos países y regiones donde el número de detenidos sin condena ya supera ampliamente el 50% de la población carcelaria", dijo Jorge Bergoglio durante la reunión.
+
+"Este fenómeno contribuye al deterioro de las condiciones de detención y es causa de un uso indebido de destacamentos de policía y militares para esos fines", lamentó el Papa.
+
+===== NOTA 21 de 35 =====
+medio: La Nación
+titulo: Los movimientos buscan formalizar su rol para no depender de planes
+fecha: 2019-11-17 03:00:00
+autor: Agustina López
+seccion: Política
+volanta_bajada: Fue el planteo que realizaron ayer en un evento del que participaron también Máximo Kirchner y Arroyo; prevén ser parte del futuro gobierno y que su trabajo sea reconocido en blanco
+link: https://www.lanacion.com.ar/politica/los-movimientos-buscan-formalizar-su-rol-para-no-depender-de-planes-nid2307209/
+marcas a codificar: M0068
+----- TEXTO -----
+Quienes asistieron ayer a la presentación del "Programa del buen gobierno" en la Facultad de Medicina se habrán llevado un pantallazo de cómo el nuevo gobierno de Alberto Fernández quiere fijar la
+convivencia con los movimientos sociales, a los que muestra como aliados, y viceversa. También participaron ciertos interlocutores claves para negociar con los trabajadores informales: Daniel Arroyo,
+nombre puesto para ocupar el Ministerio de Desarrollo Social, y Máximo Kirchner, quien podría ser el puente del gobierno con estas organizaciones.
+
+El evento contó con paneles en donde se expusieron las propuestas que las organizaciones sociales tienen para articular sus demandas con la dirigencia política. Se presentó un documento que contempla
+desde la labor que vienen realizando estas agrupaciones hasta ideas para nuevas políticas públicas.
+
+Lo que quedó en claro, además, es que las demandas de los movimientos sociales ya no pasan por ampliar los planes de trabajo, sino por conseguir mayor institucionalidad para los trabajadores de la
+⟦M0068⟧economía popular⟦/M0068⟧ y ocupar roles de participación activa de sus dirigentes en el gobierno. Durante los últimos años construyeron un elemento de presión muy significativo en las calles y
+ahora buscan replicar su representatividad en el Estado.
+
+"Necesariamente tenemos que construir movimientos sociales de unidad y de participación. Para resolver la pobreza hay que darles el poder a los pobres. Hay que construir programas que vayan más allá
+de la asistencia pública", expresó Rafael Klejzer, secretario de la CTEP Capital, en un panel que compartió con el secretario general del Movimiento Evita, Emilio Pérsico, y con Arroyo.
+
+Pérsico fue más allá y dio un ejemplo concreto de las demandas que tienen como trabajadores informales: "Queremos que nos pongan en blanco, queremos ser reconocidos". Parte de esta demanda se
+canalizará a través de la creación de un sindicato de trabajadores populares, que ya está en marcha. "Nosotros creamos nuestro propio trabajo, no estamos pidiendo algo que no hacemos. Nuestra primera
+conquista será poner en valor a estos trabajadores. Tenemos que construir poder desde el pueblo", sumó Pérsico.
+
+El cierre del panel quedó en manos de Arroyo, quien dejó en claro que la alianza con los piqueteros es un hecho (cuánto durará es otra discusión) y que tendrán un espacio en el gobierno.
+
+"Los movimientos sociales son parte de la economía y son parte de la solución. Tenemos una oportunidad porque ya arrancamos de mucha organización popular", expresó el diputado, que recibió una
+fervorosa ronda de aplausos durante todo su discurso. También adelantó dos medidas básicas que se plantearán para palear la crisis social y económica: generar una canasta básica accesible y
+microcréditos para las familias fuera del circuito bancario.
+
+Además, Arroyo dejó entrever que gran parte del empleo formal que demandan las organizaciones provendrá de la construcción de viviendas y de actividades relacionadas con el cultivo, el reciclado
+urbano y la producción textil. "Hay mucha organización popular, hay una red. Estamos muy complicados y hay mucho para reconstruir, pero también hay mucho hecho y tenemos que fortalecer a los que lo
+están haciendo". Las palabras de Arroyo demuestran que, si es ministro, el diálogo con las organizaciones será más terso del que tuvo la actual ministra Carolina Stanley. Es una figura que cuenta con
+la aprobación de las organizaciones.
+
+El cierre del evento estuvo a cargo de un panel que compartieron el dirigente de la CTEP, Juan Grabois, y Máximo Kirchner. Si bien esta parte del evento giró más sobre el repudio al golpe de Estado en
+Bolivia, se percibió gran sintonía entre ambos dirigentes: no faltaron las risas y los chistes mutuos.
+
+En una breve charla antes del evento, Grabois contó a LA NACION que la invitación que se extendió a Máximo Kirchner no fue casual, sino que hay una idea de depositar en él un canal de demandas en el
+Congreso y también con el Gobierno. "Somos todos de la misma generación. Máximo representa una militancia que tiene un componente más de sectores medios y universitarios, como fue La Cámpora, y nunca
+se había podido hacer un bloque con ellos. Nosotros queremos tratar de proyectar para adelante y nos sentimos humana e ideológicamente cómodos. Creemos que Máximo puede ser un buen canal de
+comunicación, que tiene un rol importante que cumplir en el Congreso", explicó Grabois.
+
+Para el cierre, Máximo apuntó contra el presidente Mauricio Macri. Aseguró que "no conoce a su propio pueblo, no conoce a quienes gobierna" y destacó el "buen trabajo de las organizaciones sociales"
+en estos últimos años.
+
+"Seguiremos haciendo este trabajo, creo que este libro (el documento presentado durante la jornada) es una buena herramienta para debatir esa línea de trabajo. Tenemos el gran desafío de poner esta
+propuesta en marcha y dejar una Argentina mejor", cerró el diputado, cuya intervención fue muy festejada por la audiencia que lo escuchaba en el Aula Magna de la facultad.
+
+===== NOTA 22 de 35 =====
+medio: La Nación
+titulo: Juan Grabois traslada la discusión política del piquete al aula
+fecha: 2019-11-18 03:00:00
+autor: 
+seccion: Política
+volanta_bajada: Es ayudante del juez Roberto Gallardo en la Facultad de Derecho de la UBA; la opinión de los alumnos
+link: https://www.lanacion.com.ar/politica/juan-grabois-traslada-la-discusion-politica-del-piquete-al-aula-nid2307333/
+marcas a codificar: M0069
+----- TEXTO -----
+Juan Grabois saluda rápido y enérgico mientras camina apurado por el pasillo central del primer piso de la Facultad de Derecho de la UBA. Son las 21.35 y casi una decena de estudiantes lo esperan
+fuera del aula donde se dicta la materia Teoría del Estado, en la que el dirigente social de la Confederación de Trabajadores de la ⟦M0069⟧Economía Popular⟦/M0069⟧ (Ctep) es jefe de trabajos prácticos
+de la cátedra Mario Federici y del juez Roberto Gallardo, quien protagonizó distintas polémicas con los gobiernos porteños.
+
+Grabois desaparece en el fondo del pasillo. Lleva puesto un buzo rosa, el mismo que suele utilizar en movilizaciones y piquetes. Vuelve unos minutos más tarde con un café en la mano, servido en un
+vaso de plástico blanco descartable. Ahora sí, empieza la clase, que dicta dos veces por semana en la facultad.
+
+Arranca con una discusión de un texto sobre institucionalidad con los alumnos. Con el correr de los minutos, Grabois se enfoca en temas más específicos y en discusiones más actuales, como los derechos
+de los migrantes y la discriminación. Pone ejemplos de inmigrantes senegaleses, peruanos y venezolanos en la Argentina. El desempleo, el medioambiente, la pobreza y la distribución del ingreso son
+otras temáticas que forman parte de su clase.
+
+"Los problemas ambientales y sociales suceden porque el sistema se basa en la maximización de los beneficios", apunta Grabois.
+
+En otro momento, el dirigente social habla de los problemas que surgen por la combinación de "altos salarios y baja demanda de empleo". "Como pasa en la Argentina hoy. No hay demanda de empleo por
+culpa del modelo económico", completa, al frente de la clase. Al hilvanar temas, Grabois también habla de la pobreza y la desigualdad, mientras los alumnos de la UBA escuchan y toman nota.
+
+El sábado pasado, Grabois exhibió su sintonía con Máximo Kirchner en un panel político en la Facultad de Medicina. Dialogaron y rieron juntos, una muestra de las coincidencias políticas.
+
+En su clase de la Facultad de Derecho, según reconstruyó LA NACION el referente de la Ctep y del Movimiento de Trabajadores Excluidos explica que "muchos trabajadores registrados son pobres porque el
+salario promedio está por debajo de la línea de la pobreza" y aunque tengan trabajo "no están exentos de ser pobres".
+
+En general, los alumnos se muestran conformes con la tarea docente de Grabois. "Las clases son particulares, pero están muy buenas", dice Demián, uno de los estudiantes de la asignatura.
+
+"Juan explica muy bien y es muy interesante su perspectiva. La materia es más bien de historia, pero se arman debates relacionados con problemas de la actualidad. Encima somos pocos. Es casi como una
+charla", agrega Nicolás Rey Méndez, otro de los alumnos de la cátedra.
+
+El juez Roberto Gallardo es el titular de la cátedra en la que da clases Grabois, junto con el abogado e investigador Mario Federici. Conocido por sus fluidos vínculos con grupos de cartoneros,
+cooperativistas, inmigrantes y curas villeros, Gallardo suspendió recientemente en la ciudad las aplicaciones de delivery Glovo, Rappi y Pedidos Ya. Según relatan los alumnos, Gallardo y Grabois se
+turnan junto al abogado Leandro Ruffolo para dar las clases.
+
+===== NOTA 23 de 35 =====
+medio: La Nación
+titulo: Emilio Pérsico: "Va a haber choques con el Estado, porque está hecho para no cambiar"
+fecha: 2019-11-18 03:00:00
+autor: Agustina López
+seccion: Política
+volanta_bajada: El líder del Movimiento Evita defiende la creación de un sindicato de trabajadores de la economía popular y respalda a Arroyo como ministro
+link: https://www.lanacion.com.ar/politica/emilio-persico-va-a-haber-choques-con-el-estado-porque-esta-hecho-para-no-cambiar-nid2307336/
+marcas a codificar: M0070, M0071, M0072
+----- TEXTO -----
+Emilio Pérsico, secretario general del Movimiento Evita, es uno de los dirigentes sociales con mayor influencia en el proceso de organización de los movimientos populares.
+
+Si bien mantiene un perfil bajo, es una fuente de consulta constante por sus compañeros. Muchos líderes sociales, como Juan Grabois, están impulsando su nombre para ocupar un cargo en el futuro
+Ministerio de Desarrollo Social. De concretarse, se daría su regreso al organismo, donde acompañó a Alicia Kirchner.
+
+En una entrevista con LA NACION, tras la presentación del "Programa del buen gobierno", el sábado último, en la Facultad de Medicina, Pérsico contó que está trabajando en un sindicato de trabajadores
+populares, que espera que se pueda regularizar a los trabajadores informales. Dijo, además, que a pesar de tener afinidad con el gobierno de Alberto Fernández, "cuando haya cosas que reclamar, se va a
+reclamar".
+
+-En los últimos cuatro años las organizaciones sociales tuvieron gran presencia en las calles y conquistas a partir de estas movilizaciones. ¿Qué espera para los próximos cuatro?
+
+-Espero una legitimación de la ⟦M0070⟧economía popular⟦/M0070⟧ desde una cuestión económica. Este gobierno en la política social lo único que hizo fue asistencialismo. Hizo lo contrario de lo que
+decía que hacía. Su política fue la transferencia de recursos. Ellos creían, no de mala leche, que el mercado por sí solo resuelve el problema del trabajo, y nosotros creemos que no y que si el Estado
+no interviene en la dirección de generar trabajo el mercado lo que hace es maximizar ganancias y dejar a la gente afuera.
+
+-Anunciaron que están trabajando en un sindicato de trabajadores populares. ¿Cómo lo van a articular? ¿Quién lo va a conducir?
+
+-Es un sindicato que va a unir a todas las agrupaciones de la ⟦M0071⟧economía popular⟦/M0071⟧. No sabemos quién lo va a conducir, pero espero que sea Esteban "Gringo" Castro, que es quien conduce la
+CTEP (Confederación de Trabajadores de la ⟦M0072⟧Economía Popular⟦/M0072⟧).
+
+-¿Van a tener obra social con aportes?
+
+-Eso todavía no lo sé. El Estado es tan bobo que les paga tres veces la salud a los compañeros: con el monotributo de la economía social, les paga la obra social y después los atienden en el hospital
+público. Hay recursos que hay que ordenar porque el Estado mira todo desde la política.
+
+-¿Están en diálogo con la CGT para la incorporación de este sindicato a la mesa de negociación?
+
+-Por supuesto. Nosotros queremos ser parte de la CGT, el sindicato tiene que ser parte de la CGT. De hecho, lo único novedoso del plenario del otro día [el que recibió a Alberto Fernández en la sede
+de Azopardo al 800] es que estaban los compañeros de las organizaciones sociales.
+
+-¿Siente que hay buena recepción de la central obrera para sumarse?
+
+-Hay de todo. Pero la mayoría, creo, va a estar de acuerdo.
+
+-Las organizaciones sociales buscan conseguir más participación estatal. ¿Tiene intención de ocupar algún cargo en el nuevo gobierno?
+
+-[Duda] Los cargos se van a definir dentro de las organizaciones. Quiénes van al Estado y quiénes se quedan haciendo: construir el sindicato, seguir construyendo las organizaciones. No sé si yo voy a
+ir al Estado, si Juan [Grabois] va a ir al Estado.
+
+-¿Le gustaría ocupar un cargo público?
+
+-Gustar no. Es feo. Es feo porque es muy burocrático. Es mucho más linda la tarea de la construcción que en el Estado. Hasta los cambios en el Estado los vivís en planillas de Excel.
+
+-Con esta presencia de las organizaciones sociales en el Estado ¿van a seguir los reclamos eventuales en las calles o es una etapa pasada?
+
+-No. Alberto es un hombre que cree en la construcción colectiva. En cuanto haya cosas que reclamar, se va a reclamar. La diferencia es que ahora hay un Estado que te abre la puerta desde adentro.
+Mirá, yo a Néstor no lo voté. Lo primero que hice cuando ganó fue patearle la puerta. El problema es que cuando lo hice no tenía llave y entré. Este va a ser un gobierno que abra las puertas para la
+discusión y para el diálogo.
+
+-¿Qué demandas van a plantear?
+
+-La primera cuestión es el problema del trabajo. Si los compañeros no tienen trabajo, no hay ordenador social. Y el reconocimiento del trabajo hacia las compañeras también es un indicador de igualdad
+social.
+
+-¿Le preocupa la posibilidad de chocar con algunas de las estructuras del Estado?
+
+-Va a haber choques. El Estado está hecho para no cambiar, para que los compañeros queden en negro. Pero bueno, nosotros vamos a "pechar", ¿eh?
+
+-En su discurso habló de la necesidad de que los blanqueen como trabajadores. ¿Cree que esto es posible?
+
+-Ya lo hizo toda Europa. Acá se habla de las pymes. En cada pueblo hay un tipo que tiene cinco vacas y que le vende la leche cruda a un hotel para que produzca. Eso hay que hacer acá.
+
+-¿Cómo se podría lograr esto en el actual contexto de crisis económica?
+
+-Va a haber que hacer unos cambios para acomodar esa economía, porque esa economía no se adapta al modelo que hoy plantea la sociedad. Hay que cambiar las leyes y las estructuras.
+
+-¿Se refiere a realizar reformas laborales?
+
+-Hay que hacer reformas para que esos trabajadores entren al sistema.
+
+-Daniel Arroyo ocuparía el cargo de ministro de Desarrollo Social. ¿Aprueba esa designación?
+
+-Vos lo escuchaste cómo fue aplaudido [Arroyo participó en el mismo evento que Pérsico]. Es el mejor de los nuestros para explicar lo que hay que hacer en la Argentina. Es uno de los nuestros y es el
+que mejor explica lo que hay que hacer. Hay que escucharlo.
+
+===== NOTA 24 de 35 =====
+medio: La Nación
+titulo: Los movimientos sociales prevén un diciembre sin grandes conflictos
+fecha: 2019-11-18 03:00:00
+autor: María Paula Etcheberry
+seccion: Política
+volanta_bajada: Como una muestra de la afinidad política con Alberto Fernández, los principales grupos piqueteros aseguran que no habrá protestas masivas; piden un "refuerzo en los ingresos"
+link: https://www.lanacion.com.ar/politica/los-movimientos-sociales-preven-un-diciembre-sin-grandes-conflictos-nid2307332/
+marcas a codificar: M0073, M0074
+----- TEXTO -----
+Los movimientos sociales esperan transitar un diciembre lejos de las calles. Enfocados en el trabajo conjunto con los equipos del presidente electo, Alberto Fernández, y en la creación de un sindicato
+único que los represente, las principales organizaciones sociales descartan grandes protestas o movilizaciones en lo que queda del año.
+
+De todas formas, sus dirigentes consideran inevitable un "refuerzo en los ingresos", como parte de los anuncios de los primeros días de gobierno de Fernández.
+
+Pese a las críticas por el cumplimiento de la ley de emergencia alimentaria, predomina la idea de "esperar al próximo gobierno", que tiene afinidades políticas con "los cayetanos", como se denomina el
+grupo compuesto por la Confederación de Trabajadores de la ⟦M0073⟧Economía Popular⟦/M0073⟧ (CTEP), la Corriente Clasista Combativa (CCC), Barrios de Pie-Somos y parte del Frente Popular Darío
+Santillán (FPDS).
+
+"Siempre puede haber una movilización, pero la calle no es un lugar en el que nos guste estar. Entendemos que puede haber movilizaciones pequeñas y puntuales. Vamos a fortalecer la gestión de un
+gobierno que tiene su prioridad en la pobreza. Mantenemos el diálogo abierto porque nos parece que es un valor estratégico", sostiene Gildo Onorato, dirigente de la CTEP, en referencia al vínculo con
+el presidente electo y la situación en las calles a partir de diciembre.
+
+"Estoy seguro de que [diciembre] va a ser un mes tranquilo. El próximo gobierno sabe que la gente no puede esperar más. Alguna medida de urgencia van a tomar antes de fin de año. El mismo presidente
+electo reconoce que hay una gran pérdida del poder adquisitivo y que en forma inmediata hay que solucionar el tema del hambre", agrega Juan Carlos Alderete, líder de la CCC.
+
+Ayer, en declaraciones radiales, Daniel Menéndez, coordinador de Barrios de Pie, aseguró que la suerte de las agrupaciones "está atada a la suerte de Alberto". "Somos parte de este proceso político",
+enfatizó.
+
+"La calle es nuestra herramienta de lucha, pero sabemos que es la última instancia", agregó Dina Sánchez, dirigente del Frente Popular Darío Santillán.
+
+Otro de los motivos que ayudan a disminuir la presencia de los movimientos sociales en las calles es que actualmente sus esfuerzos están destinados a la creación de un gremio que los reúna.
+
+El objetivo tiene como paralelo el pedido de Alberto Fernández a la CGT para que avance en la unidad con los sindicatos que quedaron fuera de la central.
+
+Las agrupaciones sociales también están elaborando propuestas para que Fernández tenga en cuenta a la hora de diseñar políticas públicas.
+
+"Estamos enfocados en el proceso de unificación del conjunto de los movimientos sociales en un sindicato único, que permita aglutinar los reclamos mayoritarios del sector".
+
+La presentación del gremio único de agrupaciones sociales será el 7 de diciembre, y Fernández estará entre los invitados.
+
+"Tuvimos una reunión con Alberto [Fernández] en la que delineamos y señalamos un conjunto de medidas", completó el dirigente de Barrios de Pie, al referirse al encuentro que mantuvieron con el
+presidente electo días atrás.
+
+Aunque las leyes de emergencia alimentaria y social podrían suponer un incentivo para la protesta, las organizaciones sociales consideran que es preferible esperar a que asuma el próximo gobierno para
+reclamar por su cumplimiento.
+
+En el caso de la primera de las leyes, que fue aprobada en septiembre por el Congreso, las organizaciones sociales denuncian que está siendo subejecutada pese al aumento en las partidas
+presupuestarias que otorgó el Gobierno. La ley de emergencia social fue aprobada en 2016 y el 31 de diciembre vence su prórroga. Los movimientos sociales confían en que Fernández garantizará la
+continuidad de esta medida, que establece el pago del salario social complementario.
+
+"Va a continuar la ley [de emergencia social]. Se va a avanzar en las líneas que la ley plantea, poniendo en funcionamiento el Consejo de la ⟦M0074⟧Economía Popular⟦/M0074⟧, al que vamos a convocar",
+indicó Menéndez.
+
+Sin embargo, pese a la expectativa por la llegada de Fernández, los movimientos sociales advierten que se movilizarán contra el presidente electo en caso de ser necesario.
+
+"Le dejamos en claro a Alberto [Fernández] que somos organizaciones de lucha y organización, y si no nos gusta algo se lo vamos a hacer saber", apuntó Sánchez. "No vamos a ser un sector de
+aplaudidores. Vamos a acompañar, pero el próximo gobierno tiene que tomar medidas de emergencia", cerró Alderete, de la Corriente Clasista y Combativa.
+
+===== NOTA 25 de 35 =====
+medio: La Nación
+titulo: En una sesión maratónica se aprobó la ley de góndolas en Diputados
+fecha: 2019-11-21 03:00:00
+autor: Laura Serra
+seccion: Política
+volanta_bajada: La reglamentación de góndolas en los supermercados para evitar abusos comerciales tuvo media sanción; además, se avanzó con la ley de alquileres
+link: https://www.lanacion.com.ar/politica/en-una-sesion-maratonica-avanzo-la-ley-de-alquileres-nid2308247/
+marcas a codificar: M0075
+----- TEXTO -----
+En su última sesión ordinaria del año, la Cámara de Diputados avanzó ayer en dos proyectos de impacto social: el que establece nuevas condiciones para los contratos de alquiler y la llamada "ley de
+góndolas", que propone alentar la competencia de las marcas de alimentos y productos de limpieza en los supermercados, para evitar abusos de posición dominante por parte de grandes empresas.
+
+Tras un año poco productivo en materia parlamentaria -en Diputados hubo solo seis sesiones en los últimos nueve meses-, los legisladores protagonizaron una sesión maratónica, con más de un centenar de
+proyectos de ley que habían quedado pendientes. Tenían urgencia, porque los dictámenes sin aprobar antes de fin de mes -cuando termina el período ordinario de sesiones- pierden estado parlamentario.
+
+Los diputados dieron media sanción al proyecto de ley de góndolas, iniciativa que auspicia el presidente electo, Alberto Fernández. Luego de una trabajosa tarea de consenso entre el oficialismo y la
+oposición, la votación arrojó un apoyo casi unánime: 180 votos fueron positivos, sólo uno fue negativo y otros 18 diputados se abstuvieron.
+
+El texto acordado establece que la exhibición en las góndolas de productos de un mismo proveedor o grupo empresario no podrá superar el 30% del espacio disponible que comparte con productos similares.
+La participación deberá involucrar a no menos de cinco proveedores o grupos empresarios.
+
+Se deberá garantizar un 25% de la góndola para exhibir productos producidos por micro y pequeñas empresas nacionales y un 5% adicional para productos originados por la agricultura familiar, campesina
+o indígena y sectores de la ⟦M0075⟧economía popular⟦/M0075⟧. Esta iniciativa solo contempla la comercialización de alimentos, bebidas, productos de higiene personal y artículos de limpieza del hogar.
+
+"Estamos dando un paso importante en la búsqueda del equilibrio y la justicia que tanto consumidores como pymes están necesitando", destacó la presidenta de la Comisión de Defensa del Consumidor,
+Marcela Passo (Frente Renovador).
+
+Una de las autoras del proyecto, la diputada Elisa Carrió (Coalición Cívica), advirtió que el problema de los productores y los consumidores es la intermediación. "Yo no estoy a favor de los
+supermercados, estoy en contra -sostuvo-. Los supermercados fijan los precios y les es fácil arreglar con cualquier gobierno. Lo hizo [Guillermo] Moreno", enfatizó.
+
+Desde el kirchnerismo, la diputada Fernanda Vallejos exaltó que "no solo se procura cuidar el bolsillo de las familias", sino también "cuidar a las pymes y productores regionales, agredidos por la
+política económica de los últimos cuatro años".
+
+Al cierre de esta edición, los diputados se aprestaban a aprobar diversos proyectos destinados a ampliar derechos a las mujeres y combatir la violencia de género. Por ejemplo, el desarme de los
+efectivos de las fuerzas de seguridad imputados en causas de violencia de género y el cupo femenino del 30% en eventos musicales. También iba a tener media sanción la modificación de la ley de ciencia
+para incluir la perspectiva de género y generar acciones para alcanzar la presencia equilibrada de mujeres y hombres en todos los ámbitos científicos.
+
+Agustín Rossi, mencionado como futuro ministro de Defensa, se llevó anoche la media sanción del proyecto que propone crear un Fondo Nacional de la Defensa para financiar el proceso de reequipamiento
+de las Fuerzas Armadas.
+
+Anteriormente se debatió la nueva ley de alquileres, una iniciativa que, en líneas generales, establece condiciones más favorables para los inquilinos, que hoy suman unos ocho millones en todo el
+país. Se aprobó con un amplio consenso entre el oficialismo y la oposición -191 votos afirmativos y 24 abstenciones-, por lo que todo indica que el Senado la convertiría en ley antes de fin de año.
+
+El proyecto, que modifica el Código Civil y Comercial, dispone la extensión de la duración mínima del contrato a tres años, la incorporación de un índice oficial (que promedia inflación y salarios)
+para la actualización de los valores -que será anual-, el registro de los contratos en la AFIP y una ampliación de la oferta de garantías que puede presentar la persona inquilina.
+
+"Esta ley viene a equilibrar las relaciones entre ambas partes y a corregir abusos", enfatizó el diputado Daniel Lipovetzky (Cambiemos), presidente de la Comisión de Legislación General. Y el
+kirchnerista Adrián Grana dijo que la ley dará "previsibilidad" a los inquilinos.
+
+Si bien todos los bloques celebraron el acuerdo, algunos legisladores advirtieron sobre la posible retracción en la oferta de viviendas para alquiler que podría generar esta ley. Esto explica la
+cantidad de abstenciones a la hora de votar.
+
+===== NOTA 26 de 35 =====
+medio: La Nación
+titulo: Entusiasmo de los movimientos sociales ante el posible beneficio
+fecha: 2019-11-22 03:00:00
+autor: María Paula Etcheberry
+seccion: Política
+volanta_bajada: Consideran que los aumentos que evalúa Fernández son una "buena señal"
+link: https://www.lanacion.com.ar/politica/entusiasmo-de-los-movimientos-sociales-ante-el-posible-beneficio-nid2308667/
+marcas a codificar: M0076
+----- TEXTO -----
+Los movimientos sociales recibieron con entusiasmo las medidas de recomposición salarial que el próximo gobierno del Frente de Todos evalúa junto a los gremios. Confirmaron que es una de las señales
+que estaban esperando de parte del presidente electo, Alberto Fernández, quien ya les había adelantado algo en la reunión que mantuvieron la semana pasada.
+
+"Intuíamos que esto iba a suceder, por lo que se había charlado en la reunión de la semana pasada. Nosotros habíamos sugerido que había que inyectar recursos en los sectores que más sufren", explicó a
+LA NACION Gildo Onorato, dirigente de la Confederación de Trabajadores de la ⟦M0076⟧Economía Popular⟦/M0076⟧ (CTEP). Junto con la Corriente Clasista Combativa (CCC), Barrios de Pie-Somos y un sector
+del Frente Popular Darío Santillán (FPDS), participaron del encuentro con Fernández y el titular de la Pastoral Social del Episcopado, el obispo Jorge Lugones, el miércoles pasado.
+
+"Él [por Alberto Fernández] expresó al pasar en la reunión que coincidía en la necesidad de inyectar recursos en los sectores más postergados. Aunque no definió la forma, sí coincidió en eso", agregó
+el dirigente Onorato.
+
+Para Daniel Menéndez, coordinador nacional de la fracción de Barrios de Pie que está alineada con el kirchnerismo, estas posibles medidas son "una muy buena señal".
+
+"Es necesaria esta señal y este tipo de medidas para responder a la expectativa. La Argentina no vivió un proceso de convulsión social porque con el recambio presidencial se canalizó a través de la
+esperanza en un futuro gobierno. Detrás de esa esperanza y expectativa está la tensión acumulada de los sectores más humildes", apuntó Menéndez, quien considera que los aumentos "deberían darse en las
+jubilaciones mínimas, la Asignación Universal por Hijo (AUH) y los programas sociales".
+
+Tanto durante la campaña como una vez consumadas las elecciones, los movimientos sociales reclamaron en reiteradas oportunidades una recomposición del poder adquisitivo perdido durante este año, entre
+otros reclamos. De ahí surge la expectativa de recibir "señales claras" de parte del presidente electo.
+
+Aunque las agrupaciones que integran el grupo de "los cayetanos" se muestran optimistas frente a la posibilidad de que se apliquen estos aumentos, no quieren definir con precisión el monto que
+deberían alcanzar las subas en los salarios bajos, las jubilaciones y planes sociales que está evaluando Fernández.
+
+"Tiene que haber una señal clara de recomposición salarial porque el año fue muy malo. Hubo una fuerte inflación y un aumento en los alimentos. Es importante que se contemple eso. Después es
+responsabilidad del gobierno evaluar la carga fiscal y el monto", afirmó Menéndez.
+
+Al mismo tiempo, las organizaciones sociales admiten que lograr que los ingresos recuperen totalmente el poder de compra perdido es un proceso más largo y de mediano plazo.
+
+"Esperábamos que existiera un primer aumento [en los salarios, jubilaciones y planes sociales] como primera señal concreta. Es un nuevo paliativo que lo vemos de manera positiva y favorable. Es una
+señal que estábamos esperando. Pero sabemos que para resolver lo estructural se requiere más tiempo. Los ingresos son un factor importante, pero la pobreza es multicausal", expresó Onorato, al
+transmitir su confianza en las medidas.
+
+"Hay conciencia de la sociedad y de quienes la están pasando mal de que esa solución no va a venir de un día para el otro", agregó Menéndez, en una línea similar.
+
+===== NOTA 27 de 35 =====
+medio: La Nación
+titulo: Las 10 medidas que debería implementar Fernández en sus primeros 100 días, según los liberales
+fecha: 2019-11-25 18:37:00
+autor: Catalina Bontempo
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/las-10-medidas-deberia-implementar-fernandez-sus-nid2309558/
+marcas a codificar: M0077
+----- TEXTO -----
+Con la intención de crear empleo privado e impulsar la inversión y la competitividad, la Fundación Libertad y Progreso confeccionó un documento con 10 medidas que debería, a su criterio, tomar Alberto
+Fernández en sus primeros 100 días como presidente. De acuerdo con el think tank liberal, las decisiones que se tomen durante ese lapso serán determinantes para la solución ordenada de la deuda
+pública y la recuperación de confianza.
+
+"Se deberían implementar en los primeros tres meses, porque es cuando el gobierno tiene más fuerza política para hacerlo", dijo a LA NACION el director de Políticas Públicas de Libertad y Progreso,
+Manuel Solanet.
+
+Además del poder político que se requiere, insistió en la urgencia que existe para su implementación. "Se está negociando con el FMI y eso no puede durar demasiado, todo este esquema debería
+ejecutarse lo antes posible", añadió.
+
+Según la fundación, si se sigue el plan propuesto, a partir del año 2021 la Argentina puede tener un crecimiento anual del 6% y crear cuatro millones de empleos privados productivos en cuatro años.
+Desde el organismo aseguran que las propuestas que recomiendan permitirían "absorber el millón de jóvenes que ingresarán en ese periodo al mercado laboral, además de un millón de empleados públicos,
+un millón de receptores de planes sociales y un millón de personas que hoy están en la economía informal".
+
+Las medidas apuntan a lograr un superávit fiscal que permitirá disminuir la presión impositiva y reestructurar sin quita la deuda pública. Ese logro, según la fundación, constituirán el eje del plan a
+presentar al FMI en lo inmediato para desbloquear los desembolsos pendientes.
+
+La organización sostiene que con estas medidas el actual círculo vicioso de pobreza, estancamiento, déficit e inflación se convertirá en el círculo virtuoso del crecimiento, el empleo, el mejoramiento
+del salario real y la estabilidad monetaria.
+
+En relación con a si cree que Fernández llevará adelante el plan sugerido, Solanet indicó: "No creo que tenga otras alternativas. Puede llevarlas adelante, porque cada medida va acompañada por
+amortiguadores sociales". El directivo agregó que proponen que cada medida se tome desde inicio, pero que sus efectos sean graduales.
+
+Para la fundación, la clave de la recuperación será la inversión privada, que deberá darse en un marco de reglas de competitividad. Para lograr el desarrollo sostenido, aseguran que es necesario
+encarar reformas estructurales que liberen las fuerzas del sector privado. Para eso proponen las siguientes medidas. En sus términos:
+
+Reforma laboral. Se deberán privilegiar los acuerdos laborales a nivel de empresa sobre los acuerdos colectivos a nivel de sector de actividad, lo que requerirá que se unifique la representación de
+los trabajadores de la empresa. Además, desde la fundación advierten sobre la necesidad de asegurar la libertad sindical, desregular y simplificar los controles administrativos de la autoridad de
+aplicación y de la policía laboral, aumentar la productividad y reducir el sobrecosto y el riesgo laboral. Para reducir el costo y riesgo de despido, respetando los derechos adquiridos, recomiendan la
+supresión hacia adelante de la indemnización por despido, y a su vez formulan compensarla mediante un fondo y seguro de desempleo. Para llevar adelante esto, será necesario una reforma, mediante
+decreto o ley, de los artículos 17, 18 y 19 de la ley 14.250 de Convenciones Colectivas y de los artículos 231 a 255 de la Ley de Contrato de Trabajo. También, recomiendan modificar mediante decreto
+reglamentario el artículo 84 de esta última ley.
+
+Reforma de la administración nacional. Para alcanzar una mayor eficacia, eficiencia y reducir el número de empleados de la administración nacional, proponen incorporar la gestión por resultados,
+continuar la digitalización y decretar una nueva estructura en el marco de las atribuciones establecidas en la ley 25.164 de Empleo Público. La fundación incluso propone un organigrama con seis
+ministerios y una Jefatura de Gabinete. El decreto deberá establecer la dotación de personal de cada unidad administrativa, por categoría. De forma transitoria y por 90 días, las unidades
+administrativas de la vieja estructura deberán ser asignadas a cada ministerio hasta que se cubran los cargos de la nueva estructura. Una vez completado el reencasillamiento del personal, los que no
+fueron reubicados quedarán en la condición de disponibilidad establecida por el artículo 11 de la ley 25.164, es decir, no cumplirán tareas, pero cobrarán sueldos por uno o dos años para evitar el
+costo social de que queden sin ingresos. Desde la organización proponen, además, incentivos a las empresas que contraten al personal que no fue reubicado, como eximir de los aportes patronales durante
+un período de dos años y subsidio sobre los gastos de capacitación en el nuevo empleo. También, para llevar adelante esta reforma, se deberá otorgar una jubilación temprana a quienes, quedando en
+disponibilidad, no hubieran conseguido empleo en dos años y tengan más de 60 años de edad.
+
+Reducción gradual de planes sociales. La fundación aconseja que ir reduciendo la ayuda a quienes menos lo necesiten e incentivar el otorgamiento de empleo generalizando, por ejemplo, el plan Empalme.
+"Se deben transformar los planes sociales en empleo", afirmó Solanet. A su vez, proponen suprimir los fondos asignados a la ⟦M0077⟧Economía Popular⟦/M0077⟧ y realizar una auditoría internacional para
+revisar los excesos cometidos en la asignación fraudulenta de las prestaciones por invalidez.
+
+Continuar con la reducción de los subsidios a la energía y al transporte. Sugieren normalizar en un plazo prudencial las tarifas y precios para que cubran los costos, contemplando una ganancia que
+incentive la inversión en el sector. Para amortiguar el impacto sobre los estratos de menores ingresos se propone un subsidio a la demanda, como puede ser la tarifa social.
+
+Elevación de la edad jubilatoria. El plan sostiene que se debería igualar a mujeres y varones en 65 años y llegar en una década a los 70 años para ambos sexos. Dentro de la medida, se le reconocerá a
+las madres el equivalente a dos años de aportes por cada hijo hasta un máximo de 7 años.
+
+Reforma de la Coparticipación Federal. La propuesta prevé el envío al Congreso de una ley que permita la devolución de potestades tributarias a las provincias (como Ganancias de personas físicas,
+Combustibles, Bienes Personales, Internos), el reemplazo de Ingresos Brutos por Ventas (son provinciales) y la calibración de este con la alícuota del IVA (es nacional) para empalmar con distribución
+primaria vigente. Sugieren la supresión de la coparticipación vertical y una compatibilidad con actual distribución secundaria mediante un Fondo de Redistribución Horizontal que produzca un empalme
+con el sistema vigente. Al tratarse de porcentajes inamovibles, recomiendan que los aumentos de los gastos de las provincias sean acompañados por impuestos provinciales adicionales. De esa forma,
+según explican en el plan, se alinearán los incentivos y se propenderá a gastar menos y mejor".
+
+Eliminación gradual del impuesto al cheque y de los derechos de exportación. Esta medida deberá aplicarse a medida que se disminuya el gasto público, pero con un curso preestablecido por ley.
+
+Formalizar Tratados de Libre Comercio. Desde la fundación sugieren trabajar en la concreción del Tratado de Libre Comercio entre el Mercosur y la Unión Europea, acordar con Brasil y los otros dos
+socios del Mercosur la reducción del arancel externo común e iniciar la negociación de otros tratados bilaterales de libre comercio.
+
+Permitir el uso de otras monedas. Para la fundación es necesario corregir las normas que impiden el uso de otras monedas, derogar el curso legal forzoso del peso y facilitar el uso de dinero
+electrónico. "No proponemos la dolarización, pero creemos que deberían circular libremente otras monedas, incluso en contratos o alquileres", añadió Solanet.
+
+Desregulación y simplificación normativa. La organización apunta especialmente a las normas de la AFIP, del Banco Central (BCRA) y de otros organismos regulatorios, así como a "desandar las normas
+intervencionistas como la ley de Alquileres".
+
+===== NOTA 28 de 35 =====
+medio: La Nación
+titulo: Temor empresario por el avance de la ley de góndolas
+fecha: 2019-11-27 03:00:00
+autor: 
+seccion: Economía
+volanta_bajada: Los supermercados advierten que será difícil de implementar y aumentará sus costos
+link: https://www.lanacion.com.ar/economia/temor-empresario-por-el-avance-de-la-ley-de-gondolas-nid2310070/
+marcas a codificar: M0078
+----- TEXTO -----
+A las preocupaciones habituales de los supermercadistas ante una demanda que no termina de repuntar y una competencia desleal que sigue avanzando, en los últimos días se sumó un nuevo motivo de
+desvelo. El miércoles pasado, la Cámara de Diputados le dio media sanción al proyecto de ley de góndolas, y todo indica que la propuesta –más temprano que tarde– será aprobada por el Senado.
+
+Ante la nueva regulación, las grandes cadenas tienen una opinión dividida. Reconocen como una medida necesaria (y en cierto punto, positiva) la decisión de impulsar la competencia en algunas
+categorías que hoy muestran una posición dominante por parte de una o dos empresas. Sin embargo, el optimismo no es compartido cuando se analiza la capacidad de aplicación que tendrá el proyecto que
+avanza en el Congreso.
+
+"Estamos de acuerdo con el espíritu de la propuesta y la idea de desarrollar a las pymes como proveedores. Y de hecho es algo que venimos haciendo en Walmart. El problema es cómo ayudar a las pequeñas
+empresas, y no creo que se puede lograr a través de una ley", señaló Dolores Fernández Lobbe, la flamante número uno de Walmart Argentina, que ayer participó de la mesa de la cumbre anual organizada
+por la Asociación de Supermercados Unidos (ASU) en La Rural.
+
+"En el resto del mundo existen regulaciones para la relación con los proveedores y estamos de acuerdo en avanzar en este tipo de medidas. Pero no creemos que agregue valor cuando se busca regular los
+porcentajes de exhibición en las góndolas", señaló Federico Braun, presidente de la cadena de supermercados La Anónima.
+
+En el grupo Cencosud (dueño de las cadenas Disco, Jumbo y VEA), por su parte, pusieron en duda que una medida de este tipo alcance su objetivo de contribuir a una baja de los precios en las góndolas.
+
+"Creo que lo que va a provocar la ley es una distorsión en las góndolas y quiebres de stock en algunos proveedores, con mayores costos para toda la operación asociados a la reposición de productos",
+fue el diagnóstico de Joaquín Santa Coloma, director ejecutivo de Cencosud Argentina.
+
+En Coto también coincidieron en que cualquier medida que busque una mayor regulación de las góndolas no se presenta como una tarea fácil. "El armado de la góndola, con tantas variables, es un tarea
+extremadamente difícil", señaló Daniel Padín, director de Tecnología de la cadena de supermercados Coto.
+
+Del proyecto de ley de góndolas que ya fue aprobado en Diputados hay dos artículos puntuales que despiertan la mayor preocupación de los supermercados.
+
+El primero es el artículo tercero, que establece que las nuevas regulaciones solo regirán para las trece cadenas de supermercados que hoy facturan más de $1700 millones anuales. Esta lista incluye a
+las grandes cadenas que operan a nivel nacional: Carrefour, Walmart, Cencosud, Coto, La Anónima, Día% y Libertad, y algunos jugadores regionales como Todo (Bariloche), La Cooperativa Obrera (Bahía
+Blanca) y Comodín (Jujuy), entre otros.
+
+"Juntas, todas estas cadenas representamos menos del 30% de las ventas, con lo cual la regulación y la mayor competencia no alcanzará al 70% del mercado", explicó una fuente supermercadista.
+
+El otro punto que preocupa a los empresarios del sector es el artículo 18, que delega las tareas de fiscalización de la ley en una serie de organizaciones, como cámaras empresariales, asociaciones de
+consumidores y cooperativas de la ⟦M0078⟧economía popular⟦/M0078⟧. "A grandes rasgos, esto significa abrirle la puerta a [Juan] Grabois para que se convierta en un inspector de las góndolas", se quejó
+un hombre del sector.
+
+-13,9%
+
+Caída de ventas
+
+Es la baja que sufrirán este año las ventas de productos de la canasta básica.
+
+-15,2%
+
+Artículos de tocador
+
+Es el porcentaje en que caerían las ventas de este rubro durante este año.
+
+-14,1%Productos de limpieza
+
+Sería la variación de las ventas de este año.
+
+===== NOTA 29 de 35 =====
+medio: La Nación
+titulo: Juan Grabois, tras las agresiones en Bolivia: "Sufrí amenazas de muerte"
+fecha: 2019-11-29 12:16:00
+autor: 
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/juan-grabois-agresiones-sufrio-bolivia-sufri-amenazas-nid2310913/
+marcas a codificar: M0079
+----- TEXTO -----
+El dirigente social Juan Grabois vivió ayer un tenso momento en el Aeropuerto Viru Viru de Santa Cruz, en Bolivia, cuando fueron interrogados por la policía y un grupo los agredió verbalmente. En un
+video que se viralizó en las redes sociales quedaron registrados los gritos de la gente: "No podés hacer política acá. Andate a tu país, maldito".
+
+Grabois contó esta mañana en Radio La Red lo que sucedió: "Fue en el pasillo entre que pasamos migraciones y tomamos el avión para La Paz. Nos hicieron pasar por un lugar donde nos estaban esperando
+para insultarnos y maltratarnos. La agresión que sufrimos estaba toda organizada".
+
+"Ojalá me hubieran dicho 'volvete a tu país', fue una serie de insultos mucho más fuertes, con gritos xenófobos y demás. Algunos compañeros fueron agredidos físicamente. En un momento me dijeron que
+me iban a deportar, sufrí amenazas de muerte", dijo.
+
+El líder de la Confederación de Trabajadores de la ⟦M0079⟧Economía Popular⟦/M0079⟧ (CTEP) consideró que en Bolivia "no solo hubo un golpe" y aseguró que "es una dictadura que impone un régimen de
+terror sobre las zonas pobres".
+
+Grabois llegó a ese país junto a una delegación integrada por Pablo Pimentel, Marianela Navarro, Pablo Garciarena, Pablo Pimentel, Gabi Carpineti, Vicky Freire, Natalia Zaracho, Federico Fagioli y
+Cristina Vera Livitsanos.
+
+Según indicaron, fueron para registrar testimonios de víctimas de violaciones a los derechos humanos o que hayan sufrido algún tipo de persecución política tras la crisis política y social.
+
+===== NOTA 30 de 35 =====
+medio: La Nación
+titulo: El posible impacto de regular las góndolas estableciendo cupos
+fecha: 2019-12-01 03:00:00
+autor: Juan Carlos de Pablo
+seccion: Economía
+volanta_bajada: 
+link: https://www.lanacion.com.ar/economia/el-posible-impacto-de-regular-las-gondolas-estableciendo-cupos-nid2311200/
+marcas a codificar: M0080, M0081, M0082
+----- TEXTO -----
+Nacido en Alemania, consiguió la nacionalidad estadounidense en 1940; estudió en la Universidad de Vanderbilt y obtuvo un doctorado en el Instituto de Tecnología de Massachusetts (MIT).
+
+"Si se tienen que fundir los supermercados y si tienen que renacer los almacenes, mejor para la historia del país", afirmó Elisa Carrió durante el debate previo a la media sanción de la denominada
+"ley de góndolas" en la Cámara de Diputados, el 20 de noviembre pasado. Aunque supongo que con fundamentos menos pasionales que los enunciados por la diputada, el proyecto de ley fue aprobado por 180
+votos, con solamente uno en contra y con 18 abstenciones. ¿Cuál es el beneficio general que provoca una iniciativa de este tipo? ¿A quiénes beneficia y a quiénes perjudica?
+
+Sobre el tema consulté al alemán Fred M. Westfield (1926-2019), quien al comienzo de su juventud fue enviado a Estados Unidos para que viviera con parientes. Su caso fue uno de los de 328 economistas
+analizados en 2007 por Herald Hagemann, cuya vida fue profundamente afectada por el nazismo. Además de su labor académica, trabajó como consultor sobre tarifación de empresas públicas en la Argentina,
+Brasil, Corea del Sur, Kenia y Paquistán.
+
+-Usted realizó contribuciones en tres áreas dentro de la microeconomía: la aplicación del análisis marginal a las empresas que operan varias plantas, la posibilidad de comportamientos conspirativos en
+la compraventa de bienes de capital por parte de empresas sujetas a regulación de tarifas y el impacto sobre los precios de la integración vertical. ¿Cuáles fueron sus aportes?
+
+-Vamos por partes. Ejemplificando con el caso de la energía eléctrica, en 1955 mostré cómo hay que modificar el análisis de la distribución de la producción de un bien entre distintas plantas, para
+tener en cuenta los costos de transporte que, en el caso que consideré, no solo derivan de las redes sino de la pérdida de energía derivada de la trasmisión.
+
+-Una década después habló de conspiración.
+
+-Porque al prestarle particular atención al caso competitivo, el análisis económico sugiere que a ningún productor le gusta que le aumenten el precio de los insumos. Pero, ¿qué ocurre en el caso de
+las actividades cuyas tarifas están reguladas sobre la base de los costos más un margen de ganancia? Que, bajo determinadas condiciones, al regulado le conviene comprar más caros los equipos que
+utiliza por el correspondiente reajuste de las tarifas. En su país esto no se llama conspiración, sino colusión.
+
+-Y también analizó qué le ocurre al precio de un producto si un oferente, vía la adquisición de empresas competidoras, convierte en un monopolio lo que antes era un mercado competitivo. Por ejemplo,
+qué le ocurriría al precio de venta de los combustibles si una petrolera comprara todas las estaciones de servicio.
+
+-Encontré que la respuesta es ambigua, porque operan efectos contrapuestos.
+
+-¿Qué opina sobre la denominada ley de góndolas, que obtuvo media sanción en Diputados?
+
+-No leí el texto, de manera que le voy a contestar basándome en la síntesis publicada en los diarios. En el caso de la comercialización de alimentos, bebidas, productos de higiene personal y artículos
+de limpieza del hogar, en las góndolas un mismo proveedor o grupo empresario no podrá superar 30% del espacio disponible que comparte con productos similares; la participación deberá involucrar a no
+menos de cinco proveedores o grupos empresarios; 25% de la góndola deberá exhibir productos elaborados por micro y pequeñas empresas nacionales y 5% adicional, productos originados por la agricultura
+familiar, campesina o indígena y por sectores de la ⟦M0080⟧economía popular⟦/M0080⟧.
+
+-Quizás un ejemplo aclare el mecanismo.
+
+-Un supermercado que destina 100 metros a la comercialización de gaseosas no puede dedicar más de 30 a una única marca; debe incluir por lo menos otras cuatro marcas en 40 metros; estando obligado a
+vender gaseosas producidas por alguna pyme en 25 metros, y otras hechas por algún fabricante individual, indígena o proveniente de la ⟦M0081⟧economía popular⟦/M0081⟧, en los cinco metros restantes.
+
+-¿Qué pretende el proyecto de ley de góndolas? ¿A quiénes pretende beneficiar?
+
+-A ciertos productores y probablemente a los consumidores. Algunos productores que hasta ahora no podían vender vía supermercados podrán hacerlo. Una opción más, en principio, es siempre una ventaja.
+
+-¿Y en cuanto a los consumidores?
+
+-No está tan claro. La proximidad "geográfica" de productos similares facilita la sustitución, lo cual puede llevar a que quienes ya vendían tengan que ajustar sus precios al perder parte de la
+demanda. Digo que no está tan claro el efecto, porque la medida también obligará a reponer las mercaderías con mayor frecuencia, lo cual aumenta los costos. Y es difícil que bajen los precios cuando
+suben los costos.
+
+-Quienes redactaron la ley suponen que siempre habrá suficiente oferta alternativa.
+
+-¿Existe en su país alguna fábrica de gaseosas, propiedad campesina, indígena o de sectores de la ⟦M0082⟧economía popular⟦/M0082⟧? Si no existiera, ¿debería la góndola permanecer vacía, con un
+cartelito que explicara el problema?
+
+-¿Qué debería proponer quien se declara enemigo de los supermercados?
+
+-El auto destruyó el barrio.
+
+-¿Cómo dice?
+
+-A mediados del siglo pasado, en su Liniers natal, los autos se contaban con los dedos de una mano. Por lo cual los niños asistían a la escuela del barrio, los jóvenes noviaban con los vecinos o las
+vecinas, se compraba en los comercios del barrio, se iba al cine del barrio y se era socio del club del barrio. Luna de Avellaneda ilustra este punto de manera admirable. El primer supermercado que se
+instaló en la ciudad de Buenos Aires, frente al estadio de Vélez Sarsfield, tenía un gran salón de ventas y un pequeño estacionamiento, y para que la gente fuera a comprar ofrecía un servicio gratuito
+de ómnibus.
+
+-Hasta que llegó el auto.
+
+-Separando el lugar donde se vive de los lugares donde se desarrollan las actividades. Lo cual generó una crisis en todo aquello relacionado, precisamente, con la dificultad de movilizarse. Sin autos
+no hay supermercados ni countries.
+
+-¿Está usted pensando en prohibir los autos?
+
+-Es un buen ejemplo de atacar la causa del problema, para terminar con sus efectos no queridos. Hoy las restricciones a la circulación tienen que ver con el impacto sobre el medioambiente y la
+congestión y se implementan vía los aumentos de los peajes, el estacionamiento y las prohibiciones selectivas. Pero quien procura el relanzamiento del barrio tiene que ir más allá.
+
+-O tiene que aguantarse las consecuencias.
+
+-Efectivamente. Nótese que quienes organizan marchas para protestar contra la globalización las convocan vía medios electrónicos. Y quienes añoran el funcionamiento de bares y restaurantes, que alguna
+vez fueron muy concurridos, rara vez colaboran volviendo a utilizar sus servicios. Ojalá todo esto sea tenido en cuenta por el Senado de su país, cuando le llegue el proyecto de ley.
+
+-Don Fred, muchas gracias.
+
+===== NOTA 31 de 35 =====
+medio: La Nación
+titulo: Fernández prepara un plan de trabajo popular para 4 millones de personas
+fecha: 2019-12-01 03:00:00
+autor: Gabriel Sued
+seccion: Política
+volanta_bajada: Destinaría US$1200 millones anuales para crear empleos de menor calificación e impulsar la producción; se instrumentaría a través de ONG y movimientos sociales
+link: https://www.lanacion.com.ar/politica/fernandez-prepara-un-plan-de-trabajo-popular-para-4-millones-de-personas-nid2311420/
+marcas a codificar: M0083, M0084, M0085, M0086
+----- TEXTO -----
+Alberto Fernández instruyó a su equipo de colaboradores para trabajar en un plan de fomento y sistematización de la ⟦M0083⟧economía popular⟦/M0083⟧, con el objetivo de crear hasta 4 millones de
+empleos en un plazo de cinco años y reducir 10 puntos la pobreza.
+
+El presidente electo recibió una propuesta en ese sentido el martes pasado, de manos de Agustín Salvia, director del Observatorio de la Deuda Social Argentina (ODSA), de la Universidad Católica
+Argentina (UCA).
+
+Salvia llegó con el dirigente del Movimiento EvitaFernando "Chino" Navarro y ese mismo día habló con Daniel Arroyo, futuro ministro de Desarrollo Social, para trabajar en los detalles de la idea, que
+coincide con el diagnóstico del equipo de Fernández.
+
+El plan consiste en el desarrollo de miles de proyectos productivos en todo el país, coordinados desde el Estado y ejecutados por organizaciones de la sociedad civil, destinados a sistematizar
+múltiples actividades de la ⟦M0084⟧economía popular⟦/M0084⟧.
+
+Las tareas pueden ir desde la producción de alimentos saludables para proveer a las escuelas y comedores hasta servicios de electricidad o plomería, o de cuidado de niños y personas mayores.
+
+"Hay que pensar en un dispositivo institucional, que nosotros llamamos ‘empleo mínimo garantizado’, donde el Estado opere como garante de un empleo mínimo, no como dador de empleo público, sino como
+facilitador de un sistema que dé una remuneración equivalente a un salario mínimo.
+
+La idea es que desarrollen tareas y trabajos de alto impacto en materia de inversión en capital humano y capital social, en los barrios más pobres, e incluso que se desarrollen empresas sociales que
+brinden servicios a los sectores medios o a los sectores formales de las ciudades", explicó Salvia a LA NACION.
+
+En sus últimas apariciones públicas, el presidente electo hizo hincapié en el encuentro que tuvo con Salvia. "Estuvo toda la tarde conmigo, explicándome el plan para sacar a los argentinos de la
+postergación y darles un lugar. Un lugar no es un plan social, es darles sentido a sus vidas", contó el jueves, en la conferencia de la Unión Industrial Argentina (UIA).
+
+En el entorno de Fernández aseguran que la reunión lo convenció de convertir el fomento de la ⟦M0085⟧economía popular⟦/M0085⟧ en uno de los puntales de su gobierno.
+
+Arroyo suele decir que la promoción de la ⟦M0086⟧economía popular⟦/M0086⟧ es la única manera de perforar el piso de pobreza estructural, de alrededor del 25 por ciento.
+
+"Después de dar el primer paso, que tiene que ver con atacar el hambre y frenar la caída, hay que apuntar a las situaciones de pobreza multidimensional", dijo el dirigente a LA NACION. La propuesta
+formará parte de las conversaciones del Consejo Económico y Social, que prevé crear Fernández.
+
+"Partimos del diagnóstico sobre las dificultades que va a tener la economía para crear empleo para el 20 o 25 por ciento de la población económicamente activa, que está desocupado o haciendo trabajos
+de indigencia, incluso en un contexto de crecimiento, aumento de las exportaciones y reactivación del mercado interno. Esos desocupados no van a ser absorbidos por la pequeña o mediana empresa ni por
+las grandes empresas. Si no hay una política de generación de empleo en lo que llamamos la economía social, ese sector se va a ir incrementando", afirmó Salvia.
+
+En el equipo que coordina Arroyo identifican cinco sectores de mano de obra intensiva a los que prevén apostar: la construcción a pequeña escala, la producción de alimentos, la producción textil, el
+reciclaje y las tareas de cuidado. "Son tareas en las que hay que dar capacitación y acompañamiento", dice el futuro ministro.
+
+En la cartera de Desarrollo trabajará también el líder del Movimiento Evita, Emilio Pérsico, que quedará a cargo de la reformulación de los planes de empleo, unos 450.000, con el objetivo de que
+funcionen verdaderamente como programas productivos.
+
+Para poner en práctica la propuesta de Salvia el Estado nacional debería invertir 1200 millones de dólares por año, lo que equivale al 0,3 por ciento del PBI. Según los cálculos de Observatorio de la
+Deuda Social, el plan podría generar recursos anuales de hasta el 0,5 por ciento del PBI y crear entre 500.000 y 800.000 empleos por año, es decir, hasta 4 millones en cinco años. "El objetivo es
+crear un puesto de trabajo por cada hogar pobre que tiene la Argentina", explicó Salvia, que presentará el plan el jueves, en la UCA, con la presencia de Arroyo y de referentes de distintas fuerzas
+políticas.
+
+También quedarían incluidas actividades de forestación, recuperación ambiental de áreas contaminadas, asistencia al mejoramiento de espacios comunitarios, asistencia en materia de prevención de la
+salud, apoyo escolar, campañas de prevención y educación ambiental. "La idea es que sean tareas que puede llevar adelante la población de los barrios pobres, con mínima capacitación y con una
+organización que la pondría una ONG, una iglesia, un club o un movimiento social, para 30 personas como máximo", precisó Salvia. La ejecución de los fondos públicos quedaría a cargo de los municipios,
+encargados también de identificar las tareas a realizar.
+
+===== NOTA 32 de 35 =====
+medio: La Nación
+titulo: Juan Grabois, sobre el gabinete de Alberto Fernández: "No me sentí muy convocado"
+fecha: 2019-12-05 14:03:00
+autor: 
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/juan-grabois-gabinete-alberto-fernandez-no-me-nid2312920/
+marcas a codificar: M0087, M0088
+----- TEXTO -----
+El dirigente social Juan Grabois consideró que no se sintió "muy convocado" en el gabinete del presidente electoAlberto Fernández, pero aseguró que "desde luego" seguirá en el Frente de Todos. "Es una
+necesidad de la Patria Grande en un contexto de ofensiva neoliberal", señaló.
+
+"Es una cosa que me pasa bastante. Resulta que hay algunos que estamos para las malas y para las buenas hacen fila otros", indicó en radio Futurock, sobre las designaciones que serán oficializadas
+mañana.
+
+El líder de la Confederación de Trabajadores de la ⟦M0087⟧Economía Popular⟦/M0087⟧ (CTEP) dijo que le dio a Fernández "muchas propuestas de política pública". Según comentó, en ese momento fueron
+recibidas "con interés, pero todo quedó bastante desdibujado en la carrera de los cargos y la vorágine de las ambiciones personales".
+
+"Prefiero concentrarme en lo que hay que hacer que en quejarme por sentirme más o menos convocado. No creo que yo o mi espacio seamos imprescindibles. La política tiene mucho de la meritocracia de la
+imagen. Algunos que ponemos el cuerpo somos demonizados y eso tiene un costo", dijo.
+
+Grabois contó que en un momento le ofrecieron un cargo. "Pero yo había anunciado que no iba a aceptar. No se creará la Agencia de ⟦M0088⟧Economía Popular⟦/M0088⟧, a la que teníamos esperanza, pero
+estoy contento porque sí va a estar Emilio Pérsico".
+
+Por último, dijo que le pidió un bono "al futuro ministro de Desarrollo Social [Daniel Arroyo]".
+
+"Me dijo que iba a haber. Hay algunos gremios que pueden prescindir de eso. Los que ganan 70, 80 mil pesos. Pero nosotros no tenemos posibilidad. Será de unos 4250 pesos", indicó.
+
+===== NOTA 33 de 35 =====
+medio: La Nación
+titulo: Bases para saldar una deuda histórica
+fecha: 2019-12-06 15:19:00
+autor: Sebastián Welisiejko
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/bases-saldar-deuda-historica-nid2313329/
+marcas a codificar: M0089
+----- TEXTO -----
+La informalidad urbana ha sido y continúa siendo la manifestación territorial más cruda de la desigualdad en la Argentina. Décadas de una economía estructuralmente volátil, crisis recurrentes, falta
+de planificación y de absoluta incapacidad tanto del Estado como del mercado para generar una oferta de suelo asequible, entre otros factores, han expulsado a cientos de miles de familias de nuestras
+ciudades formales, vulnerando los derechos de millones.
+
+En Agosto de 2016 el Estado Nacional a través de la Jefatura de Gabinete de Ministros de la Nación, el Ministerio de Desarrollo Social, la Agencia de Administración de Bienes del Estado y la Anses, en
+conjunto con organizaciones de la sociedad civil como la ONG Techo, organizaciones sociales representadas por la Confederación de Trabajadores de la ⟦M0089⟧Economía Popular⟦/M0089⟧ (CTEP), la
+Corriente Clasista y Combativa (CCC) y Barrios de Pie, y la Iglesia a través de Caritas, puso en marcha el primer relevamiento nacional de barrios populares en la historia del país, un esfuerzo
+inédito con el objetivo de dimensionar la problemática de la informalidad urbana en la Argentina.
+
+El relevamiento permitió conocer por primera vez, con datos oficiales, fehacientes y exhaustivos, que existían en la Argentina al 31 de diciembre de 2016 4.416 villas y asentamientos, en los que
+935.000 familias (unas 4 millones de personas) viven sin acceso a servicios básicos ni titularidad del suelo que habitan.
+
+Más de la mitad de los barrios existían antes de la década del 2000, y casi un cuarto surgió en ese decenio marcado por una de las crisis más profundas de nuestra historia.
+
+Más preocupante aún: el 40% de los habitantes de los barrios populares tiene menos de 15 años de edad, y casi el 70% menos de 29, haciendo de la problemática de la informalidad una tragedia en
+términos del desarrollo de la niñez y la adolescencia en el país.
+
+Dimensionar la problemática fue el primer paso para comenzar a construir una política pública consistente y sostenible que permita mejorar las condiciones de vida de los millones que habitan en los
+barrios populares. A través de los años, y a pesar de precedentes relevantes en materia de políticas de vivienda y hábitat, la población de villas y asentamientos fue relegada a intervenciones
+limitadas, generales y fragmentadas que no lograron dar respuestas específicas a sus necesidades.
+
+Al relevamiento le siguió la creación mediante el decreto presidencial 358/17 del Registro Nacional de Barrios Populares (Renabap).
+
+Este y otros hitos fueron fundamentales para que desde fines de ese año se comenzara a trabajar en un proyecto de ley para la integración socio urbana de los barrios populares, proceso que lideró el
+Ministerio de Desarrollo Social de la Nación en conjunto con distintas áreas del Ejecutivo Nacional, referentes de todas las fuerzas políticas y el involucramiento pleno de la sociedad civil.
+
+Así, en octubre de 2018 fue sancionada la Ley 27.453 con apoyo unánime en ambas cámaras del legislativo nacional. La norma declaró de utilidad pública y sujeto a expropiación los inmuebles
+comprendidos en el registro, suspendió los desalojos en los barrios por un período de cuatro años, y habilitó la creación de un régimen especial de regularización dominial. Además, sentó las bases
+para el lanzamiento de un programa para la integración socio urbana de los barrios y de un fideicomiso para su financiamiento.
+
+La reciente reglamentación de la Ley, la formalización del Programa de Integración Socio Urbana (PISU) y el lanzamiento del fideicomiso permitirá la ejecución efectiva de proyectos desde 2020, en un
+marco de estrecha colaboración entre el ejecutivo nacional, las provincias y los municipios de todo el país.
+
+Desde marzo de 2018 cuando asumí como Secretario de Integración Socio Urbana en el Ministerio de Desarrollo Social de la Nación tuve el honor y la responsabilidad de aportar a la construcción de este
+proceso histórico, que comenzó tiempo antes de mi llegada al gobierno y que confío continuará por décadas. Porque lo hicimos de la única manera en que se desarrollan los procesos profundos y
+sostenibles; a través del diálogo, sin especulaciones de ningún tipo, con todos, con profesionalismo.
+
+Ese es acaso el mayor valor que deja esta experiencia, que encontró en una misma mesa y trabajando de igual a igual a sectores de la sociedad que muchos se empeñan por presentar como antagónicos.
+
+Apostando a la grieta, al oportunismo, a la agresión y el aislamiento, perdemos todos. Alguno podrá pensar que es lo que pide la política, máxime en tiempos de elecciones, pero sin entender que lo que
+se destruye es la posibilidad de construir las políticas públicas necesarias para mejorar la vida de los millones de hermanas y hermanos que más nos necesitan.
+
+Únicamente desde el corazón, con vocación profunda por construir con el otro, es que podremos encarnar la cultura del encuentro que tanto necesita la Argentina. La búsqueda de consensos no implica en
+modo alguno minimizar los conflictos y disputas de poder inherentes a los procesos de construcción política. Existen y hay que atravesarlos con madurez. Pero siempre poniendo a los más vulnerables por
+delante: la política deshumanizada no es política.
+
+En el marco de la transición dada por el cambio de gobierno auguramos a nuestros sucesores el mayor de los éxitos, que será el éxito de la sociedad toda. Además, compartimos con espíritu franco los
+avances logrados, las lecciones aprendidas, los errores, lo que faltó hacer, y los lineamientos para la consolidación de la integración socio urbana como verdadera política de Estado en el país.
+
+Desde el lugar que nos toque ocupar, el compromiso por una Argentina para todos, en paz y de diálogo, permanecerá intacto.
+
+----------------------
+
+El autor es Secretario de Integración Socio-Urbana del Ministerio de Desarrollo Social
+
+===== NOTA 34 de 35 =====
+medio: La Nación
+titulo: Chequeado: qué dijo Juan Grabois sobre el mundo laboral en los años 70 y hoy
+fecha: 2019-12-08 03:00:00
+autor: 
+seccion: Empleos
+volanta_bajada: 
+link: https://www.lanacion.com.ar/economia/empleos/chequeado-que-dijo-juan-grabois-sobre-el-mundo-laboral-en-los-anos-70-y-hoy-nid2313528/
+marcas a codificar: M0090
+----- TEXTO -----
+"En los 70, ¿cuántos trabajadores del sector privado había? 6 millones. Hoy hay 6 millones".
+
+Juan Grabois Dirigente de la Confederación de Trabajadores de la ⟦M0090⟧Economía Popular⟦/M0090⟧ (CTEP)
+
+El dirigente hizo una crítica a la situación social y laboral del país e intentó hacer una comparación entre supuestos datos de hace casi 50 años y números actuales.
+
+Grabois se basó en datos no comparables, por lo que la conclusión es incorrecta. Las cifras de la consultora Orlando J. Ferreres en las que se basó el dirigente para los años 70 muestran la cantidad
+de trabajadores del sector privado, pero incluye a los registrados (por los que se realizan aportes jubilatorios) y también a los no registrados. Y los datos actuales considerados, en cambio, toman
+solo a los asalariados del sector privado registrados. Por falta de datos históricos no es posible saber con exactitud cuántos trabajadores registrados del sector privado había en la década de 1970,
+pero sí se sabe que los trabajadores del sector privado hoy no son 6 millones, como dijo Grabois, sino más. A los alrededor de 6 millones de asalariados registrados de empresas privadas (los que están
+bajo relación de dependencia), habría que sumarle los autónomos, los monotributistas y los empleados domésticos registrados, por lo que superan los 8,5 millones. Si se toman los datos de Ferreres y se
+hace la misma cuenta con la cual se llega a los 6,5 millones de empleados en 1970, en 2018 (último dato disponible) los de ese grupo serían unos 13 millones. El empleo privado casi se duplicó,
+contrariamente a lo que marcó Grabois.
+
+===== NOTA 35 de 35 =====
+medio: La Nación
+titulo: Misa por la "unidad y la paz" en Luján: quiénes estuvieron y los ausentes
+fecha: 2019-12-08 18:44:00
+autor: 
+seccion: Política
+volanta_bajada: 
+link: https://www.lanacion.com.ar/politica/quienes-acompanaron-macri-fernandez-misa-unidad-paz-nid2313819/
+marcas a codificar: M0091
+----- TEXTO -----
+En un encuentro para celebrar el día de la virgen en la Basílica de Luján, Mauricio Macri y Alberto Fernández coincidieron hoy en la misa "por la unidad y la paz" junto a gobernadores, senadores y
+diputados, líderes políticos, sindicalistas y movimientos sociales, y también a los representantes de otras religiones allí presentes.
+
+A la misa convocada hoy por el titular de la Conferencia Episcopal Argentina, monseñor Oscar Ojea, asistieron ambos presidentes -el saliente y el entrante- junto a sus parejas -Juliana Awada y Fabiola
+Yañez respectivamente-, quienes compartieron la primera fila, hablaron, se saludaron y se dieron la paz.
+
+No participaron de la misa la vicepresidenta electa, Cristina Kirchner, la gobernadora de la bonaerense, María Eugenia Vidal, ni su sucesor, Axel Kicillof. Tampoco fue el jefe de Gobierno porteño,
+Horacio Rodríguez Larreta.
+
+Al lado de cada mandatario se ubicaron algunos ministros y funcionarios. Cerca de Macri se sentaron el jefe de Gabinete, Marcos Peña; los ministros del Interior, Rogelio Frigerio, y de Producción y
+Trabajo, Dante Sica; la vicepresidenta Gabriel Michetti; y el senador nacional, Federico Pinedo.
+
+Por el lado de Fernández estuvieron su futuro jefe de Gabinete, Santiago Cafiero; Gustavo Beliz, secretario de Planeamiento Estratégico; Marcela Losardo, ministra de Justicia; Felipe Solá, canciller;
+y Daniel Arroyo, ministro de Desarrollo Social. También asistieron el exministro de Economía Roberto Lavagna y los sindicalistas Héctor Daer y Ricardo Pignanelli.
+
+Cerca de ellos se sentaron los ministros del gobierno saliente: Oscar Aguad (Defensa); Alejandro Finocchiaro (Educación); Carolina Stanley (Desarrollo Social y Salud); Jorge Faurie (Relaciones
+Exteriores); Andrés Ibarra (vicejefatura de Gabinete); Gustavo Lopetegui (Energía); Guillermo Dietrich (Transporte); Germán Garavano (Justicia); Hernán Lacunza (Hacienda y Finanzas); Luis Miguel
+Etchevehere (Agroindustria); Alfredo Abriani (Secretario de Culto); y Patricia Bullrich (Seguridad).
+
+En las filas del Frente de Todos también estuvieron los futuros ministros Nicolás Trotta (Educación); Gabriel Katopodis (Obras Públicas), Juan Cabandié (Ambiente) y Mario Meoni (Transporte). Y los
+futuros colaboradores de Fernández, Julio Vitobello y Guillermo Oliveri. Además,fueron los legisladores Eduardo Valdés y Jorge Taiana, entre otros.
+
+También participaron de la misa el líder de la Confederación de Trabajadores de la ⟦M0091⟧Economía Popular⟦/M0091⟧ (Ctep), Juan Grabois; la titular de la Oficina Anticorrupción, Laura Alonso; el
+senador nacional y exministro de Educación, Esteban Bullrich; el diputado nacional por Consenso Federal, Alejandro "Topo" Rodríguez.
+
+Agencia Télam
+

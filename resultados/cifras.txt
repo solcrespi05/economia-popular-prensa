@@ -1,0 +1,123 @@
+corpus notas: 1245 | por diario {'La Nación': 645, 'Página/12': 600} | con texto 1215
+
+rango fechas: 2019-09-02 15:37:00 a 2023-09-29 17:35:16.335000
+
+menciones: 2043 | por diario {'Página/12': 1059, 'La Nación': 984} | notas con mención 1204
+
+notas por año: medio  La Nación  Página/12 ; fecha                       ; 2019          84         37 ; 2020         103        163 ; 2021         121        100 ; 2022         232        200 ; 2023         105        100
+
+trimestre pico: 2022Q3 con 145 notas
+
+MARCOS conteo:
+medio                                          Página/12  La Nación  total
+marcos_detectados                                                         
+Trabajo / trabajadores                               547        334    881
+Asistencia social                                    207        235    442
+Sector                                               244        155    399
+Integración económica / desarrollo productivo        176        137    313
+Conflicto / seguridad / orden público                109        166    275
+Movimientos sociales                                  91        132    223
+Organizaciones de la economía popular                 92        103    195
+Potenciar Trabajo                                     56        116    172
+Pobres                                                77         76    153
+Informalidad / precarización                          69         68    137
+Derechos                                              91         44    135
+Trabajadores informales                               42         52     94
+Políticas sociales y laborales                        45         37     82
+Piqueteros                                             7         50     57
+IFE                                                   15         12     27
+Humildes                                               9          8     17
+
+MARCOS %:
+medio                                          Página/12  La Nación
+marcos_detectados                                                  
+Humildes                                             0.8        0.8
+IFE                                                  1.4        1.2
+Piqueteros                                           0.7        5.1
+Políticas sociales y laborales                       4.2        3.8
+Trabajadores informales                              4.0        5.3
+Derechos                                             8.6        4.5
+Informalidad / precarización                         6.5        6.9
+Pobres                                               7.3        7.7
+Potenciar Trabajo                                    5.3       11.8
+Organizaciones de la economía popular                8.7       10.5
+Movimientos sociales                                 8.6       13.4
+Conflicto / seguridad / orden público               10.3       16.9
+Integración económica / desarrollo productivo       16.6       13.9
+Sector                                              23.0       15.8
+Asistencia social                                   19.5       23.9
+Trabajo / trabajadores                              51.7       33.9
+
+EMISORES conteo:
+medio                         Página/12  La Nación  total
+tipo_emisor                                              
+Dirigentes sociales                  95        310    405
+Estatal                             292        337    629
+Organizaciones y movimientos        345        495    840
+Otros / medios / academia            62        138    200
+Sector privado                       34         53     87
+
+EMISORES %:
+medio                         Página/12  La Nación
+tipo_emisor                                       
+Sector privado                      3.2        5.4
+Otros / medios / academia           5.9       14.0
+Dirigentes sociales                 9.0       31.5
+Estatal                            27.6       34.2
+Organizaciones y movimientos       32.6       50.3
+
+sin emisor: 726 | sin marco: 330
+
+sin emisor por diario %: {'La Nación': 25.5, 'Página/12': 44.9}
+
+TOP EMISORES:
+medio                                              Página/12  La Nación  total
+emisores_detectados                                                           
+UTEP / CTEP                                              231        397    628
+Presidente de la Nación                                   91        142    233
+Otras organizaciones de la UTEP                           92        130    222
+Juan Grabois                                              43        170    213
+Movimiento Evita                                          69        123    192
+Ministerio de Desarrollo Social / Economía Social         87        103    190
+Poder Legislativo / Judicial                              83         84    167
+Barrios de Pie                                            50         92    142
+Emilio Pérsico                                            27         76    103
+Sindicatos tradicionales (CGT / CTA)                      46         43     89
+Cámaras y entidades empresarias                           34         53     87
+Gobierno subnacional (provincias y municipios)            46         34     80
+
+menciones por año:
+medio  Página/12  La Nación
+anio                       
+2019          68        119
+2020         278        154
+2021         178        211
+2022         419        368
+2023         116        132
+
+Trabajo / trabajadores % por año:
+medio  Página/12  La Nación
+anio                       
+2019        51.5       26.1
+2020        55.0       35.1
+2021        49.4       44.1
+2022        53.0       29.6
+2023        42.2       35.6
+
+Asistencia social % por año:
+medio  Página/12  La Nación
+anio                       
+2019        19.1       12.6
+2020        19.8       15.6
+2021        18.5       19.9
+2022        23.2       37.2
+2023         7.8       12.9
+
+Conflicto / orden público % por año:
+medio  Página/12  La Nación
+anio                       
+2019         4.4       23.5
+2020         6.5       14.3
+2021         7.3       11.4
+2022        15.3       19.0
+2023         9.5       16.7

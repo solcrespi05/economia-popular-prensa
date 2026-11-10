@@ -1,0 +1,7 @@
+pandas==2.3.3
+openpyxl==3.1.5
+numpy==2.0.2
+matplotlib==3.9.4
+pyarrow==21.0.0
+# Solo para el scraper; además requiere: playwright install chromium
+playwright==1.60.0
