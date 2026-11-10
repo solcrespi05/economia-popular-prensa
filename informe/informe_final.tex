@@ -575,15 +575,14 @@ Diccionario insuficiente & No ve la voz del diario y confunde nombre con concept
 \end{tabularx}
 \end{table}
 
-Otra dificultad fue el entorno de trabajo. Al comenzar, mi experiencia con la terminal, los entornos virtuales y las rutas de archivos era limitada, lo que demandó tiempo en las primeras semanas. Reorganizar el procesamiento en cuadernos de Colab encadenados, que leen y escriben en una misma carpeta de Drive, simplificó la ejecución y la hizo reproducible para el resto del equipo.
+Otra dificultad fue que, al comenzar, no sabía hacer extracción web (\textit{web scraping}). Tuve que aprender a automatizar un navegador y a inspeccionar el tráfico de red de los sitios, lo que demandó tiempo en las primeras semanas.
 
 \subsection{Limitaciones}
 \label{sec:limitaciones}
 
 \begin{itemize}
   \item \textbf{Cobertura de \pdoce.} El corpus de \pdoce{} contiene exactamente 600 notas, mientras que la API informó 2.330 resultados para la búsqueda (sin filtro de fecha). Además, no hay notas de ese diario entre septiembre y noviembre de 2019 ni en el segundo trimestre de 2020, el primero de 2021 y el primero de 2023 (Figura~\ref{fig:trimestre}). La cifra redonda y los huecos sugieren un corte en la paginación de la recolección, que debe verificarse. Mientras tanto, las comparaciones entre diarios y en el tiempo deben leerse con cautela.
-  \item \textbf{Fechas de \pdoce.} Cinco notas figuran con fecha 10 de agosto de 2022, aunque por su título y contenido parecen ser de 2019. Se detectaron durante la lectura y no se corrigieron, por lo que pueden afectar levemente las series por año y por trimestre. No se revisaron sistemáticamente las fechas del resto del corpus.
-  \item \textbf{Textos incompletos.} 30 notas de \pdoce{} no tienen texto y 8 notas largas están truncadas por el límite de celda de Excel.
+  \item \textbf{Textos incompletos.} 30 notas de \pdoce{} no tienen texto: son actualizaciones de coberturas en vivo (enlaces \texttt{lbpupdates}). En noviembre de 2026 se volvieron a consultar y todos los enlaces redirigen a la portada del diario, por lo que su texto no pudo recuperarse. Además, 8 notas largas están truncadas por el límite de celda de Excel.
   \item \textbf{Diccionario.} La codificación por patrones depende de una ventana de 300 caracteres y de nombres explícitos; no reconoce la voz del medio ni distingue con seguridad a quien habla de quien es mencionado.
   \item \textbf{Lectura con IA.} Fue realizada por 45 lectores automáticos en paralelo y presenta variación de criterio entre lotes. Sus resultados no fueron todavía validados por codificación humana del equipo.
   \item \textbf{Alcance.} Dos medios no representan al conjunto de la prensa nacional; las conclusiones se refieren a estos dos diarios.

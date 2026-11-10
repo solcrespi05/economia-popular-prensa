@@ -85,7 +85,6 @@ Para reproducir el trabajo sin esos archivos se pueden usar las salidas de `dato
 - La codificación por diccionario busca patrones en una ventana de 300 caracteres a cada lado de la mención: no identifica quién habla.
 - La lectura con IA puede equivocarse y todavía no fue validada por el equipo.
 - Excel corta las celdas en 32.767 caracteres y el corpus quedó guardado con ese corte: 8 notas están truncadas.
-- Cinco notas de Página/12 tienen fecha 10/08/2022, pero por su título y contenido parecen de 2019. No se corrigieron.
 - El corpus de Página/12 tiene exactamente 600 notas, con trimestres vacíos, por lo que no debe tomarse como una cobertura completa.
 
 ## Cómo citar
